@@ -1,0 +1,30 @@
+;; -*- mode: beancount -*-
+;; extratos/2022-03-bb.ofx
+
+2022-03-02 * "TED-CRÉDITO EM CONTA / DEP"
+  Assets:Bancos:BB  1.61 BRL
+  Assets:Bancos:PagSeguro
+
+2022-03-07 * "PIX - RECEBIDO / DEP"
+  Assets:Bancos:BB  1000.00 BRL
+  Income:Eventos:Pybr2019
+
+2022-03-08 * "TED-CRÉDITO EM CONTA / DEP"
+  Assets:Bancos:BB  10000.00 BRL
+  Assets:Bancos:PagSeguro
+
+2022-03-09 * "TED-CRÉDITO EM CONTA / DEP"
+  Assets:Bancos:BB  10000.00 BRL
+  Assets:Bancos:PagSeguro
+
+2022-03-10 * "TED-CRÉDITO EM CONTA / DEP"
+  Assets:Bancos:BB  10000.00 BRL
+  Assets:Bancos:PagSeguro
+
+2022-03-11 * "TED-CRÉDITO EM CONTA / DEP"
+  Assets:Bancos:BB  10000.00 BRL
+  Assets:Bancos:PagSeguro
+
+2022-03-15 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -93.00 BRL
+  Expenses:APyB:Taxas:BB

@@ -1,0 +1,34 @@
+;; -*- mode: beancount -*-
+;; extratos/2022-01-bb.ofx
+
+2022-01-12 * "Contadora" "PIX - ENVIADO"
+  Assets:Bancos:BB  -185.55 BRL
+  Expenses:APyB:Contadora
+
+2022-01-12 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -1.83 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-01-12 * "RESGATE FUNDO / DEP"
+  Assets:Bancos:BB  187.38 BRL
+  Equity:Investimentos:BB
+
+2022-01-17 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -93.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-01-17 * "RESGATE FUNDO / DEP"
+  Assets:Bancos:BB  93.00 BRL
+  Equity:Investimentos:BB
+
+2022-01-18 * "PIX - RECEBIDO / DEP"
+  Assets:Bancos:BB  1000.00 BRL
+  Income:Eventos:Pybr2019
+
+2022-01-25 * "TARIFA RENOVAÇÃO CADASTRO"
+  Assets:Bancos:BB  -52.35 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-01-31 * "PIX - RECEBIDO / DEP"
+  Assets:Bancos:BB  1000.00 BRL
+  Income:Eventos:Pybr2019

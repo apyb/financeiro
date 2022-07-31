@@ -1,0 +1,6 @@
+;; -*- mode: beancount -*-
+;; extratos/2022-02-bb.ofx
+
+2022-02-15 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB -93.00 BRL
+  Expenses:APyB:Taxas:BB

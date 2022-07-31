@@ -1,0 +1,41 @@
+;; -*- mode: beancount -*-
+;; extratos/2022-06-bb.ofx
+
+2022-06-06 * "JusBrasil" "PIX - RECEBIDO / DEP"
+  Assets:Bancos:BB  20000.00 * 0.1 BRL
+  Assets:Eventos:Pybr2022 20000.00 * 0.9 BRL
+  Income:Eventos:Pybr2022
+
+2022-06-15 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -93.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-06-17 * "Sream" "ORPAG ORIGEM EXTERIOR / DEP"
+  Assets:Bancos:BB  4471.22 * 0.1 BRL
+  Assets:Eventos:Pybr2022 4471.22 * 0.9 BRL
+  Income:Eventos:Pybr2022
+
+2022-06-17 * "COBRANÇA DE I.O.F."
+  Assets:Bancos:BB  -16.99 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-06-20 * "AmazonasTur" "TED DEVOLVIDA / DEP"
+  Assets:Eventos:Pybr2022 6488.31 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-06-20 * "AmazonasTur" "TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022 -6488.31 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-06-22 * "Lend" "PIX - RECEBIDO / DEP"
+  Assets:Bancos:BB  10000.00 * 0.1 BRL
+  Assets:Eventos:Pyne2022  10000.00 * 0.9 BRL
+  Income:Eventos:Pyne2022
+
+2022-06-24 * "AmazonasTur" "PIX - ENVIADO"
+  Assets:Eventos:Pybr2022 -6488.31 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-06-24 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB

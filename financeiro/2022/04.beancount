@@ -1,0 +1,10 @@
+;; -*- mode: beancount -*-
+;; extratos/2022-04-bb.ofx
+
+2022-04-06 * "PIX - RECEBIDO / DEP"
+  Assets:Bancos:BB  1000.00 BRL
+  Income:Eventos:Pybr2019
+
+2022-04-18 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -93.00 BRL
+  Expenses:APyB:Taxas:BB

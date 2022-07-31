@@ -1,0 +1,28 @@
+; Configurações
+option "operating_currency" "BRL"
+
+; APyB ========================================================================
+2022-01-01 open Assets:Bancos:BB BRL
+2022-03-02 open Assets:Bancos:PagSeguro BRL
+2022-01-12 open Equity:Investimentos:BB BRL
+2022-01-12 open Expenses:APyB:Contadora BRL
+2022-01-12 open Expenses:APyB:Taxas:BB BRL
+
+; Eventos =====================================================================
+; Python Brasil 2019
+2022-01-18 open Income:Eventos:Pybr2019 BRL
+; Python Nordeste 2022
+2022-06-22 open Assets:Eventos:Pyne2022 BRL
+2022-06-22 open Income:Eventos:Pyne2022 BRL
+; Python Brasil 2022
+2022-06-06 open Assets:Eventos:Pybr2022 BRL
+2022-06-20 open Expenses:Eventos:Pybr2022 BRL
+2022-06-06 open Income:Eventos:Pybr2022 BRL
+
+; Transições ==================================================================
+include "2022/01.beancount"
+include "2022/02.beancount"
+include "2022/03.beancount"
+include "2022/04.beancount"
+include "2022/05.beancount"
+include "2022/06.beancount"
