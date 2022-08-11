@@ -1,0 +1,100 @@
+;; -*- mode: beancount -*-
+;; extratos/2022-07-bb.ofx
+
+2022-07-01 * "PIX - ENVIADO"
+  Expenses:APyB:Jurídico 2000.00 BRL
+  Assets:Bancos:BB
+
+2022-07-01 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-07-05 * "Labcodes" "TRANSFERÊNCIA RECEBIDA / XFER"
+  Assets:Bancos:BB  10000.00 *0.1 BRL
+  Assets:Eventos:Pyne2022 10000.00 * 0.9 BRL
+  Income:Eventos:Pyne2022
+
+2022-07-05 * "Globo" "TED-CRÉDITO EM CONTA / DEP"
+  Assets:Bancos:BB  7000.00 * 0.1 BRL
+  Assets:Eventos:Pyne2022 7000.00 * 0.9 BRL
+  Income:Eventos:Pyne2022
+
+2022-07-14 * "IMPOSTOS"
+  Assets:Bancos:BB  -2280.00 BRL
+  Expenses:APyB:Impostos
+
+2022-07-15 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -93.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-07-18 * "Google" "ORPAG ORIGEM EXTERIOR / DEP"
+  Assets:Bancos:BB 53830.65 * 0.1 BRL
+  Assets:Eventos:Pybr2022 53830.65 * 0.9 BRL
+  Income:Eventos:Pybr2022
+
+2022-07-18 * "Globo" "TED-CRÉDITO EM CONTA / DEP"
+  Assets:Bancos:BB  20000.00 * 0.1 BRL
+  Assets:Eventos:Pybr2022 20000.00 * 0.9 BRL
+  Income:Eventos:Pybr2022
+
+2022-07-18 * "COBRANÇA DE I.O.F."
+  Assets:Bancos:BB  -204.56 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-07-20 * "Locação de espaço para o evento" "PAGAMENTO DE BOLETO"
+  Expenses:Eventos:Pyne2022 5000.00 BRL
+  Assets:Eventos:Pyne2022
+
+2022-07-21 * "Vinta" "TED-CRÉDITO EM CONTA / DEP"
+  Assets:Bancos:BB  4000.00 * 0.1 BRL
+  Assets:Eventos:Pyne2022 4000.00 * 0.9 BRL
+  Income:Eventos:Pyne2022
+
+2022-07-22 * "Vinta" "TED-CRÉDITO EM CONTA / DEP"
+  Assets:Bancos:BB  5000.00 * 0.1 BRL
+  Assets:Eventos:Pybr2022 5000.00 * 0.9 BRL
+  Income:Eventos:Pybr2022
+
+2022-07-25 * "TARIFA RENOVAÇÃO CADASTRO"
+  Assets:Bancos:BB  -58.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-07-26 * "Copos para kit de participantes" "PAGAMENTO DE BOLETO"
+  Expenses:Eventos:Pyne2022 1174.48 BRL
+  Assets:Eventos:Pyne2022
+
+2022-07-27 * "Coffee Break" "TED TRANSF.ELETR.DISPONIV"
+  Expenses:Eventos:Pyne2022 4632.50 BRL
+  Assets:Eventos:Pyne2022
+
+2022-07-27 * "Reembolso" "TED TRANSF.ELETR.DISPONIV"
+  Expenses:Eventos:Pyne2022  1004.43 BRL
+  Assets:Eventos:Pyne2022
+
+2022-07-27 * "Reembolso" "TED TRANSF.ELETR.DISPONIV"
+  Expenses:Eventos:Pyne2022  511.25 BRL
+  Assets:Eventos:Pyne2022
+
+2022-07-27 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-07-27 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-07-29 * "Reembolso" "TED TRANSF.ELETR.DISPONIV"
+  Expenses:Eventos:Pyne2022  980.43 BRL
+  Assets:Eventos:Pyne2022
+
+2022-07-29 * "Ecobags para kit de participantes" "TED TRANSF.ELETR.DISPONIV"
+  Expenses:Eventos:Pyne2022 2793.90 BRL
+  Assets:Eventos:Pyne2022
+
+2022-07-29 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-07-29 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
