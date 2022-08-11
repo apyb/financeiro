@@ -20,9 +20,9 @@ option "operating_currency" "BRL"
 2022-06-06 open Income:Eventos:Pybr2022 BRL
 
 ; Transições ==================================================================
-include "2022/01.beancount"
-include "2022/02.beancount"
-include "2022/03.beancount"
-include "2022/04.beancount"
-include "2022/05.beancount"
-include "2022/06.beancount"
+include "2022-01.beancount"
+include "2022-02.beancount"
+include "2022-03.beancount"
+include "2022-04.beancount"
+include "2022-05.beancount"
+include "2022-06.beancount"
