@@ -17,6 +17,9 @@ option "operating_currency" "BRL"
 2022-06-22 open Assets:Eventos:Pyne2022 BRL
 2022-06-22 open Income:Eventos:Pyne2022 BRL
 2022-07-20 open Expenses:Eventos:Pyne2022 BRL
+; Python Sul 2022
+2022-06-22 open Assets:Eventos:Pysul2022 BRL
+2022-06-22 open Income:Eventos:Pysul2022 BRL
 ; Python Brasil 2022
 2022-06-06 open Assets:Eventos:Pybr2022 BRL
 2022-06-20 open Expenses:Eventos:Pybr2022 BRL
@@ -30,3 +33,4 @@ include "2022-04.beancount"
 include "2022-05.beancount"
 include "2022-06.beancount"
 include "2022-07.beancount"
+include "2022-08.beancount"
