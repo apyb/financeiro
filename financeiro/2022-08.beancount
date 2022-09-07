@@ -1,0 +1,211 @@
+;; -*- mode: beancount -*-
+;; extratos/2022-08-bb.ofx
+
+2022-08-01 * "Maganize Luiza" "TED-CRÉDITO EM CONTA / DEP"
+  ; Maganize Luiza fez apenas uma transeferência para os
+  ; patrocínios na Python Brasil e Python Nordeste
+  Assets:Eventos:Pybr2022 5000 * 0.9 BRL
+  Assets:Eventos:Pyne2022 4000 * 0.9 BRL
+  Assets:Bancos:BB 9000 * 0.1 BRL
+  Income:Eventos:Pybr2022 -5000 BRL
+  Income:Eventos:Pyne2022 -4000 BRL
+
+2022-08-08 * "PSF" "ORPAG ORIGEM EXTERIOR / DEP"
+  Assets:Eventos:Pyne2022 15284.92 * 0.9 BRL
+  Assets:Bancos:BB 15284.92 * 0.1 BRL
+  Income:Eventos:Pyne2022
+
+2022-08-08 * "COBRANÇA DE I.O.F."
+  Assets:Bancos:BB -58.08 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-08-10 * "Reembolso" "TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pyne2022 -1152.43 BRL
+  Expenses:Eventos:Pyne2022
+
+2022-08-10 * "Atuale Assessoria Contabil Ltda Me" "PIX - ENVIADO"
+  Assets:Bancos:BB -1850.00 BRL
+  Expenses:APyB:Contadora
+
+2022-08-10 * "IMPOSTOS"
+  Assets:Bancos:BB -200.15 BRL
+  Expenses:APyB:Impostos
+
+2022-08-10 * "IMPOSTOS"
+  Assets:Bancos:BB -1680.00 BRL
+  Expenses:APyB:Impostos
+
+2022-08-10 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-08-15 * "Havan" "TED-CRÉDITO EM CONTA / DEP"
+  Assets:Eventos:Pysul2022 2000.00 * 0.9 BRL
+  Assets:Bancos:BB 2000.00 * 0.1 BRL
+  Income:Eventos:Pysul2022
+
+2022-08-15 * "INDUSTRIA DE CONFECCOES L" "TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pyne2022 -1215.00 BRL
+  Expenses:Eventos:Pyne2022
+
+2022-08-15 * "Saltz Produtora" "PAGAMENTO DE BOLETO"
+  Assets:Eventos:Pyne2022 -3650.00 BRL
+  Expenses:Eventos:Pyne2022
+
+2022-08-15 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-08-15 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB -93.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-08-17 * "Pense em Libras" "TRANSFERÊNCIA ENVIADA / XFER"
+  Assets:Eventos:Pyne2022 -2600.00 BRL
+  Expenses:Eventos:Pyne2022
+
+2022-08-17 * "Pront Pani" "PAGAMENTO DE BOLETO"
+  Assets:Eventos:Pysul2022 -5106.00 BRL
+  Expenses:Eventos:Pysul2022
+
+2022-08-17 * "I.A.I. Promoções LTDA" "TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022 -15000.00 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-08-17 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-08-19 * "BotCity" "PIX - RECEBIDO / DEP"
+  Assets:Eventos:Pybr2022 20000.00 * 0.9 BRL
+  Assets:Bancos:BB 20000.00 * 0.1 BRL
+  Income:Eventos:Pybr2022
+
+2022-08-19 * "Start Design e Propaganda" "TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pyne2022 -830.00 BRL
+  Expenses:Eventos:Pyne2022
+
+2022-08-19 * "Paixão Turismo" "TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -2617.68 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-08-19 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-08-19 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-08-22 * "Cobertura Fotográfica - PAGAMENTO DE BOLETO"
+  Assets:Eventos:Pyne2022  -1500.00 BRL
+  Expenses:Eventos:Pyne2022
+
+2022-08-23 * "Labcodes" "TRANSFERÊNCIA RECEBIDA / XFER"
+  Assets:Eventos:Pybr2022  5000.00 * 0.9 BRL
+  Assets:Bancos:BB 5000.00 * 0.1 BRL
+  Income:Eventos:Pybr2022
+
+2022-08-23 * "RBS Som e Iluminação" "TED DEVOLVIDA / DEP"
+  Assets:Eventos:Pyne2022  3000.00 BRL
+  Expenses:Eventos:Pyne2022
+
+2022-08-23 * "Almoço - TED DEVOLVIDA / DEP"
+  Assets:Eventos:Pyne2022 6250.00 BRL
+  Expenses:Eventos:Pyne2022
+
+2022-08-23 * "Reembolso - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pyne2022  -41.83 BRL
+  Expenses:Eventos:Pyne2022
+
+2022-08-23 * "Almoço - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pyne2022 -6250.00 BRL
+  Expenses:Eventos:Pyne2022
+
+2022-08-23 * "RBS Som e Iluminação" "TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pyne2022  -3000.00 BRL
+  Expenses:Eventos:Pyne2022
+
+2022-08-23 * "The Coffee" "TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pyne2022 -1200.00 BRL
+  Expenses:Eventos:Pyne2022
+
+2022-08-23 * "Industria de Confecções L & A LTDA" "TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pyne2022 -1360.00 BRL
+  Expenses:Eventos:Pyne2022
+
+2022-08-23 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-08-23 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-08-23 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-08-23 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-08-23 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-08-24 * "Almoço - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pyne2022 -6250.00 BRL
+  Expenses:Eventos:Pyne2022
+
+2022-08-24 * "RBS Som e Iluminação" "TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pyne2022 -3000.00 BRL
+  Expenses:Eventos:Pyne2022
+
+2022-08-24 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-08-24 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-08-25 * "Casa da Copia LTDA" "TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pyne2022 -1267.50 BRL
+  Expenses:Eventos:Pyne2022
+
+2022-08-25 * "Coffee break - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pyne2022  -520.00 BRL
+  Expenses:Eventos:Pyne2022
+
+2022-08-25 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-08-25 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-08-29 * "Fabricia Bolos LTDA" "TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pyne2022  -5713.30 BRL
+  Expenses:Eventos:Pyne2022
+
+2022-08-29 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-08-30 * "Thoughtworks" "TED-CRÉDITO EM CONTA / DEP"
+  Assets:Eventos:Pybr2022 80000.00 * 0.9 BRL
+  Assets:Bancos:BB 80000.00 * 0.1 BRL
+  Income:Eventos:Pybr2022
+
+2022-08-30 ! "Thoughtworks" "TED-CRÉDITO EM CONTA / DEP"
+  ; Duas NFe na pasta documentos a receber
+  Assets:Eventos:Pyne2022 4000.00 * 0.9 BRL
+  Assets:Bancos:BB 4000.00 * 0.1 BRL
+  Income:Eventos:Pyne2022
+
+2022-08-31 * "Labcodes" "TRANSFERÊNCIA AGENDADA / XFER"
+  Assets:Eventos:Pybr2022 440.00 * 0.9 BRL
+  Assets:Bancos:BB 440.00 * 0.1 BRL
+  Income:Eventos:Pybr2022
