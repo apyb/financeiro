@@ -65,8 +65,8 @@
   Expenses:Eventos:Pyne2022
 
 2022-08-17 * "Pront Pani" "PAGAMENTO DE BOLETO"
-  Assets:Eventos:Pyne2022 -5106.00 BRL
-  Expenses:Eventos:Pyne2022
+  Assets:Eventos:Pysul2022 -5106.00 BRL
+  Expenses:Eventos:Pysul2022
 
 2022-08-17 * "I.A.I. Promoções LTDA" "TED TRANSF.ELETR.DISPONIV"
   Assets:Eventos:Pybr2022 -15000.00 BRL
@@ -107,7 +107,7 @@
   Income:Eventos:Pybr2022
 
 2022-08-23 * "RBS Som e Iluminação" "TED DEVOLVIDA / DEP"
-  Assets:Bancos:BB  3000.00 BRL
+  Assets:Eventos:Pyne2022  3000.00 BRL
   Expenses:Eventos:Pyne2022
 
 2022-08-23 * "Almoço - TED DEVOLVIDA / DEP"
