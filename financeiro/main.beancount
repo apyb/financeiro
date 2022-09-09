@@ -2,11 +2,11 @@
 option "operating_currency" "BRL"
 
 ; APyB ========================================================================
-2021-12-02 open Assets:Bancos:BB BRL
+2021-01-15 open Assets:Bancos:BB BRL
 2022-03-02 open Assets:Bancos:PagSeguro BRL
 2021-12-23 open Equity:Investimentos:BB BRL
 2022-01-12 open Expenses:APyB:Contadora BRL
-2021-12-14 open Expenses:APyB:Taxas:BB BRL
+2021-01-15 open Expenses:APyB:Taxas:BB BRL
 2022-07-01 open Expenses:APyB:Jurídico BRL
 2022-07-14 open Expenses:APyB:Impostos BRL
 
@@ -31,6 +31,7 @@ option "operating_currency" "BRL"
 2022-06-06 open Income:Eventos:Pybr2022 BRL
 
 ; Transições ==================================================================
+include "2021-01.beancount"
 include "2021-12.beancount"
 include "2022-01.beancount"
 include "2022-02.beancount"
