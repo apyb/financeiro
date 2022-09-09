@@ -1,0 +1,90 @@
+;; -*- mode: beancount -*-
+;; extratos/2021-10-bb.ofx
+
+2021-10-01 * "Atuale Assessoria Contabil LTDA" "PIX - ENVIADO"
+  Assets:Bancos:BB  -1700.00 BRL
+  Expenses:APyB:Contadora
+
+2021-10-01 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-10-07 * "Eventbrite" "TED-CRÉDITO EM CONTA / DEP"
+  Assets:Eventos:Pysul2022 2934.80 BRL
+  Income:Eventos:Pysul2022
+
+2021-10-08 ! "Luiza Labs" "Patrocínio" #pendente-comprovantes
+  Assets:Eventos:Pybr2021 50000.00 BRL
+  Income:Eventos:Pybr2021
+
+2021-10-11 * "Intérprete de Libras" "PIX - ENVIADO"
+  Assets:Eventos:Pybr2021 -9990.00 BRL
+  Expenses:Eventos:Pybr2021
+
+2021-10-11 * "Intérprete de Libras" "PIX - ENVIADO"
+  Assets:Eventos:Pybr2021 -9600.00 BRL
+  Expenses:Eventos:Pybr2021
+
+2021-10-11 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -20.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-10-15 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -84.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-10-18 * "Intérprete de Libras" "PIX - ENVIADO"
+  Assets:Eventos:Pybr2021 -9600.00 BRL
+  Expenses:Eventos:Pybr2021
+
+2021-10-18 * "Intérprete de Libras" "PIX - ENVIADO"
+  Assets:Eventos:Pybr2021 -5810.00 BRL
+  Expenses:Eventos:Pybr2021
+
+2021-10-18 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -20.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-10-20 * "Teste PIX - RECEBIDO / DEP"
+  Assets:Eventos:Pybr2021 0.01 BRL
+  Income:Eventos:Pybr2021
+
+2021-10-20 * "Teste PIX - ENVIADO"
+  Assets:Eventos:Pybr2021 -0.01 BRL
+  Expenses:Eventos:Pybr2021
+
+2021-10-20 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -1.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-10-21 * "Intérprete de Libras" "PIX - ENVIADO"
+  Assets:Eventos:Pybr2021 -5500.00 BRL
+  Expenses:Eventos:Pybr2021
+
+2021-10-21 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-10-26 ! "Eventbrite" "Arrecadação financeira para Mães da Favela" #pendente-comprovante
+  Assets:Eventos:Pybr2021 14337.20 BRL
+  Income:Eventos:Pybr2021
+
+2021-10-27 * "Ebury" "ORPAG ORIGEM EXTERIOR / DEP"
+  Assets:Eventos:Pybr2021 38862.00 BRL
+  Income:Eventos:Pybr2021
+
+2021-10-27 * "COBRANÇA DE I.O.F."
+  Assets:Bancos:BB  -147.68 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-10-27 * "Reembolso" "PIX - ENVIADO"
+  Assets:Eventos:Pybr2021 -517.17 BRL
+  Expenses:Eventos:Pybr2021
+
+2021-10-27 * "TDZ Brasil Services Eireli" "Tradução Simultânea"
+  Assets:Eventos:Pybr2021 -10800.00 BRL
+  Expenses:Eventos:Pybr2021
+
+2021-10-27 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -5.11 BRL
+  Expenses:APyB:Taxas:BB
