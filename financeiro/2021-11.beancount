@@ -1,0 +1,64 @@
+;; -*- mode: beancount -*-
+;; extratos/2021-11-bb.ofx
+
+2021-11-05 * "Valor incorreto" "Devolução - PIX - RECEBIDO / DEP"
+  Assets:Eventos:Pybr2021  283.35 BRL
+  Income:Eventos:Pybr2021
+
+2021-11-05 * "Serviço de nuvem para armazenamento e processamento" "Reembolso - PIX - ENVIADO"
+  Assets:Eventos:Pybr2021  -517.17 BRL
+  Expenses:Eventos:Pybr2021
+
+2021-11-05 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -5.11 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-11-12 * "Prefeitura Municipal de Caxias do Sul" "IMPOSTOS"
+  Assets:Bancos:BB  -3600.00 BRL
+  Expenses:APyB:Impostos
+
+2021-11-16 * "PIX - RECEBIDO / DEP"
+  Assets:Bancos:BB  64.00 BRL
+  Income:APyB:Anuidades
+
+2021-11-16 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -84.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-11-17 * "Patrocínio AmbevTech" "TED-CRÉDITO EM CONTA / DEP"
+  Assets:Eventos:Pybr2021  10000.00 BRL
+  Income:Eventos:Pybr2021
+
+2021-11-17 * "Heroku" "Reembolso - PIX - ENVIADO"
+  Assets:Bancos:BB  -464.58 BRL
+  Expenses:APyB:Infra
+
+2021-11-17 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -4.59 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-11-24 * "Livro palestra relâmpago" "Reembolso - PIX - ENVIADO"
+  Assets:Eventos:Pybr2021  -203.64 BRL
+  Expenses:Eventos:Pybr2021
+
+2021-11-24 * "Livro palestra relâmpago" "Reembolso - PIX - ENVIADO"
+  Assets:Eventos:Pybr2021  -353.54 BRL
+  Expenses:Eventos:Pybr2021
+
+2021-11-24 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -5.51 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-11-25 * "PIX - RECEBIDO / DEP"
+  Assets:Bancos:BB  1500.00 BRL
+  Income:Eventos:Pybr2019
+
+2021-11-29 * "Livro palestra relâmpago" "Reembolso - PIX - ENVIADO"
+  Assets:Eventos:Pybr2021  -122.54 BRL
+  Expenses:Eventos:Pybr2021
+
+2021-11-29 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -1.21 BRL
+  Expenses:APyB:Taxas:BB
+
+
