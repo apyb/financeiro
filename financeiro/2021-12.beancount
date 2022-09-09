@@ -1,0 +1,40 @@
+;; -*- mode: beancount -*-
+;; extratos/2021-12-bb.ofx
+
+2021-12-02 * "Patrocínio Carta" "TED-CRÉDITO EM CONTA / DEP"
+  Assets:Eventos:Pybr2021 50000.00 BRL
+  Income:Eventos:Pybr2021
+
+2021-12-09 * "Patrocínio Mercado Livre" "TED-PAG FORNECEDORES / DEP"
+  Assets:Eventos:Pybr2021  30000.00 BRL
+  Income:Eventos:Pybr2021
+
+2021-12-14 * "Banco de imagem 3D" "PIX - ENVIADO"
+  Assets:Eventos:Pybr2021  -277.89 BRL
+  Expenses:Eventos:Pybr2021
+
+2021-12-14 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -2.75 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-12-15 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -84.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-12-16 * "Doação para Mães da Favela" "PIX - ENVIADO"
+  Assets:Eventos:Pybr2021  -5000.00 BRL
+  Expenses:Eventos:Pybr2021
+
+2021-12-17 * "Doação para Mães da Favela" "PIX - ENVIADO"
+  Assets:Eventos:Pybr2021  -5000.00 BRL
+  Expenses:Eventos:Pybr2021
+
+2021-12-17 * "Doação para Mães da Favela" "PIX - ENVIADO"
+  Assets:Eventos:Pybr2021  -4377.20 BRL
+  Expenses:Eventos:Pybr2021
+
+2021-12-23 * "BB RF REF DI PLUS ÁGIL"
+  Assets:Bancos:BB  -198590.09 BRL
+  Equity:Investimentos:BB
+
+
