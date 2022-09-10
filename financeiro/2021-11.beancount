@@ -49,8 +49,8 @@
   Assets:Bancos:BB  -5.51 BRL
   Expenses:APyB:Taxas:BB
 
-2021-11-25 * "PIX - RECEBIDO / DEP"
-  Assets:Bancos:BB  1500.00 BRL
+2021-11-25 * "Gravação Palestras" "Restituição - PIX - RECEBIDO / DEP"
+  Assets:Eventos:Pybr2019  1500.00 BRL
   Income:Eventos:Pybr2019
 
 2021-11-29 * "Livro palestra relâmpago" "Reembolso - PIX - ENVIADO"
