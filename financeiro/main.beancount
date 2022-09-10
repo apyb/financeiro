@@ -34,6 +34,7 @@ option "operating_currency" "BRL"
 
 ; Transições ==================================================================
 include "2021-01.beancount"
+include "2021-08.beancount"
 include "2021-09.beancount"
 include "2021-10.beancount"
 include "2021-11.beancount"

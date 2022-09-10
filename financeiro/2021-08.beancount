@@ -1,0 +1,20 @@
+;; -*- mode: beancount -*-
+;; extratos/2021-08-bb.ofx
+
+2021-08-13 * "Edição de Vídeo" "PIX - ENVIADO"
+  Assets:Eventos:Pybr2019  -560.00 BRL
+  Expenses:Eventos:Pybr2019
+
+2021-08-13 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -5.54 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-08-16 * "IMPOSTOS"
+  Assets:Bancos:BB  -2000.00 BRL
+  Expenses:APyB:Impostos
+
+2021-08-16 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -84.00 BRL
+  Expenses:APyB:Taxas:BB
+
+
