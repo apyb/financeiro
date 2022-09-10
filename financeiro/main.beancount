@@ -8,7 +8,7 @@ option "operating_currency" "BRL"
 2022-01-12 open Expenses:APyB:Contadora BRL
 2021-01-15 open Expenses:APyB:Taxas:BB BRL
 2022-07-01 open Expenses:APyB:Jurídico BRL
-2021-11-12 open Expenses:APyB:Impostos BRL
+2021-09-15 open Expenses:APyB:Impostos BRL
 2021-11-17 open Expenses:APyB:Infra BRL
 2021-11-16 open Income:APyB:Anuidades BRL
 
@@ -17,8 +17,8 @@ option "operating_currency" "BRL"
 2021-11-25 open Income:Eventos:Pybr2019 BRL
 ; Python Brasil 2021
 2021-11-05 open Assets:Eventos:Pybr2021 BRL
-2021-11-05 open Income:Eventos:Pybr2021 BRL
-2021-11-05 open Expenses:Eventos:Pybr2021 BRL
+2021-09-02 open Income:Eventos:Pybr2021 BRL
+2021-09-20 open Expenses:Eventos:Pybr2021 BRL
 ; Python Nordeste 2022
 2022-06-22 open Assets:Eventos:Pyne2022 BRL
 2022-06-22 open Income:Eventos:Pyne2022 BRL
@@ -34,6 +34,7 @@ option "operating_currency" "BRL"
 
 ; Transições ==================================================================
 include "2021-01.beancount"
+include "2021-09.beancount"
 include "2021-11.beancount"
 include "2021-12.beancount"
 include "2022-01.beancount"
