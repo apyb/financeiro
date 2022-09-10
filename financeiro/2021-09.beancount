@@ -1,0 +1,26 @@
+;; -*- mode: beancount -*-
+;; extratos/2021-09-bb.ofx
+
+2021-09-02 * "Patrocínio Buser" "PIX - RECEBIDO / DEP"
+  Assets:Eventos:Pybr2021  30000.00 BRL
+  Income:Eventos:Pybr2021
+
+2021-09-15 * "ISSQN" "IMPOSTOS"
+  Assets:Bancos:BB  -1200.00 BRL
+  Expenses:APyB:Impostos
+
+2021-09-15 * "Taxa de Licença" "IMPOSTOS"
+  Assets:Bancos:BB  -184.76 BRL
+  Expenses:APyB:Impostos
+
+2021-09-15 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -84.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-09-20 * "Hootsuite" "Reembolso - PIX - ENVIADO"
+  Assets:Eventos:Pybr2021  -1344.27 BRL
+  Expenses:Eventos:Pybr2021
+
+2021-09-20 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
