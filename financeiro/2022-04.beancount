@@ -1,8 +1,8 @@
 ;; -*- mode: beancount -*-
 ;; extratos/2022-04-bb.ofx
 
-2022-04-06 * "PIX - RECEBIDO / DEP"
-  Assets:Bancos:BB  1000.00 BRL
+2022-04-06 * "Gravação Palestras" "Restituição - PIX - RECEBIDO / DEP"
+  Assets:Eventos:Pybr2019  1000.00 BRL
   Income:Eventos:Pybr2019
 
 2022-04-18 * "TARIFA PACOTE DE SERVIÇOS"

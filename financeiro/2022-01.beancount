@@ -21,14 +21,14 @@
   Assets:Bancos:BB  93.00 BRL
   Equity:Investimentos:BB
 
-2022-01-18 * "PIX - RECEBIDO / DEP"
-  Assets:Bancos:BB  1000.00 BRL
+2022-01-18 * "Gravação Palestras" "Restituição - PIX - RECEBIDO / DEP"
+  Assets:Eventos:Pybr2019  1000.00 BRL
   Income:Eventos:Pybr2019
 
 2022-01-25 * "TARIFA RENOVAÇÃO CADASTRO"
   Assets:Bancos:BB  -52.35 BRL
   Expenses:APyB:Taxas:BB
 
-2022-01-31 * "PIX - RECEBIDO / DEP"
-  Assets:Bancos:BB  1000.00 BRL
+2022-01-31 * "Gravação Palestras" "Restituição - PIX - RECEBIDO / DEP"
+  Assets:Eventos:Pybr2019  1000.00 BRL
   Income:Eventos:Pybr2019
