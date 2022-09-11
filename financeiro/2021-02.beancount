@@ -1,6 +1,7 @@
 ;; -*- mode: beancount -*-
 ;; extratos/2021-02-bb.ofx
 
+; TODO: despesa não identificada
 ;2021-02-04 ! "PIX - ENVIADO"
 ;  Assets:Bancos:BB  -1362.50 BRL
 
