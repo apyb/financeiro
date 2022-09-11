@@ -1,0 +1,10 @@
+;; -*- mode: beancount -*-
+;; extratos/2021-03-bb.ofx
+
+2021-03-15 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -84.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-03-25 * "BB RF REF DI PLUS ÁGIL"
+  Assets:Bancos:BB  -98463.33 BRL
+  Equity:Investimentos:BB
