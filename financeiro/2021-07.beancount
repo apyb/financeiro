@@ -1,0 +1,84 @@
+;; -*- mode: beancount -*-
+**** /Users/muriloviana/Projects/financeiro/extratos/2021-07-bb.ofx
+
+2021-07-05 * "Consultoria Jurídica" "PAGAMENTO DE BOLETO"
+  Assets:Eventos:Pyne2020  -600.00 BRL
+  Expenses:Eventos:Pyne2020
+
+2021-07-05 * "RESGATE FUNDO / DEP"
+  Assets:Bancos:BB  600.00 BRL
+  Equity:Investimentos:BB
+
+2021-07-12 * "Patrocínio Vinta" "Reembolso - EMISSÃO DE DOC"
+  Assets:Eventos:Pyne2020  -2000.00 BRL
+  Expenses:Eventos:Pyne2020
+
+2021-07-12 * "RESGATE FUNDO / DEP"
+  Assets:Bancos:BB  2000.00 BRL
+  Equity:Investimentos:BB
+
+2021-07-15 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -84.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-07-15 * "RESGATE FUNDO / DEP"
+  Assets:Bancos:BB  84.00 BRL
+  Equity:Investimentos:BB
+
+2021-07-16 * "Interprete de Libras" "PIX - REJEITADO / DEP"
+  Assets:Eventos:Pyne2020  1404.00 BRL
+  Income:Eventos:Pyne2020
+
+2021-07-16 * "Interprete de Libras" "PIX - ENVIADO"
+  Assets:Eventos:Pyne2020  -1404.00 BRL
+  Expenses:Eventos:Pyne2020
+
+2021-07-16 * "Interprete de Libras" "PIX - ENVIADO"
+  Assets:Eventos:Pyne2020  -1404.00 BRL
+  Expenses:Eventos:Pyne2020
+
+2021-07-16 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-07-16 * "RESGATE FUNDO / DEP"
+  Assets:Bancos:BB  1414.00 BRL
+  Equity:Investimentos:BB
+
+2021-07-20 * "Brindes" "PIX - ENVIADO"
+  Assets:Eventos:Pyne2020  -310.98 BRL
+  Expenses:Eventos:Pyne2020
+
+2021-07-20 * "StreamYard" "PIX - ENVIADO"
+  Assets:Eventos:Pyne2020  -146.07 BRL
+  Expenses:Eventos:Pyne2020
+
+2021-07-20 * "Groovy Bot" "PIX - ENVIADO"
+  Assets:Eventos:Pyne2020  -23.46 BRL
+  Expenses:Eventos:Pyne2020
+
+2021-07-20 * "Brindes" "PIX - ENVIADO"
+  Assets:Eventos:Pyne2020  -3558.85 BRL
+  Expenses:Eventos:Pyne2020
+
+2021-07-20 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -15.51 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-07-20 * "RESGATE FUNDO / DEP"
+  Assets:Bancos:BB  4054.87 BRL
+  Equity:Investimentos:BB
+
+2021-07-26 * "TARIFA RENOVAÇÃO CADASTRO"
+  Assets:Bancos:BB  -52.35 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-07-26 * "RESGATE FUNDO / DEP"
+  Assets:Bancos:BB  52.35 BRL
+  Equity:Investimentos:BB
+
+2021-07-30 * "TED-CRÉDITO EM CONTA / DEP"
+  Assets:Eventos:Pybr2021  50000.00 BRL
+  Income:Eventos:Pybr2021
+
+
