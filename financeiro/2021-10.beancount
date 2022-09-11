@@ -65,7 +65,7 @@
   Assets:Bancos:BB  -10.00 BRL
   Expenses:APyB:Taxas:BB
 
-2021-10-26 ! "Eventbrite" "Arrecadação financeira para Mães da Favela" #pendente-comprovante
+2021-10-26 * "Eventbrite" "Arrecadação financeira para Mães da Favela"
   Assets:Eventos:Pybr2021 14337.20 BRL
   Income:Eventos:Pybr2021
 

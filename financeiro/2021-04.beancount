@@ -1,0 +1,10 @@
+;; -*- mode: beancount -*-
+;; extratos/2021-04-bb.ofx
+
+2021-04-15 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -84.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-04-15 ! "BB RF CP AUT EMPRESA / DEP"
+  Assets:Bancos:BB  84.00 BRL
+  Equity:Investimentos:BB
