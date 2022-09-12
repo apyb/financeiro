@@ -1,0 +1,72 @@
+;; -*- mode: beancount -*-
+;; extratos/2021-06-bb.ofx
+
+2021-06-15 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -84.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-06-15 * "BB RF CP AUT EMPRESA / DEP"
+  Assets:Bancos:BB  84.00 BRL
+  Equity:Investimentos:BB
+
+2021-06-18 * "TED DEVOLVIDA / DEP"
+  Assets:Eventos:Pybr2019  250.00 BRL
+  Income:Eventos:Pybr2019
+
+2021-06-18 * "TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2019  -250.00 BRL
+  Expenses:Eventos:Pybr2019
+
+2021-06-23 * "PAGAMENTO DE BOLETO"
+  Assets:Eventos:Pyne2020  -408.52 BRL
+  Expenses:Eventos:Pyne2020
+
+2021-06-23 * "BB RF CP AUT EMPRESA / DEP"
+  Assets:Bancos:BB  408.52 BRL
+  Equity:Investimentos:BB
+
+2021-06-24 * "TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2019  -250.00 BRL
+  Expenses:Eventos:Pybr2019
+
+2021-06-24 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -10.45 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-06-24 * "BB RF CP AUT EMPRESA / DEP"
+  Assets:Bancos:BB  260.45 BRL
+  Equity:Investimentos:BB
+
+2021-06-25 * "TRANSFERÊNCIA ENVIADA / XFER"
+  Assets:Eventos:Pyne2020  -1105.00 BRL
+  Expenses:Eventos:Pyne2020
+
+2021-06-25 * "TED TRANSF.ELETR.DISPONIV"
+  Assets:Bancos:BB  -1224.97 BRL
+  Expenses:APyB:Infra
+
+2021-06-25 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -10.45 BRL
+  Expenses:APyB:Taxas:BB
+
+2021-06-25 * "BB RF CP AUT EMPRESA / DEP"
+  Assets:Bancos:BB  1119.85 BRL
+  Equity:Investimentos:BB
+
+2021-06-25 * "RESGATE FUNDO / DEP"
+  Assets:Bancos:BB  1220.57 BRL
+  Equity:Investimentos:BB
+
+2021-06-28 * "PAGAMENTO DE BOLETO"
+  Assets:Eventos:Pyne2020  -459.89 BRL
+  Expenses:Eventos:Pyne2020
+
+2021-06-28 * "PAGAMENTO DE BOLETO"
+  Assets:Eventos:Pyne2020  -311.00 BRL
+  Expenses:Eventos:Pyne2020
+
+2021-06-28 * "RESGATE FUNDO / DEP"
+  Assets:Bancos:BB  770.89 BRL
+  Equity:Investimentos:BB
+
+

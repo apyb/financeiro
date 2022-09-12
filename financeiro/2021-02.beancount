@@ -1,9 +1,9 @@
 ;; -*- mode: beancount -*-
 ;; extratos/2021-02-bb.ofx
 
-; TODO: despesa não identificada
-;2021-02-04 ! "PIX - ENVIADO"
-;  Assets:Bancos:BB  -1362.50 BRL
+2021-02-04 * "Olist CPOM ISS" "PIX - ENVIADO"
+ Assets:Bancos:BB  -1362.50 BRL
+ Expenses:APyB:Impostos
 
 2021-02-17 * "TARIFA PACOTE DE SERVIÇOS"
   Assets:Bancos:BB  -84.00 BRL
