@@ -74,8 +74,8 @@
   Income:Eventos:Pybr2021
 
 2021-10-27 * "COBRANÇA DE I.O.F."
-  Assets:Bancos:BB  -147.68 BRL
-  Expenses:APyB:Taxas:BB
+  Assets:Eventos:Pybr2021  -147.68 BRL
+  Expenses:Eventos:Pybr2021
 
 2021-10-27 * "Reembolso" "PIX - ENVIADO"
   Assets:Eventos:Pybr2021 -517.17 BRL
