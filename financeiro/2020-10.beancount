@@ -1,0 +1,6 @@
+;; -*- mode: beancount -*-
+;; extratos/2020-10-bb.ofx
+
+2020-10-15 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -84.00 BRL
+  Expenses:APyB:Taxas:BB
