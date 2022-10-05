@@ -1,0 +1,10 @@
+;; -*- mode: beancount -*-
+;; extratos/2020-07-bb.ofx
+
+2020-07-15 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -84.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2020-07-27 * "TARIFA RENOVAÇÃO CADASTRO"
+  Assets:Bancos:BB  -52.35 BRL
+  Expenses:APyB:Taxas:BB

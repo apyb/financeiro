@@ -1,0 +1,14 @@
+;; -*- mode: beancount -*-
+;; extratos/2020-11-bb.ofx
+
+2020-11-04 * "Rackspace" "TED TRANSF.ELETR.DISPONIV"
+  Assets:Bancos:BB  -5357.59 BRL
+  Expenses:APyB:Infra
+
+2020-11-16 * "TRANSFERÊNCIA ENVIADA / XFER"
+  Assets:Eventos:Pybr2020  -1200.00 BRL
+  Expenses:Eventos:Pybr2020
+
+2020-11-16 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -84.00 BRL
+  Expenses:APyB:Taxas:BB
