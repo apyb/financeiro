@@ -1,5 +1,5 @@
 ;; -*- mode: beancount -*-
-**** /Users/muriloviana/Projects/financeiro/extratos/2021-07-bb.ofx
+;; extratos/2021-07-bb.ofx
 
 2021-07-05 * "Consultoria Jurídica" "PAGAMENTO DE BOLETO"
   Assets:Eventos:Pyne2020  -600.00 BRL
