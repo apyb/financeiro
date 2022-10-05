@@ -43,11 +43,11 @@ option "operating_currency" "BRL"
 2022-06-20 open Expenses:Eventos:Pybr2022 BRL
 2022-06-06 open Income:Eventos:Pybr2022 BRL
 
-; Auxílios =====================================================================
-; Bolsa Viagem Python Brasil 2022
-2022-09-19 open Assets:BolsaViagem:Pybr2022 BRL
-2022-09-19 open Expenses:BolsaViagem:Pybr2022 BRL
-2022-09-21 open Income:BolsaViagem:Pybr2022 BRL
+; Fundos de Inclusão ==========================================================
+; Python Brasil 2022
+2022-09-19 open Assets:FundoInclusão:Pybr2022 BRL
+2022-09-19 open Expenses:FundoInclusão:Pybr2022 BRL
+2022-09-21 open Income:FundoInclusão:Pybr2022 BRL
 
 ; Transições ==================================================================
 include "2020-06.beancount"
