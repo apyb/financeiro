@@ -1,5 +1,6 @@
 ; Configurações
 option "operating_currency" "BRL"
+2022-11-06 custom "fava-option" "show_closed_accounts" "true"
 
 ; APyB ========================================================================
 2020-06-15 open Assets:Bancos:BB BRL
@@ -30,6 +31,9 @@ option "operating_currency" "BRL"
 2021-07-30 open Assets:Eventos:Pybr2021 BRL
 2021-07-30 open Income:Eventos:Pybr2021 BRL
 2021-09-20 open Expenses:Eventos:Pybr2021 BRL
+2022-09-02 close Assets:Eventos:Pybr2021
+2022-09-02 close Income:Eventos:Pybr2021
+2022-09-02 close Expenses:Eventos:Pybr2021
 ; Python Nordeste 2022
 2022-06-22 open Assets:Eventos:Pyne2022 BRL
 2022-06-22 open Income:Eventos:Pyne2022 BRL
@@ -45,11 +49,12 @@ option "operating_currency" "BRL"
 
 ; Fundos de Inclusão ==========================================================
 ; Python Brasil 2022
-2022-09-19 open Assets:FundoInclusão:Pybr2022 BRL
+2022-09-02 open Assets:FundoInclusão:Pybr2022 BRL
 2022-09-19 open Expenses:FundoInclusão:Pybr2022 BRL
 2022-09-21 open Income:FundoInclusão:Pybr2022 BRL
 
 ; Transições ==================================================================
+include "eventos-concluídos.beancount"
 include "2020-06.beancount"
 include "2020-07.beancount"
 include "2020-08.beancount"
