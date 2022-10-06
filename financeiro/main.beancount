@@ -10,8 +10,9 @@ option "operating_currency" "BRL"
 2022-07-01 open Expenses:APyB:Jurídico BRL
 2021-02-04 open Expenses:APyB:Impostos BRL
 2020-11-04 open Expenses:APyB:Infra BRL
+2021-09-19 open Expenses:APyB:PremioDTJF BRL
 2021-11-16 open Income:APyB:Anuidades BRL
-2020-11-04 open Expenses:DestinoDesconhecido BRL
+2021-09-19 open Income:APyB:Estorno BRL
 
 ; Eventos =====================================================================
 ; Python Brasil 2019
@@ -42,6 +43,12 @@ option "operating_currency" "BRL"
 2022-06-20 open Expenses:Eventos:Pybr2022 BRL
 2022-06-06 open Income:Eventos:Pybr2022 BRL
 
+; Fundos de Inclusão ==========================================================
+; Python Brasil 2022
+2022-09-19 open Assets:FundoInclusão:Pybr2022 BRL
+2022-09-19 open Expenses:FundoInclusão:Pybr2022 BRL
+2022-09-21 open Income:FundoInclusão:Pybr2022 BRL
+
 ; Transições ==================================================================
 include "2020-06.beancount"
 include "2020-07.beancount"
@@ -70,3 +77,4 @@ include "2022-05.beancount"
 include "2022-06.beancount"
 include "2022-07.beancount"
 include "2022-08.beancount"
+include "2022-09.beancount"

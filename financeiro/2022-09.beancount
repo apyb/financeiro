@@ -1,0 +1,301 @@
+;; -*- mode: beancount -*-
+;; extratos/2022-09-bb.ofx
+
+2022-09-01 * "Alura" "PIX - RECEBIDO / DEP"
+  Assets:Bancos:BB  220.00 * 0.1 BRL
+  Assets:Eventos:Pybr2022  220.00 * 0.9 BRL
+  Income:Eventos:Pybr2022
+
+2022-09-02 * "Almoço Participantes - TED DEVOLVIDA / DEP"
+  Assets:Eventos:Pyne2022  6000.00 BRL
+  Income:Eventos:Pyne2022
+
+2022-09-02 * "Almoço Participantes - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pyne2022  -6000.00 BRL
+  Expenses:Eventos:Pyne2022
+
+2022-09-05 * "Almoço Participantes - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pyne2022  -6000.00 BRL
+  Expenses:Eventos:Pyne2022
+
+2022-09-05 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-08 * "Neoprospecta" "TRANSFERÊNCIA RECEBIDA / XFER"
+  Assets:Bancos:BB  220.00 * 0.1 BRL
+  Assets:Eventos:Pybr2022  220.00 * 0.9 BRL
+  Income:Eventos:Pybr2022
+
+2022-09-09 * "IMPOSTOS"
+  Assets:Bancos:BB  -5675.20 BRL
+  Expenses:APyB:Impostos
+
+2022-09-09 * "IMPOSTOS"
+  Assets:Bancos:BB  -243.15 BRL
+  Expenses:APyB:Impostos
+
+2022-09-09 * "Crachás - PIX - ENVIADO"
+  Assets:Eventos:Pysul2022  -780.00 BRL
+  Expenses:Eventos:Pysul2022
+
+2022-09-09 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -7.72 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-14 * "Ingresso Participante - PIX - RECEBIDO / DEP"
+  Assets:Bancos:BB  220.00 * 0.1 BRL
+  Assets:Eventos:Pybr2022  220.00 * 0.9 BRL
+  Income:Eventos:Pybr2022
+
+2022-09-15 * "Filmagem - PAGAMENTO DE BOLETO"
+  Assets:Eventos:Pysul2022  -500.00 BRL
+  Expenses:Eventos:Pysul2022
+
+2022-09-15 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -93.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-16 * "Credenciais - TED DEVOLVIDA / DEP"
+  Assets:Eventos:Pybr2022  1890.00 BRL
+  Income:Eventos:Pybr2022
+
+2022-09-16 * "BotCity" "PIX - RECEBIDO / DEP"
+  Assets:Bancos:BB  660.00 * 0.1 BRL
+  Assets:Eventos:Pybr2022  660.00 * 0.9 BRL
+  Income:Eventos:Pybr2022
+
+2022-09-16 * "Credenciais - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -1890.00 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-09-16 * "Credenciais - PIX - ENVIADO"
+  Assets:Eventos:Pybr2022  -1890.00 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-09-16 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-16 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-19 * "TED DEVOLVIDA / DEP"
+  Assets:Bancos:BB  270.00 BRL
+  Income:APyB:Estorno
+
+2022-09-19 * "21 Hospedagens - TED TRANSF.ELETR.DISPONIV"
+  Assets:FundoInclusão:Pybr2022  -4250.00 BRL
+  Expenses:FundoInclusão:Pybr2022
+
+2022-09-19 * "Hootsuite" "TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -567.71 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-09-19 * "TED TRANSF.ELETR.DISPONIV"
+  Assets:Bancos:BB  -270.00 BRL
+  Expenses:APyB:PremioDTJF
+
+2022-09-19 * "Hospedagem Keynotes - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -3768.00 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-09-19 * "TED TRANSF.ELETR.DISPONIV"
+  Assets:Bancos:BB  -270.00 BRL
+  Expenses:APyB:PremioDTJF
+
+2022-09-19 * "Almoço Staff - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pysul2022  -66.00 BRL
+  Expenses:Eventos:Pysul2022
+
+2022-09-19 * "Almoço Staff - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pysul2022  -496.71 BRL
+  Expenses:Eventos:Pysul2022
+
+2022-09-19 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-19 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-19 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-19 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-19 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-19 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-19 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-20 * "Vinta" "Ingressos - TED-CRÉDITO EM CONTA / DEP"
+  Assets:Bancos:BB  1100.00 * 0.1 BRL
+  Assets:Eventos:Pybr2022  1100.00 * 0.9 BRL
+  Income:Eventos:Pybr2022
+
+2022-09-20 * "Saks" "Patrocínio - PIX - RECEBIDO / DEP"
+  Assets:Bancos:BB  10000.00 * 0.1 BRL
+  Assets:Eventos:Pybr2022  10000.00 * 0.9 BRL
+  Income:Eventos:Pybr2022
+
+2022-09-21 * "Auxílio Alimentação - TED DEVOLVIDA / DEP"
+  Assets:FundoInclusão:Pybr2022  8971.39 BRL
+  Income:FundoInclusão:Pybr2022
+
+2022-09-21 * "Auxílio Alimentação - TED TRANSF.ELETR.DISPONIV"
+  Assets:FundoInclusão:Pybr2022  -8971.39 BRL
+  Expenses:FundoInclusão:Pybr2022
+
+2022-09-21 * "Vasco Vasques" "TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -25953.25 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-09-21 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-21 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-22 * "Auxílio Alimentação - TED"
+  Assets:FundoInclusão:Pybr2022  -8971.39 BRL
+  Expenses:FundoInclusão:Pybr2022
+
+2022-09-22 * "Passagens Aéreas - PIX - ENVIADO"
+  Assets:FundoInclusão:Pybr2022  -5000.00 BRL
+  Expenses:FundoInclusão:Pybr2022
+
+2022-09-22 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-22 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-23 * "Passagens Aéreas - TED DEVOLVIDA / DEP"
+  Assets:FundoInclusão:Pybr2022  55000.00 BRL
+  Income:FundoInclusão:Pybr2022
+
+2022-09-23 * "Passagens Aéreas - TED TRANSF.ELETR.DISPONIV"
+  Assets:FundoInclusão:Pybr2022  -55000.00 BRL
+  Expenses:FundoInclusão:Pybr2022
+
+2022-09-23 * "Passagens Aéreas - PIX - ENVIADO"
+  Assets:FundoInclusão:Pybr2022  -7964.34 BRL
+  Expenses:FundoInclusão:Pybr2022
+
+2022-09-23 * "Passagens Aéreas - PIX - ENVIADO"
+  Assets:FundoInclusão:Pybr2022  -5000.00 BRL
+  Expenses:FundoInclusão:Pybr2022
+
+2022-09-23 * "Passagens Aéreas - PIX - ENVIADO"
+  Assets:FundoInclusão:Pybr2022  -7000.00 BRL
+  Expenses:FundoInclusão:Pybr2022
+
+2022-09-23 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-23 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -30.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-26 * "Labcodes" "TRANSFERÊNCIA RECEBIDA / XFER"
+  Assets:Bancos:BB  440.00 * 0.1 BRL
+  Assets:Eventos:Pybr2022  440.00 * 0.9 BRL
+  Income:Eventos:Pybr2022
+
+2022-09-26 * "Passagens Aéreas - PIX - ENVIADO"
+  Assets:FundoInclusão:Pybr2022  -48000.00 BRL
+  Expenses:FundoInclusão:Pybr2022
+
+2022-09-26 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-27 * "Copos Kit Participante - PAGAMENTO DE BOLETO"
+  Assets:Eventos:Pybr2022  -2626.92 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-09-27 * "Camisas - PIX - ENVIADO"
+  Assets:Eventos:Pybr2022  -7500.00 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-09-27 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-28 * "Bemol" "PIX - RECEBIDO / DEP"
+  Assets:Bancos:BB  11110.00 * 0.1 BRL
+  Assets:Eventos:Pybr2022  11110.00 * 0.9 BRL
+  Income:Eventos:Pybr2022
+
+2022-09-28 * "Ingresso Participante - PIX - RECEBIDO / DEP"
+  Assets:Bancos:BB  110.00 * 0.1 BRL
+  Assets:Eventos:Pybr2022  110.00 * 0.9 BRL
+  Income:Eventos:Pybr2022
+
+2022-09-28 * "Ecobags - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -4000.00 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-09-28 * "Credenciais - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -750.00 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-09-28 * "Ambulância e Bombeiros - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -4900.00 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-09-28 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-28 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-28 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-29 * "Consultoria Jurídica - PIX - ENVIADO"
+  Assets:FundoInclusão:Pybr2022  -800.00 BRL
+  Expenses:FundoInclusão:Pybr2022
+
+2022-09-29 * "TED TRANSF.ELETR.DISPONIV"
+  Assets:Bancos:BB  -270.00 BRL
+  Expenses:APyB:PremioDTJF
+
+2022-09-29 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-29 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -7.92 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-09-30 * "Ingresso Participante - PIX - RECEBIDO / DEP"
+  Assets:Bancos:BB  110.00 * 0.1 BRL
+  Assets:Eventos:Pybr2022  110.00 * 0.9 BRL
+  Income:Eventos:Pybr2022
+
+2022-09-30 * "Ingresso Participante - PIX - RECEBIDO / DEP"
+  Assets:Bancos:BB  220.00 * 0.1 BRL
+  Assets:Eventos:Pybr2022  220.00 * 0.9 BRL
+  Income:Eventos:Pybr2022
