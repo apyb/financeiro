@@ -10,7 +10,8 @@
   Expenses:APyB:Taxas:BB
 
 2021-10-07 * "Eventbrite" "TED-CRÉDITO EM CONTA / DEP"
-  Assets:Eventos:Pysul2022 2934.80 BRL
+  Assets:Eventos:Pysul2022 2934.80 * 0.9 BRL
+  Assets:Bancos:BB 2934.80 * 0.1 BRL
   Income:Eventos:Pysul2022
 
 2021-10-08 ! "Luiza Labs" "Patrocínio" #pendente-comprovantes
