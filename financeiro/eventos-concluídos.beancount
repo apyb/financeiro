@@ -1,3 +1,11 @@
+2022-01-01 * "Transferência de caixa pysul2020 para pysul2022"
+    Assets:Eventos:Pysul2022  7308.80 BRL
+    Assets:Eventos:Pysul2020
+
+2022-01-01 * "Transferência de caixa pyne2020 para pyne2022"
+    Assets:Eventos:Pyne2022  1072.23 BRL
+    Assets:Eventos:Pyne2020
+
 2022-09-02 * "Fechamento do caixa pybr2021"
     Assets:Bancos:BB 204321.45 * 0.5 BRL
     Assets:FundoInclusão:Pybr2022 204321.45 * 0.5 BRL

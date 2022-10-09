@@ -1,0 +1,39 @@
+;; -*- mode: beancount -*-
+;; extratos/2020-03-bb.ofx
+
+2020-03-02 * "Coffee Break - PAGAMENTO DE BOLETO"
+  Assets:Eventos:Pyne2020  -2100.00 BRL
+  Expenses:Eventos:Pyne2020
+
+2020-03-04 * "Labcodes" "TRANSFERÊNCIA RECEBIDA / XFER"
+  Assets:Bancos:BB  3000.00 * 0.1 BRL
+  Assets:Eventos:Pyne2020  3000.00 * 0.9 BRL
+  Income:Eventos:Pyne2020
+
+2020-03-05 * "Magrathea" "TED-CRÉDITO EM CONTA / DEP"
+  Assets:Bancos:BB  2910.00 * 0.1 BRL
+  Assets:Eventos:Pysul2020  2910.00 * 0.9 BRL
+  Income:Eventos:Pysul2020
+
+2020-03-06 * "Python Pro" "TED-CRÉDITO EM CONTA / DEP"
+  Assets:Bancos:BB  1000.00 * 0.1 BRL
+  Assets:Eventos:Pysul2020  1000.00 * 0.9 BRL
+  Income:Eventos:Pysul2020
+
+2020-03-06 * "Vinta" "TED-CRÉDITO EM CONTA / DEP"
+  Assets:Bancos:BB  7000.00 * 0.1 BRL
+  Assets:Eventos:Pyne2020  7000.00 * 0.9 BRL
+  Income:Eventos:Pyne2020
+
+2020-03-13 * "IMPOSTOS"
+  Assets:Bancos:BB  -292.00 BRL
+  Expenses:APyB:Impostos
+
+2020-03-16 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -84.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2020-03-18 * "Globo" "TED-CRÉDITO EM CONTA / DEP"
+  Assets:Bancos:BB  950.00 * 0.1 BRL
+  Assets:Eventos:Pysul2020  950.00 * 0.9 BRL
+  Income:Eventos:Pysul2020

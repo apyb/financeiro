@@ -1,0 +1,25 @@
+;; -*- mode: beancount -*-
+;; extratos/2020-01-bb.ofx
+
+2020-01-02 * "IFPB" "ORDEM BANC 12 SEC TES NAC / DEP"
+  Assets:Bancos:BB  700.00 * 0.1 BRL
+  Assets:Eventos:Pybr2019  700.00 * 0.9 BRL
+  Income:Eventos:Pybr2019
+
+2020-01-15 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -84.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2020-01-22 * "Sedex Ata da Assembleia 2019 - TRANSFERÊNCIA ENVIADA / XFER"
+  Assets:Bancos:BB  -156.50 BRL
+  Expenses:APyB:Infra
+
+2020-01-22 * "Cartório Ata da Assembleia 2019 - TRANSFERÊNCIA ENVIADA / XFER"
+  Assets:Bancos:BB  -184.26 BRL
+  Expenses:APyB:Infra
+
+2020-01-27 * "TARIFA RENOVAÇÃO CADASTRO"
+  Assets:Bancos:BB  -52.35 BRL
+  Expenses:APyB:Taxas:BB
+
+

@@ -3,30 +3,38 @@ option "operating_currency" "BRL"
 2022-11-06 custom "fava-option" "show_closed_accounts" "true"
 
 ; APyB ========================================================================
-2020-06-15 open Assets:Bancos:BB BRL
+2020-01-02 open Assets:Bancos:BB BRL
 2022-03-02 open Assets:Bancos:PagSeguro BRL
 2021-03-25 open Equity:Investimentos:BB BRL
 2020-09-09 open Expenses:APyB:Contadora BRL
-2020-06-15 open Expenses:APyB:Taxas:BB BRL
+2020-01-15 open Expenses:APyB:Taxas:BB BRL
 2022-07-01 open Expenses:APyB:Jurídico BRL
-2021-02-04 open Expenses:APyB:Impostos BRL
-2020-11-04 open Expenses:APyB:Infra BRL
+2020-03-13 open Expenses:APyB:Impostos BRL
+2020-01-22 open Expenses:APyB:Infra BRL
 2021-09-19 open Expenses:APyB:PremioDTJF BRL
 2021-11-16 open Income:APyB:Anuidades BRL
 2021-09-19 open Income:APyB:Estorno BRL
 
 ; Eventos =====================================================================
 ; Python Brasil 2019
-2021-06-18 open Assets:Eventos:Pybr2019 BRL
-2021-06-18 open Income:Eventos:Pybr2019 BRL
-2021-06-18 open Expenses:Eventos:Pybr2019 BRL
+2020-01-02 open Assets:Eventos:Pybr2019 BRL
+2020-01-02 open Income:Eventos:Pybr2019 BRL
+2020-02-07 open Expenses:Eventos:Pybr2019 BRL
 ; Python Brasil 2020
 2020-11-16 open Assets:Eventos:Pybr2020 BRL
 2020-11-16 open Expenses:Eventos:Pybr2020 BRL
 ; Python Nordeste 2020
-2021-06-23 open Assets:Eventos:Pyne2020 BRL
-2021-07-16 open Income:Eventos:Pyne2020 BRL
-2021-06-23 open Expenses:Eventos:Pyne2020 BRL
+2020-02-20 open Assets:Eventos:Pyne2020 BRL
+2020-02-20 open Income:Eventos:Pyne2020 BRL
+2020-03-02 open Expenses:Eventos:Pyne2020 BRL
+2022-01-01 close Assets:Eventos:Pyne2020
+2022-01-01 close Income:Eventos:Pyne2020
+2022-01-01 close Expenses:Eventos:Pyne2020
+; Python Sul 2020
+2020-03-05 open Assets:Eventos:Pysul2020 BRL
+2020-03-05 open Income:Eventos:Pysul2020 BRL
+2022-01-01 close Assets:Eventos:Pysul2020
+2022-01-01 close Income:Eventos:Pysul2020
 ; Python Brasil 2021
 2021-07-30 open Assets:Eventos:Pybr2021 BRL
 2021-07-30 open Income:Eventos:Pybr2021 BRL
@@ -35,12 +43,12 @@ option "operating_currency" "BRL"
 2022-09-02 close Income:Eventos:Pybr2021
 2022-09-02 close Expenses:Eventos:Pybr2021
 ; Python Nordeste 2022
-2022-06-22 open Assets:Eventos:Pyne2022 BRL
+2022-01-01 open Assets:Eventos:Pyne2022 BRL
 2022-06-22 open Income:Eventos:Pyne2022 BRL
 2022-07-20 open Expenses:Eventos:Pyne2022 BRL
 ; Python Sul 2022
-2021-10-07 open Assets:Eventos:Pysul2022 BRL
-2021-10-07 open Income:Eventos:Pysul2022 BRL
+2022-01-01 open Assets:Eventos:Pysul2022 BRL
+2022-08-15 open Income:Eventos:Pysul2022 BRL
 2022-08-17 open Expenses:Eventos:Pysul2022 BRL
 ; Python Brasil 2022
 2022-06-06 open Assets:Eventos:Pybr2022 BRL
@@ -55,6 +63,11 @@ option "operating_currency" "BRL"
 
 ; Transições ==================================================================
 include "eventos-concluídos.beancount"
+include "2020-01.beancount"
+include "2020-02.beancount"
+include "2020-03.beancount"
+include "2020-04.beancount"
+include "2020-05.beancount"
 include "2020-06.beancount"
 include "2020-07.beancount"
 include "2020-08.beancount"
