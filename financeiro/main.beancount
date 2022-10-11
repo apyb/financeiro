@@ -10,7 +10,8 @@ option "operating_currency" "BRL"
 2020-01-15 open Expenses:APyB:Taxas:BB BRL
 2022-07-01 open Expenses:APyB:Jurídico BRL
 2020-03-13 open Expenses:APyB:Impostos BRL
-2020-01-22 open Expenses:APyB:Infra BRL
+2020-11-04 open Expenses:APyB:Infra BRL
+2020-01-22 open Expenses:APyB:Ops BRL
 2021-09-19 open Expenses:APyB:PremioDTJF BRL
 2021-11-16 open Income:APyB:Anuidades BRL
 2021-09-19 open Income:APyB:Estorno BRL
