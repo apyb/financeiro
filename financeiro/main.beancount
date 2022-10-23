@@ -46,6 +46,12 @@ option "operating_currency" "BRL"
 2022-06-06 open Assets:Eventos:Pybr2022 BRL
 2022-06-20 open Expenses:Eventos:Pybr2022 BRL
 2022-06-06 open Income:Eventos:Pybr2022 BRL
+; 10º Meetup Grupy-RN
+2022-10-06 open Assets:Eventos:10MeetupGrupyRN BRL
+2022-10-06 open Income:Eventos:10MeetupGrupyRN BRL
+; Django Girls Parnaíba 2022
+2022-10-07 open Assets:Eventos:DjangoGirlsParnaiba2022 BRL
+2022-10-07 open Income:Eventos:DjangoGirlsParnaiba2022 BRL
 
 ; Fundos de Inclusão ==========================================================
 ; Python Brasil 2022
@@ -83,3 +89,4 @@ include "2022-06.beancount"
 include "2022-07.beancount"
 include "2022-08.beancount"
 include "2022-09.beancount"
+include "2022-10.beancount"
