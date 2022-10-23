@@ -85,7 +85,7 @@
   Assets:Bancos:BB  270.00 BRL
   Income:APyB:Estorno
 
-2022-09-19 * "21 Hospedagens - TED TRANSF.ELETR.DISPONIV"
+2022-09-19 * "Hospedagens 1/2 - TED TRANSF.ELETR.DISPONIV"
   Assets:FundoInclusão:Pybr2022  -4250.00 BRL
   Expenses:FundoInclusão:Pybr2022
 
@@ -97,7 +97,7 @@
   Assets:Bancos:BB  -270.00 BRL
   Expenses:APyB:PremioDTJF
 
-2022-09-19 * "Hospedagem Keynotes - TED TRANSF.ELETR.DISPONIV"
+2022-09-19 * "Hospedagem Keynotes 1/2 - TED TRANSF.ELETR.DISPONIV"
   Assets:Eventos:Pybr2022  -3768.00 BRL
   Expenses:Eventos:Pybr2022
 
@@ -250,11 +250,11 @@
   Assets:Eventos:Pybr2022  110.00 * 0.9 BRL
   Income:Eventos:Pybr2022
 
-2022-09-28 * "Ecobags - TED TRANSF.ELETR.DISPONIV"
+2022-09-28 * "Ecobags 1/2 - TED TRANSF.ELETR.DISPONIV"
   Assets:Eventos:Pybr2022  -4000.00 BRL
   Expenses:Eventos:Pybr2022
 
-2022-09-28 * "Credenciais - TED TRANSF.ELETR.DISPONIV"
+2022-09-28 * "Credenciais 1/2 - TED TRANSF.ELETR.DISPONIV"
   Assets:Eventos:Pybr2022  -750.00 BRL
   Expenses:Eventos:Pybr2022
 
