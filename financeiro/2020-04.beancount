@@ -1,0 +1,10 @@
+;; -*- mode: beancount -*-
+;; extratos/2020-04-bb.ofx
+
+2020-04-14 * "IMPOSTOS"
+  Assets:Bancos:BB  -520.00 BRL
+  Expenses:APyB:Impostos
+
+2020-04-15 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -84.00 BRL
+  Expenses:APyB:Taxas:BB

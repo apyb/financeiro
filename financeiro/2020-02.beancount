@@ -1,0 +1,27 @@
+;; -*- mode: beancount -*-
+;; extratos/2020-02-bb.ofx
+
+2020-02-07 * "Registro Ata da Assembleia 2019 - TED TRANSF.ELETR.DISPONIV"
+  Assets:Bancos:BB  -49.17 BRL
+  Expenses:APyB:Ops
+
+2020-02-07 * "Despesa palestrante - EMISSÃO DE DOC"
+  Assets:Eventos:Pybr2019  -494.59 BRL
+  Expenses:Eventos:Pybr2019
+
+2020-02-07 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -10.45 BRL
+  Expenses:APyB:Taxas:BB
+
+2020-02-11 * "Carimbos da APyB TRANSFERÊNCIA ENVIADA / XFER"
+  Assets:Bancos:BB  -59.40 BRL
+  Expenses:APyB:Ops
+
+2020-02-17 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -84.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2020-02-20 * "TED-PAG FORNECEDORES / DEP"
+  Assets:Bancos:BB  5000.00 * 0.1 BRL
+  Assets:Eventos:Pyne2020  5000.00 * 0.9 BRL
+  Income:Eventos:Pyne2020
