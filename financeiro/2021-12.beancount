@@ -1,15 +1,15 @@
 ;; -*- mode: beancount -*-
 ;; extratos/2021-12-bb.ofx
 
-2021-12-02 * "Patrocínio Carta" "TED-CRÉDITO EM CONTA / DEP"
+2021-12-02 * "Patrocínio" "ESHARES DESENVOLVIMENTO DE SOFTWARES LTDA 24.164.750/0001-67 (Carta) - TED-CRÉDITO EM CONTA / DEP"
   Assets:Eventos:Pybr2021 50000.00 BRL
   Income:Eventos:Pybr2021
 
-2021-12-09 * "Patrocínio Mercado Livre" "TED-PAG FORNECEDORES / DEP"
+2021-12-09 * "Patrocínio" "EBAZAR.COM.BR. LTDA 03.007.331/0001-41 (Mercado Livre) - TED-PAG FORNECEDORES / DEP"
   Assets:Eventos:Pybr2021  30000.00 BRL
   Income:Eventos:Pybr2021
 
-2021-12-14 * "Banco de imagem 3D" "PIX - ENVIADO"
+2021-12-14 * "Reembolso" "Alynne F S ***.044.653-** - PIX - ENVIADO"
   Assets:Eventos:Pybr2021  -277.89 BRL
   Expenses:Eventos:Pybr2021
 
@@ -21,15 +21,15 @@
   Assets:Bancos:BB  -84.00 BRL
   Expenses:APyB:Taxas:BB
 
-2021-12-16 * "Doação para Mães da Favela" "PIX - ENVIADO"
+2021-12-16 * "Doação 1/3" "Re.favela Producoes 35.433.107/0001-08 (Mães da Favela) - PIX - ENVIADO"
   Assets:Eventos:Pybr2021  -5000.00 BRL
   Expenses:Eventos:Pybr2021
 
-2021-12-17 * "Doação para Mães da Favela" "PIX - ENVIADO"
+2021-12-17 * "Doação 2/3" "Re.favela Producoes 35.433.107/0001-08 (Mães da Favela) - PIX - ENVIADO"
   Assets:Eventos:Pybr2021  -5000.00 BRL
   Expenses:Eventos:Pybr2021
 
-2021-12-17 * "Doação para Mães da Favela" "PIX - ENVIADO"
+2021-12-17 * "Doação 3/3" "Re.favela Producoes 35.433.107/0001-08 (Mães da Favela) - PIX - ENVIADO"
   Assets:Eventos:Pybr2021  -4377.20 BRL
   Expenses:Eventos:Pybr2021
 

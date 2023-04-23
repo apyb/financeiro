@@ -1,7 +1,7 @@
 ;; -*- mode: beancount -*-
 ;; extratos/2021-10-bb.ofx
 
-2021-10-01 * "Atuale Assessoria Contabil LTDA" "PIX - ENVIADO"
+2021-10-01 * "Escritório de Contabilidade" "Atuale Assessoria Contabil 10.824.037/0001-98 - PIX - ENVIADO"
   Assets:Bancos:BB  -1700.00 BRL
   Expenses:APyB:Contadora
 
@@ -9,19 +9,19 @@
   Assets:Bancos:BB  -10.00 BRL
   Expenses:APyB:Taxas:BB
 
-2021-10-07 * "Eventbrite" "TED-CRÉDITO EM CONTA / DEP"
+2021-10-07 * "Ingressos" "Eventbrite Brasil 15.913.672/0001-65 - TED-CRÉDITO EM CONTA / DEP"
   Assets:Eventos:Pysul2020 2934.80 BRL
   Income:Eventos:Pysul2020
 
-2021-10-08 ! "Luiza Labs" "Patrocínio" #pendente-comprovantes
+2021-10-08 ! "Patrocínio" "SOFTBOX SISTEMAS DE INFORMACAO LTDA 07.623.088/0001-47 - TED-PAG FORNECEDORES" #pendente-comprovantes
   Assets:Eventos:Pybr2021 50000.00 BRL
   Income:Eventos:Pybr2021
 
-2021-10-11 * "Intérprete de Libras" "PIX - ENVIADO"
+2021-10-11 * "Libras 1/5" "HANDS INTERPRETACION 22.304.152/0001-10 - PIX - ENVIADO"
   Assets:Eventos:Pybr2021 -9990.00 BRL
   Expenses:Eventos:Pybr2021
 
-2021-10-11 * "Intérprete de Libras" "PIX - ENVIADO"
+2021-10-11 * "Libras 2/5" "HANDS INTERPRETACION 22.304.152/0001-10 - PIX - ENVIADO"
   Assets:Eventos:Pybr2021 -9600.00 BRL
   Expenses:Eventos:Pybr2021
 
@@ -33,11 +33,11 @@
   Assets:Bancos:BB  -84.00 BRL
   Expenses:APyB:Taxas:BB
 
-2021-10-18 * "Intérprete de Libras" "PIX - ENVIADO"
+2021-10-18 * "Libras 3/5" "HANDS INTERPRETACION 22.304.152/0001-10 - PIX - ENVIADO"
   Assets:Eventos:Pybr2021 -9600.00 BRL
   Expenses:Eventos:Pybr2021
 
-2021-10-18 * "Intérprete de Libras" "PIX - ENVIADO"
+2021-10-18 * "Libras 4/5" "HANDS INTERPRETACION 22.304.152/0001-10 - PIX - ENVIADO"
   Assets:Eventos:Pybr2021 -5810.00 BRL
   Expenses:Eventos:Pybr2021
 
@@ -57,7 +57,7 @@
   Assets:Bancos:BB  -1.00 BRL
   Expenses:APyB:Taxas:BB
 
-2021-10-21 * "Intérprete de Libras" "PIX - ENVIADO"
+2021-10-21 * "Libras 5/5" "HANDS INTERPRETACION 22.304.152/0001-10 - PIX - ENVIADO"
   Assets:Eventos:Pybr2021 -5500.00 BRL
   Expenses:Eventos:Pybr2021
 
@@ -65,11 +65,11 @@
   Assets:Bancos:BB  -10.00 BRL
   Expenses:APyB:Taxas:BB
 
-2021-10-26 * "Eventbrite" "Arrecadação financeira para Mães da Favela"
+2021-10-26 * "Arrecadação para Doação" "Eventbrite Brasil 15.913.672/0001-65 - TED-CRÉDITO EM CONTA / DEP"
   Assets:Eventos:Pybr2021 14337.20 BRL
   Income:Eventos:Pybr2021
 
-2021-10-27 * "Ebury" "ORPAG ORIGEM EXTERIOR / DEP"
+2021-10-27 * "Patrocínio" "EBURY TECHNOLOGY LIMITED - ORPAG ORIGEM EXTERIOR / DEP"
   Assets:Eventos:Pybr2021 38862.00 BRL
   Income:Eventos:Pybr2021
 
@@ -77,11 +77,11 @@
   Assets:Eventos:Pybr2021  -147.68 BRL
   Expenses:Eventos:Pybr2021
 
-2021-10-27 * "Reembolso" "PIX - ENVIADO"
+2021-10-27 * "Reembolso" "Gabriel C B ***.930.818-** - PIX - ENVIADO"
   Assets:Eventos:Pybr2021 -517.17 BRL
   Expenses:Eventos:Pybr2021
 
-2021-10-27 * "TDZ Brasil Services Eireli" "Tradução Simultânea"
+2021-10-27 * "Tradução Simultânea" "TDZ BRASIL SERVICOS EIRELI - ME 12.977.247/0001-41 - PAGAMENTO DE BOLETO"
   Assets:Eventos:Pybr2021 -10800.00 BRL
   Expenses:Eventos:Pybr2021
 

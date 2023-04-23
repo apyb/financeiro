@@ -1,7 +1,7 @@
 ;; -*- mode: beancount -*-
 ;; extratos/2021-02-bb.ofx
 
-2021-02-04 * "Olist CPOM ISS" "PIX - ENVIADO"
+2021-02-04 * "CPOM ISS" "OLIST SERVICOS DIGITAIS LTDA 18.552.346.0001.68 - PIX - ENVIADO"
  Assets:Bancos:BB  -1362.50 BRL
  Expenses:APyB:Impostos
 

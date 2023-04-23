@@ -1,7 +1,7 @@
 ;; -*- mode: beancount -*-
 ;; extratos/2021-08-bb.ofx
 
-2021-08-13 * "Edição de Vídeo" "PIX - ENVIADO"
+2021-08-13 * "Edição de Vídeo" "GISLENE VANESSA LIMA DA SILVA 34.422.078/0001-16 - PIX - ENVIADO"
   Assets:Eventos:Pybr2019  -560.00 BRL
   Expenses:Eventos:Pybr2019
 
@@ -9,7 +9,7 @@
   Assets:Bancos:BB  -5.54 BRL
   Expenses:APyB:Taxas:BB
 
-2021-08-16 * "IMPOSTOS"
+2021-08-16 * "ISSQN" "PREF MUN CAXIAS DO SUL - IMPOSTOS"
   Assets:Bancos:BB  -2000.00 BRL
   Expenses:APyB:Impostos
 

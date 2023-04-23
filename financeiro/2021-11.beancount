@@ -1,11 +1,11 @@
 ;; -*- mode: beancount -*-
 ;; extratos/2021-11-bb.ofx
 
-2021-11-05 * "Valor incorreto" "Devolução - PIX - RECEBIDO / DEP"
+2021-11-05 * "Devolução" "Gabriel C B ***.930.818-** - PIX - RECEBIDO / DEP"
   Assets:Eventos:Pybr2021  283.35 BRL
   Income:Eventos:Pybr2021
 
-2021-11-05 * "Serviço de nuvem para armazenamento e processamento" "Reembolso - PIX - ENVIADO"
+2021-11-05 * "Reembolso" "Gabriel C B ***.930.818-** -  - PIX - ENVIADO"
   Assets:Eventos:Pybr2021  -517.17 BRL
   Expenses:Eventos:Pybr2021
 
@@ -13,7 +13,7 @@
   Assets:Bancos:BB  -5.11 BRL
   Expenses:APyB:Taxas:BB
 
-2021-11-12 * "Prefeitura Municipal de Caxias do Sul" "IMPOSTOS"
+2021-11-12 * "ISSQN" "PREF MUN CAXIAS DO SUL - IMPOSTOS"
   Assets:Bancos:BB  -3600.00 BRL
   Expenses:APyB:Impostos
 
@@ -25,11 +25,11 @@
   Assets:Bancos:BB  -84.00 BRL
   Expenses:APyB:Taxas:BB
 
-2021-11-17 * "Patrocínio AmbevTech" "TED-CRÉDITO EM CONTA / DEP"
+2021-11-17 * "Patrocínio" "HBSIS SOLUCOES EM TECNOLOGIA DA INFORMACAO LTDA 81.875.973/0001-76 (AmbevTech) - TED-CRÉDITO EM CONTA / DEP"
   Assets:Eventos:Pybr2021  10000.00 BRL
   Income:Eventos:Pybr2021
 
-2021-11-17 * "Heroku" "Reembolso - PIX - ENVIADO"
+2021-11-17 * "Reembolso" "Thais N Viana ***.293.567-** - PIX - ENVIADO"
   Assets:Bancos:BB  -464.58 BRL
   Expenses:APyB:Infra
 
@@ -37,11 +37,11 @@
   Assets:Bancos:BB  -4.59 BRL
   Expenses:APyB:Taxas:BB
 
-2021-11-24 * "Livro palestra relâmpago" "Reembolso - PIX - ENVIADO"
+2021-11-24 * "Reembolso" "Gabriel C B ***.930.818-** - PIX - ENVIADO"
   Assets:Eventos:Pybr2021  -203.64 BRL
   Expenses:Eventos:Pybr2021
 
-2021-11-24 * "Livro palestra relâmpago" "Reembolso - PIX - ENVIADO"
+2021-11-24 * "Reembolso" "Alynne F S ***.044.653-** - PIX - ENVIADO"
   Assets:Eventos:Pybr2021  -353.54 BRL
   Expenses:Eventos:Pybr2021
 
@@ -49,11 +49,11 @@
   Assets:Bancos:BB  -5.51 BRL
   Expenses:APyB:Taxas:BB
 
-2021-11-25 * "Gravação Palestras" "Restituição - PIX - RECEBIDO / DEP"
+2021-11-25 * "Restituição" "THIAGO ARAUJO ***.956.378-** - PIX - RECEBIDO / DEP"
   Assets:Eventos:Pybr2019  1500.00 BRL
   Income:Eventos:Pybr2019
 
-2021-11-29 * "Livro palestra relâmpago" "Reembolso - PIX - ENVIADO"
+2021-11-29 * "Reembolso" "Murilo V M O ***.016.055-** - PIX - ENVIADO"
   Assets:Eventos:Pybr2021  -122.54 BRL
   Expenses:Eventos:Pybr2021
 

@@ -1,7 +1,7 @@
 ;; -*- mode: beancount -*-
 ;; extratos/2021-07-bb.ofx
 
-2021-07-05 * "Consultoria Jurídica" "PAGAMENTO DE BOLETO"
+2021-07-05 * "Consultoria Jurídica" "SARAH PINHEIRO DIOGENES PEREIRA ***.936.803-** - PAGAMENTO DE BOLETO"
   Assets:Eventos:Pyne2020  -600.00 BRL
   Expenses:Eventos:Pyne2020
 
@@ -9,7 +9,7 @@
   Assets:Bancos:BB  600.00 BRL
   Equity:Investimentos:BB
 
-2021-07-12 * "Patrocínio Vinta" "Reembolso - EMISSÃO DE DOC"
+2021-07-12 * "Devolução" "VINTA SERVICOS E SOLUCOES TECNOLOGIA 19.259.743/0001-09 - EMISSÃO DE DOC"
   Assets:Eventos:Pyne2020  -2000.00 BRL
   Expenses:Eventos:Pyne2020
 
@@ -25,15 +25,15 @@
   Assets:Bancos:BB  84.00 BRL
   Equity:Investimentos:BB
 
-2021-07-16 * "Interprete de Libras" "PIX - REJEITADO / DEP"
-  Assets:Eventos:Pyne2020  1404.00 BRL
+2021-07-16 * "PIX - REJEITADO / DEP"
+  Assets:Bancos:BB  1404.00 BRL
   Income:Eventos:Pyne2020
 
-2021-07-16 * "Interprete de Libras" "PIX - ENVIADO"
-  Assets:Eventos:Pyne2020  -1404.00 BRL
+2021-07-16 * "PIX - ENVIADO"
+  Assets:Bancos:BB  -1404.00 BRL
   Expenses:Eventos:Pyne2020
 
-2021-07-16 * "Interprete de Libras" "PIX - ENVIADO"
+2021-07-16 * "Libras" "PATRICIA BARROSO JUCA ***.090.953-** - PIX - ENVIADO"
   Assets:Eventos:Pyne2020  -1404.00 BRL
   Expenses:Eventos:Pyne2020
 
@@ -45,19 +45,19 @@
   Assets:Bancos:BB  1414.00 BRL
   Equity:Investimentos:BB
 
-2021-07-20 * "Brindes" "PIX - ENVIADO"
+2021-07-20 * "Reembolso" "Maria R F N ***.594.963-**- PIX - ENVIADO"
   Assets:Eventos:Pyne2020  -310.98 BRL
   Expenses:Eventos:Pyne2020
 
-2021-07-20 * "StreamYard" "PIX - ENVIADO"
+2021-07-20 * "StreamYard" "Alynne F S ***.044.653-** - PIX - ENVIADO"
   Assets:Eventos:Pyne2020  -146.07 BRL
   Expenses:Eventos:Pyne2020
 
-2021-07-20 * "Groovy Bot" "PIX - ENVIADO"
+2021-07-20 * "Reembolso" "Alynne F S ***.044.653-** - PIX - ENVIADO"
   Assets:Eventos:Pyne2020  -23.46 BRL
   Expenses:Eventos:Pyne2020
 
-2021-07-20 * "Brindes" "PIX - ENVIADO"
+2021-07-20 * "Reembolso" "Walmick D N Q ***.281.553-** - PIX - ENVIADO"
   Assets:Eventos:Pyne2020  -3558.85 BRL
   Expenses:Eventos:Pyne2020
 
@@ -77,7 +77,7 @@
   Assets:Bancos:BB  52.35 BRL
   Equity:Investimentos:BB
 
-2021-07-30 * "TED-CRÉDITO EM CONTA / DEP"
+2021-07-30 * "Patrocínio" "GOSHMESOLUCOES PARA A INTERNET LTDA - ME 07.112.529/0001-46 (JusBrasil) - TED-CRÉDITO EM CONTA / DEP"
   Assets:Eventos:Pybr2021  50000.00 BRL
   Income:Eventos:Pybr2021
 

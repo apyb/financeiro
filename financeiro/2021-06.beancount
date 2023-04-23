@@ -10,14 +10,14 @@
   Equity:Investimentos:BB
 
 2021-06-18 * "TED DEVOLVIDA / DEP"
-  Assets:Eventos:Pybr2019  250.00 BRL
+  Assets:Bancos:BB  250.00 BRL
   Income:Eventos:Pybr2019
 
 2021-06-18 * "TED TRANSF.ELETR.DISPONIV"
-  Assets:Eventos:Pybr2019  -250.00 BRL
+  Assets:Bancos:BB  -250.00 BRL
   Expenses:Eventos:Pybr2019
 
-2021-06-23 * "PAGAMENTO DE BOLETO"
+2021-06-23 * "Copo Ecológico" "ECO SOLUCOES EM IMPRESSAO DE MATERIAIS EIRELI 33.866.931/0001-26 - PAGAMENTO DE BOLETO"
   Assets:Eventos:Pyne2020  -408.52 BRL
   Expenses:Eventos:Pyne2020
 
@@ -25,7 +25,7 @@
   Assets:Bancos:BB  408.52 BRL
   Equity:Investimentos:BB
 
-2021-06-24 * "TED TRANSF.ELETR.DISPONIV"
+2021-06-24 * "Edição de Vídeo" "GISLENE VANESSA LIMA DA SILVA 34.422.078/0001-16 - TED TRANSF.ELETR.DISPONIV"
   Assets:Eventos:Pybr2019  -250.00 BRL
   Expenses:Eventos:Pybr2019
 
@@ -37,11 +37,11 @@
   Assets:Bancos:BB  260.45 BRL
   Equity:Investimentos:BB
 
-2021-06-25 * "TRANSFERÊNCIA ENVIADA / XFER"
+2021-06-25 * "Camisas" "ASA SUL INDUSTRIA E COMERCIO DE MALHAS LTDA 00.212.872/0001-13 - TRANSFERÊNCIA ENVIADA / XFER"
   Assets:Eventos:Pyne2020  -1105.00 BRL
   Expenses:Eventos:Pyne2020
 
-2021-06-25 * "Heroku" "Reembolso - TED TRANSF.ELETR.DISPONIV"
+2021-06-25 * "Reembolso" "Thais N Viana ***.293.567-** - TED TRANSF.ELETR.DISPONIV"
   Assets:Bancos:BB  -1224.97 BRL
   Expenses:APyB:Infra
 
@@ -57,11 +57,11 @@
   Assets:Bancos:BB  1220.57 BRL
   Equity:Investimentos:BB
 
-2021-06-28 * "PAGAMENTO DE BOLETO"
+2021-06-28 * "Brinde" "NERDSTICKERS PRODUCAO DE ADESIVOS ESPECIAIS DO BR 22.502.695/0001-42 - PAGAMENTO DE BOLETO"
   Assets:Eventos:Pyne2020  -459.89 BRL
   Expenses:Eventos:Pyne2020
 
-2021-06-28 * "PAGAMENTO DE BOLETO"
+2021-06-28 * "Brinde" "KATIANNE ARAUJO TAVARES ME 10.265.201/0001-74 - PAGAMENTO DE BOLETO"
   Assets:Eventos:Pyne2020  -311.00 BRL
   Expenses:Eventos:Pyne2020
 
