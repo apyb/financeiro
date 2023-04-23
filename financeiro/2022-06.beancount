@@ -1,7 +1,7 @@
 ;; -*- mode: beancount -*-
 ;; extratos/2022-06-bb.ofx
 
-2022-06-06 * "JusBrasil" "PIX - RECEBIDO / DEP"
+2022-06-06 * "Patrocínio" "GOSHMESOLUCOES PARA A INTERNET LTDA - ME 07.112.529/0001-46 (JusBrasil) PIX - RECEBIDO / DEP"
   Assets:Bancos:BB  20000.00 * 0.1 BRL
   Assets:Eventos:Pybr2022 20000.00 * 0.9 BRL
   Income:Eventos:Pybr2022
@@ -10,7 +10,7 @@
   Assets:Bancos:BB  -93.00 BRL
   Expenses:APyB:Taxas:BB
 
-2022-06-17 * "Sream" "ORPAG ORIGEM EXTERIOR / DEP"
+2022-06-17 * "Patrocínio" "Stream.io, Inc. - ORPAG ORIGEM EXTERIOR / DEP"
   Assets:Bancos:BB  4471.22 * 0.1 BRL
   Assets:Eventos:Pybr2022 4471.22 * 0.9 BRL
   Income:Eventos:Pybr2022
@@ -19,20 +19,20 @@
   Assets:Bancos:BB  -16.99 BRL
   Expenses:APyB:Taxas:BB
 
-2022-06-20 * "AmazonasTur" "TED DEVOLVIDA / DEP"
-  Assets:Eventos:Pybr2022 6488.31 BRL
+2022-06-20 * "TED DEVOLVIDA / DEP"
+  Assets:Bancos:BB 6488.31 BRL
   Expenses:Eventos:Pybr2022
 
-2022-06-20 * "AmazonasTur" "TED TRANSF.ELETR.DISPONIV"
-  Assets:Eventos:Pybr2022 -6488.31 BRL
+2022-06-20 * "TED TRANSF.ELETR.DISPONIV"
+  Assets:Bancos:BB -6488.31 BRL
   Expenses:Eventos:Pybr2022
 
-2022-06-22 * "Lend" "PIX - RECEBIDO / DEP"
+2022-06-22 * "Patrocínio" "LEND TECNOLOGIA LTDA 44.154.779/0001-75 - PIX - RECEBIDO / DEP"
   Assets:Bancos:BB  10000.00 * 0.1 BRL
   Assets:Eventos:Pyne2022  10000.00 * 0.9 BRL
   Income:Eventos:Pyne2022
 
-2022-06-24 * "AmazonasTur" "PIX - ENVIADO"
+2022-06-24 * "Local do Evento 1/2" "EMPRESA ESTADUAL DE TURISMO DE MANAUS 05.662.046/0001-90 - PIX - ENVIADO"
   Assets:Eventos:Pybr2022 -6488.31 BRL
   Expenses:Eventos:Pybr2022
 

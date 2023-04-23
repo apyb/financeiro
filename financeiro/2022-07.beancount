@@ -9,17 +9,17 @@
   Assets:Bancos:BB  -10.00 BRL
   Expenses:APyB:Taxas:BB
 
-2022-07-05 * "Labcodes" "TRANSFERÊNCIA RECEBIDA / XFER"
+2022-07-05 * "Patrocínio" "Labcodes Software Studio LTDA - ME 19.876.688/0001-04 - TRANSFERÊNCIA RECEBIDA / XFER"
   Assets:Bancos:BB  10000.00 *0.1 BRL
   Assets:Eventos:Pyne2022 10000.00 * 0.9 BRL
   Income:Eventos:Pyne2022
 
-2022-07-05 * "Globo" "TED-CRÉDITO EM CONTA / DEP"
+2022-07-05 * "Patrocínio" "GLOBO COMUNICAÇÃO E PARTICIPAÇÕES S.A 27.865.757/0001-02 TED-CRÉDITO EM CONTA / DEP"
   Assets:Bancos:BB  7000.00 * 0.1 BRL
   Assets:Eventos:Pyne2022 7000.00 * 0.9 BRL
   Income:Eventos:Pyne2022
 
-2022-07-14 * "IMPOSTOS"
+2022-07-14 * "ISSQN" "PREF MUN CAXIAS DO SUL - IMPOSTOS"
   Assets:Bancos:BB  -2280.00 BRL
   Expenses:APyB:Impostos
 
@@ -27,12 +27,12 @@
   Assets:Bancos:BB  -93.00 BRL
   Expenses:APyB:Taxas:BB
 
-2022-07-18 * "Google" "ORPAG ORIGEM EXTERIOR / DEP"
+2022-07-18 * "Patrocínio" "Xpedition Media Inc (Google) ORPAG ORIGEM EXTERIOR / DEP"
   Assets:Bancos:BB 53830.65 * 0.1 BRL
   Assets:Eventos:Pybr2022 53830.65 * 0.9 BRL
   Income:Eventos:Pybr2022
 
-2022-07-18 * "Globo" "TED-CRÉDITO EM CONTA / DEP"
+2022-07-18 * "Patrocínio" "GLOBO COMUNICAÇÃO E PARTICIPAÇÕES S.A 27.865.757/0001-02 TED-CRÉDITO EM CONTA / DEP"
   Assets:Bancos:BB  20000.00 * 0.1 BRL
   Assets:Eventos:Pybr2022 20000.00 * 0.9 BRL
   Income:Eventos:Pybr2022
@@ -41,16 +41,16 @@
   Assets:Bancos:BB  -204.56 BRL
   Expenses:APyB:Taxas:BB
 
-2022-07-20 * "Locação de espaço para o evento" "PAGAMENTO DE BOLETO"
+2022-07-20 * "Local do Evento" "Tiradentes Innovation Center 05.406.519/0001-98 - PAGAMENTO DE BOLETO"
   Expenses:Eventos:Pyne2022 5000.00 BRL
   Assets:Eventos:Pyne2022
 
-2022-07-21 * "Vinta" "TED-CRÉDITO EM CONTA / DEP"
+2022-07-21 * "Patrocínio" "VINTA SERVICOS E SOLUCOES TECNOLOGIA 19.259.743/0001-09 - TED-CRÉDITO EM CONTA / DEP"
   Assets:Bancos:BB  4000.00 * 0.1 BRL
   Assets:Eventos:Pyne2022 4000.00 * 0.9 BRL
   Income:Eventos:Pyne2022
 
-2022-07-22 * "Vinta" "TED-CRÉDITO EM CONTA / DEP"
+2022-07-22 * "Patrocínio" "VINTA SERVICOS E SOLUCOES TECNOLOGIA 19.259.743/0001-09 - TED-CRÉDITO EM CONTA / DEP"
   Assets:Bancos:BB  5000.00 * 0.1 BRL
   Assets:Eventos:Pybr2022 5000.00 * 0.9 BRL
   Income:Eventos:Pybr2022
@@ -59,19 +59,19 @@
   Assets:Bancos:BB  -58.00 BRL
   Expenses:APyB:Taxas:BB
 
-2022-07-26 * "Copos para kit de participantes" "PAGAMENTO DE BOLETO"
+2022-07-26 * "Copos Kit Participante" "MEU COPO ECO COM. E LOC. LTDA 13.995.242/0001-04 - PAGAMENTO DE BOLETO"
   Expenses:Eventos:Pyne2022 1174.48 BRL
   Assets:Eventos:Pyne2022
 
-2022-07-27 * "Coffee Break" "TED TRANSF.ELETR.DISPONIV"
+2022-07-27 * "Coffee Break 1/2" "FABRICIA MACHADO MASCAREN 36.114.630/0001-34 - TED TRANSF.ELETR.DISPONIV"
   Expenses:Eventos:Pyne2022 4632.50 BRL
   Assets:Eventos:Pyne2022
 
-2022-07-27 * "Reembolso" "TED TRANSF.ELETR.DISPONIV"
+2022-07-27 * "Reembolso" "HENELLYRAN K S ***.852.598-** - TED TRANSF.ELETR.DISPONIV"
   Expenses:Eventos:Pyne2022  1004.43 BRL
   Assets:Eventos:Pyne2022
 
-2022-07-27 * "Reembolso" "TED TRANSF.ELETR.DISPONIV"
+2022-07-27 * "Reembolso" "HENELLYRAN K S ***.852.598-** - TED TRANSF.ELETR.DISPONIV"
   Expenses:Eventos:Pyne2022  511.25 BRL
   Assets:Eventos:Pyne2022
 
@@ -83,11 +83,11 @@
   Assets:Bancos:BB  -11.00 BRL
   Expenses:APyB:Taxas:BB
 
-2022-07-29 * "Reembolso" "TED TRANSF.ELETR.DISPONIV"
+2022-07-29 * "Reembolso" "HENELLYRAN K S ***.852.598-** - TED TRANSF.ELETR.DISPONIV"
   Expenses:Eventos:Pyne2022  980.43 BRL
   Assets:Eventos:Pyne2022
 
-2022-07-29 * "Ecobags para kit de participantes" "TED TRANSF.ELETR.DISPONIV"
+2022-07-29 * "Ecobags Kit Participante" "ROSANE APARECIDA FELGUEIR 40.993.949/0001-54 TED TRANSF.ELETR.DISPONIV"
   Expenses:Eventos:Pyne2022 2793.90 BRL
   Assets:Eventos:Pyne2022
 
