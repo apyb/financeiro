@@ -22,4 +22,4 @@ RUN groupadd -r apyb && useradd --no-log-init -r -g apyb apyb
 USER apyb
 # ---
 
-CMD ["fava", "financeiro/main.beancount", "--host", "0.0.0.0", "--port", "5000"]
+CMD ["fava", "financeiro/main.beancount", "--host", "0.0.0.0", "--port", "5000", "--read-only"]
