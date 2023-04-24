@@ -1,7 +1,7 @@
 ;; -*- mode: beancount -*-
 ;; extratos/2022-04-bb.ofx
 
-2022-04-06 * "Gravação Palestras" "Restituição - PIX - RECEBIDO / DEP"
+2022-04-06 * "Restiuição" "THIAGO ARAUJO ***.956.378-** - PIX - RECEBIDO / DEP"
   Assets:Eventos:Pybr2019  1000.00 BRL
   Income:Eventos:Pybr2019
 

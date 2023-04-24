@@ -1,7 +1,7 @@
 ;; -*- mode: beancount -*-
 ;; extratos/2022-01-bb.ofx
 
-2022-01-12 * "Contadora" "PIX - ENVIADO"
+2022-01-12 * "Escritório de Contabilidade" "Atuale Assessoria Contabil 10.824.037/0001-98 - PIX - ENVIADO"
   Assets:Bancos:BB  -185.55 BRL
   Expenses:APyB:Contadora
 
@@ -21,7 +21,7 @@
   Assets:Bancos:BB  93.00 BRL
   Equity:Investimentos:BB
 
-2022-01-18 * "Gravação Palestras" "Restituição - PIX - RECEBIDO / DEP"
+2022-01-18 * "Restituição" "THIAGO ARAUJO ***.956.378-** - PIX - RECEBIDO / DEP"
   Assets:Eventos:Pybr2019  1000.00 BRL
   Income:Eventos:Pybr2019
 
@@ -29,6 +29,6 @@
   Assets:Bancos:BB  -52.35 BRL
   Expenses:APyB:Taxas:BB
 
-2022-01-31 * "Gravação Palestras" "Restituição - PIX - RECEBIDO / DEP"
+2022-01-31 * "Restituição" "THIAGO ARAUJO ***.956.378-** - PIX - RECEBIDO / DEP"
   Assets:Eventos:Pybr2019  1000.00 BRL
   Income:Eventos:Pybr2019

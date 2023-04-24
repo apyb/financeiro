@@ -1,27 +1,27 @@
 ;; -*- mode: beancount -*-
 ;; extratos/2022-03-bb.ofx
 
-2022-03-02 * "TED-CRÉDITO EM CONTA / DEP"
+2022-03-02 * "PagSeguro" "ASSOCIAÇÃO PYTHON BRASIL 93.44.485/0001-05 - TED-CRÉDITO EM CONTA / DEP"
   Assets:Bancos:BB  1.61 BRL
   Assets:Bancos:PagSeguro
 
-2022-03-07 * "Gravação Palestras" "Restituição - PIX - RECEBIDO / DEP"
+2022-03-07 * "Restituição" "THIAGO ARAUJO ***.956.378-** - PIX - RECEBIDO / DEP"
   Assets:Eventos:Pybr2019  1000.00 BRL
   Income:Eventos:Pybr2019
 
-2022-03-08 * "TED-CRÉDITO EM CONTA / DEP"
+2022-03-08 * "PagSeguro" "ASSOCIAÇÃO PYTHON BRASIL 93.44.485/0001-05 - TED-CRÉDITO EM CONTA / DEP"
   Assets:Bancos:BB  10000.00 BRL
   Assets:Bancos:PagSeguro
 
-2022-03-09 * "TED-CRÉDITO EM CONTA / DEP"
+2022-03-09 * "PagSeguro" "ASSOCIAÇÃO PYTHON BRASIL 93.44.485/0001-05 - TED-CRÉDITO EM CONTA / DEP"
   Assets:Bancos:BB  10000.00 BRL
   Assets:Bancos:PagSeguro
 
-2022-03-10 * "TED-CRÉDITO EM CONTA / DEP"
+2022-03-10 * "PagSeguro" "ASSOCIAÇÃO PYTHON BRASIL 93.44.485/0001-05 - TED-CRÉDITO EM CONTA / DEP"
   Assets:Bancos:BB  10000.00 BRL
   Assets:Bancos:PagSeguro
 
-2022-03-11 * "TED-CRÉDITO EM CONTA / DEP"
+2022-03-11 * "PagSeguro" "ASSOCIAÇÃO PYTHON BRASIL 93.44.485/0001-05 - TED-CRÉDITO EM CONTA / DEP"
   Assets:Bancos:BB  10000.00 BRL
   Assets:Bancos:PagSeguro
 

@@ -1,23 +1,23 @@
 ;; -*- mode: beancount -*-
 ;; extratos/2022-10-bb.ofx
 
-2022-10-03 * "Reembolso Passagens - TED TRANSF.ELETR.DISPONIV"
+2022-10-03 * "Reembolso Passagens" "ANA C V S ***.217.584-** - TED TRANSF.ELETR.DISPONIV"
   Assets:FundoInclusão:Pybr2022  -570.52 BRL
   Expenses:FundoInclusão:Pybr2022
 
-2022-10-03 * "Hospedagem Keynotes 2/2 - TED TRANSF.ELETR.DISPONIV"
+2022-10-03 * "Hospedagem Keynotes 2/2" "HTS ADM ADRIANOPOLIS 21.878.892/0004-40 - TED TRANSF.ELETR.DISPONIV"
   Assets:Eventos:Pybr2022  -3768.00 BRL
   Expenses:Eventos:Pybr2022
 
-2022-10-03 * "Internet 1/2 - TED TRANSF.ELETR.DISPONIV"
+2022-10-03 * "Internet 1/2" "ID HOUSE TECNOLOGIA E CERTIFICACAO LTDA 15.526.906/0001-11 - TED TRANSF.ELETR.DISPONIV"
   Assets:Eventos:Pybr2022  -3850.00 BRL
   Expenses:Eventos:Pybr2022
 
-2022-10-03 * "Camisas 1/2 - PIX - ENVIADO"
+2022-10-03 * "Camisas 1/2" "N BRAGA SANTOS E CIA LTDA 37.501.066/0001-75 - PIX - ENVIADO"
   Assets:Eventos:Pybr2022  -1500.00 BRL
   Expenses:Eventos:Pybr2022
 
-2022-10-03 * "PIX - ENVIADO"
+2022-10-03 * "Canecas 1/2" "I. H. M. MARQUES EPP 10.823.109/0001-82 - PIX - ENVIADO"
   Assets:Eventos:Pybr2022  -960.00 BRL
   Expenses:Eventos:Pybr2022
 
@@ -33,17 +33,17 @@
   Assets:Bancos:BB  -11.00 BRL
   Expenses:APyB:Taxas:BB
 
-2022-10-04 * "Venda de Ingresso - PIX - RECEBIDO / DEP"
+2022-10-04 * "Ingressos" "Jonatas T S B ***.747.322-** - PIX - RECEBIDO / DEP"
   Assets:Bancos:BB  110.00 * 0.1 BRL
   Assets:Eventos:Pybr2022  110.00 * 0.9 BRL
   Income:Eventos:Pybr2022
 
-2022-10-04 * "Venda de Ingresso - PIX - RECEBIDO / DEP"
+2022-10-04 * "Ingressos" "Igor A C R ***.122.842-** - PIX - RECEBIDO / DEP"
   Assets:Bancos:BB  110.00 * 0.1 BRL
   Assets:Eventos:Pybr2022  110.00 * 0.9 BRL
   Income:Eventos:Pybr2022
 
-2022-10-04 * "Tirantes extra - PIX - ENVIADO"
+2022-10-04 * "Tirantes extra" "Tirantes Comercio de Materiais de Id 23.762.165/0001-04 - PIX - ENVIADO"
   Assets:Eventos:Pybr2022  -750.00 BRL
   Expenses:Eventos:Pybr2022
 
@@ -51,12 +51,12 @@
   Assets:Bancos:BB  -7.42 BRL
   Expenses:APyB:Taxas:BB
 
-2022-10-05 * "INDT" "Patrocínio - TED-PAG FORNECEDORES / DEP"
+2022-10-05 * "Patrocínio" "INDT - INSTITUTO DE DESENVOLVIMENTO TECNOLOGICO 04.802.134/0002-68 - TED-PAG FORNECEDORES / DEP"
   Assets:Bancos:BB  10000.00 * 0.1 BRL
   Assets:Eventos:Pybr2022  10000.00 * 0.9 BRL
   Income:Eventos:Pybr2022
 
-2022-10-05 * "Lonas e banners 1/2 - PIX - ENVIADO"
+2022-10-05 * "Lonas e banners 1/2" "Bruno Paixao Silva 34.037.602/0001-35 - PIX - ENVIADO"
   Assets:Eventos:Pybr2022  -8010.00 BRL
   Expenses:Eventos:Pybr2022
 
@@ -64,20 +64,20 @@
   Assets:Bancos:BB  -10.00 BRL
   Expenses:APyB:Taxas:BB
 
-2022-10-06 * "ORPAG ORIGEM EXTERIOR / DEP"
+2022-10-06 * "Apoio Evento" "Python Software Foundation - ORPAG ORIGEM EXTERIOR / DEP"
   Assets:Eventos:10MeetupGrupyRN  1629.57 BRL
   Income:Eventos:10MeetupGrupyRN
 
-2022-10-06 * "PSF" "Apoio Evento - ORPAG ORIGEM EXTERIOR / DEP"
+2022-10-06 * "Apoio Evento" "Python Software Foundation - ORPAG ORIGEM EXTERIOR / DEP"
   Assets:Bancos:BB  77628.50 * 0.1 BRL
   Assets:Eventos:Pybr2022  77628.50 * 0.9 BRL
   Income:Eventos:Pybr2022
 
-2022-10-06 * "PSF" "Apoio Evento - ORPAG ORIGEM EXTERIOR / DEP"
+2022-10-06 * "Apoio Evento" "Python Software Foundation - ORPAG ORIGEM EXTERIOR / DEP"
   Assets:FundoInclusão:Pybr2022  62102.80 BRL
   Income:FundoInclusão:Pybr2022
 
-2022-10-06 * "Venda de Ingresso - PIX - RECEBIDO / DEP"
+2022-10-06 * "Ingressos" "Pedro S C R ***.623.582-** - PIX - RECEBIDO / DEP"
   Assets:Bancos:BB  220.00 * 0.1 BRL
   Assets:Eventos:Pybr2022  220.00 * 0.9 BRL
   Income:Eventos:Pybr2022
@@ -90,37 +90,38 @@
   Assets:Bancos:BB  -530.98 BRL
   Expenses:APyB:Taxas:BB
 
-2022-10-07 * "Vinta" "Patrocínio - TED-CRÉDITO EM CONTA / DEP"
+2022-10-07 * "Patrocínio" "VINTA SERVICOS E SOLUCOES TECNOLOGIA 19.259.743/0001-09 - TED-CRÉDITO EM CONTA / DEP"
   Assets:Eventos:DjangoGirlsParnaiba2022  400.00 BRL
   Income:Eventos:DjangoGirlsParnaiba2022
 
-2022-10-07 * "Eldorado" "Patrocínio - TED-CRÉDITO EM CONTA / DEP"
-  Assets:Eventos:Pybr2022  10000.00 BRL
+2022-10-07 * "Patrocínio" "INSTITUTO DE PESQUISAS ELDORADO 02.437.460/0005-30 - TED-CRÉDITO EM CONTA / DEP"
+  Assets:Bancos:BB  10000.00 * 0.1 BRL
+  Assets:Eventos:Pybr2022  10000.00 * 0.9 BRL
   Income:Eventos:Pybr2022
 
-2022-10-07 * "Open Knowledge Brasil" "Ingresso - PIX - RECEBIDO / DEP"
+2022-10-07 * "Ingressos" "OPEN KNOWLEDGE BRASIL 19.131.243/0001-97 - PIX - RECEBIDO / DEP"
   Assets:Bancos:BB  270.00 * 0.1 BRL
   Assets:Eventos:Pybr2022  270.00 * 0.9 BRL
   Income:Eventos:Pybr2022
 
-2022-10-07 * "Venda de Ingresso - PIX - RECEBIDO / DEP"
+2022-10-07 * "Ingressos" "Emille K S A ***.054.522-** - PIX - RECEBIDO / DEP"
   Assets:Bancos:BB  110.00 * 0.1 BRL
   Assets:Eventos:Pybr2022  110.00 * 0.9 BRL
   Income:Eventos:Pybr2022
 
-2022-10-07 * "Credenciais 2/2 - TED TRANSF.ELETR.DISPONIV"
+2022-10-07 * "Credenciais 2/2" "THAIRLLYS FONSECA DA SILVA 31.898.464/0001-90 - TED TRANSF.ELETR.DISPONIV"
   Assets:Eventos:Pybr2022  -750.00 BRL
   Expenses:Eventos:Pybr2022
 
-2022-10-07 * "Credenciais Extra - TED TRANSF.ELETR.DISPONIV"
+2022-10-07 * "Credenciais Extra" "THAIRLLYS FONSECA DA SILVA 31.898.464/0001-90 - TED TRANSF.ELETR.DISPONIV"
   Assets:Eventos:Pybr2022  -300.00 BRL
   Expenses:Eventos:Pybr2022
 
-2022-10-07 * "Reembolso - TED TRANSF.ELETR.DISPONIV"
+2022-10-07 * "Reembolso" "ANA C V S ***.217.584-** - TED TRANSF.ELETR.DISPONIV"
   Assets:Eventos:Pybr2022  -12813.94 BRL
   Expenses:Eventos:Pybr2022
 
-2022-10-07 * "Reembolso - TED TRANSF.ELETR.DISPONIV"
+2022-10-07 * "Reembolso" "ANA C V S ***.217.584-** - TED TRANSF.ELETR.DISPONIV"
   Assets:FundoInclusão:Pybr2022  -4282.40 BRL
   Expenses:FundoInclusão:Pybr2022
 
@@ -140,12 +141,12 @@
   Assets:Bancos:BB  -11.00 BRL
   Expenses:APyB:Taxas:BB
 
-2022-10-10 * "Venda de Ingresso - PIX - RECEBIDO / DEP"
+2022-10-10 * "Venda de Ingresso" "Gabriel G S ***.620.552-** - PIX - RECEBIDO / DEP"
   Assets:Bancos:BB  220.00 * 0.1 BRL
   Assets:Eventos:Pybr2022  220.00 * 0.9 BRL
   Income:Eventos:Pybr2022
 
-2022-10-10 * "Passagens rodoviárias - PIX - ENVIADO"
+2022-10-10 * "Passagens rodoviárias" "Alecrim Representacao Comercial Ltda 43.278.744/0001-85 - PIX - ENVIADO"
   Assets:FundoInclusão:Pybr2022  -300.00 BRL
   Expenses:FundoInclusão:Pybr2022
 
@@ -153,20 +154,20 @@
   Assets:Bancos:BB  -2.97 BRL
   Expenses:APyB:Taxas:BB
 
-2022-10-11 * "Prodam" "Ingressos - PIX - RECEBIDO / DEP"
+2022-10-11 * "Ingressos" "PRODAM - PROCESSAMENTO DE DADOS AMAZONAS S.A. 04.407.920/0001-80 - PIX - RECEBIDO / DEP"
   Assets:Bancos:BB  880.00 * 0.1 BRL
   Assets:Eventos:Pybr2022  880.00 * 0.9 BRL
   Income:Eventos:Pybr2022
 
-2022-10-13 * "Lincoln Loop" "Patrocínio - PIX - RECEBIDO / DEP"
+2022-10-13 * "Patrocínio" "Lincoln Loop - PIX - RECEBIDO / DEP"
   Assets:FundoInclusão:Pybr2022  0.01 BRL
   Income:FundoInclusão:Pybr2022
 
-2022-10-13 * "Serviço de Limpeza - TRANSFERÊNCIA ENVIADA / XFER"
+2022-10-13 * "Serviço de Limpeza" "ANA CRISTINA M D M ***.476.192-** - TRANSFERÊNCIA ENVIADA / XFER"
   Assets:Eventos:Pybr2022  -4050.00 BRL
   Expenses:Eventos:Pybr2022
 
-2022-10-13 * "Coffee Break 1/2 - TED TRANSF.ELETR.DISPONIV"
+2022-10-13 * "Coffee Break 1/2" "CHRISTIANI MARIA MENDES BARROS 03.021.373/0001-37 - TED TRANSF.ELETR.DISPONIV"
   Assets:Eventos:Pybr2022  -46890.00 BRL
   Expenses:Eventos:Pybr2022
 
@@ -174,89 +175,89 @@
   Assets:Bancos:BB  -11.00 BRL
   Expenses:APyB:Taxas:BB
 
-2022-10-14 * "Lincoln Loop" "Patrocínio - PIX - RECEBIDO / DEP"
+2022-10-14 * "Patrocínio" "Lincoln Loop - PIX - RECEBIDO / DEP"
   Assets:FundoInclusão:Pybr2022  5069.77 BRL
   Income:FundoInclusão:Pybr2022
 
-2022-10-14 * "Saks" "Ingresso - PIX - RECEBIDO / DEP"
+2022-10-14 * "Ingressos" "SAKS CONSULTORIA, ASSESSORIA, VIDA E PREVIDENCIA LTDA 11.094.618/0001-84 - PIX - RECEBIDO / DEP"
   Assets:Bancos:BB  1100.00 * 0.1 BRL
   Assets:Eventos:Pybr2022  1100.00 * 0.9 BRL
   Income:Eventos:Pybr2022
 
-2022-10-14 * "IMPOSTOS"
+2022-10-14 * "ISSQN" "PREF MUN CAXIAS DO SUL - IMPOSTOS"
   Assets:Bancos:BB  -1818.80 BRL
   Expenses:APyB:Impostos
 
-2022-10-14 * "Fotografia 1/2 - PIX - ENVIADO"
+2022-10-14 * "Fotografia 1/2" "TADEU LIMA DA ROCHA E SILVA JUNIOR 29.750.229/0001-25 - PIX - ENVIADO"
   Assets:Eventos:Pybr2022  -1800.00 BRL
   Expenses:Eventos:Pybr2022
 
-2022-10-14 * "Espaço Kids 1/2 - TED TRANSF.ELETR.DISPONIV"
+2022-10-14 * "Espaço Kids 1/2" "VIA PRODUCOES CULTURAIS LTDA 26.825.227/0001-60 - TED TRANSF.ELETR.DISPONIV"
   Assets:Eventos:Pybr2022  -5400.00 BRL
   Expenses:Eventos:Pybr2022
 
-2022-10-14 * "Canecas 2/2 - TED TRANSF.ELETR.DISPONIV"
+2022-10-14 * "Canecas 2/2" "I. H. M. MARQUES EPP 10.823.109/0001-82 - TED TRANSF.ELETR.DISPONIV"
   Assets:Eventos:Pybr2022  -960.00 BRL
   Expenses:Eventos:Pybr2022
 
 2022-10-14 * "TAR DOC/TED ELETRÔNICO"
   Assets:Bancos:BB  -11.00 BRL
-  Expenses:APyB:Impostos
+  Expenses:APyB:Taxas:BB
 
 2022-10-14 * "TAR DOC/TED ELETRÔNICO"
   Assets:Bancos:BB  -11.00 BRL
-  Expenses:APyB:Impostos
+  Expenses:APyB:Taxas:BB
 
 2022-10-14 * "TARIFA PIX ENVIADO"
   Assets:Bancos:BB  -10.00 BRL
-  Expenses:APyB:Impostos
+  Expenses:APyB:Taxas:BB
 
-2022-10-17 * "INDT" "Ingressos - TED-PAG FORNECEDORES / DEP"
+2022-10-17 * "Ingressos" "INDT - INSTITUTO DE DESENVOLVIMENTO TECNOLOGICO 04.802.134/0002-68 - TED-PAG FORNECEDORES / DEP"
   Assets:Bancos:BB  1100.00 * 0.1 BRL
   Assets:Eventos:Pybr2022  1100.00 * 0.9 BRL
   Income:Eventos:Pybr2022
 
-2022-10-17 * "Estandes 1/2 - TRANSFERÊNCIA ENVIADA / XFER"
+2022-10-17 * "Estandes 1/2" "Lume Consultoria Eirelli Epp 21.692.205/0001-55 - TRANSFERÊNCIA ENVIADA / XFER"
   Assets:Eventos:Pybr2022  -13146.00 BRL
   Expenses:Eventos:Pybr2022
 
-2022-10-17 * "Tradução 1/2 - PIX - ENVIADO"
+2022-10-17 * "Tradução 1/2" "FELIPE T ***.178.352-** - PIX - ENVIADO"
   Assets:Eventos:Pybr2022  -3520.00 BRL
   Expenses:Eventos:Pybr2022
 
-2022-10-17 * "Lonas e banners 2/2 - PIX - ENVIADO"
+2022-10-17 * "Lonas e banners 2/2" "Bruno Paixao Silva 34.037.602/0001-35 - PIX - ENVIADO"
   Assets:Eventos:Pybr2022  -9660.00 BRL
   Expenses:Eventos:Pybr2022
 
 2022-10-17 * "TARIFA PACOTE DE SERVIÇOS"
   Assets:Bancos:BB  -93.00 BRL
-  Expenses:APyB:Impostos
+  Expenses:APyB:Taxas:BB
 
 2022-10-17 * "TARIFA PIX ENVIADO"
   Assets:Bancos:BB  -20.00 BRL
-  Expenses:APyB:Impostos
+  Expenses:APyB:Taxas:BB
 
-2022-10-18 * "Locação de mesa e cadeiras - PIX - ENVIADO"
+2022-10-18 * "Locação de mesa e cadeiras" "JYS e Consultorias Ltda 10.826.686/0001-28 - PIX - ENVIADO"
   Assets:Eventos:Pybr2022  -500.00 BRL
   Expenses:Eventos:Pybr2022
 
-2022-10-18 * "Ecobags 2/2 - PIX - ENVIADO"
+2022-10-18 * "Ecobags 2/2" "Loumar Brindes 10.823.109/0001-82 - PIX - ENVIADO"
   Assets:Eventos:Pybr2022  -5600.00 BRL
   Expenses:Eventos:Pybr2022
 
-2022-10-18 * "Hospedagens 2/2 - TED TRANSF.ELETR.DISPONIV"
+2022-10-18 * "Hospedagens 2/2" "AC VIAGENS E PASSAGENS AEREAS LTDA 40.309.321/0001-97 - TED TRANSF.ELETR.DISPONIV"
   Assets:FundoInclusão:Pybr2022  -4865.00 BRL
   Expenses:FundoInclusão:Pybr2022
 
 2022-10-18 * "TED DEVOLVIDA / DEP"
-  Assets:Eventos:Pybr2022  10500.00 BRL
+  Assets:Bancos:BB  10500.00 BRL
   Income:Eventos:Pybr2022
 
 2022-10-18 * "TED TRANSF.ELETR.DISPONIV"
-  Assets:Eventos:Pybr2022  -10500.00 BRL
+  Assets:Bancos:BB  -10500.00 BRL
   Expenses:Eventos:Pybr2022
 
-2022-10-18 * "Estandes 2/2 - PIX - ENVIADO"
+2022-10-18 * "Estandes 2/2" "Lume Consultoria 21.692.205/0001-55 - PIX - ENVIADO"
   Assets:Eventos:Pybr2022  -3520.00 BRL
   Expenses:Eventos:Pybr2022
 
@@ -272,7 +273,7 @@
   Assets:Bancos:BB  -24.95 BRL
   Expenses:APyB:Taxas:BB
 
-2022-10-19 * "Camisas 2/2 - TED TRANSF.ELETR.DISPONIV"
+2022-10-19 * "Camisas 2/2" "N BRAGA SANTOS E CIA LTDA 37.501.066/0001-75 - TED TRANSF.ELETR.DISPONIV"
   Assets:Eventos:Pybr2022  -10500.00 BRL
   Expenses:Eventos:Pybr2022
 
@@ -280,19 +281,19 @@
   Assets:Bancos:BB  -11.00 BRL
   Expenses:APyB:Taxas:BB
 
-2022-10-20 * "Som, iluminação e gravação 1/2 - TED TRANSF.ELETR.DISPONIV"
+2022-10-20 * "Som, iluminação e gravação 1/2" "RENATO DE LIMA MESQUITA JUNIOR 12.408.334/0001-88 - TED TRANSF.ELETR.DISPONIV"
   Assets:Eventos:Pybr2022  -55000.00 BRL
   Expenses:Eventos:Pybr2022
 
-2022-10-20 * "Som, iluminação e gravação 2/2 -PIX - ENVIADO"
+2022-10-20 * "Som, iluminação e gravação 2/2" "RENATO DE LIMA MESQUITA JUNIOR 12.408.334/0001-88 -PIX - ENVIADO"
   Assets:Eventos:Pybr2022  -13320.00 BRL
   Expenses:Eventos:Pybr2022
 
-2022-10-20 * "Radios 1/2 - PIX - ENVIADO"
+2022-10-20 * "Radios" "Johnny Braga Soares 40.508.726/0001-54 - PIX - ENVIADO"
   Assets:Eventos:Pybr2022  -2800.00 BRL
   Expenses:Eventos:Pybr2022
 
-2022-10-20 * "Palmeiras de decoração - PIX - ENVIADO"
+2022-10-20 * "Palmeiras de decoração" "Railson M Silveira ***.046.752-** - PIX - ENVIADO"
   Assets:Eventos:Pybr2022  -3600.00 BRL
   Expenses:Eventos:Pybr2022
 
@@ -304,12 +305,12 @@
   Assets:Bancos:BB  -30.00 BRL
   Expenses:APyB:Taxas:BB
 
-2022-10-21 * "Grupo SBF" "Patrocínio - TED-PAG FORNECEDORES / DEP"
+2022-10-21 * "Patrocínio" "SBF COMERCIO DE PRODUTOS ESPORTIVOS S.A 06.347.409/0001-65 - TED-PAG FORNECEDORES / DEP"
   Assets:Bancos:BB  20000.00 * 0.1 BRL
   Assets:Eventos:Pybr2022  20000.00 * 0.9 BRL
   Income:Eventos:Pybr2022
 
-2022-10-21 * "Panos para o fundo da sala principal - PIX - ENVIADO"
+2022-10-21 * "Panos para o fundo da sala principal" "Lillian Caroline Lima de Oliveira 46.172.878/0001-05 - PIX - ENVIADO"
   Assets:Eventos:Pybr2022  -1200.00 BRL
   Expenses:Eventos:Pybr2022
 
@@ -317,10 +318,112 @@
   Assets:Bancos:BB  -10.00 BRL
   Expenses:APyB:Taxas:BB
 
-2022-10-24 * "Interpretes de Libras 1/2 - PIX - ENVIADO"
+2022-10-24 * "Interpretes de Libras 1/2" "Edivam Gaio Castro ***.928.852-** - PIX - ENVIADO"
   Assets:Eventos:Pybr2022  -7440.00 BRL
   Expenses:Eventos:Pybr2022
 
-2022-10-24 * "Interpretes de Libras 2/2 - PIX - ENVIADO"
+2022-10-24 * "Interpretes de Libras 2/2" "Edivam Gaio Castro ***.928.852-** - PIX - ENVIADO"
   Assets:Eventos:Pybr2022  -2925.00 BRL
   Expenses:Eventos:Pybr2022
+
+2022-10-24 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -20.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-10-25 * "Reembolso de Ingresso" "Anelise E ***.985.599-** - PIX - ENVIADO"
+  Assets:Eventos:Pysul2022  -55.00 BRL
+  Expenses:Eventos:Pysul2022
+
+2022-10-25 * "Reembolso de Ingresso" "Alynne F S ***.044.653-** - PIX - ENVIADO"
+  Assets:Eventos:Pysul2022  -110.00 BRL
+  Expenses:Eventos:Pysul2022
+
+2022-10-25 * "Reembolso de Ingresso" "Mercia S M C ***.304.299-** - PIX - ENVIADO"
+  Assets:Eventos:Pysul2022  -55.00 BRL
+  Expenses:Eventos:Pysul2022
+
+2022-10-25 * "Reembolso de Ingresso" "Fernando A L ***.056.189-** - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pysul2022  -110.00 BRL
+  Expenses:Eventos:Pysul2022
+
+2022-10-25 * "Reembolso de Ingresso" "Luiz F B ***.114.689-** - PIX - ENVIADO"
+  Assets:Eventos:Pysul2022  -110.00 BRL
+  Expenses:Eventos:Pysul2022
+
+2022-10-25 * "Espaço Kids 2/2" "VIA PRODUCOES CULTURAIS LTDA 26.825.227/0001-60 - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -5400.00 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-10-25 * "Coffee Break 2/2" "CHRISTIANI MARIA MENDES BARROS 03.021.373/0001-37 - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -47190.00 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-10-25 * "Fotografia 1/2" "TADEU LIMA DA ROCHA E SILVA JUNIOR 29.750.229/0001-25 - PIX - ENVIADO"
+  Assets:Eventos:Pybr2022  -1800.00 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-10-25 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-10-25 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-10-25 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-10-25 * "TARIFA PIX ENVIADO"
+  Assets:Bancos:BB  -13.08 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-10-25 * "RESGATE FUNDO / DEP"
+  Assets:Bancos:BB  1281.18 BRL
+  Equity:Investimentos:BB
+
+2022-10-26 * "Tradução 2/2" "FELIPE T ***.178.352-** - TRANSFERÊNCIA ENVIADA / XFER"
+  Assets:Eventos:Pybr2022  -13146.00 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-10-26 * "Produtora de eventos 2/2" "I.A.I. PROMOCOES LTDA 34.576.553/0001 09 - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -15000.00 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-10-26 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-10-26 * "RESGATE FUNDO / DEP"
+  Assets:Bancos:BB  28157.00 BRL
+  Equity:Investimentos:BB
+
+2022-10-28 * "Ingressos" "FUNDACAO AMAZONICA DE AMPARO A PESQUISA E DESENVOLVIMENTO TECNOLOGICO 02.844.344/0001-02 - TED-PAG FORNECEDORES / DEP"
+  Assets:Bancos:BB  4400.00 * 0.1 BRL
+  Assets:Eventos:Pybr2022  4400.00 * 0.9 BRL
+  Income:Eventos:Pybr2022
+
+2022-10-28 * "Primeiros socorros 2/2" "REBECCA PEREIRA DA SILVA SERVICOS HOSPITALARES EIRELI 26.938.533/0001 02 - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -4900.00 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-10-28 * "Internet 2/2" "ID HOUSE TECNOLOGIA E CERTIFICACAO LTDA 15.526.906/0001-11 - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -7700.00 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-10-28 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-10-28 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-10-28 * "RESGATE FUNDO / DEP"
+  Assets:Bancos:BB  8222.00 BRL
+  Equity:Investimentos:BB
+
+2022-10-31 * "Ingressos" "Eventbrite Brasil 15.913.672/0001-65 - TED-CRÉDITO EM CONTA / DEP"
+  Assets:Bancos:BB  64449.50 * 0.1 BRL
+  Assets:Eventos:Pybr2022  64449.50 * 0.9 BRL
+  Income:Eventos:Pybr2022
