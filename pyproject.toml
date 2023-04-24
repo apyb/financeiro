@@ -6,7 +6,7 @@ authors = ["Marco Rougeth <rougeth@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.11"
-fava = "^1.24"
+fava = "^1.24.4"
 
 [tool.poetry.dev-dependencies]
 
