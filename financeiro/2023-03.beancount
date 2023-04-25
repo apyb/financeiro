@@ -1,0 +1,24 @@
+;; -*- mode: beancount -*-
+;; extratos/2023-03-bb.ofx
+
+2023-03-10 * "ATUALE ASSESSORIA CONTABIL LTDA 10.824.037/0001-98 - PIX - ENVIADO"
+  Assets:Bancos:BB  -200.00 BRL
+  Expenses:APyB:Contadora
+
+2023-03-10 * "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 10/03/2023"
+  Assets:Bancos:BB  -1.98 BRL
+  Expenses:APyB:Taxas:BB
+
+2023-03-15 * "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 15/03/2023"
+  Assets:Bancos:BB  -103.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2023-03-16 * "Proteção Contra Acidentes 2/2" "RODRIGUES & RODRIGUES ARQUITETURA E CONSULTORIA LTDA 08.998.743/0001-04 - PAGAMENTO DE BOLETO"
+  Assets:Eventos:Pybr2023  -4176.00 BRL
+  Expenses:Eventos:Pybr2022
+
+2023-03-22 * "Patrocínio" "EVOLUX SISTEMAS LTDA - EPP 14.190.549/0001-09 - PIX - RECEBIDO"
+  Assets:Eventos:15MeetupGrupyRN  300.00 BRL
+  Income:Eventos:15MeetupGrupyRN
+
+
