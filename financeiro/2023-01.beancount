@@ -1,0 +1,20 @@
+;; -*- mode: beancount -*-
+;; extratos/2023-01-bb.ofx
+
+2023-01-16 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -103.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2023-01-25 * "TED TRANSF.ELETR.DISPONIV"
+  Assets:Bancos:BB  -2000.00 BRL
+  Expenses:APyB:Contadora
+
+2023-01-25 * "TARIFA RENOVAÇÃO CADASTRO"
+  Assets:Bancos:BB  -60.50 BRL
+  Expenses:APyB:Taxas:BB
+
+2023-01-31 * "PAGAMENTO DE BOLETO"
+  Assets:Eventos:Pybr2023  -5220.00 BRL
+  Expenses:Eventos:Pybr2023
+
+

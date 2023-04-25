@@ -62,6 +62,9 @@ option "operating_currency" "BRL"
 ; Django Girls Parnaíba 2022
 2022-10-07 open Assets:Eventos:DjangoGirlsParnaiba2022 BRL
 2022-10-07 open Income:Eventos:DjangoGirlsParnaiba2022 BRL
+; Python Brasil 2023
+2023-01-31 open Assets:Eventos:Pybr2023 BRL
+2023-01-31 open Expenses:Eventos:Pybr2023 BRL
 
 ; Fundos de Inclusão ==========================================================
 ; Python Brasil 2022
@@ -107,3 +110,4 @@ include "2022-09.beancount"
 include "2022-10.beancount"
 include "2022-11.beancount"
 include "2022-12.beancount"
+include "2023-01.beancount"
