@@ -58,6 +58,7 @@ option "operating_currency" "BRL"
 ; 10º Meetup Grupy-RN
 2022-10-06 open Assets:Eventos:10MeetupGrupyRN BRL
 2022-10-06 open Income:Eventos:10MeetupGrupyRN BRL
+2022-11-08 open Expenses:Eventos:10MeetupGrupyRN BRL
 ; Django Girls Parnaíba 2022
 2022-10-07 open Assets:Eventos:DjangoGirlsParnaiba2022 BRL
 2022-10-07 open Income:Eventos:DjangoGirlsParnaiba2022 BRL
@@ -104,3 +105,4 @@ include "2022-07.beancount"
 include "2022-08.beancount"
 include "2022-09.beancount"
 include "2022-10.beancount"
+include "2022-11.beancount"
