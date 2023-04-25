@@ -1,0 +1,20 @@
+;; -*- mode: beancount -*-
+;; extratos/2023-02-bb.ofx
+
+2023-02-07 * "Reembolso" "LAHIS G A  ***.072.632-** - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -258.13 BRL
+  Expenses:Eventos:Pybr2022
+
+2023-02-10 * "ATUALE ASSESSORIA CONTABIL LTDA 10.824.037/0001-98 - PIX - ENVIADO"
+  Assets:Bancos:BB  -200.00 BRL
+  Expenses:APyB:Contadora
+
+2023-02-13 * "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 10/02/2023"
+  Assets:Bancos:BB  -1.98 BRL
+  Expenses:APyB:Taxas:BB
+
+2023-02-15 * "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 15/02/2023"
+  Assets:Bancos:BB  -103.00 BRL
+  Expenses:APyB:Taxas:BB
+
+
