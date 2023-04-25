@@ -1,0 +1,20 @@
+;; -*- mode: beancount -*-
+;; extratos/2022-12-bb.ofx
+
+2022-12-05 * "RETENÇÃO IOF A RECOLHER"
+  Assets:Bancos:BB  -17.79 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-12-05 * "Reembolso" "MARCO A R O  ***.124.861-** - CÂMBIO"
+  Assets:Eventos:Pybr2022  -4682.21 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-12-13 * "IMPOSTOS"
+  Assets:Bancos:BB  -74.38 BRL
+  Expenses:APyB:Impostos
+
+2022-12-15 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -93.00 BRL
+  Expenses:APyB:Taxas:BB
+
+
