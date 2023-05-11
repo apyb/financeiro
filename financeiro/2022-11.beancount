@@ -1,0 +1,130 @@
+;; -*- mode: beancount -*-
+;; extratos/2022-11-bb.ofx
+
+2022-11-08 * "Reembolso" "ITALO E L S ***.089.274-** - TRANSFERÊNCIA ENVIADA / XFER"
+  Assets:Eventos:10MeetupGrupyRN  -1575.21 BRL
+  Expenses:Eventos:10MeetupGrupyRN
+
+2022-11-08 * "Serviço de Limpeza 2/2" "ANA CRISTINA MAIA DE MELO 34.670.476/0001-51 - TRANSFERÊNCIA ENVIADA / XFER"
+  Assets:Eventos:Pybr2022  -4050.00 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-11-08 * "Reembolso" "JULIANY R R ***.860.532-** - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -950.00 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-11-11 * "Devolução" "JULIANY R R ***.860.532-** - PIX - RECEBIDO / DEP"
+  Assets:Eventos:Pybr2022  501.88 BRL
+  Income:Eventos:Pybr2022
+
+2022-11-11 * "Reembolso" "JULIANY R R ***.860.532-** - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -2077.10 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-11-11 * "Reembolso" "ANA C V S ***.217.584-** - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -580.30 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-11-11 * "Reembolso" "MURILO V M O ***.016.055-** - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -599.80 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-11-11 * "Reembolso" "JULIANA M B L ***.690.154-** - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -244.70 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-11-11 * "Reembolso" "RENAN A S S ***.632.498-** - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -116.88 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-11-11 * "Reembolso" "JAILSON P J ***.680.392-** - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -200.34 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-11-11 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-11-11 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-11-11 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-11-11 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-11-11 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-11-11 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-11-16 * "TARIFA PACOTE DE SERVIÇOS"
+  Assets:Bancos:BB  -93.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-11-17 * "ISSQN" "PREF MUN CAXIAS DO SUL - IMPOSTOS"
+  Assets:Bancos:BB  -310.62 BRL
+  Expenses:APyB:Impostos
+
+2022-11-23 * "Reembolso" "THATIANNE A P M ***.582.262-** - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -192.17 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-11-23 * "Reembolso" "ALLANA D C T ***.313.836-** - TED TRANSF.ELETR.DISPONIV"
+  Assets:FundoInclusão:Pybr2022 -379.00 BRL
+  Expenses:FundoInclusão:Pybr2022
+
+2022-11-23 * "Reembolso" "ANA D P T  ***.351.778-** - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -774.00 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-11-23 * "Reembolso" "RENAN A S S ***.632.498-** - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -279.94 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-11-23 * "Reembolso" "LAHIS G A  ***.072.632-** - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -783.81 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-11-23 * "Reembolso" "LAHIS G A  ***.072.632-** - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -244.50 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-11-23 * "Reembolso" "MARCO A R O  ***.124.861-** - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2022  -4433.53 BRL
+  Expenses:Eventos:Pybr2022
+
+2022-11-23 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-11-23 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-11-23 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-11-23 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-11-23 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-11-23 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2022-11-23 * "TAR DOC/TED ELETRÔNICO"
+  Assets:Bancos:BB  -11.00 BRL
+  Expenses:APyB:Taxas:BB
