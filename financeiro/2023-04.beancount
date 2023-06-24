@@ -1,0 +1,24 @@
+;; -*- mode: beancount -*-
+;; extratos/2023-04-bb.ofx
+
+2023-04-10 * "Montante restante" "HENELLYRAN K S ***.852.598-** - PIX - RECEBIDO"
+  Assets:Eventos:Pyne2022  9101.52 BRL
+  Income:Eventos:Pyne2022
+
+2023-04-11 * "ATUALE ASSESSORIA CONTABIL LTDA 10.824.037/0001-98 - PIX - ENVIADO"
+  Assets:Bancos:BB  -200.00 BRL
+  Expenses:APyB:Contadora
+
+2023-04-11 * "ISSQN" "PREF MUN CAXIAS DO SUL - IMPOSTOS"
+  Assets:Bancos:BB  -12.00 BRL
+  Expenses:APyB:Impostos
+
+2023-04-12 * "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 11/04/2023"
+  Assets:Bancos:BB  -1.98 BRL
+  Expenses:APyB:Taxas:BB
+
+2023-04-17 * "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 17/04/2023"
+  Assets:Bancos:BB  -103.00 BRL
+  Expenses:APyB:Taxas:BB
+
+
