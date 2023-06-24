@@ -10,3 +10,11 @@
     Assets:Bancos:BB 204321.45 * 0.5 BRL
     Assets:FundoInclusão:Pybr2022 204321.45 * 0.5 BRL
     Assets:Eventos:Pybr2021
+
+2023-01-01 * "Transferência de caixa fundo inclusão pybr2022 para fundo inclusão pybr2023"
+    Assets:FundoInclusão:Pybr2023  71950.66 BRL
+    Assets:FundoInclusão:Pybr2022
+
+2023-04-10 * "Transferência de caixa pyne2022 para pyne2023"
+    Assets:Eventos:Pyne2023  6633.13 BRL
+    Assets:Eventos:Pyne2022
