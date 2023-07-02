@@ -1,0 +1,34 @@
+;; -*- mode: beancount -*-
+;; extratos/2023-05-bb.ofx
+
+2023-05-10 * "ATUALE ASSESSORIA CONTABIL LTDA 10.824.037/0001-98 - PIX - ENVIADO"
+  Assets:Bancos:BB  -200.00 BRL
+  Expenses:APyB:Contadora
+
+2023-05-11 * "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 10/05/2023"
+  Assets:Bancos:BB  -1.98 BRL
+  Expenses:APyB:Taxas:BB
+
+2023-05-15 * "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 15/05/2023"
+  Assets:Bancos:BB  -103.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2023-05-17 * "Reembolso" "ITALO E L S ***.089.274-** - TRANSFERÊNCIA ENVIADA / XFER"
+  Assets:Eventos:15MeetupGrupyRN  -295.00 BRL
+  Expenses:Eventos:15MeetupGrupyRN
+
+2023-05-23 * "TED DEVOLVIDA - AG OU CNT DEST DO CRED INVAL / DEP"
+  Assets:Bancos:BB  250.00 BRL
+  Income:Eventos:Pybr2023
+
+2023-05-23 * "BRUNO G D ***.028.080-** - TED TRANSF.ELETR.DISPONIV"
+  Assets:Bancos:BB  -250.00 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-05-29 * "Designer" "BRUNO G D ***.028.080-** - TED TRANSF.ELETR.DISPONIV"
+  Assets:Eventos:Pybr2023  -250.00 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-05-29 * "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 29/05/2023"
+  Assets:Bancos:BB  -11.50 BRL
+  Expenses:APyB:Taxas:BB

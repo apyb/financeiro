@@ -24,18 +24,6 @@ option "operating_currency" "BRL"
 ; Python Brasil 2020
 2020-11-16 open Assets:Eventos:Pybr2020 BRL
 2020-11-16 open Expenses:Eventos:Pybr2020 BRL
-; Python Nordeste 2020
-2020-02-20 open Assets:Eventos:Pyne2020 BRL
-2020-02-20 open Income:Eventos:Pyne2020 BRL
-2020-03-02 open Expenses:Eventos:Pyne2020 BRL
-2022-01-01 close Assets:Eventos:Pyne2020
-2022-01-01 close Income:Eventos:Pyne2020
-2022-01-01 close Expenses:Eventos:Pyne2020
-; Python Sul 2020
-2020-03-05 open Assets:Eventos:Pysul2020 BRL
-2020-03-05 open Income:Eventos:Pysul2020 BRL
-2022-01-01 close Assets:Eventos:Pysul2020
-2022-01-01 close Income:Eventos:Pysul2020
 ; Python Brasil 2021
 2021-07-30 open Assets:Eventos:Pybr2021 BRL
 2021-07-30 open Income:Eventos:Pybr2021 BRL
@@ -43,37 +31,65 @@ option "operating_currency" "BRL"
 2022-09-02 close Assets:Eventos:Pybr2021
 2022-09-02 close Income:Eventos:Pybr2021
 2022-09-02 close Expenses:Eventos:Pybr2021
-; Python Nordeste 2022
-2022-01-01 open Assets:Eventos:Pyne2022 BRL
-2022-06-22 open Income:Eventos:Pyne2022 BRL
-2022-07-20 open Expenses:Eventos:Pyne2022 BRL
-; Python Sul 2022
-2022-01-01 open Assets:Eventos:Pysul2022 BRL
-2022-08-15 open Income:Eventos:Pysul2022 BRL
-2022-08-17 open Expenses:Eventos:Pysul2022 BRL
 ; Python Brasil 2022
 2022-06-06 open Assets:Eventos:Pybr2022 BRL
 2022-06-20 open Expenses:Eventos:Pybr2022 BRL
 2022-06-06 open Income:Eventos:Pybr2022 BRL
+; Python Brasil 2023
+2023-01-31 open Assets:Eventos:Pybr2023 BRL
+2023-01-31 open Expenses:Eventos:Pybr2023 BRL
+2023-05-23 open Income:Eventos:Pybr2023 BRL
+
+; Python Nordeste 2020
+2020-02-20 open Assets:Eventos:Pyne2020 BRL
+2020-02-20 open Income:Eventos:Pyne2020 BRL
+2020-03-02 open Expenses:Eventos:Pyne2020 BRL
+2022-01-01 close Assets:Eventos:Pyne2020
+2022-01-01 close Income:Eventos:Pyne2020
+2022-01-01 close Expenses:Eventos:Pyne2020
+; Python Nordeste 2022
+2022-01-01 open Assets:Eventos:Pyne2022 BRL
+2022-06-22 open Income:Eventos:Pyne2022 BRL
+2022-07-20 open Expenses:Eventos:Pyne2022 BRL
+2023-04-10 close Assets:Eventos:Pyne2022
+2023-04-10 close Income:Eventos:Pyne2022
+2023-04-10 close Expenses:Eventos:Pyne2022
+; Python Nordeste 2023
+2023-04-10 open Assets:Eventos:Pyne2023 BRL
+
+; Python Sul 2020
+2020-03-05 open Assets:Eventos:Pysul2020 BRL
+2020-03-05 open Income:Eventos:Pysul2020 BRL
+2022-01-01 close Assets:Eventos:Pysul2020
+2022-01-01 close Income:Eventos:Pysul2020
+; Python Sul 2022
+2022-01-01 open Assets:Eventos:Pysul2022 BRL
+2022-08-15 open Income:Eventos:Pysul2022 BRL
+2022-08-17 open Expenses:Eventos:Pysul2022 BRL
+
 ; 10º Meetup Grupy-RN
 2022-10-06 open Assets:Eventos:10MeetupGrupyRN BRL
 2022-10-06 open Income:Eventos:10MeetupGrupyRN BRL
 2022-11-08 open Expenses:Eventos:10MeetupGrupyRN BRL
-; Django Girls Parnaíba 2022
-2022-10-07 open Assets:Eventos:DjangoGirlsParnaiba2022 BRL
-2022-10-07 open Income:Eventos:DjangoGirlsParnaiba2022 BRL
-; Python Brasil 2023
-2023-01-31 open Assets:Eventos:Pybr2023 BRL
-2023-01-31 open Expenses:Eventos:Pybr2023 BRL
 ; 15º Meetup Grupy-RN
 2023-03-22 open Assets:Eventos:15MeetupGrupyRN BRL
 2023-03-22 open Income:Eventos:15MeetupGrupyRN BRL
+2023-05-17 open Expenses:Eventos:15MeetupGrupyRN BRL
+
+; Django Girls Parnaíba 2022
+2022-10-07 open Assets:Eventos:DjangoGirlsParnaiba2022 BRL
+2022-10-07 open Income:Eventos:DjangoGirlsParnaiba2022 BRL
 
 ; Fundos de Inclusão ==========================================================
 ; Python Brasil 2022
 2022-09-02 open Assets:FundoInclusão:Pybr2022 BRL
 2022-09-19 open Expenses:FundoInclusão:Pybr2022 BRL
 2022-09-21 open Income:FundoInclusão:Pybr2022 BRL
+2023-01-01 close Assets:FundoInclusão:Pybr2022
+2023-01-01 close Expenses:FundoInclusão:Pybr2022
+2023-01-01 close Income:FundoInclusão:Pybr2022
+; Python Brasil 2023
+2023-01-01 open Assets:FundoInclusão:Pybr2023 BRL
 
 ; Transições ==================================================================
 include "eventos-concluídos.beancount"
@@ -116,3 +132,5 @@ include "2022-12.beancount"
 include "2023-01.beancount"
 include "2023-02.beancount"
 include "2023-03.beancount"
+include "2023-04.beancount"
+include "2023-05.beancount"
