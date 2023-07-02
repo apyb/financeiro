@@ -1,6 +1,9 @@
 ; Configurações
+option "title" "apyb"
 option "operating_currency" "BRL"
 2022-11-06 custom "fava-option" "show_closed_accounts" "true"
+2023-07-02 custom "fava-option" "language" "pt_BR"
+2023-07-02 custom "fava-option" "default_page" "balance_sheet/"
 
 ; APyB ========================================================================
 2020-01-02 open Assets:Bancos:BB BRL
