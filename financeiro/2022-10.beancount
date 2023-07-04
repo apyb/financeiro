@@ -74,8 +74,9 @@
   Income:Eventos:Pybr2022
 
 2022-10-06 * "Apoio Evento" "Python Software Foundation - ORPAG ORIGEM EXTERIOR / DEP"
-  Assets:FundoInclusão:Pybr2022  62102.80 BRL
-  Income:FundoInclusão:Pybr2022
+  Assets:Bancos:BB  62102.80 * 0.1 BRL
+  Assets:Eventos:Pybr2022  62102.80 * 0.9 BRL
+  Income:Eventos:Pybr2022
 
 2022-10-06 * "Ingressos" "Pedro S C R ***.623.582-** - PIX - RECEBIDO / DEP"
   Assets:Bancos:BB  220.00 * 0.1 BRL
