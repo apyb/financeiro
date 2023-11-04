@@ -16,6 +16,7 @@ option "operating_currency" "BRL"
 2020-11-04 open Expenses:APyB:Infra BRL
 2020-01-22 open Expenses:APyB:Ops BRL
 2021-09-19 open Expenses:APyB:PremioDTJF BRL
+2023-07-28 open Expenses:APyB:IdentidadeVisual BRL
 2021-11-16 open Income:APyB:Anuidades BRL
 2021-09-19 open Income:APyB:Estorno BRL
 
@@ -65,7 +66,7 @@ option "operating_currency" "BRL"
 ; Python Norte 2023
 2023-07-07 open Assets:Eventos:Pyn2023 BRL
 2023-07-07 open Income:Eventos:Pyn2023 BRL
-; 2023-07-07 open Expenses:Eventos:Pyn2023 BRL
+2023-08-24 open Expenses:Eventos:Pyn2023 BRL
 
 ; Python Sul 2020
 2020-03-05 open Assets:Eventos:Pysul2020 BRL
@@ -85,6 +86,9 @@ option "operating_currency" "BRL"
 2023-03-22 open Assets:Eventos:15MeetupGrupyRN BRL
 2023-03-22 open Income:Eventos:15MeetupGrupyRN BRL
 2023-05-17 open Expenses:Eventos:15MeetupGrupyRN BRL
+; 16º Meetup Grupy-RN
+2023-08-16 open Assets:Eventos:16MeetupGrupyRN BRL
+2023-08-16 open Income:Eventos:16MeetupGrupyRN BRL
 
 ; Django Girls Parnaíba 2022
 2022-10-07 open Assets:Eventos:DjangoGirlsParnaiba2022 BRL
@@ -145,3 +149,5 @@ include "2023-03.beancount"
 include "2023-04.beancount"
 include "2023-05.beancount"
 include "2023-06.beancount"
+include "2023-07.beancount"
+include "2023-08.beancount"
