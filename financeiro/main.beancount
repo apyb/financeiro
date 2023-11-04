@@ -62,6 +62,11 @@ option "operating_currency" "BRL"
 2023-06-01 open Income:Eventos:Pyne2023 BRL
 2023-06-14 open Expenses:Eventos:Pyne2023 BRL
 
+; Python Norte 2023
+2023-07-07 open Assets:Eventos:Pyn2023 BRL
+2023-07-07 open Income:Eventos:Pyn2023 BRL
+; 2023-07-07 open Expenses:Eventos:Pyn2023 BRL
+
 ; Python Sul 2020
 2020-03-05 open Assets:Eventos:Pysul2020 BRL
 2020-03-05 open Income:Eventos:Pysul2020 BRL
