@@ -6,7 +6,8 @@
   Expenses:Eventos:Pyn2023
 
 2023-09-08 * "Compra de 10 ingressos" "TED-CRÉDITO EM CONTA - 341 3214  7112529000146 GOSHME SOLUCOE / DEP"
-  Assets:Eventos:Pyne2023  1400.00 BRL
+  Assets:Bancos:BB  1400.00 * 0.1 BRL
+  Assets:Eventos:Pyne2023  1400.00 * 0.9BRL
   Income:Eventos:Pyne2023
 
 2023-09-08 * "Patrocínio" "TED-CRÉDITO EM CONTA - 341 3214  7112529000146 GOSHME SOLUCOE / DEP"
@@ -35,15 +36,15 @@
   Assets:Eventos:Pyn2023  -225.00 BRL
   Expenses:Eventos:Pyn2023
 
-2023-09-12 * "Stickers, coffee break, brindes, transporte" "TRANSFERÊNCIA ENVIADA - 12/09 16:08 ITALO EPIFANIO DE LIMA E / XFER"
+2023-09-12 * "Reembolso - Stickers, coffee break, brindes, transporte" "TRANSFERÊNCIA ENVIADA - 12/09 16:08 ITALO EPIFANIO DE LIMA E / XFER"
   Assets:Eventos:16MeetupGrupyRN BRL  -2347.27 BRL
   Expenses:Eventos:16MeetupGrupyRN
 
-2023-09-12 * "Passagem de Keynote" "TED TRANSF.ELETR.DISPONIV - 260 0001 06621758405 ANA CECILIA VIEIR"
+2023-09-12 * "Reembolso - Passagem de Keynote" "TED TRANSF.ELETR.DISPONIV - 260 0001 06621758405 ANA CECILIA VIEIR"
   Assets:Eventos:Pyne2023  -862.07 BRL
   Expenses:Eventos:Pyne2023
 
-2023-09-12 * "Passagem de Keynote" "TED TRANSF.ELETR.DISPONIV - 260 0001 06621758405 ANA CECILIA VIEIR"
+2023-09-12 * "Reembolso - Passagem de Keynote" "TED TRANSF.ELETR.DISPONIV - 260 0001 06621758405 ANA CECILIA VIEIR"
   Assets:Eventos:Pyne2023  -985.78 BRL
   Expenses:Eventos:Pyne2023
 
@@ -88,7 +89,8 @@
   Expenses:APyB:Taxas:BB
 
 2023-09-14 * "Ingressos" "TED-CRÉDITO EM CONTA - 041 0290  8482495000144 DGT TECNOLOGIA / DEP"
-  Assets:Eventos:Pybr2023  640.00 BRL
+  Assets:Bancos:BB  640.00 * 0.1 BRL
+  Assets:Eventos:Pybr2023  640.00 * 0.9 BRL
   Income:Eventos:Pybr2023
 
 2023-09-14 * "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 13/09/2023"
@@ -111,9 +113,13 @@
   Assets:Bancos:BB  -10.00 BRL
   Expenses:APyB:Taxas:BB
 
+--------------------------FALTA NOTA FISCAL - INICIO -----------------------
+
 2023-09-19 * "PIX - RECEBIDO - 19/09 11:17 02311053000159 MONACO SERV / DEP"
   Assets:Eventos:  5000.00 BRL
-  Income:Eventos: NAO LOCALIZADO
+  Income:Eventos: 
+
+--------------------------FALTA NOTA FISCAL - FIM -----------------------
 
 2023-09-19 * "Alimentação" "PIX - ENVIADO - 19/09 20:30 COZINHA DENGO DE VO"
   Assets:Eventos:Pyne2023  -3640.00 BRL
@@ -128,8 +134,7 @@
   Expenses:APyB:Taxas:BB
 
 2023-09-20 * "Patrocínio" "PIX - RECEBIDO - 20/09 15:52 19259743000109 VINTA SOFTW / DEP"
-  Assets:Bancos:BB  500.00 * 0.1 BRL
-  Assets:Eventos:DjangoGirlsParnaiba2023  500.00 * 0.9 BRL
+  Assets:Eventos:DjangoGirlsParnaiba2023  500.00
   Income:Eventos:DjangoGirlsParnaiba2023
 
 2023-09-20 * "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 19/09/2023"
@@ -162,39 +167,38 @@
   Assets:Bancos:BB  -74.68 BRL
   Expenses:APyB:Taxas:BB
 
-  ---------------------------------------------------- CONTINUAR DAQUI ----------------------------------------------
-
-2023-09-22 * "TED TRANSF.ELETR.DISPONIV - 033 3747 009967852011161 HOTELARIA ACC"
-  Assets:Eventos:  -566.42 BRL
-  Expenses:Eventos:
+2023-09-22 * "Hospedagem keynotes 1/2" "TED TRANSF.ELETR.DISPONIV - 033 3747 009967852011161 HOTELARIA ACC"
+  Assets:Eventos:Pyne2023  -566.42 BRL
+  Expenses:Eventos:Pyne2023
 
 2023-09-22 * "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 22/09/2023"
-  Assets:Eventos:  -11.50 BRL
-  Expenses:Eventos:
+  Assets:Bancos:BB  -11.50 BRL
+  Expenses:APyB:Taxas:BB
 
-2023-09-25 * "TED DEVOLVIDA - AG OU CNT DEST DO CRED INVAL / DEP"
-  Assets:Eventos:  700.00 BRL
-  Expenses:Eventos:
+2023-09-25 * "Apresentação cultural" "TED DEVOLVIDA - AG OU CNT DEST DO CRED INVAL / DEP"
+  Assets:Eventos:Pyne2023  700.00 BRL
+  Income:Eventos:Pyne2023
 
-2023-09-25 * "TED-CRÉDITO EM CONTA - 341 0911 27865757000102 GLOBO COMUNICA / DEP"
-  Assets:Eventos:  10000.00 BRL
-  Expenses:Eventos:
+2023-09-25 * "Patrocínio" "TED-CRÉDITO EM CONTA - 341 0911 27865757000102 GLOBO COMUNICA / DEP"
+  Assets:Bancos:BB  10000.00 * 0.1 BRL
+  Assets:Eventos:Pybr2023  10000.00 * 0.9 BRL
+  Income:Eventos:Pybr2023
 
-2023-09-25 * "TED TRANSF.ELETR.DISPONIV - 260 0001 029469993000127 29.469.993 UI"
-  Assets:Eventos:  -700.00 BRL
-  Expenses:Eventos:
+2023-09-25 * "Apresentação cultural" "TED TRANSF.ELETR.DISPONIV - 260 0001 029469993000127 29.469.993 UI"
+  Assets:Eventos:Pyne2023  -700.00 BRL
+  Expenses:Eventos:Pyne2023
 
-2023-09-25 * "TED TRANSF.ELETR.DISPONIV - 260 0001 05570075500 LORENA SANTOS PER"
-  Assets:Eventos:  -44.87 BRL
-  Expenses:Eventos:
+2023-09-25 * "Reembolso - Deslocamentos" "TED TRANSF.ELETR.DISPONIV - 260 0001 05570075500 LORENA SANTOS PER"
+  Assets:Eventos:Pyne2023  -44.87 BRL
+  Expenses:Eventos:Pyne2023
 
-2023-09-25 * "TED TRANSF.ELETR.DISPONIV - 237 1055 08620273493 ELIS GRACE BATIST"
-  Assets:Eventos:  -19.94 BRL
-  Expenses:Eventos:
+2023-09-25 * "Reembolso - Deslocamentos" "TED TRANSF.ELETR.DISPONIV - 237 1055 08620273493 ELIS GRACE BATIST"
+  Assets:Eventos:Pyne2023  -19.94 BRL
+  Expenses:Eventos:Pyne2023
 
-2023-09-25 * "TED TRANSF.ELETR.DISPONIV - 260 0001 00736824545 UILLER EUSTAQUIO"
-  Assets:Eventos:  -700.00 BRL
-  Expenses:Eventos:
+2023-09-25 * "Apresentação cultural" "TED TRANSF.ELETR.DISPONIV - 260 0001 00736824545 UILLER EUSTAQUIO"
+  Assets:Eventos:Pyne2023  -700.00 BRL
+  Expenses:Eventos:Pyne2023
 
 2023-09-25 * "Camisas 2/2" "PIX - ENVIADO - 25/09 16:29 E PERGENTINO DOS SANTOS EI"
   Assets:Eventos:Pyne2023  -2700.00 BRL
@@ -204,84 +208,92 @@
   Assets:Eventos:Pyne2023  -861.25 BRL
   Expenses:Eventos:Pyne2023
 
-2023-09-25 * "PIX - ENVIADO - 25/09 16:45 YAN ONAWALE PAS"
-  Assets:Eventos:  -1800.00 BRL
-  Expenses:Eventos:
+2023-09-25 * "Fotografia 1/2" "PIX - ENVIADO - 25/09 16:45 YAN ONAWALE PAS"
+  Assets:Eventos:Pyne2023  -1800.00 BRL
+  Expenses:Eventos:Pyne2023
 
 2023-09-25 * "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 25/09/2023"
-  Assets:Eventos:  -11.50 BRL
-  Expenses:Eventos:
+  Assets:Bancos:BB  -11.50 BRL
+  Expenses:APyB:Taxas:BB
 
 2023-09-25 * "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 25/09/2023"
-  Assets:Eventos:  -11.50 BRL
-  Expenses:Eventos:
+  Assets:Bancos:BB  -11.50 BRL
+  Expenses:APyB:Taxas:BB
 
 2023-09-25 * "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 25/09/2023"
-  Assets:Eventos:  -11.50 BRL
-  Expenses:Eventos:
+  Assets:Bancos:BB  -11.50 BRL
+  Expenses:APyB:Taxas:BB
 
 2023-09-25 * "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 25/09/2023"
-  Assets:Eventos:  -11.50 BRL
-  Expenses:Eventos:
+  Assets:Bancos:BB  -11.50 BRL
+  Expenses:APyB:Taxas:BB
 
 2023-09-25 * "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 25/09/2023"
-  Assets:Eventos:  -28.52 BRL
-  Expenses:Eventos:
+  Assets:Bancos:BB  -28.52 BRL
+  Expenses:APyB:Taxas:BB
 
-2023-09-26 * "PIX - RECEBIDO - 26/09 10:05 00007184951441 JOSE DO PAT / DEP"
-  Assets:Eventos:  119.99 BRL
-  Expenses:Eventos:
+2023-09-26 * "Ingresso" "PIX - RECEBIDO - 26/09 10:05 00007184951441 JOSE DO PAT / DEP"
+  Assets:Bancos:BB  119.99 * 0.1 BRL
+  Assets:Eventos:Pyn2023  119.99 * 0.9 BRL
+  Expenses:Eventos:Pyn2023
 
-2023-09-27 * "PIX - ENVIADO - 27/09 18:29 TADEU LIMA DA ROCHA E SILV"
-  Assets:Eventos:  -900.00 BRL
-  Expenses:Eventos:
+2023-09-27 * "Fotografia 1/2" "PIX - ENVIADO - 27/09 18:29 TADEU LIMA DA ROCHA E SILV"
+  Assets:Eventos:Pyn2023  -900.00 BRL
+  Expenses:Eventos:Pyn2023
 
 2023-09-27 * "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 27/09/2023"
-  Assets:Eventos:  -8.91 BRL
-  Expenses:Eventos:
+  Assets:Bancos:BB  -8.91 BRL
+  Expenses:APyB:Taxas:BB
 
-2023-09-28 * "TED-CRÉDITO EM CONTA - 237 3381 15913672000165 EVENTBRITE BRA / DEP"
-  Assets:Eventos:  24740.00 BRL
-  Expenses:Eventos:
+2023-09-28 * "Ingressos" "TED-CRÉDITO EM CONTA - 237 3381 15913672000165 EVENTBRITE BRA / DEP"
+  Assets:Bancos:BB  24740.00 * 0.1 BRL
+  Assets:Eventos:Pyne2023  24740.00 * 0.9 BRL
+  Income:Eventos:Pyne2023
 
-2023-09-28 * "PIX - RECEBIDO - 28/09 14:33 00068025050297 CLAUDIO CAR / DEP"
-  Assets:Eventos:  119.99 BRL
-  Expenses:Eventos:
+2023-09-28 * "Ingresso" "PIX - RECEBIDO - 28/09 14:33 00068025050297 CLAUDIO CAR / DEP"
+  Assets:Bancos:BB  119.99 * 0.1 BRL
+  Assets:Eventos:Pyn2023  119.99 * 0.9 BRL
+  Income:Eventos:Pyn2023
 
-2023-09-28 * "PIX - AGENDAMENTO - 28/09 05:30 CAROLINA BARRETO SANTOS"
-  Assets:Eventos:  -785.00 BRL
-  Expenses:Eventos:
+2023-09-28 * "Designer 2/2" "PIX - AGENDAMENTO - 28/09 05:30 CAROLINA BARRETO SANTOS"
+  Assets:Eventos:Pyne2023  -785.00 BRL
+  Expenses:Eventos:Pyne2023
 
-2023-09-28 * "TED TRANSF.ELETR.DISPONIV - 341 2905 06891886503 MARCUS ALDREY SOA"
-  Assets:Eventos:  -103.00 BRL
-  Expenses:Eventos:
+2023-09-28 * "Água mineral" "TED TRANSF.ELETR.DISPONIV - 341 2905 06891886503 MARCUS ALDREY SOA"
+  Assets:Eventos:Pyne2023  -103.00 BRL
+  Expenses:Eventos:Pyne2023
 
-2023-09-28 * "TED TRANSF.ELETR.DISPONIV - 260 0001 05570075500 LORENA SANTOS PER"
-  Assets:Eventos:  -115.00 BRL
-  Expenses:Eventos:
+2023-09-28 * "Serviço gráfico e toalha de mesa" "TED TRANSF.ELETR.DISPONIV - 260 0001 05570075500 LORENA SANTOS PER"
+  Assets:Eventos:Pyne2023  -115.00 BRL
+  Expenses:Eventos:Pyne2023
 
 2023-09-28 * "Credenciais, ecobags, banner e backdrop 2/2" "PIX - ENVIADO - 28/09 17:02 PLOTSIGN"
-  Assets:Eventos:  -4634.38 BRL
-  Expenses:Eventos:
+  Assets:Eventos:Pyne2023  -4634.38 BRL
+  Expenses:Eventos:Pyne2023
 
-2023-09-28 * "PIX - ENVIADO - 28/09 17:24 COZINHA DENGO DE VO"
-  Assets:Eventos:  -7500.00 BRL
-  Expenses:Eventos:
-
-2023-09-28 * "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 28/09/2023"
-  Assets:Eventos:  -11.50 BRL
-  Expenses:Eventos:
+2023-09-28 * "Alimentação 2/2" "PIX - ENVIADO - 28/09 17:24 COZINHA DENGO DE VO"
+  Assets:Eventos:Pyne2023  -7500.00 BRL
+  Expenses:Eventos:Pyne2023
 
 2023-09-28 * "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 28/09/2023"
-  Assets:Eventos:  -11.50 BRL
-  Expenses:Eventos:
+  Assets:Bancos:BB  -11.50 BRL
+  Expenses:APyB:Taxas:BB
 
-2023-09-29 * "PIX - RECEBIDO - 29/09 15:36 00097838314291 SYMON CRIST / DEP"
-  Assets:Eventos:  44.99 BRL
-  Expenses:Eventos:
+2023-09-28 * "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 28/09/2023"
+  Assets:Bancos:BB  -11.50 BRL
+  Expenses:APyB:Taxas:BB
+
+--------------------------FALTA NOTA FISCAL - INICIO -----------------------
+
+2023-09-29 * "Ingresso" "PIX - RECEBIDO - 29/09 15:36 00097838314291 SYMON CRIST / DEP"
+  Assets:Bancos:BB  44.99 * 0.1 BRL
+  Assets:Eventos:Pyn2023  44.99 * 0.9 BRL
+  Income:Eventos:Pyn2023
+
+--------------------------FALTA NOTA FISCAL - FIM -----------------------
 
 2023-09-29 * "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 28/09/2023"
-  Assets:Eventos:  -27.77 BRL
-  Expenses:Eventos:
+  Assets:Bancos:BB  -27.77 BRL
+  Expenses:APyB:Taxas:BB
 
 
