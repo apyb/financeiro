@@ -37,7 +37,7 @@
 2023-09-11 * "Imposto" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
   comprovante: ""
   Assets:Bancos:BB  -648.00 BRL
-  Expenses:APyB:Taxas:BB
+  Expenses:APyB:Impostos
 
 2023-09-11 * "Canecas 2/2" "PIX - ENVIADO - 11/09 13:14 ALBRAPLAS"
   comprovante: "https://drive.google.com/file/d/1aZaNwQLVOZvipEc_xK3Kse9lU0hOEln4/view?usp=sharing"
