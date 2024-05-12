@@ -24,7 +24,7 @@
   Assets:Eventos:Pyne2023  9831.16 * 0.9 BRL
   Income:Eventos:Pyne2023
 
-2023-09-11 * "COBRANÇA DE I.O.F."
+2023-09-11 * "Imposto" "COBRANÇA DE I.O.F."
   comprovante: ""
   Assets:Bancos:BB  -37.36 BRL
   Expenses:APyB:Taxas:BB
@@ -34,7 +34,7 @@
   Assets:Bancos:BB  -200.00 BRL
   Expenses:APyB:Contadora
 
-2023-09-11 * "IMPOSTOS - PREF MUN CAXIAS DO SUL"
+2023-09-11 * "Imposto" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
   comprovante: ""
   Assets:Bancos:BB  -648.00 BRL
   Expenses:APyB:Taxas:BB
@@ -84,12 +84,12 @@
   Assets:Eventos:Pyn2023  -564.50 BRL
   Expenses:Eventos:Pyn2023
 
-2023-09-12 * "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 12/09/2023"
+2023-09-12 * "Taxa" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 12/09/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
 
-2023-09-12 * "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 11/09/2023"
+2023-09-12 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 11/09/2023"
   comprovante: ""
   Assets:Bancos:BB  -1.98 BRL
   Expenses:APyB:Taxas:BB
@@ -104,7 +104,7 @@
   Assets:Eventos:Pyn2023  -500.00 BRL
   Expenses:Eventos:Pyn2023
 
-2023-09-13 * "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 12/09/2023"
+2023-09-13 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 12/09/2023"
   comprovante: ""
   Assets:Bancos:BB  -28.52 BRL
   Expenses:APyB:Taxas:BB
@@ -115,7 +115,7 @@
   Assets:Eventos:Pybr2023  640.00 * 0.9 BRL
   Income:Eventos:Pybr2023
 
-2023-09-14 * "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 13/09/2023"
+2023-09-14 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 13/09/2023"
   comprovante: ""
   Assets:Bancos:BB  -7.17 BRL
   Expenses:APyB:Taxas:BB
@@ -125,7 +125,7 @@
   Assets:Eventos:Pyn2023  -1615.00 BRL
   Expenses:Eventos:Pyn2023
 
-2023-09-15 * "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 15/09/2023"
+2023-09-15 * "Taxa" "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 15/09/2023"
   comprovante: ""
   Assets:Bancos:BB  -103.00 BRL
   Expenses:APyB:Taxas:BB
@@ -135,7 +135,7 @@
   Assets:Bancos:BB  -1500.00 BRL
   Expenses:APyB:IdentidadeVisual
 
-2023-09-18 * "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 15/09/2023"
+2023-09-18 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 15/09/2023"
   comprovante: ""
   Assets:Bancos:BB  -10.00 BRL
   Expenses:APyB:Taxas:BB
@@ -156,7 +156,7 @@
   Assets:Eventos:Pyne2023  -330.00 BRL
   Expenses:Eventos:Pyne2023
 
-2023-09-19 * "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 18/09/2023"
+2023-09-19 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 18/09/2023"
   comprovante: ""
   Assets:Bancos:BB  -10.00 BRL
   Expenses:APyB:Taxas:BB
@@ -166,7 +166,7 @@
   Assets:Eventos:DjangoGirlsParnaiba2023  500.00
   Income:Eventos:DjangoGirlsParnaiba2023
 
-2023-09-20 * "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 19/09/2023"
+2023-09-20 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 19/09/2023"
   comprovante: ""
   Assets:Bancos:BB  -13.26 BRL
   Expenses:APyB:Taxas:BB
@@ -183,22 +183,22 @@
   Assets:Eventos:Pyne2023  19652.93 * 0.9 BRL
   Income:Eventos:Pyne2023
 
-2023-09-21 * "RETENÇÃO IOF A RECOLHER"
+2023-09-21 * "Imposto" "RETENÇÃO IOF A RECOLHER"
   comprovante: ""
   Assets:Bancos:BB  -2.93 BRL
   Expenses:APyB:Taxas:BB
 
-2023-09-21 * "CÂMBIO"
+2023-09-21 * "Câmbio" "CÂMBIO"
   comprovante: ""
   Assets:Bancos:BB  -770.01 BRL
   Expenses:APyB:Taxas:BB
 
-2023-09-21 * "COBRANÇA DE I.O.F."
+2023-09-21 * "Imposto" "COBRANÇA DE I.O.F."
   comprovante: ""
   Assets:Bancos:BB  -16.80 BRL
   Expenses:APyB:Taxas:BB
 
-2023-09-21 * "COBRANÇA DE I.O.F."
+2023-09-21 * "Imposto" "COBRANÇA DE I.O.F."
   comprovante: ""
   Assets:Bancos:BB  -74.68 BRL
   Expenses:APyB:Taxas:BB
@@ -208,7 +208,7 @@
   Assets:Eventos:Pyne2023  -566.42 BRL
   Expenses:Eventos:Pyne2023
 
-2023-09-22 * "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 22/09/2023"
+2023-09-22 * "Taxa" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 22/09/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
@@ -259,27 +259,27 @@
   Assets:Eventos:Pyne2023  -1800.00 BRL
   Expenses:Eventos:Pyne2023
 
-2023-09-25 * "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 25/09/2023"
+2023-09-25 * "Taxa" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 25/09/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
 
-2023-09-25 * "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 25/09/2023"
+2023-09-25 * "Taxa" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 25/09/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
 
-2023-09-25 * "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 25/09/2023"
+2023-09-25 * "Taxa" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 25/09/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
 
-2023-09-25 * "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 25/09/2023"
+2023-09-25 * "Taxa" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 25/09/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
 
-2023-09-25 * "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 25/09/2023"
+2023-09-25 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 25/09/2023"
   comprovante: ""
   Assets:Bancos:BB  -28.52 BRL
   Expenses:APyB:Taxas:BB
@@ -295,18 +295,18 @@
   Assets:Eventos:Pyn2023  -900.00 BRL
   Expenses:Eventos:Pyn2023
 
-2023-09-27 * "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 27/09/2023"
+2023-09-27 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 27/09/2023"
   comprovante: ""
   Assets:Bancos:BB  -8.91 BRL
   Expenses:APyB:Taxas:BB
 
 2023-09-28 * "Ingressos" "TED-CRÉDITO EM CONTA - 237 3381 15913672000165 EVENTBRITE BRA / DEP"
-  comprovante: ""
+  comprovante: "https://drive.google.com/file/d/1CMLh9jbH_hy-llfHFU0iFF0hCmmJKbsk/view?usp=drive_link"
   Assets:Bancos:BB  24740.00 * 0.1 BRL
   Assets:Eventos:Pyne2023  24740.00 * 0.9 BRL
   Income:Eventos:Pyne2023
 
-2023-09-28 * "Ingresso" "PIX - RECEBIDO - 28/09 14:33 00068025050297 CLAUDIO CAR / DEP"
+2023-09-28 * "Ingressos" "PIX - RECEBIDO - 28/09 14:33 00068025050297 CLAUDIO CAR / DEP"
   comprovante: "https://drive.google.com/file/d/1CMLh9jbH_hy-llfHFU0iFF0hCmmJKbsk/view?usp=sharing"
   Assets:Bancos:BB  119.99 * 0.1 BRL
   Assets:Eventos:Pyn2023  119.99 * 0.9 BRL
@@ -337,12 +337,12 @@
   Assets:Eventos:Pyne2023  -7500.00 BRL
   Expenses:Eventos:Pyne2023
 
-2023-09-28 * "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 28/09/2023"
+2023-09-28 * "Taxa" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 28/09/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
 
-2023-09-28 * "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 28/09/2023"
+2023-09-28 * "Taxa" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 28/09/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
@@ -354,7 +354,7 @@
   Assets:Eventos:Pyn2023  44.99 * 0.9 BRL
   Income:Eventos:Pyn2023
 
-2023-09-29 * "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 28/09/2023"
+2023-09-29 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 28/09/2023"
   comprovante: ""
   Assets:Bancos:BB  -27.77 BRL
   Expenses:APyB:Taxas:BB
