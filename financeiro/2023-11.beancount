@@ -7,155 +7,155 @@
   Assets:Eventos:Pybr2023  320.00 * 0.9 BRL
   Expenses:Eventos:Pybr2023
 
-2023-11-01 * "" "PIX - ENVIADO - 01/11 09:45 ZAFFARI"
-  comprovante: ""
-  Assets:Eventos:  -407.24 BRL
-  Expenses:Eventos:
+2023-11-01 * "Alimentação" "PIX - ENVIADO - 01/11 09:45 ZAFFARI"
+  comprovante: "https://drive.google.com/file/d/1mOE8cVF6slCU9T38gsrnPw7M3kskCyzR/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -407.24 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-01 * "" "PIX - ENVIADO - 01/11 15:43 ZAFFARI"
+2023-11-01 * "Alimentação" "PIX - ENVIADO - 01/11 15:43 ZAFFARI" #falta-comprovante
   comprovante: ""
-  Assets:Eventos:  -460.51 BRL
-  Expenses:Eventos:
+  Assets:Eventos:Pybr2023  -460.51 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-01 * "" "PIX - ENVIADO - 01/11 16:41 IRMAOS ANDREAZZA LTDA"
-  comprovante: ""
-  Assets:Eventos:  -105.75 BRL
-  Expenses:Eventos:
+2023-11-01 * "Alimentação" "PIX - ENVIADO - 01/11 16:41 IRMAOS ANDREAZZA LTDA"
+  comprovante: "https://drive.google.com/file/d/10FLFxBDIAAwCgvEa9xS4jYXUEuEczdLs/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -105.75 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-01 * "" "PIX - ENVIADO - 01/11 17:36 JOANI MELANIA GAFFURI"
-  comprovante: ""
-  Assets:Eventos:  -975.00 BRL
-  Expenses:Eventos:
+2023-11-01 * "Alimentação" "PIX - ENVIADO - 01/11 17:36 JOANI MELANIA GAFFURI"
+  comprovante: "https://drive.google.com/file/d/1dIP7QO9ZPlbnddA8kW5pOiXeNwVMkg87/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -975.00 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-01 * "" "PIX - ENVIADO - 01/11 17:41 REGIS TOMKIEL"
-  comprovante: ""
-  Assets:Eventos:  -123.48 BRL
-  Expenses:Eventos:
+2023-11-01 * "Reembolso" "Alimentação - PIX - ENVIADO - 01/11 17:41 REGIS TOMKIEL"
+  comprovante: "https://drive.google.com/file/d/1S889dNcCc4QP5cOlGKrp_bO3_BQ484mw/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -123.48 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-01 * "" "PIX - ENVIADO - 01/11 17:44 REGIS TOMKIEL"
-  comprovante: ""
-  Assets:Eventos:  -249.88 BRL
-  Expenses:Eventos:
+2023-11-01 * "Reembolso" "Deslocamento - PIX - ENVIADO - 01/11 17:44 REGIS TOMKIEL"
+  comprovante: "https://drive.google.com/file/d/1BA5ure2fFDzTgzVIE0b5ipi-dnXbq2wJ/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -249.88 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-01 * "" "PIX - ENVIADO - 01/11 17:50 REGIS TOMKIEL"
-  comprovante: ""
-  Assets:Eventos:  -73.80 BRL
-  Expenses:Eventos:
+2023-11-01 * "Reembolso" "Alimentação - PIX - ENVIADO - 01/11 17:50 REGIS TOMKIEL"
+  comprovante: "https://drive.google.com/file/d/1BEOxa7mQ5P4S1KZ6Ex47aurKV3WLWCod/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -73.80 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-01 * "" "PIX - ENVIADO - 01/11 19:46 LILIANE DE FATIMA GIORDANO"
-  comprovante: ""
-  Assets:Eventos:  -1500.00 BRL
-  Expenses:Eventos:
+2023-11-01 * "Audiovisual" "Fotografia - PIX - ENVIADO - 01/11 19:46 LILIANE DE FATIMA GIORDANO"
+  comprovante: "https://drive.google.com/file/d/1Q_63oqqUEOW_C3UTgt--SdvkPJaNjo92/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -1500.00 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-01 * "" "PIX - ENVIADO - 01/11 22:00 COMERCIAL ZAFFARI LTDA"
-  comprovante: ""
-  Assets:Eventos:  -1010.76 BRL
-  Expenses:Eventos:
+2023-11-01 * "Alimentação" "PIX - ENVIADO - 01/11 22:00 COMERCIAL ZAFFARI LTDA"
+  comprovante: "https://drive.google.com/file/d/1eu_1N03-SIyOYt8MUUGnHRERbJG7vbFt/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -1010.76 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-01 * "" "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 31/10/2023"
+2023-11-01 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 31/10/2023"
   comprovante: ""
   Assets:Bancos:BB  -4.38 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-03 * "" "PIX - ENVIADO - 02/11 08:25 COMERCIAL ZAFFARI LTDA"
-  comprovante: ""
-  Assets:Eventos:  -61.29 BRL
-  Expenses:Eventos:
+2023-11-03 * "Alimentação" "PIX - ENVIADO - 02/11 08:25 COMERCIAL ZAFFARI LTDA"
+  comprovante: "https://drive.google.com/file/d/1eZTmvsG5O5C8AfbMbY4VAnWGLHIei_VX/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -61.29 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-03 * "" "PIX - ENVIADO - 02/11 13:43 FABIO DA SILVA 93362293034"
-  comprovante: ""
-  Assets:Eventos:  -5616.00 BRL
-  Expenses:Eventos:
+2023-11-03 * "Audiovisual 2/3" "Filmagem - PIX - ENVIADO - 02/11 13:43 FABIO DA SILVA 93362293034"
+  comprovante: "https://drive.google.com/file/d/1Wsd81wfKgApYqji0cEzNydPc2kDSWTgP/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -5616.00 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-03 * "" "PIX - ENVIADO - 02/11 16:19 KALUNGA SA"
-  comprovante: ""
-  Assets:Eventos:  -1075.00 BRL
-  Expenses:Eventos:
+2023-11-03 * "Material eletrônico" "HD externo para armazenar fotos - PIX - ENVIADO - 02/11 16:19 KALUNGA SA"
+  comprovante: "https://drive.google.com/file/d/1RFvtPcUhzfWA3pIxXdTThFuORT6k6BDB/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -1075.00 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-03 * "" "PIX - ENVIADO - 02/11 16:41 CARREFOUR COM IND LTDA"
+2023-11-03 * "" "PIX - ENVIADO - 02/11 16:41 CARREFOUR COM IND LTDA" #falta-comprovante
   comprovante: ""
-  Assets:Eventos:  -57.96 BRL
-  Expenses:Eventos:
+  Assets:Eventos:Pybr2023  -57.96 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-03 * "" "PIX - ENVIADO - 02/11 16:48 INDIGO"
+2023-11-03 * "" "PIX - ENVIADO - 02/11 16:48 INDIGO" #falta-comprovante
   comprovante: ""
-  Assets:Eventos:  -13.00 BRL
-  Expenses:Eventos:
+  Assets:Eventos:Pybr2023  -13.00 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-03 * "" "PIX - ENVIADO - 02/11 17:23 COMERCIAL ZAFFARI LTDA"
-  comprovante: ""
-  Assets:Eventos:  -236.64 BRL
-  Expenses:Eventos:
+2023-11-03 * "Alimentação" "PIX - ENVIADO - 02/11 17:23 COMERCIAL ZAFFARI LTDA"
+  comprovante: "https://drive.google.com/file/d/15iKEAE4hkWmN_BA6uTWHBeysC_D9U-9B/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -236.64 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-03 * "" "PIX - ENVIADO - 03/11 15:09 BRUNO PINTO JARDIM 8343311"
-  comprovante: ""
-  Assets:Eventos:  -10000.00 BRL
-  Expenses:Eventos:
+2023-11-03 * "Infraestrutura" "Sonorização - PIX - ENVIADO - 03/11 15:09 BRUNO PINTO JARDIM 8343311"
+  comprovante: "https://drive.google.com/file/d/10SfrxOnqnQ2gKhSQOAq4fA2WxndLVj75/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -10000.00 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-03 * "" "PIX - ENVIADO - 03/11 16:00 ZAFFARI"
-  comprovante: ""
-  Assets:Eventos:  -234.77 BRL
-  Expenses:Eventos:
+2023-11-03 * "Alimentação" "PIX - ENVIADO - 03/11 16:00 ZAFFARI"
+  comprovante: "https://drive.google.com/file/d/1Sv1Rz-17TtjeyQOdcyMTAWE7N87ILFEL/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -234.77 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-03 * "" "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 01/11/2023"
+2023-11-03 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 01/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -14.34 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-03 * "" "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 03/11/2023"
+2023-11-03 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 03/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -10.00 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-03 * "" "RESGATE FUNDO / DEP"
+2023-11-03 * "Investimentos" "RESGATE FUNDO / DEP"
   comprovante: ""
-  Assets:Eventos:  1472.53 BRL
-  Expenses:Eventos:
+  Assets:Bancos:BB  1472.53 BRL
+  Equity:Investimentos:BB
 
-2023-11-06 * "" "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 03/11/2023"
+2023-11-06 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 03/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -10.00 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-06 * "" "RESGATE FUNDO / DEP"
+2023-11-06 * "Investimentos" "RESGATE FUNDO / DEP"
   comprovante: ""
-  Assets:Eventos:  10.00 BRL
-  Expenses:Eventos:
+  Assets:Bancos:BB  10.00 BRL
+  Equity:Investimentos:BB
 
-2023-11-07 * "" "TRANSFERÊNCIA ENVIADA - 07/11 16:45 BELISA RENATA CENTENARO / XFER"
-  comprovante: ""
-  Assets:Eventos:  -759.04 BRL
-  Expenses:Eventos:
+2023-11-07 * "Reembolso" "Passagem para keynote - TRANSFERÊNCIA ENVIADA - 07/11 16:45 BELISA RENATA CENTENARO / XFER"
+  comprovante: "https://drive.google.com/file/d/1c8CTvOiRGj-kiExICiVPD4uUWpkSltNT/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -759.04 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-07 * "" "TRANSFERÊNCIA ENVIADA - 07/11 16:21 PERCEU G BERTOLETTI / XFER"
-  comprovante: ""
-  Assets:Eventos:  -683.34 BRL
-  Expenses:Eventos:
+2023-11-07 * "Reembolso" "Alimentação - TRANSFERÊNCIA ENVIADA - 07/11 16:21 PERCEU G BERTOLETTI / XFER"
+  comprovante: "https://drive.google.com/file/d/1kXm5DDU_1kguvNlgi2oJUBrHgpXMvGt9/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -683.34 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-07 * "" "PIX - ENVIADO - 07/11 09:21 YAN ONAWALE PAS"
-  comprovante: ""
-  Assets:Eventos:  -1800.00 BRL
-  Expenses:Eventos:
+2023-11-07 * "Audiovisual 2/2" "Fotografia e filmagem complemento - PIX - ENVIADO - 07/11 09:21 YAN ONAWALE PAS"
+  comprovante: "https://drive.google.com/file/d/18L65tBayy6sTe2TlUndlGEuPk2vXYTEc/view?usp=drive_link"
+  Assets:Eventos:Pyne2023  -1800.00 BRL
+  Expenses:Eventos:Pyne2023
 
-2023-11-07 * "" "PIX - ENVIADO - 07/11 09:25 YAN ONAWALE PAS"
-  comprovante: ""
-  Assets:Eventos:  -1450.00 BRL
-  Expenses:Eventos:
+2023-11-07 * "Audiovisual 2/2" "Filmagem - PIX - ENVIADO - 07/11 09:25 YAN ONAWALE PAS"
+  comprovante: "https://drive.google.com/file/d/1iIEkpCKZlB_0CYuMAec3Uak_yBH55L8a/view?usp=drive_link"
+  Assets:Eventos:Pyne2023  -1450.00 BRL
+  Expenses:Eventos:Pyne2023
 
-2023-11-07 * "" "PIX - ENVIADO - 07/11 09:28 YAN ONAWALE PAS"
-  comprovante: ""
-  Assets:Eventos:  -1250.00 BRL
-  Expenses:Eventos:
+2023-11-07 * "Audiovisual 2/2" "Fotografia - PIX - ENVIADO - 07/11 09:28 YAN ONAWALE PAS"
+  comprovante: "https://drive.google.com/file/d/1AuIBHnf0nD6LO7dm2pIs6rYsRM2znUjr/view?usp=drive_link"
+  Assets:Eventos:Pyne2023  -1250.00 BRL
+  Expenses:Eventos:Pyne2023
 
-2023-11-07 * "" "PIX - ENVIADO - 07/11 12:59 FREQUENCY TELECOM"
-  comprovante: ""
-  Assets:Eventos:  -951.14 BRL
-  Expenses:Eventos:
+2023-11-07 * "Infraestrutura" "Locação de equipamento - PIX - ENVIADO - 07/11 12:59 FREQUENCY TELECOM"
+  comprovante: "https://drive.google.com/file/d/1mJk_5vA54VDs_Cgr_Ve9bB5-0xhxAlLC/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -951.14 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-07 * "" "PIX - ENVIADO - 07/11 13:00 FREQUENCY TELECOM"
-  comprovante: ""
-  Assets:Eventos:  -75.00 BRL
-  Expenses:Eventos:
+2023-11-07 * "Infraestrutura" "Comunicação - PIX - ENVIADO - 07/11 13:00 FREQUENCY TELECOM"
+  comprovante: "https://drive.google.com/file/d/1UxjNrLp3m4I8i1R8vkiQ3kLB1wa-lvSy/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -75.00 BRL
+  Expenses:Eventos:Pybr2023
 
 2023-11-07 * "" "PIX - ENVIADO - 07/11 16:16 JAQUELINE HELOISA ZAGO"
   comprovante: ""
@@ -212,7 +212,7 @@
   Assets:Eventos:  12043.34 BRL
   Expenses:Eventos:
 
-2023-11-08 * "" "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 07/11/2023"
+2023-11-08 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 07/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -58.15 BRL
   Expenses:APyB:Taxas:BB
@@ -233,15 +233,15 @@
   Assets:Eventos:  900.00 * 0.9 BRL
   Expenses:Eventos:
 
-2023-11-09 * "" "TRANSFERÊNCIA ENVIADA - 09/11 13:35 PERCEU G BERTOLETTI / XFER"
-  comprovante: ""
-  Assets:Eventos:  -255.00 BRL
-  Expenses:Eventos:
+2023-11-09 * "Reembolso" "Serviços gráficos - TRANSFERÊNCIA ENVIADA - 09/11 13:35 PERCEU G BERTOLETTI / XFER"
+  comprovante: "https://drive.google.com/file/d/1QUNjSYXE9JsgoxVIf3LQSBjWQeRAKxnQ/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -255.00 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-09 * "" "TRANSFERÊNCIA ENVIADA - 09/11 13:38 PERCEU G BERTOLETTI / XFER"
-  comprovante: ""
-  Assets:Eventos:  -330.00 BRL
-  Expenses:Eventos:
+2023-11-09 * "Reembolso" "Brindes - TRANSFERÊNCIA ENVIADA - 09/11 13:38 PERCEU G BERTOLETTI / XFER"
+  comprovante: "https://drive.google.com/file/d/1k9tIdMADDY_R4Pmo3qfddM1niQ8mmSmG/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -330.00 BRL
+  Expenses:Eventos:Pybr2023
 
 2023-11-09 * "" "PIX - ENVIADO - 09/11 13:31 DIEGO RODRIGUES LOPES"
   comprovante: ""
@@ -294,7 +294,7 @@
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-10 * "" "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 09/11/2023"
+2023-11-10 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 09/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -2.97 BRL
   Expenses:APyB:Taxas:BB
@@ -319,10 +319,10 @@
   Assets:Eventos:  -168.24 BRL
   Expenses:Eventos:
 
-2023-11-13 * "" "PIX - ENVIADO - 13/11 11:04 FABIO DA SILVA 93362293034"
-  comprovante: ""
-  Assets:Eventos:  -7488.00 BRL
-  Expenses:Eventos:
+2023-11-13 * "Audiovisual 3/3" "Filmagem - PIX - ENVIADO - 13/11 11:04 FABIO DA SILVA 93362293034"
+  comprovante: "https://drive.google.com/file/d/19h7H3l1APpUikpE2yo_iidtXp7Fa4cNO/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -7488.00 BRL
+  Expenses:Eventos:Pybr2023
 
 2023-11-13 * "" "PIX - ENVIADO - 13/11 11:14 BRUNO PINTO JARDIM 8343311"
   comprovante: ""
@@ -364,17 +364,17 @@
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-14 * "" "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 13/11/2023"
+2023-11-14 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 13/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -20.00 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-16 * "" "Taxa" "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 16/11/2023"
+2023-11-16 * "Taxa" "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 16/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -103.00 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-16 * "" "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 14/11/2023"
+2023-11-16 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 14/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -1.98 BRL
   Expenses:APyB:Taxas:BB
@@ -409,7 +409,7 @@
   Assets:Eventos:  -328.00 BRL
   Expenses:Eventos:
 
-2023-11-20 * "" "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 17/11/2023"
+2023-11-20 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 17/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -10.00 BRL
   Expenses:APyB:Taxas:BB
@@ -424,7 +424,7 @@
   Assets:Eventos:  220.00 BRL
   Expenses:Eventos:
 
-2023-11-27 * "" "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 24/11/2023"
+2023-11-27 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 24/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -10.00 BRL
   Expenses:APyB:Taxas:BB
