@@ -1,9 +1,8 @@
 ;; -*- mode: beancount -*-
 ;; extratos/2023-10-bb.ofx
 
-2023-10-04 * "Ingressos" "TED-CRÉDITO EM CONTA - 341 3117 14512528000154 SYMPLA INTERNE / DEP" #falta-comprovante
-  ; comprovante solicitado a organização em 12 maio 2023
-  comprovante: ""
+2023-10-04 * "Ingressos" "TED-CRÉDITO EM CONTA - 341 3117 14512528000154 SYMPLA INTERNE / DEP"
+  comprovante: "https://drive.google.com/file/d/1XBYHUGf0Ak2d1TAZbsqIK6dHjIXKGdE6/view?usp=drive_link"
   Assets:Bancos:BB 6762.40 * 0.1 BRL
   Assets:Eventos:Pyn2023  6762.40 * 0.9 BRL
   Income:Eventos:Pyn2023
@@ -172,11 +171,10 @@
   Assets:Eventos:Pybr2023  -8687.00 BRL
   Expenses:Eventos:Pybr2023
 
-2023-10-25 * "" "PIX - ENVIADO - 25/10 14:42 COOPERATIVA DE SUCOS MONTE" #falta-comprovante
-  ; comprovante solicitado a Ana Dulce, que está com essa nota impressa
-  comprovante: ""
-  Assets:Eventos:  -933.67 BRL
-  Expenses:Eventos:
+2023-10-25 * "" "PIX - ENVIADO - 25/10 14:42 COOPERATIVA DE SUCOS MONTE"
+  comprovante: "https://drive.google.com/file/d/1CcAJyAdUEiFRFlKgUsxZi7DmBianU6ZZ/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -933.67 BRL
+  Expenses:Eventos:Pybr2023
 
 2023-10-25 * "Espaço kids" "PIX - ENVIADO - 25/10 15:00 JOAO CARLOS RODRIGUES ALVE"
   comprovante: "https://drive.google.com/file/d/1o_plN46hH2Vn8nMhFrn2Hl2mYIuRuEP9/view?usp=drive_link"
