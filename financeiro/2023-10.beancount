@@ -232,9 +232,8 @@
   Assets:Eventos:Pybr2023  5000.00 * 0.9 BRL
   Income:Eventos:Pybr2023
 
-2023-10-30 * "" "PIX - ENVIADO - 30/10 09:21 ZAFFARI" #falta-comprovante
-  ; solicitado a Ana Dulce. Aguardando resposta
-  comprovante: ""
+2023-10-30 * "" "PIX - ENVIADO - 30/10 09:21 ZAFFARI"
+  comprovante: "https://drive.google.com/file/d/1EJzIiWtpWRjyx3YQoO3cLmLhUN9thmUM/view?usp=drive_link"
   Assets:Eventos:Pybr2023  -402.91 BRL
   Expenses:Eventos:Pybr2023
 
