@@ -157,81 +157,82 @@
   Assets:Eventos:Pybr2023  -75.00 BRL
   Expenses:Eventos:Pybr2023
 
-2023-11-07 * "" "PIX - ENVIADO - 07/11 16:16 JAQUELINE HELOISA ZAGO"
-  comprovante: ""
-  Assets:Eventos:  -1642.50 BRL
-  Expenses:Eventos:
+2023-11-07 * "Alimentação" "PIX - ENVIADO - 07/11 16:16 JAQUELINE HELOISA ZAGO"
+  comprovante: "https://drive.google.com/file/d/1f3UOI4yGkgyxPrfBzmDqWdi5kwwV06Yp/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -1642.50 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-07 * "" "PIX - ENVIADO - 07/11 16:28 COMANDER SOM E LUZ"
-  comprovante: ""
-  Assets:Eventos:  -400.00 BRL
-  Expenses:Eventos:
+2023-11-07 * "Infraestrutura" "Projeção - PIX - ENVIADO - 07/11 16:28 COMANDER SOM E LUZ"
+  comprovante: "https://drive.google.com/file/d/1liffGxWaNZ48C6VtNwyKlKrTqR_dtVLY/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -400.00 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-07 * "" "TED TRANSF.ELETR.DISPONIV - 033 1730 09891775992 TALITA DE SOUZA R"
-  comprovante: ""
-  Assets:Eventos:  -910.00 BRL
-  Expenses:Eventos:
+2023-11-07 * "Deslocamento" "Reembolso - TED TRANSF.ELETR.DISPONIV - 033 1730 09891775992 TALITA DE SOUZA R"
+  comprovante: "https://drive.google.com/file/d/15jLkTpebi8aRw6qaQQXb9W7LdCUmH6OL/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -910.00 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-07 * "" "TED TRANSF.ELETR.DISPONIV - 033 1730 09891775992 TALITA DE SOUZA R"
-  comprovante: ""
-  Assets:Eventos:  -179.00 BRL
-  Expenses:Eventos:
+2023-11-07 * "Hospedagem" "TED TRANSF.ELETR.DISPONIV - 033 1730 09891775992 TALITA DE SOUZA R"
+  comprovante: "https://drive.google.com/file/d/1qvZ_YauJ-Wo1-GXSDO8-20F4dDyPnulO/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -179.00 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-07 * "" "TED TRANSF.ELETR.DISPONIV - 260 0001 65667166020 EVERTON JUNIOR DA"
-  comprovante: ""
-  Assets:Eventos:  -485.46 BRL
-  Expenses:Eventos:
+2023-11-07 * "Alimentação" "Reembolso - TED TRANSF.ELETR.DISPONIV - 260 0001 65667166020 EVERTON JUNIOR DA"
+  comprovante: "https://drive.google.com/file/d/1qvZ_YauJ-Wo1-GXSDO8-20F4dDyPnulO/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -485.46 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-07 * "" "PIX - ENVIADO - 07/11 17:09 THATIANNE ARAUJO P MARUYAM"
-  comprovante: ""
-  Assets:Eventos:  -1000.00 BRL
-  Expenses:Eventos:
+2023-11-07 * "Serviços gráficos" "Reembolso - PIX - ENVIADO - 07/11 17:09 THATIANNE ARAUJO P MARUYAM"
+  comprovante: "https://drive.google.com/file/d/19PdTvs4NtpEmKJ1_oFeRJdBcuTwe-6iG/view?usp=drive_link"
+  Assets:Eventos:Pyn2023  -1000.00 BRL
+  Expenses:Eventos:Pyn2023
 
-2023-11-07 * "" "PIX - ENVIADO - 07/11 17:26 GABRIEL CUNHA MENEZES"
-  comprovante: ""
-  Assets:Eventos:  -194.86 BRL
-  Expenses:Eventos:
+2023-11-07 * "Prestação de serviços diversos" "Reembolso - cartazes e água - PIX - ENVIADO - 07/11 17:26 GABRIEL CUNHA MENEZES"
+  comprovante: "https://drive.google.com/file/d/1USc5SPj-Ng1-pHe-a9aA8qliFDvkQ26-/view?usp=drive_link"
+  Assets:Eventos:Pyn2023  -194.86 BRL
+  Expenses:Eventos:Pyn2023
 
-2023-11-07 * "" "PIX - ENVIADO - 07/11 17:28 GABRIEL CUNHA MENEZES"
-  comprovante: ""
-  Assets:Eventos:  -240.00 BRL
-  Expenses:Eventos:
+2023-11-07 * "Material eletrônico" "Reembolso - PIX - ENVIADO - 07/11 17:28 GABRIEL CUNHA MENEZES"
+  comprovante: "https://drive.google.com/file/d/1sFweGZmgWtEdTsnVa2FpBTW7U_tEsp7E/view?usp=drive_link"
+  Assets:Eventos:Pyn2023  -240.00 BRL
+  Expenses:Eventos:Pyn2023
 
-2023-11-07 * "" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 07/11/2023"
+2023-11-07 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 07/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-07 * "" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 07/11/2023"
+2023-11-07 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 07/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-07 * "" "RESGATE FUNDO / DEP"
+2023-11-07 * "Investimentos" "RESGATE FUNDO / DEP"
   comprovante: ""
-  Assets:Eventos:  12043.34 BRL
-  Expenses:Eventos:
+  Assets:Bancos:BB   12043.34 BRL
+  Equity:Investimentos:BB
 
 2023-11-08 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 07/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -58.15 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-08 * "" "RESGATE FUNDO / DEP"
+2023-11-08 * "Investimentos" "RESGATE FUNDO / DEP"
   comprovante: ""
-  Assets:Eventos:  58.15 BRL
-  Expenses:Eventos:
+  Assets:Bancos:BB  58.15 BRL
+  Equity:Investimentos:BB
 
-2023-11-09 * "" "TED-CRÉDITO EM CONTA - 237 3381 15913672000165 EVENTBRITE BRA / DEP"
-  comprovante: ""
-  Assets:Eventos:  75759.20 BRL
-  Expenses:Eventos:
+2023-11-09 * "Ingressos" "TED-CRÉDITO EM CONTA - 237 3381 15913672000165 EVENTBRITE BRA / DEP"
+  comprovante: "https://drive.google.com/file/d/1t1xYNOCSAfeQDW1_BxTQMDvX2Tsz1brU/view?usp=drive_link"
+  Assets:Bancos:BB  75759.20 * 0.1 BRL
+  Assets:Eventos:Pybr2023  75759.20 * 0.9 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-09 * "" "Patrocínio" "PIX - RECEBIDO - 09/11 06:11 00017387266816 ROGERIO MAR / DEP"
-  comprovante: ""
-  Assets:Bancos:BB  XXXX * 0.1 BRL
-  Assets:Eventos:  900.00 * 0.9 BRL
-  Expenses:Eventos:
+2023-11-09 * "Patrocínio" "PIX - RECEBIDO - 09/11 06:11 00017387266816 ROGERIO MAR / DEP"
+  comprovante: "https://drive.google.com/file/d/145k18C4bkkz-99i7lnRHtelKrhtJ8ct4/view?usp=drive_link"
+  Assets:Bancos:BB  900.00 * 0.1 BRL
+  Assets:Eventos:DjangoGirlsParnaiba2023  900.00 * 0.9 BRL
+  Expenses:Eventos:DjangoGirlsParnaiba2023
 
 2023-11-09 * "Reembolso" "Serviços gráficos - TRANSFERÊNCIA ENVIADA - 09/11 13:35 PERCEU G BERTOLETTI / XFER"
   comprovante: "https://drive.google.com/file/d/1QUNjSYXE9JsgoxVIf3LQSBjWQeRAKxnQ/view?usp=drive_link"
@@ -243,53 +244,53 @@
   Assets:Eventos:Pybr2023  -330.00 BRL
   Expenses:Eventos:Pybr2023
 
-2023-11-09 * "" "PIX - ENVIADO - 09/11 13:31 DIEGO RODRIGUES LOPES"
-  comprovante: ""
-  Assets:Eventos:  -300.00 BRL
-  Expenses:Eventos:
+2023-11-09 * "Infraestrutura" "Instalação elétrica - PIX - ENVIADO - 09/11 13:31 DIEGO RODRIGUES LOPES"
+  comprovante: "https://drive.google.com/file/d/1CzKyb_53mggQXXBlHjIVHmxiy1l7-1l7/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -300.00 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-09 * "" "TED TRANSF.ELETR.DISPONIV - 077 0001 01078740089 ADRIANO MARGARIN"
-  comprovante: ""
-  Assets:Eventos:  -1500.00 BRL
-  Expenses:Eventos:
+2023-11-09 * "Infraestrutura" "Reembolso - TED TRANSF.ELETR.DISPONIV - 077 0001 01078740089 ADRIANO MARGARIN"
+  comprovante: "https://drive.google.com/file/d/1NHyDuXBL5ZNHXB_8_AQk9w7SAXqhJYVx/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -1500.00 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-09 * "" "TED TRANSF.ELETR.DISPONIV - 341 6331 21947386816 ANDRE PASTORE GOM"
-  comprovante: ""
-  Assets:Eventos:  -199.86 BRL
-  Expenses:Eventos:
+2023-11-09 * "Alimentação" "Reembolso - TED TRANSF.ELETR.DISPONIV - 341 6331 21947386816 ANDRE PASTORE GOM"
+  comprovante: "https://drive.google.com/file/d/1mJ2lSvHOKYmG2jZmUi1M1skxgIwY152b/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -199.86 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-09 * "" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 09/11/2023"
-  comprovante: ""
-  Assets:Bancos:BB  -11.50 BRL
-  Expenses:APyB:Taxas:BB
-
-2023-11-09 * "" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 09/11/2023"
+2023-11-09 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 09/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-10 * "" "Patrocínio" "PIX - RECEBIDO - 10/11 16:54 46270650000158 EXA SERVICO / DEP"
-  comprovante: ""
-  Assets:Bancos:BB  XXXX * 0.1 BRL
-  Assets:Eventos:  900.00 * 0.9 BRL
-  Expenses:Eventos:
-
-2023-11-10 * "" "TED TRANSF.ELETR.DISPONIV - 341 6331 21947386816 ANDRE PASTORE GOM"
-  comprovante: ""
-  Assets:Eventos:  -433.50 BRL
-  Expenses:Eventos:
-
-2023-11-10 * "" "TED TRANSF.ELETR.DISPONIV - 341 6331 21947386816 ANDRE PASTORE GOM"
-  comprovante: ""
-  Assets:Eventos:  -120.00 BRL
-  Expenses:Eventos:
-
-2023-11-10 * "" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 10/11/2023"
+2023-11-09 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 09/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-10 * "" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 10/11/2023"
+2023-11-10 * "Patrocínio" "PIX - RECEBIDO - 10/11 16:54 46270650000158 EXA SERVICO / DEP"
+  comprovante: "https://drive.google.com/file/d/1XnMi6gEzaDo4gFwWz34iVnQ0KXXEte70/view?usp=drive_link"
+  Assets:Bancos:BB  900.00 * 0.1 BRL
+  Assets:Eventos:DjangoGirlsParnaiba2023  900.00 * 0.9 BRL
+  Expenses:Eventos:DjangoGirlsParnaiba2023
+
+2023-11-10 * "Alimentação" "Reembolso - TED TRANSF.ELETR.DISPONIV - 341 6331 21947386816 ANDRE PASTORE GOM"
+  comprovante: "https://drive.google.com/file/d/15Qn2XAnPrCcSNFvhNGOAnlsnA6iwx2YD/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -433.50 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-11-10 * "Material eletrônico" "Reembolso - Adaptador HDMI - TED TRANSF.ELETR.DISPONIV - 341 6331 21947386816 ANDRE PASTORE GOM"
+  comprovante: "https://drive.google.com/file/d/1TZvG-2-_8Lz4F-hVqPFeRgEtLmqhrwuz/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -120.00 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-11-10 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 10/11/2023"
+  comprovante: ""
+  Assets:Bancos:BB  -11.50 BRL
+  Expenses:APyB:Taxas:BB
+
+2023-11-10 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 10/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
@@ -329,17 +330,17 @@
   Assets:Eventos:  -1600.00 BRL
   Expenses:Eventos:
 
-2023-11-13 * "" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 13/11/2023"
+2023-11-13 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 13/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-13 * "" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 13/11/2023"
+2023-11-13 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 13/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-13 * "" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 13/11/2023"
+2023-11-13 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 13/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
@@ -359,7 +360,7 @@
   Assets:Eventos:  -511.00 BRL
   Expenses:Eventos:
 
-2023-11-14 * "" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 14/11/2023"
+2023-11-14 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 14/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
@@ -389,7 +390,7 @@
   Assets:Eventos:  -1378.00 BRL
   Expenses:Eventos:
 
-2023-11-17 * "" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 17/11/2023"
+2023-11-17 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 17/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
@@ -439,7 +440,7 @@
   Assets:Eventos:  -557.46 BRL
   Expenses:Eventos:
 
-2023-11-28 * "" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 28/11/2023"
+2023-11-28 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 28/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
