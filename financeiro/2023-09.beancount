@@ -140,11 +140,11 @@
   Assets:Bancos:BB  -10.00 BRL
   Expenses:APyB:Taxas:BB
 
-2023-09-19 * "PIX - RECEBIDO - 19/09 11:17 02311053000159 MONACO SERV / DEP" #falta-comprovante
-  ; comprovante solicitado ao escritório de contabilidade em 12/05/2023
-  comprovante: ""
-  Assets:Eventos:  5000.00 BRL
-  Income:Eventos: 
+2023-09-19 * "Patrocínio" "Beemon - PIX - RECEBIDO - 19/09 11:17 02311053000159 MONACO SERV / DEP"
+  comprovante: "https://drive.google.com/file/d/1lBI4-ioMqSqXyTrboLNakYj4B8Eau3l7/view?usp=drive_link"
+  Assets:Bancos:BB 5000.00 * 0.1 BRL
+  Assets:Eventos:Pybr2023  5000.00 * 0.9 BRL
+  Income:Eventos:Pybr2023 
 
 2023-09-19 * "Alimentação" "PIX - ENVIADO - 19/09 20:30 COZINHA DENGO DE VO"
   comprovante: "https://drive.google.com/file/d/1MQXqDDopaATNE3rFX1QaZLbXi1FIgOg1/view?usp=drive_link"
