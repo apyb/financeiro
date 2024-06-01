@@ -1,0 +1,45 @@
+;; -*- mode: beancount -*-
+;; extratos/2024-01-bb.ofx
+
+2024-01-05 * "Patrocínio" "TED-CRÉDITO EM CONTA - 341 7830  2437460000530 INSTITUTO DE P / DEP"
+  comprovante: "https://drive.google.com/file/d/1f_amgRs7raBGLkAtKWIu5zclNedSQGFf/view?usp=drive_link"
+  Assets:Bancos:BB  9000.00 * 0.1 BRL
+  Assets:Eventos:Pyn2023 9000.00 * 0.9 BRL
+  Income:Eventos:Pyn2023
+
+2024-01-05 * "Serviço contábil" "PIX - ENVIADO - 05/01 12:04 ATUALE ASSESSORIA CONTABIL"
+  comprovante: "https://drive.google.com/file/d/1DsZ-TUVHnyiQRqd-afJ8M3zWLdpsbdcC/view?usp=drive_link"
+  Assets:Bancos:BB  -200.00 BRL
+  Expenses:APyB:Contadora
+
+2024-01-05 * "Impostos" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
+  comprovante: ""
+  Assets:Bancos:BB  -360.00 BRL
+  Expenses:APyB:Impostos
+
+2024-01-08 * "Taxas" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 05/01/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -1.98 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-01-12 * "Infraestrutura" "Local - PIX - ENVIADO - 12/01 13:59 NOVE ORGANIZACAO DE EVENTO"
+  comprovante: "https://drive.google.com/file/d/19bo8HCr67d6ToHn69Hyf5Di7ejmP5bpA/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -21760.00 BRL
+  Expenses:Eventos:Pybr2024
+
+2024-01-15 * "Taxas" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 12/01/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-01-15 * "Taxas" "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 15/01/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -115.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-01-25 * "Taxas" "TARIFA RENOVAÇÃO CADASTRO - COBRANÇA REFERENTE 05/01/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -63.20 BRL
+  Expenses:APyB:Taxas:BB
+
+
