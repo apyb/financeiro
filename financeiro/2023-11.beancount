@@ -5,7 +5,7 @@
   comprovante: "https://drive.google.com/file/d/1SuOETSvYkOIWu1kMmNaxhEhEKD1_O8EB/view?usp=drive_link"
   Assets:Bancos:BB  320.00 * 0.1 BRL
   Assets:Eventos:Pybr2023  320.00 * 0.9 BRL
-  Expenses:Eventos:Pybr2023
+  Income:Eventos:Pybr2023
 
 2023-11-01 * "Alimentação" "PIX - ENVIADO - 01/11 09:45 ZAFFARI"
   comprovante: "https://drive.google.com/file/d/1mOE8cVF6slCU9T38gsrnPw7M3kskCyzR/view?usp=drive_link"
@@ -226,13 +226,12 @@
   comprovante: "https://drive.google.com/file/d/1t1xYNOCSAfeQDW1_BxTQMDvX2Tsz1brU/view?usp=drive_link"
   Assets:Bancos:BB  75759.20 * 0.1 BRL
   Assets:Eventos:Pybr2023  75759.20 * 0.9 BRL
-  Expenses:Eventos:Pybr2023
+  Income:Eventos:Pybr2023
 
 2023-11-09 * "Patrocínio" "PIX - RECEBIDO - 09/11 06:11 00017387266816 ROGERIO MAR / DEP"
   comprovante: "https://drive.google.com/file/d/145k18C4bkkz-99i7lnRHtelKrhtJ8ct4/view?usp=drive_link"
-  Assets:Bancos:BB  900.00 * 0.1 BRL
-  Assets:Eventos:DjangoGirlsParnaiba2023  900.00 * 0.9 BRL
-  Expenses:Eventos:DjangoGirlsParnaiba2023
+  Assets:Eventos:DjangoGirlsParnaiba2023  900.00 BRL
+  Income:Eventos:DjangoGirlsParnaiba2023
 
 2023-11-09 * "Reembolso" "Serviços gráficos - TRANSFERÊNCIA ENVIADA - 09/11 13:35 PERCEU G BERTOLETTI / XFER"
   comprovante: "https://drive.google.com/file/d/1QUNjSYXE9JsgoxVIf3LQSBjWQeRAKxnQ/view?usp=drive_link"
@@ -272,7 +271,7 @@
 2023-11-10 * "Patrocínio" "PIX - RECEBIDO - 10/11 16:54 46270650000158 EXA SERVICO / DEP"
   comprovante: "https://drive.google.com/file/d/1XnMi6gEzaDo4gFwWz34iVnQ0KXXEte70/view?usp=drive_link"
   Assets:Eventos:DjangoGirlsParnaiba2023  900.00 BRL
-  Expenses:Eventos:DjangoGirlsParnaiba2023
+  Income:Eventos:DjangoGirlsParnaiba2023
 
 2023-11-10 * "Alimentação" "Reembolso - TED TRANSF.ELETR.DISPONIV - 341 6331 21947386816 ANDRE PASTORE GOM"
   comprovante: "https://drive.google.com/file/d/15Qn2XAnPrCcSNFvhNGOAnlsnA6iwx2YD/view?usp=drive_link"
@@ -302,7 +301,7 @@
 2023-11-13 * "Serviços gráficos" "Reembolso - TED DEVOLVIDA - AG OU CNT DEST DO CRED INVAL / DEP"
   comprovante: ""
   Assets:Eventos:DjangoGirlsParnaiba2023  511.00 BRL
-  Expenses:Eventos:DjangoGirlsParnaiba2023
+  Income:Eventos:DjangoGirlsParnaiba2023
 
 2023-11-13 * "Serviços gráficos" "TED TRANSF.ELETR.DISPONIV - 382 0001 33769205839 VITORIA NERIS REB"
   comprovante: "https://drive.google.com/file/d/199j-haXugmQ2Ti0JGxsaiDV9fY-GJL5z/view?usp=drive_link"
@@ -423,7 +422,7 @@
   comprovante: "https://drive.google.com/file/d/1M2E3XPgY--vjHSm5iPIcjiHNLcShMG3n/view?usp=drive_link"
   Assets:Bancos:BB 220.00 * 0.1 BRL
   Assets:Eventos:Pybr2022  220.00 * 0.9 BRL
-  Expenses:Eventos:Pybr2022
+  Income:Eventos:Pybr2022
 
 2023-11-27 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 24/11/2023"
   comprovante: ""
