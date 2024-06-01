@@ -13,11 +13,11 @@
   Assets:Eventos:Pyn2023  2200.00 * 0.9 BRL
   Income:Eventos:Pyn2023
 
-2023-10-09 * "" "PIX - RECEBIDO - 09/10 09:45 02311053000159 MONACO SERV / DEP" #falta-comprovante
-  ; comprovante solicitado ao escritório de contabilidade em 12/05/2023
-  comprovante: ""
-  Assets:Eventos:  5000.00 BRL
-  Income:Eventos:
+2023-10-09 * "Patrocínio" "Beemon - PIX - RECEBIDO - 09/10 09:45 02311053000159 MONACO SERV / DEP"
+  comprovante: "https://drive.google.com/file/d/1lBI4-ioMqSqXyTrboLNakYj4B8Eau3l7/view?usp=drive_link"
+  Assets:Bancos:BB  5000.00 * 0.9 BRL
+  Assets:Eventos:Pybr2023  5000.00 * 0.9 BRL
+  Income:Eventos:Pybr2023
 
 2023-10-09 * "Serviço contábil" "PIX - ENVIADO - 09/10 09:14 ATUALE ASSESSORIA CONTABIL"
   comprovante: "https://drive.google.com/file/d/1GKYAizQQczDfMSNpWCYBdL0MKH-vENn1/view?usp=drive_link"
