@@ -197,12 +197,12 @@
   Assets:Eventos:Pyn2023  -240.00 BRL
   Expenses:Eventos:Pyn2023
 
-2023-11-07 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 07/11/2023"
+2023-11-07 * "Taxa" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 07/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-07 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 07/11/2023"
+2023-11-07 * "Taxa" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 07/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
@@ -259,20 +259,19 @@
   Assets:Eventos:Pybr2023  -199.86 BRL
   Expenses:Eventos:Pybr2023
 
-2023-11-09 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 09/11/2023"
+2023-11-09 * "Taxa" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 09/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-09 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 09/11/2023"
+2023-11-09 * "Taxa" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 09/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
 
 2023-11-10 * "Patrocínio" "PIX - RECEBIDO - 10/11 16:54 46270650000158 EXA SERVICO / DEP"
   comprovante: "https://drive.google.com/file/d/1XnMi6gEzaDo4gFwWz34iVnQ0KXXEte70/view?usp=drive_link"
-  Assets:Bancos:BB  900.00 * 0.1 BRL
-  Assets:Eventos:DjangoGirlsParnaiba2023  900.00 * 0.9 BRL
+  Assets:Eventos:DjangoGirlsParnaiba2023  900.00 BRL
   Expenses:Eventos:DjangoGirlsParnaiba2023
 
 2023-11-10 * "Alimentação" "Reembolso - TED TRANSF.ELETR.DISPONIV - 341 6331 21947386816 ANDRE PASTORE GOM"
@@ -285,12 +284,12 @@
   Assets:Eventos:Pybr2023  -120.00 BRL
   Expenses:Eventos:Pybr2023
 
-2023-11-10 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 10/11/2023"
+2023-11-10 * "Taxa" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 10/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-10 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 10/11/2023"
+2023-11-10 * "Taxa" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 10/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
@@ -300,67 +299,67 @@
   Assets:Bancos:BB  -2.97 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-13 * "" "TED DEVOLVIDA - AG OU CNT DEST DO CRED INVAL / DEP"
+2023-11-13 * "Serviços gráficos" "Reembolso - TED DEVOLVIDA - AG OU CNT DEST DO CRED INVAL / DEP"
   comprovante: ""
-  Assets:Eventos:  511.00 BRL
-  Expenses:Eventos:
+  Assets:Eventos:DjangoGirlsParnaiba2023  511.00 BRL
+  Expenses:Eventos:DjangoGirlsParnaiba2023
 
-2023-11-13 * "" "TED TRANSF.ELETR.DISPONIV - 382 0001 33769205839 VITORIA NERIS REB"
-  comprovante: ""
-  Assets:Eventos:  -511.00 BRL
-  Expenses:Eventos:
+2023-11-13 * "Serviços gráficos" "TED TRANSF.ELETR.DISPONIV - 382 0001 33769205839 VITORIA NERIS REB"
+  comprovante: "https://drive.google.com/file/d/199j-haXugmQ2Ti0JGxsaiDV9fY-GJL5z/view?usp=drive_link"
+  Assets:Eventos:DjangoGirlsParnaiba2023  -511.00 BRL
+  Expenses:Eventos:DjangoGirlsParnaiba2023
 
-2023-11-13 * "" "TED TRANSF.ELETR.DISPONIV - 033 1730 09891775992 TALITA DE SOUZA R"
-  comprovante: ""
-  Assets:Eventos:  -116.72 BRL
-  Expenses:Eventos:
+2023-11-13 * "Alimentação" "Reembolso - TED TRANSF.ELETR.DISPONIV - 033 1730 09891775992 TALITA DE SOUZA R"
+  comprovante: "https://drive.google.com/file/d/1x1MdaHO6OAfs4yAxAZ-tYevp__HDmWhb/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -116.72 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-13 * "" "TED TRANSF.ELETR.DISPONIV - 077 0001 01665152052 JONNY WILLIAM DEI"
-  comprovante: ""
-  Assets:Eventos:  -168.24 BRL
-  Expenses:Eventos:
+2023-11-13 * "Alimentação" "Reembolso - TED TRANSF.ELETR.DISPONIV - 077 0001 01665152052 JONNY WILLIAM DEI"
+  comprovante: "https://drive.google.com/file/d/10nfqHQpn6evxWIGK6wiO3TeA3-aiQQ5p/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -168.24 BRL
+  Expenses:Eventos:Pybr2023
 
 2023-11-13 * "Audiovisual 3/3" "Filmagem - PIX - ENVIADO - 13/11 11:04 FABIO DA SILVA 93362293034"
   comprovante: "https://drive.google.com/file/d/19h7H3l1APpUikpE2yo_iidtXp7Fa4cNO/view?usp=drive_link"
   Assets:Eventos:Pybr2023  -7488.00 BRL
   Expenses:Eventos:Pybr2023
 
-2023-11-13 * "" "PIX - ENVIADO - 13/11 11:14 BRUNO PINTO JARDIM 8343311"
+2023-11-13 * "" "PIX - ENVIADO - 13/11 11:14 BRUNO PINTO JARDIM 8343311" #falta-comprovante
   comprovante: ""
   Assets:Eventos:  -1600.00 BRL
   Expenses:Eventos:
 
-2023-11-13 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 13/11/2023"
+2023-11-13 * "Taxa" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 13/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-13 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 13/11/2023"
+2023-11-13 * "Taxa" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 13/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-13 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 13/11/2023"
+2023-11-13 * "Taxa" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 13/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-14 * "" "Imposto" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
+2023-11-14 * "Imposto" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
   comprovante: ""
   Assets:Bancos:BB  -405.45 BRL
   Expenses:APyB:Impostos
 
-2023-11-14 * "" "Serviço contábil" "PIX - ENVIADO - 14/11 16:49 ATUALE ASSESSORIA CONTABIL"
-  comprovante: ""
+2023-11-14 * "Serviço contábil" "PIX - ENVIADO - 14/11 16:49 ATUALE ASSESSORIA CONTABIL"
+  comprovante: "https://drive.google.com/file/d/1hp_7Jbs5wldBfzdzUSkFOpudb6bdzFgY/view?usp=drive_link"
   Assets:Bancos:BB  -200.00 BRL
   Expenses:APyB:Contadora
 
-2023-11-14 * "" "TED TRANSF.ELETR.DISPONIV - 380 0001 33769205839 VITORIA NERIS REB"
-  comprovante: ""
-  Assets:Eventos:  -511.00 BRL
-  Expenses:Eventos:
+2023-11-14 * "Serviços gráficos" " Reembolso - TED TRANSF.ELETR.DISPONIV - 380 0001 33769205839 VITORIA NERIS REB"
+  comprovante: "https://drive.google.com/file/d/199j-haXugmQ2Ti0JGxsaiDV9fY-GJL5z/view?usp=drive_link"
+  Assets:Eventos:DjangoGirlsParnaiba2023  -511.00 BRL
+  Expenses:Eventos:DjangoGirlsParnaiba2023
 
-2023-11-14 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 14/11/2023"
+2023-11-14 * "Taxa" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 14/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
@@ -380,74 +379,75 @@
   Assets:Bancos:BB  -1.98 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-17 * "" "TED TRANSF.ELETR.DISPONIV - 041 1074 091848192000146 CONFEITARIA M"
-  comprovante: ""
-  Assets:Eventos:  -4800.00 BRL
-  Expenses:Eventos:
+2023-11-17 * "Alimentação" "TED TRANSF.ELETR.DISPONIV - 041 1074 091848192000146 CONFEITARIA M"
+  comprovante: "https://drive.google.com/file/d/1NuE8TxGBVWKd7yMgdZqPd3fPNhHKMPal/view?usp=drive_link" "https://drive.google.com/file/d/1VB3SnT1vfmuoA4cBNQnBkowBdl1P44HS/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -4800.00 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-17 * "" "PIX - ENVIADO - 17/11 16:49 JOANI MELANIA GAFFURI"
-  comprovante: ""
-  Assets:Eventos:  -1378.00 BRL
-  Expenses:Eventos:
+2023-11-17 * "Alimentação" "PIX - ENVIADO - 17/11 16:49 JOANI MELANIA GAFFURI"
+  comprovante: "https://drive.google.com/file/d/1icNYGTiVKyq_j7M-U4esTb2Sp0vjOR3P/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -1378.00 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-17 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 17/11/2023"
+2023-11-17 * "Taxa" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 17/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-20 * "" "PIX - ENVIADO - 18/11 17:35 LILIANE DE FATIMA GIORDANO"
-  comprovante: ""
-  Assets:Eventos:  -1500.00 BRL
-  Expenses:Eventos:
+2023-11-20 * "Audiovisual" "Fotografia - PIX - ENVIADO - 18/11 17:35 LILIANE DE FATIMA GIORDANO"
+  comprovante: "https://drive.google.com/file/d/1Q_63oqqUEOW_C3UTgt--SdvkPJaNjo92/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -1500.00 BRL
+  Expenses:Eventos:Pybr2023
 
-2023-11-20 * "" "PIX - ENVIADO - 19/11 20:29 NIC BR"
+2023-11-20 * "PIX - ENVIADO - 19/11 20:29 NIC BR"
   comprovante: ""
-  Assets:Eventos:  -328.00 BRL
-  Expenses:Eventos:
+  Assets:Bancos:BB  -328.00 BRL
+  Expenses:APyB:Infra
 
 2023-11-20 * "" "PIX - ENVIADO - 19/11 21:13 NIC BR"
   comprovante: ""
-  Assets:Eventos:  -328.00 BRL
-  Expenses:Eventos:
+  Assets:Bancos:BB  -328.00 BRL
+  Expenses:APyB:Infra
 
 2023-11-20 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 17/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -10.00 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-24 * "" "PIX - ENVIADO - 24/11 10:55 VITORIA NERIS REBELO VERAS"
-  comprovante: ""
-  Assets:Eventos:  -1820.00 BRL
-  Expenses:Eventos:
+2023-11-24 * "Camisas" "PIX - ENVIADO - 24/11 10:55 VITORIA NERIS REBELO VERAS"
+  comprovante: "https://drive.google.com/file/d/1M_Ce1WBIDVc73OXIYH4vynpx3YpXDdkM/view?usp=drive_link"
+  Assets:Eventos:DjangoGirlsParnaiba2023  -1820.00 BRL
+  Expenses:Eventos:DjangoGirlsParnaiba2023
 
-2023-11-27 * "" "ORDEM BANC 12 SEC TES NAC - 108774120009-15 INST.FED.DO RN CAMPUS / DEP"
-  comprovante: ""
-  Assets:Eventos:  220.00 BRL
-  Expenses:Eventos:
+2023-11-27 * "Ingressos" "ORDEM BANC 12 SEC TES NAC - 108774120009-15 INST.FED.DO RN CAMPUS / DEP"
+  comprovante: "https://drive.google.com/file/d/1M2E3XPgY--vjHSm5iPIcjiHNLcShMG3n/view?usp=drive_link"
+  Assets:Bancos:BB 220.00 * 0.1 BRL
+  Assets:Eventos:Pybr2022  220.00 * 0.9 BRL
+  Expenses:Eventos:Pybr2022
 
 2023-11-27 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 24/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -10.00 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-28 * "" "TRANSFERÊNCIA ENVIADA - 28/11 13:48 JADE SAO PEDRO FIGUEREDO / XFER"
-  comprovante: ""
-  Assets:Eventos:  -10.48 BRL
-  Expenses:Eventos:
+2023-11-28 * "Deslocamento" "Reembolso - TRANSFERÊNCIA ENVIADA - 28/11 13:48 JADE SAO PEDRO FIGUEREDO / XFER"
+  comprovante: "https://drive.google.com/file/d/1dEuJ-DNaPsGWDzFWpbruqnNsM9qCyI2K/view?usp=drive_link"
+  Assets:Eventos:Pyne2023  -10.48 BRL
+  Expenses:Eventos:Pyne2023
 
-2023-11-28 * "" "TED TRANSF.ELETR.DISPONIV - 260 0001 06621758405 ANA CECILIA VIEIR"
-  comprovante: ""
-  Assets:Eventos:  -557.46 BRL
-  Expenses:Eventos:
+2023-11-28 * "Serviços diversos" "Água, Deslocamento, material de limpeza, etc - TED TRANSF.ELETR.DISPONIV - 260 0001 06621758405 ANA CECILIA VIEIR"
+  comprovante: "https://drive.google.com/file/d/1iRLgivrBIw6DBSo_SmDN9nm4-6-OtbHY/view?usp=drive_link"
+  Assets:Eventos:Pyne2023  -557.46 BRL
+  Expenses:Eventos:Pyne2023
 
-2023-11-28 * "Taxas" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 28/11/2023"
+2023-11-28 * "Taxa" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 28/11/2023"
   comprovante: ""
   Assets:Bancos:BB  -11.50 BRL
   Expenses:APyB:Taxas:BB
 
-2023-11-29 * "" "CRÉDITO SISTEMA CDA - PAGTO. BB SERVICO CONTRATADO / DEP"
+2023-11-29 * "Investimentos" "CRÉDITO SISTEMA CDA - PAGTO. BB SERVICO CONTRATADO / DEP"
   comprovante: ""
-  Assets:Eventos:  1200.00 BRL
-  Expenses:Eventos:
+  Assets:Bancos:BB  1200.00 BRL
+  Equity:Investimentos:BB
 
 
