@@ -1,0 +1,55 @@
+;; -*- mode: beancount -*-
+;; extratos/2024-03-bb.ofx
+
+2024-03-01 * "Taxas" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 29/02/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-03-13 * "Serviço contábil" "PIX - ENVIADO - 13/03 22:14 ATUALE ASSESSORIA CONTABIL"
+  comprovante: "https://drive.google.com/file/d/1Bck70kKBNh-rwCOPfH5MILGt0In3AAZl/view?usp=drive_link" "https://drive.google.com/file/d/1J6mXmukkULJM9nYkq_lI2SFfuP3YyqJ_/view?usp=drive_link" "https://drive.google.com/file/d/1aivdCWIBNkI--j612NRPSUaY1LMQRlMf/view?usp=drive_link"
+  Assets:Bancos:BB  -750.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-03-13 * "Despesas cartoriais" "Reembolso - Registro ata de assembleia - PIX - ENVIADO - 13/03 22:29 MARIA DO CARMO PIROLI"
+  comprovante: "https://drive.google.com/file/d/1V27kmpAAOti-GRC_BlmY9O54qPBf3ghm/view?usp=drive_link"
+  Assets:Bancos:BB  -237.32 BRL
+  Expenses:APyB:Ops
+
+2024-03-14 * "Impostos" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
+  comprovante: ""
+  Assets:Bancos:BB  -60.00 BRL
+  Expenses:APyB:Impostos
+
+2024-03-14 * "Taxas" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 13/03/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -9.76 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-03-15 * "Taxas" "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 15/03/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -115.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-03-20 * "Serviço de designer" "PIX - ENVIADO - 20/03 17:02 CAROLINE COELHO CRISTO 045"
+  comprovante: "https://drive.google.com/file/d/1jCrRJetqFrSfdZBSQwAoV0YPQAJGzZ0i/view?usp=drive_link"
+  Assets:Eventos:Pyn2024  -1290.00 BRL
+  Expenses:Eventos:Pyn2024
+
+2024-03-21 * "Taxas" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 20/03/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-03-25 * "Patrocínio" "PIX - RECEBIDO - 25/03 13:53 31882925000137 DATA RUDDER / DEP"
+  comprovante: "https://drive.google.com/file/d/18DPy0RXHxyRM_K1bkXw870QMFemnfS2L/view?usp=drive_link"
+  Assets:Bancos:BB  15000.00 * 0.1 BRL
+  Assets:Eventos:Pysul2024  15000.00 * 0.9 BRL
+  Income:Eventos:Pysul2024
+
+2024-03-28 * "Infraestrutura" "Local - PIX - ENVIADO - 28/03 15:56 NOVE ORGANIZACAO DE EVENTO"
+  comprovante: "https://drive.google.com/file/d/1aFJ3gQ87NT1IMQ7U-VDjyNZdf-9B95Ii/view?usp=drive_link"
+  Assets:Bancos:BB  -10880.00 BRL
+  Expenses:Eventos:Pybr2024
+
+
