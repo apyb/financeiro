@@ -233,12 +233,12 @@
   Assets:Eventos:DjangoGirlsParnaiba2023  900.00 BRL
   Income:Eventos:DjangoGirlsParnaiba2023
 
-2023-11-09 * "Reembolso" "Serviços gráficos - TRANSFERÊNCIA ENVIADA - 09/11 13:35 PERCEU G BERTOLETTI / XFER"
+2023-11-09 * "Serviços gráficos" "Reembolso - TRANSFERÊNCIA ENVIADA - 09/11 13:35 PERCEU G BERTOLETTI / XFER"
   comprovante: "https://drive.google.com/file/d/1QUNjSYXE9JsgoxVIf3LQSBjWQeRAKxnQ/view?usp=drive_link"
   Assets:Eventos:Pybr2023  -255.00 BRL
   Expenses:Eventos:Pybr2023
 
-2023-11-09 * "Reembolso" "Brindes - TRANSFERÊNCIA ENVIADA - 09/11 13:38 PERCEU G BERTOLETTI / XFER"
+2023-11-09 * "Serviços gráficos" "Reembolso - TRANSFERÊNCIA ENVIADA - 09/11 13:38 PERCEU G BERTOLETTI / XFER"
   comprovante: "https://drive.google.com/file/d/1k9tIdMADDY_R4Pmo3qfddM1niQ8mmSmG/view?usp=drive_link"
   Assets:Eventos:Pybr2023  -330.00 BRL
   Expenses:Eventos:Pybr2023
@@ -325,8 +325,8 @@
 
 2023-11-13 * "" "PIX - ENVIADO - 13/11 11:14 BRUNO PINTO JARDIM 8343311" #falta-comprovante
   comprovante: ""
-  Assets:Eventos:  -1600.00 BRL
-  Expenses:Eventos:
+  Assets:Eventos:Pybr2023  -1600.00 BRL
+  Expenses:Eventos:Pybr2023
 
 2023-11-13 * "Taxa" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 13/11/2023"
   comprovante: ""
@@ -398,12 +398,12 @@
   Assets:Eventos:Pybr2023  -1500.00 BRL
   Expenses:Eventos:Pybr2023
 
-2023-11-20 * "PIX - ENVIADO - 19/11 20:29 NIC BR"
+2023-11-20 * "Infraestrutura" "PIX - ENVIADO - 19/11 20:29 NIC BR"
   comprovante: ""
   Assets:Bancos:BB  -328.00 BRL
   Expenses:APyB:Infra
 
-2023-11-20 * "" "PIX - ENVIADO - 19/11 21:13 NIC BR"
+2023-11-20 * "Infraestrutura" "PIX - ENVIADO - 19/11 21:13 NIC BR"
   comprovante: ""
   Assets:Bancos:BB  -328.00 BRL
   Expenses:APyB:Infra
