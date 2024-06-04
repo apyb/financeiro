@@ -27,7 +27,7 @@
 2023-09-11 * "Imposto" "COBRANÇA DE I.O.F."
   comprovante: ""
   Assets:Bancos:BB  -37.36 BRL
-  Expenses:APyB:Taxas:BB
+  Expenses:APyB:Impostos
 
 2023-09-11 * "Serviço contábil" "PIX - ENVIADO - 11/09 08:28 ATUALE ASSESSORIA CONTABIL"
   comprovante: "https://drive.google.com/file/d/1VNhxCfwG5B8V06NdER7kyslTUsfA493I/view?usp=drive_link"
@@ -44,17 +44,17 @@
   Assets:Eventos:Pyn2023  -225.00 BRL
   Expenses:Eventos:Pyn2023
 
-2023-09-12 * "Reembolso" "Stickers, coffee break, brindes, transporte" "TRANSFERÊNCIA ENVIADA - 12/09 16:08 ITALO EPIFANIO DE LIMA E / XFER"
+2023-09-12 * "Serviços diversos" "Reembolso - Stickers, coffee break, brindes, transporte - TRANSFERÊNCIA ENVIADA - 12/09 16:08 ITALO EPIFANIO DE LIMA E / XFER"
   comprovante: "https://drive.google.com/file/d/1QrQtb_NtfqCu-Nfmlboc3eq0rXVygQy_/view?usp=drive_link"
   Assets:Eventos:16MeetupGrupyRN BRL  -2347.27 BRL
   Expenses:Eventos:16MeetupGrupyRN
 
-2023-09-12 * "Reembolso" "Passagem de Keynote - TED TRANSF.ELETR.DISPONIV - 260 0001 06621758405 ANA CECILIA VIEIR"
+2023-09-12 * "Deslocamento" "Reembolso - Passagem de Keynote - TED TRANSF.ELETR.DISPONIV - 260 0001 06621758405 ANA CECILIA VIEIR"
   comprovante: "https://drive.google.com/file/d/1bdwVNjZ0VLLCRocGZXu5L2qzmzTEFgWU/view?usp=drive_link"
   Assets:Eventos:Pyne2023  -862.07 BRL
   Expenses:Eventos:Pyne2023
 
-2023-09-12 * "Reembolso" "Passagem de Keynote - TED TRANSF.ELETR.DISPONIV - 260 0001 06621758405 ANA CECILIA VIEIR"
+2023-09-12 * "Deslocamento" "Reembolso - Passagem de Keynote - TED TRANSF.ELETR.DISPONIV - 260 0001 06621758405 ANA CECILIA VIEIR"
   comprovante: "https://drive.google.com/file/d/1XgGMJV0-bhVmzD0bZJDuv8gD8QgvRrax/view?usp=drive_link"
   Assets:Eventos:Pyne2023  -985.78 BRL
   Expenses:Eventos:Pyne2023
@@ -229,12 +229,12 @@
   Assets:Eventos:Pyne2023  -700.00 BRL
   Expenses:Eventos:Pyne2023
 
-2023-09-25 * "Reembolso" "Deslocamentos - TED TRANSF.ELETR.DISPONIV - 260 0001 05570075500 LORENA SANTOS PER"
+2023-09-25 * "Deslocamentos" "Reembolso - TED TRANSF.ELETR.DISPONIV - 260 0001 05570075500 LORENA SANTOS PER"
   comprovante: "https://drive.google.com/file/d/16IwdpJSVGsiILsmFpvXZAR7qSTI6JwvP/view?usp=drive_link"
   Assets:Eventos:Pyne2023  -44.87 BRL
   Expenses:Eventos:Pyne2023
 
-2023-09-25 * "Reembolso" "Deslocamentos - TED TRANSF.ELETR.DISPONIV - 237 1055 08620273493 ELIS GRACE BATIST"
+2023-09-25 * "Deslocamentos" "Reembolso - TED TRANSF.ELETR.DISPONIV - 237 1055 08620273493 ELIS GRACE BATIST"
   comprovante: "https://drive.google.com/file/d/1Fo2ULfwq2-7ugKEv11DabD4Wn1zEL3xo/view?usp=drive_link"
   Assets:Eventos:Pyne2023  -19.94 BRL
   Expenses:Eventos:Pyne2023
