@@ -1,0 +1,44 @@
+;; -*- mode: beancount -*-
+;; extratos/2024-04-bb.ofx
+
+2024-04-01 * "Taxas" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 28/03/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-04-15 * "Taxas" "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 15/04/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -115.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-04-24 * "Serviço contábil" "PIX - ENVIADO - 24/04 11:54 ATUALE ASSESSORIA CONTABIL"
+  comprovante: "https://drive.google.com/file/d/1zVNWAEpS3vWmb42uFm5b-faQkWzpY1Zb/view?usp=drive_link"
+  Assets:Bancos:BB  -250.00 BRL
+  Expenses:APyB:Contadora
+
+2024-04-24 * "Impostos" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
+  comprovante: ""
+  Assets:Bancos:BB  -605.40 BRL
+  Expenses:APyB:Impostos
+
+2024-04-25 * "Taxas" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 24/04/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -2.47 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-04-29 * "Serviços diversos" "Consultoria de diversidade - PIX - ENVIADO - 29/04 23:14 AFROPYTHON TECNOLOGIA DA I"
+  comprovante: "https://drive.google.com/file/d/1Rsj2rXHb1sbUr3aFklXY_7SHYaDppg_m/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -2750.00 BRL
+  Expenses:Eventos:Pybr2024
+
+2024-04-30 * "Infraestrutura" "Local - PIX - ENVIADO - 30/04 13:22 NOVE ORGANIZACAO DE EVENTO"
+  comprovante: "https://drive.google.com/file/d/1Q6oIyMlqtGBcUymJLIbTSpjAOlsx8gFS/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -10880.00 BRL
+  Expenses:Eventos:Pybr2024
+
+2024-04-30 * "Taxas" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 29/04/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+
