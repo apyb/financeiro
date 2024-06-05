@@ -1,0 +1,33 @@
+;; -*- mode: beancount -*-
+;; extratos/2023-12-bb.ofx
+
+2023-12-08 * "Acessibilidade" "Intérpretes de libras - PIX - ENVIADO - 08/12 14:58 C E D TRADUCAO DE LIBRAS L"
+  comprovante: "https://drive.google.com/file/d/1nnRXvYP9htXNWBxSNZ_K3dzW4LsIBlhb/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -6048.00 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-12-11 * "Impostos" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
+  comprovante: ""
+  Assets:Bancos:BB  -332.80 BRL
+  Expenses:APyB:Impostos
+
+2023-12-11 * "Serviço contábil" "PIX - ENVIADO - 11/12 14:38 ATUALE ASSESSORIA CONTABIL"
+  comprovante: "https://drive.google.com/file/d/1DsZ-TUVHnyiQRqd-afJ8M3zWLdpsbdcC/view?usp=drive_link"
+  Assets:Bancos:BB  -200.00 BRL
+  Expenses:APyB:Contadora
+
+2023-12-11 * "Taxas" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 08/12/2023"
+  comprovante: ""
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2023-12-12 * "Taxas" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 11/12/2023"
+  comprovante: ""
+  Assets:Bancos:BB  -1.98 BRL
+  Expenses:APyB:Taxas:BB
+
+2023-12-15 * "Taxas" "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 15/12/2023"
+  comprovante: ""
+  Assets:Bancos:BB  -115.00 BRL
+  Expenses:APyB:Taxas:BB
+

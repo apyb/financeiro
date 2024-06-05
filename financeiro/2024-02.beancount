@@ -1,0 +1,44 @@
+;; -*- mode: beancount -*-
+;; extratos/2024-02-bb.ofx
+
+2024-02-01 * "Infraestrutura" "Local - PIX - ENVIADO - 01/02 19:56 NOVE ORGANIZACAO DE EVENTO"
+  comprovante: "https://drive.google.com/file/d/1u75XD6GeYVNTaVU0kURZ3gR3i06eZkT-/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -10880.00 BRL
+  Expenses:Eventos:Pybr2024
+
+2024-02-02 * "Taxas" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 01/02/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-02-15 * "Taxas" "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 15/02/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -115.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-02-21 * "Patrocínio" "TED-CRÉDITO EM CONTA - 077 0001 14190549000109 EVOLUX SISTEMA / DEP"
+  comprovante: "https://drive.google.com/file/d/1DzavYgOIHwMGE-hSSpDm4Vjx4olFKu5d/view?usp=drive_link"
+  Assets:Bancos:BB  1500.00 * 0.1 BRL
+  Assests:Eventos:Pyne2024  1500.00 * 0.9 BRL
+  Income:Eventos:Pyne2024
+
+
+2024-02-23 * "Patrocínio" "PSF - ORPAG ORIGEM EXTERIOR / DEP"
+  comprovante: "https://drive.google.com/file/d/12dvX2_d7cIdd8sT_66BKHC0AWTlGdEIm/view?usp=drive_link"
+  Assets:Bancos:BB  8959.67 * 0.1 BRL
+  Assets:Eventos:Pyn2023 8959.67 * 0.9 BRL
+  Income:Eventos:Pyn2023
+
+
+2024-02-23 * "Imposto" "COBRANÇA DE I.O.F."
+  comprovante: ""
+  Assets:Bancos:BB  -34.05 BRL
+  Expenses:APyB:Impostos
+
+2024-02-29 * "Infraestrutura" "Local - PIX - ENVIADO - 29/02 11:28 NOVE ORGANIZACAO DE EVENTO"
+  comprovante: "https://drive.google.com/file/d/1OkA11X88vOcdmV8bbALTjFde00VYeJJp/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -10880.00 BRL
+  Expenses:Eventos:Pybr2024
+
+
+
