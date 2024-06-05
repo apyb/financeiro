@@ -113,6 +113,7 @@ option "operating_currency" "BRL"
 ; Django Girls Parnaíba 2023
 2023-09-20 open Assets:Eventos:DjangoGirlsParnaiba2023 BRL
 2023-09-20 open Income:Eventos:DjangoGirlsParnaiba2023 BRL
+2023-11-13 open Expenses:Eventos:DjangoGirlsParnaiba2023 BRL
 
 ; Fundos de Inclusão ==========================================================
 ; Python Brasil 2022

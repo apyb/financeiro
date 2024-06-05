@@ -19,7 +19,7 @@
 2024-02-21 * "Patrocínio" "TED-CRÉDITO EM CONTA - 077 0001 14190549000109 EVOLUX SISTEMA / DEP"
   comprovante: "https://drive.google.com/file/d/1DzavYgOIHwMGE-hSSpDm4Vjx4olFKu5d/view?usp=drive_link"
   Assets:Bancos:BB  1500.00 * 0.1 BRL
-  Assests:Eventos:Pyne2024  1500.00 * 0.9 BRL
+  Assets:Eventos:Pyne2024  1500.00 * 0.9 BRL
   Income:Eventos:Pyne2024
 
 
