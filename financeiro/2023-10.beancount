@@ -1,0 +1,275 @@
+;; -*- mode: beancount -*-
+;; extratos/2023-10-bb.ofx
+
+2023-10-04 * "Ingressos" "TED-CRÉDITO EM CONTA - 341 3117 14512528000154 SYMPLA INTERNE / DEP"
+  comprovante: "https://drive.google.com/file/d/1XBYHUGf0Ak2d1TAZbsqIK6dHjIXKGdE6/view?usp=drive_link"
+  Assets:Bancos:BB 6762.40 * 0.1 BRL
+  Assets:Eventos:Pyn2023  6762.40 * 0.9 BRL
+  Income:Eventos:Pyn2023
+
+2023-10-06 * "Ingressos" "11 ingressos - PIX - RECEBIDO - 06/10 04:20 88611835000129 MARCOPOLO S / DEP"
+  comprovante: "https://drive.google.com/file/d/1iTztmit8P3hj26hqbp9ifsZ3McuYS_hy/view?usp=drive_link"
+  Assets:Bancos:BB 2200.00 * 0.1 BRL
+  Assets:Eventos:Pyn2023  2200.00 * 0.9 BRL
+  Income:Eventos:Pyn2023
+
+2023-10-09 * "Patrocínio" "Beemon - PIX - RECEBIDO - 09/10 09:45 02311053000159 MONACO SERV / DEP"
+  comprovante: "https://drive.google.com/file/d/1lBI4-ioMqSqXyTrboLNakYj4B8Eau3l7/view?usp=drive_link"
+  Assets:Bancos:BB  5000.00 * 0.9 BRL
+  Assets:Eventos:Pybr2023  5000.00 * 0.9 BRL
+  Income:Eventos:Pybr2023
+
+2023-10-09 * "Serviço contábil" "PIX - ENVIADO - 09/10 09:14 ATUALE ASSESSORIA CONTABIL"
+  comprovante: "https://drive.google.com/file/d/1GKYAizQQczDfMSNpWCYBdL0MKH-vENn1/view?usp=drive_link"
+  Assets:Bancos:BB  -200.00 BRL
+  Expenses:APyB:Contadora
+
+2023-10-09 * "Contratação por RPA" "Serviço técnico - PIX - ENVIADO - 09/10 09:17 SECRETARIA DA RECEITA FEDE"
+  comprovante: "https://drive.google.com/file/d/1LnNCgtRW2B5nR3OkhjQaHnRSeuvUVupj/view?usp=drive_link"
+  Assets:Eventos:Pyne2023  -240.09 BRL
+  Expenses:Eventos:Pyne2023
+
+2023-10-09 * "Imposto" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
+  comprovante: ""
+  Assets:Bancos:BB  -927.20 BRL
+  Expenses:APyB:Impostos
+
+2023-10-09 * "Contratação por RPA" "Serviço de limpeza - PIX - ENVIADO - 09/10 09:30 FABIO BISPO DE JESUS"
+  comprovante: "https://drive.google.com/file/d/1XeM5Ls67a9Rn3jJ27BeV-VVru2b-LHJ_/view?usp=drive_link"
+  Assets:Eventos:Pyne2023  -689.35 BRL
+  Expenses:Eventos:Pyne2023
+
+2023-10-09 * "Placa PremioDTJF 1/2" "PIX - ENVIADO - 09/10 15:28 CASA DAS PLACAS LTDA"
+  comprovante: "https://drive.google.com/file/d/1VlXixUUHrId-cDH3Vh7mRTIVbCHuya32/view?usp=drive_link"
+  Assets:Bancos:BB  -540.00 BRL
+  Expenses:APyB:PremioDTJF
+
+2023-10-10 * "Prestação de serviços diversos" "Gestão de feira - TED TRANSF.ELETR.DISPONIV - 403 0001 043276586000124 43.276.586 IR"
+  comprovante: "https://drive.google.com/file/d/15-PwFaCYqvKGgtk_yItsx602MTG4uFyT/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -2000.00 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-10 * "Fotografia 1/2" "PIX - ENVIADO - 10/10 16:52 TADEU LIMA DA ROCHA E SILV"
+  comprovante: "https://drive.google.com/file/d/1aun2s1bvwliVZ2NwsBT-K451m22v-9_o/view?usp=drive_link"
+  Assets:Eventos:Pyn2023  -900.00 BRL
+  Expenses:Eventos:Pyn2023
+
+2023-10-10 * "Aluguel de equipamento" "Equipamentos informáticos - PIX - ENVIADO - 10/10 16:56 RENATO DE LIMA MESQUITA JU"
+  comprovante: "https://drive.google.com/file/d/1r292Ho1zBInZ9cBYaPJg1ZmmrZwEGWLl/view?usp=drive_link"
+  Assets:Eventos:Pyn2023  -2280.00 BRL
+  Expenses:Eventos:Pyn2023
+
+2023-10-10 * "Reembolso" "Impressão de lona de entrada - PIX - ENVIADO - 10/10 19:10 THATIANNE ARAUJO P MARUYAM"
+  comprovante: "https://drive.google.com/file/d/1P2b1WYMRd_GQ22Hg5-UOIA6gdxS2iX2O/view?usp=drive_link"
+  Assets:Eventos:Pyn2023  -1600.00 BRL
+  Expenses:Eventos:Pyn2023
+
+2023-10-10 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 09/10/2023"
+  comprovante: ""
+  Assets:Bancos:BB  -14.14 BRL
+  Expenses:APyB:Taxas:BB
+
+2023-10-11 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 10/10/2023"
+  comprovante: ""
+  Assets:Bancos:BB  -28.91 BRL
+  Expenses:APyB:Taxas:BB
+
+2023-10-13 * "Patrocínio" "PIX - RECEBIDO - 13/10 15:23 50764013000105 FTAS TECNOL / DEP"
+  comprovante: "https://drive.google.com/file/d/1Zcr4cXUNp4Z3R04YKmtejYnV88LzKk0n/view?usp=drive_link"
+  Assets:Bancos:BB 10000.00 * 0.1 BRL
+  Assets:Eventos:Pybr2023  10000.00 * 0.9 BRL
+  Income:Eventos:Pybr2023
+
+2023-10-13 * "Camisas 1/2" "PIX - ENVIADO - 13/10 06:26 COMERCIAL MALLET LTDA"
+  comprovante: "https://drive.google.com/file/d/1EAA8KvIpeXIJNzOxR3qpX3hN62-jd3o2/view?usp=drive_link"
+  comprovante: "https://drive.google.com/file/d/1RMQVwL-inQTW4Jum4jCdaWYC_2H2ClA0/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -3750.00 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-13 * "Infraestrutura" "Sonorização PIX - ENVIADO - 13/10 07:41 BRUNO PINTO JARDIM 8343311"
+  comprovante: "https://drive.google.com/file/d/1zB5lYed7K0ODapt8uojlamy1QLX-sJGq/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -6800.00 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-16 * "Audiovisual 1/3" "PIX - ENVIADO - 15/10 13:45 FABIO DA SILVA 93362293034"
+  comprovante: "https://drive.google.com/file/d/1CDsfjv5t80ISZlBS0QFk5eph-Shk_ccY/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -5616.00 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-16 * "Taxa" "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 16/10/2023"
+  comprovante: ""
+  Assets:Bancos:BB  -103.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2023-10-16 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 13/10/2023"
+  comprovante: ""
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2023-10-16 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 16/10/2023"
+  comprovante: ""
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2023-10-18 * "Placa PremioDTJF 2/2" "PIX - ENVIADO - 18/10 16:55 CASA DAS PLACAS LTDA"
+  comprovante: "https://drive.google.com/file/d/1VlXixUUHrId-cDH3Vh7mRTIVbCHuya32/view?usp=drive_link"
+  Assets:Bancos:BB  -540.00 BRL
+  Expenses:APyB:PremioDTJF
+
+2023-10-19 * "Serviços gráficos" "Cordinha para crachá - PIX - ENVIADO - 19/10 17:58 CRS IMPRESSOS PERSONALIZAD"
+  comprovante: "https://drive.google.com/file/d/1haOrReW3P9AEKysyQh2jewMBAKbIXFLs/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -2375.00 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-19 * "Local" "PAGAMENTO DE BOLETO - ANHANGUERA EDUCACIONAL PARTICI"
+  comprovante: "https://drive.google.com/file/d/1nS6tekMA0albxxy5xCWhk4qeXf6d0nay/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -10000.00 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-19 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 18/10/2023"
+  comprovante: ""
+  Assets:Bancos:BB  -5.34 BRL
+  Expenses:APyB:Taxas:BB
+
+2023-10-23 * "Hospedagem" "Keynote  - PIX - ENVIADO - 23/10 12:25 HMA GESTORA HOTELEIRA CAXI"
+  comprovante: "https://drive.google.com/file/d/1iiN9h4DXbT1fcbfvv3CzVhIUUgVN4rqN/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -805.50 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-23 * "Hospedagem" "Keynote  - PIX - ENVIADO - 23/10 12:28 HMA GESTORA HOTELEIRA CAXI"
+  comprovante: "https://drive.google.com/file/d/166cWpGeSe-6ePWObnc-9_Hm3XFnX9EO0/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -483.30 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-23 * "Hospedagem" "Keynote  - PIX - ENVIADO - 23/10 12:31 HMA GESTORA HOTELEIRA CAXI"
+  comprovante: "https://drive.google.com/file/d/16FojPi_cbN2yww4goeXjnCcLKS31OHAF/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -644.40 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-23 * "Serviços gráficos" "Crachá - PIX - ENVIADO - 23/10 18:06 CRS IMPRESSOS PERSONALIZAD"
+  comprovante: "https://drive.google.com/file/d/1tDH5sSNMGD0FVGmrqzLlAf9Z7LhSUGIX/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -1550.00 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-24 * "Alimentação 1/2" "Geral - TED TRANSF.ELETR.DISPONIV - 041 1074 091848192000146 CONFEITARIA M"
+  comprovante: "https://drive.google.com/file/d/1VB3SnT1vfmuoA4cBNQnBkowBdl1P44HS/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -6120.00 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-24 * "Alimentação 1/2" "Vegana - PIX - ENVIADO - 24/10 17:04 JAQUELINE HELOISA ZAGO"
+  comprovante: "https://drive.google.com/file/d/1Lu7iOWeNmcbyaWTLDEx2CiXj2FVdSCd3/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -1642.50 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-24 * "Taxa" "TAR DOC/TED ELETRÔNICO - COBRANÇA REFERENTE 24/10/2023"
+  comprovante: ""
+  Assets:Bancos:BB  -11.50 BRL
+  Expenses:APyB:Taxas:BB
+
+2023-10-25 * "Camisas 2/2" "PIX - ENVIADO - 25/10 14:38 COMERCIAL MALLET LTDA"
+  comprovante: "https://drive.google.com/file/d/1RMQVwL-inQTW4Jum4jCdaWYC_2H2ClA0/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -8687.00 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-25 * "" "PIX - ENVIADO - 25/10 14:42 COOPERATIVA DE SUCOS MONTE"
+  comprovante: "https://drive.google.com/file/d/1CcAJyAdUEiFRFlKgUsxZi7DmBianU6ZZ/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -933.67 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-25 * "Espaço kids" "PIX - ENVIADO - 25/10 15:00 JOAO CARLOS RODRIGUES ALVE"
+  comprovante: "https://drive.google.com/file/d/1o_plN46hH2Vn8nMhFrn2Hl2mYIuRuEP9/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -5500.00 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-25 * "Serviços gráficos" "Banner - PIX - ENVIADO - 25/10 16:53 CRS IMPRESSOS PERSONALIZAD"
+  comprovante: "https://drive.google.com/file/d/1JVen8EoNQhf9FyJd2Wx-Wxw6hqQvjOVd/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -4806.00 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-25 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 24/10/2023"
+  comprovante: ""
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2023-10-26 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 25/10/2023"
+  comprovante: ""
+  Assets:Bancos:BB  -19.24 BRL
+  Expenses:APyB:Taxas:BB
+
+2023-10-27 * "Ingressos" "Venda de 03 ingressos  - PIX - RECEBIDO - 27/10 15:43 16590234000176 AREZZO INDU / DEP"
+  comprovante: "https://drive.google.com/file/d/1AvzaiaMqqvScjVWWhcJoWZuCuoidCSEH/view?usp=drive_link"
+  Assets:Bancos:BB 1200.00 * 0.1 BRL
+  Assets:Eventos:Pybr2023  1200.00 * 0.9 BRL
+  Income:Eventos:Pybr2023
+
+2023-10-27 * "Ingressos" "Venda de 9 ingressos - PIX - RECEBIDO - 27/10 16:02 93919603000172 VENDABEM IN / DEP"
+  comprovante: "https://drive.google.com/file/d/1gJDyF0hMFmLiHiN73jTx2Q1V_2LbirJs/view?usp=drive_link"
+  Assets:Bancos:BB 1320.00 * 0.1 BRL
+  Assets:Eventos:Pybr2023  1320.00 * 0.9 BRL
+  Income:Eventos:Pybr2023
+
+2023-10-27 * "Serviços gráficos" "PIX - ENVIADO - 27/10 22:05 CRS IMPRESSOS PERSONALIZAD" #falta-comprovante
+  ; talvez esteja com Ana Dulce, estou no aguardo
+  comprovante: ""
+  Assets:Eventos:Pybr2023  -240.00 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-30 * "Ingressos" "Venda de 04 ingressos - PIX - RECEBIDO - 30/10 08:48 29938581000199 R&Q CONSULT / DEP"
+  comprovante: "https://drive.google.com/file/d/1l-umDBSXVbO0Q4eeIVvKm0zyVBxbCHIU/view?usp=drive_link"
+  Assets:Bancos:BB 1000.00 * 0.1 BRL
+  Assets:Eventos:Pybr2023  1000.00 * 0.9 BRL
+  Income:Eventos:Pybr2023
+
+2023-10-30 * "Patrocínio" "PIX - RECEBIDO - 30/10 13:51 00004625338913 IVAN BARABA / DEP"
+  comprovante: "https://drive.google.com/file/d/1oetci5k7po11v8CtcMjEePjlEfIquzUN/view?usp=drive_link"
+  Assets:Bancos:BB 1500.00 * 0.1 BRL
+  Assets:Eventos:Pybr2023  1500.00 * 0.9 BRL
+  Income:Eventos:Pybr2023
+
+2023-10-30 * "Patrocínio" "PIX - RECEBIDO - 30/10 20:10 21511956000128 AVIDITY BRA / DEP"
+  comprovante: "https://drive.google.com/file/d/1vrA7yk48P78F88pyAISxDhazyZeO99e0/view?usp=drive_link"
+  Assets:Bancos:BB 5000.00 * 0.1 BRL
+  Assets:Eventos:Pybr2023  5000.00 * 0.9 BRL
+  Income:Eventos:Pybr2023
+
+2023-10-30 * "" "PIX - ENVIADO - 30/10 09:21 ZAFFARI"
+  comprovante: "https://drive.google.com/file/d/1EJzIiWtpWRjyx3YQoO3cLmLhUN9thmUM/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -402.91 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-30 * "Material de escritório" "Etiqueta, caneta, papel, etc - PIX - ENVIADO - 30/10 11:54 LIVRARIA ROSSI LTDA"
+  comprovante: "https://drive.google.com/file/d/1F7auWHvkLUH63TIB2hV15-miMmksXtHJ/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -342.00 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-30 * "Internet" "PAGAMENTO DE BOLETO - PEOPLE NET"
+  comprovante: "https://drive.google.com/file/d/1d7O1FEDCtvGajUTtn92HRBklINSI8iZo/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -3990.00 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-30 * "Alimentação" "PIX - ENVIADO - 30/10 14:10 ZAFFARI"
+  comprovante: "https://drive.google.com/file/d/1JGBXgP2q6lIHQreHgTCOW6JDK1lgMuFt/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -300.78 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-30 * "Infraestrutura" "PIX - ENVIADO - 30/10 14:14 COMANDER SOM E LUZ"
+  comprovante: "https://drive.google.com/file/d/12GW_rY47sdT-akLt9OpUJgPxYZTUj05G/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -6072.00 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-31 * "Alimentação" "PIX - ENVIADO - 31/10 09:10 ZAFFARI"
+  comprovante: "https://drive.google.com/file/d/16pphlffQfY33L5x1UiIIE1Zb7rKZ9G9h/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -387.00 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-31 * "Material de escritório" "Fitas, tesouras, etc - PIX - ENVIADO - 31/10 10:15 ARMARINHOS GOOL"
+  comprovante: "https://drive.google.com/file/d/18UY14hKv0lWgtyKlZHrWcOlOcy0wYb-y/view?usp=drive_link"
+  Assets:Eventos:Pybr2023  -443.00 BRL
+  Expenses:Eventos:Pybr2023
+
+2023-10-31 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 30/10/2023"
+  comprovante: ""
+  Assets:Bancos:BB  -13.38 BRL
+  Expenses:APyB:Taxas:BB
+
+
