@@ -66,6 +66,10 @@ option "operating_currency" "BRL"
 2023-04-10 open Assets:Eventos:Pyne2023 BRL
 2023-06-01 open Income:Eventos:Pyne2023 BRL
 2023-06-14 open Expenses:Eventos:Pyne2023 BRL
+; Python Nordeste 2024
+2024-02-21 open Assets:Eventos:Pyne2024 BRL
+2024-02-21 open Income:Eventos:Pyne2024 BRL
+;2024-06-14 open Expenses:Eventos:Pyne2023 BRL
 
 ; Python Norte 2023
 2023-07-07 open Assets:Eventos:Pyn2023 BRL
@@ -164,3 +168,4 @@ include "2023-10.beancount"
 include "2023-11.beancount"
 include "2023-12.beancount"
 include "2024-01.beancount"
+include "2024-02.beancount"
