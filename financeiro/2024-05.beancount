@@ -1,0 +1,67 @@
+;; -*- mode: beancount -*-
+;; extratos/2024-05-bb.ofx
+
+2024-05-02 * "Taxas" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 30/04/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-05-14 * "Ingressos" "Ingressos para caravana - Soma de todas as notas emitidas para cada integrante da caravana, solicitadas em 28-10-2023 - TED-PAG FORNECEDORES - 237 0452  2455125000131 INSTITUTO DE A / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  2850.00 * 0.1 BRL
+  Assets:Eventos:Pyn2023  2850.00 * 0.9 BRL
+  Income:Eventos:Pyn2023
+
+2024-05-14 * "Serviço contábil" "PIX - ENVIADO - 14/05 21:28 ATUALE ASSESSORIA CONTABIL"
+  comprovante: "https://drive.google.com/file/d/1UgmzbnBBD7eBk4Wb3_p1Ae9D2wKtVyId/view?usp=drive_link"
+  Assets:Bancos:BB  -250.00 BRL
+  Expenses:APyB:Contadora
+
+2024-05-14 * "Impostos" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
+  comprovante: ""
+  Assets:Bancos:BB  -120.00 BRL
+  Expenses:APyB:Impostos
+
+2024-05-15 * "Taxas" "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 15/05/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -115.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-05-15 * "Taxas" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 14/05/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -2.47 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-05-21 * "" "Transferencia de caixa da pyadies brasi - PIX - RECEBIDO - 21/05 14:52 09599116429 JESSICA CAROLI / DEP"
+  comprovante: "https://drive.google.com/file/d/1e4MBpWz3sCTApMk5yvRKfi4vN0FkV_C5/view?usp=drive_link"
+  Assets:Comunidades:Pyladiesbr  13182.59 BRL
+  Income:Comunidades:Pyladiesbr
+
+2024-05-24 * "Patrocínio" "PSF - ORPAG ORIGEM EXTERIOR / DEP"
+  comprovante: "https://drive.google.com/file/d/18TwsKSzBEY5rwZ7OBwhPyxKxWeIhwE02/view?usp=drive_link"
+  Assets:Bancos:BB  22571.09 * 0.1 BRL
+  Assets:Eventos:Pyne2024 22571.09 * 0.9 BRL
+  Income:Eventos:Pyne2024
+
+2024-05-24 * "Impostos" "COBRANÇA DE I.O.F."
+  comprovante: ""
+  Assets:Bancos:BB  -85.77 BRL
+  Expenses:APyB:Impostos
+
+2024-05-27 * "Infraestrutura" "Local - PIX - ENVIADO - 27/05 19:38 NOVE ORGANIZACAO DE EVENTO"
+  comprovante: "https://drive.google.com/file/d/1ioLKsNczM4QU5S97mpA_N-3757i-jJbl/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -10880.00 BRL
+  Expenses:Eventos:Pybr2024
+
+2024-05-28 * "Patrocínio" "PIX - RECEBIDO - 28/05 17:08 47807497000118 SCLOUD HOSP / DEP"
+  comprovante: "https://drive.google.com/file/d/1iA4lo4ztozfmvE6XEWnsVaFb_gVIxTJO/view?usp=drive_link"
+  Assets:Bancos:BB  14250.00 * 0.1 BRL
+  Assets:Eventos:Pyne2024  14250.00 * 0.9 BRL
+  Income:Eventos:Pyne2024
+
+2024-05-28 * "Taxas" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 27/05/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+
