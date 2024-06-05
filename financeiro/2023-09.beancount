@@ -46,7 +46,7 @@
 
 2023-09-12 * "Serviços diversos" "Reembolso - Stickers, coffee break, brindes, transporte - TRANSFERÊNCIA ENVIADA - 12/09 16:08 ITALO EPIFANIO DE LIMA E / XFER"
   comprovante: "https://drive.google.com/file/d/1QrQtb_NtfqCu-Nfmlboc3eq0rXVygQy_/view?usp=drive_link"
-  Assets:Eventos:16MeetupGrupyRN BRL  -2347.27 BRL
+  Assets:Eventos:16MeetupGrupyRN  -2347.27 BRL
   Expenses:Eventos:16MeetupGrupyRN
 
 2023-09-12 * "Deslocamento" "Reembolso - Passagem de Keynote - TED TRANSF.ELETR.DISPONIV - 260 0001 06621758405 ANA CECILIA VIEIR"
@@ -163,7 +163,7 @@
 
 2023-09-20 * "Patrocínio" "PIX - RECEBIDO - 20/09 15:52 19259743000109 VINTA SOFTW / DEP"
   comprovante: "https://drive.google.com/file/d/1L_7cb4Hc09QiWvXax7jjNIYKnAhQ6VJs/view?usp=drive_link"
-  Assets:Eventos:DjangoGirlsParnaiba2023  500.00
+  Assets:Eventos:DjangoGirlsParnaiba2023  500.00 BRL
   Income:Eventos:DjangoGirlsParnaiba2023
 
 2023-09-20 * "Taxa" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 19/09/2023"
