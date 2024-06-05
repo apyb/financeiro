@@ -43,6 +43,10 @@ option "operating_currency" "BRL"
 2023-01-31 open Assets:Eventos:Pybr2023 BRL
 2023-01-31 open Expenses:Eventos:Pybr2023 BRL
 2023-05-23 open Income:Eventos:Pybr2023 BRL
+; Python Brasil 2024
+2024-01-12 open Assets:Eventos:Pybr2024 BRL
+2024-01-12 open Expenses:Eventos:Pybr2024 BRL
+;2024-05-23 open Income:Eventos:Pybr2024 BRL
 
 ; Python Nordeste 2020
 2020-02-20 open Assets:Eventos:Pyne2020 BRL
@@ -62,11 +66,19 @@ option "operating_currency" "BRL"
 2023-04-10 open Assets:Eventos:Pyne2023 BRL
 2023-06-01 open Income:Eventos:Pyne2023 BRL
 2023-06-14 open Expenses:Eventos:Pyne2023 BRL
+; Python Nordeste 2024
+2024-02-21 open Assets:Eventos:Pyne2024 BRL
+2024-02-21 open Income:Eventos:Pyne2024 BRL
+;2024-06-14 open Expenses:Eventos:Pyne2023 BRL
 
 ; Python Norte 2023
 2023-07-07 open Assets:Eventos:Pyn2023 BRL
 2023-07-07 open Income:Eventos:Pyn2023 BRL
 2023-08-24 open Expenses:Eventos:Pyn2023 BRL
+; Python Norte 2024
+2024-03-20 open Assets:Eventos:Pyn2024 BRL
+;2024-03-20 open Income:Eventos:Pyn2024 BRL
+2024-03-20 open Expenses:Eventos:Pyn2024 BRL
 
 ; Python Sul 2020
 2020-03-05 open Assets:Eventos:Pysul2020 BRL
@@ -77,6 +89,10 @@ option "operating_currency" "BRL"
 2022-01-01 open Assets:Eventos:Pysul2022 BRL
 2022-08-15 open Income:Eventos:Pysul2022 BRL
 2022-08-17 open Expenses:Eventos:Pysul2022 BRL
+; Python Sul 2024
+2024-03-25 open Assets:Eventos:Pysul2024 BRL
+2024-03-25 open Income:Eventos:Pysul2024 BRL
+;2024-08-17 open Expenses:Eventos:Pysul2024 BRL
 
 ; 10º Meetup Grupy-RN
 2022-10-06 open Assets:Eventos:10MeetupGrupyRN BRL
@@ -155,4 +171,11 @@ include "2023-05.beancount"
 include "2023-06.beancount"
 include "2023-07.beancount"
 include "2023-08.beancount"
+include "2023-09.beancount"
+include "2023-10.beancount"
+include "2023-11.beancount"
+include "2023-12.beancount"
+include "2024-01.beancount"
+include "2024-02.beancount"
+include "2024-03.beancount"
 include "2024-04.beancount"
