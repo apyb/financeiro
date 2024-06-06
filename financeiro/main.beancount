@@ -132,6 +132,11 @@ option "operating_currency" "BRL"
 2024-05-21 open Income:Comunidades:Pyladiesbr BRL
 2024-05-21 open Expenses:Comunidades:Pyladiesbr BRL
 
+; PyLadies Fortaleza
+2024-05-14 open Assets:Comunidades:Pyladiesfortaleza BRL
+2024-05-14 open Income:Comunidades:Pyladiesfortaleza BRL
+;2024-05-21 open Expenses:Comunidades:Pyladiesfortaleza BRL
+
 ; Transições ==================================================================
 include "eventos-concluídos.beancount"
 include "2020-01.beancount"
