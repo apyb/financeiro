@@ -1,15 +1,15 @@
 ;; -*- mode: beancount -*-
 ;; extratos/2024-06-bb.ofx
 
-2024-06-03 * "" "PIX - REJEITADO - 03/06 12:49 CPF/CNPJ NAO PERTENCE AO T / DEP"
+2024-06-03 * "" "Ref: Reembolso para Anicely Santos - Envio de documentação para Contadora - PIX - REJEITADO - 03/06 12:49 CPF/CNPJ NAO PERTENCE AO T / DEP"
   comprovante: ""
   Assets:Bancos:BB  152.60 BRL
-  Income:APyB:Estorno
+  Income:APyB:Ops
 
-2024-06-03 * "" "PIX - REJEITADO - 03/06 12:50 CPF/CNPJ NÃO PERTENCE AO T / DEP"
+2024-06-03 * "" "Ref: Reembolso para Anicely Santos - Envio de documentação para Contadora - PIX - REJEITADO - 03/06 12:50 CPF/CNPJ NÃO PERTENCE AO T / DEP"
   comprovante: ""
   Assets:Bancos:BB  152.60 BRL
-  Income:APyB:Estorno
+  Income:APyB:Ops
 
 2024-06-03 * "Infraestrutura" "Registro de domínio - PIX - ENVIADO - 03/06 12:35 MARIA FERNANDA SOUZA ANDRA"
   comprovante: "https://drive.google.com/file/d/11pjF72VrE3L3UmzWrKO1xX2GXji8SojW/view?usp=drive_link"
@@ -107,12 +107,12 @@
   Expenses:APyB:Taxas:BB
 
 2024-06-11 * "" "PIX - ENVIADO - 11/06 10:27 ATUALE ASSESSORIA CONTABIL"
-  comprovante: ""
+  comprovante: "https://drive.google.com/file/d/1ceaFhPYiRzr-xxdrHoEOpn1hxpL1E7vu/view?usp=drive_link"
   Assets:Bancos:BB  -250.00 BRL
   Expenses:APyB:Contadora
 
 2024-06-11 * "Impostos" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
-  comprovante: ""
+  comprovante: "https://drive.google.com/file/d/1D3HyBDnPQsagMdqp63157oMtwsAZno20/view?usp=drive_link"
   Assets:Bancos:BB  -1147.86 BRL
   Expenses:APyB:Impostos
 
