@@ -46,7 +46,7 @@ option "operating_currency" "BRL"
 ; Python Brasil 2024
 2024-01-12 open Assets:Eventos:Pybr2024 BRL
 2024-01-12 open Expenses:Eventos:Pybr2024 BRL
-;2024-05-23 open Income:Eventos:Pybr2024 BRL
+2024-06-17 open Income:Eventos:Pybr2024 BRL
 
 ; Python Nordeste 2020
 2020-02-20 open Assets:Eventos:Pyne2020 BRL
@@ -66,10 +66,12 @@ option "operating_currency" "BRL"
 2023-04-10 open Assets:Eventos:Pyne2023 BRL
 2023-06-01 open Income:Eventos:Pyne2023 BRL
 2023-06-14 open Expenses:Eventos:Pyne2023 BRL
+2024-06-04 close Income:Eventos:Pyne2023
+2024-06-04 close Expenses:Eventos:Pyne2023
 ; Python Nordeste 2024
 2024-02-21 open Assets:Eventos:Pyne2024 BRL
 2024-02-21 open Income:Eventos:Pyne2024 BRL
-;2024-06-14 open Expenses:Eventos:Pyne2023 BRL
+2024-06-11 open Expenses:Eventos:Pyne2024 BRL
 
 ; Python Norte 2023
 2023-07-07 open Assets:Eventos:Pyn2023 BRL
@@ -92,7 +94,12 @@ option "operating_currency" "BRL"
 ; Python Sul 2024
 2024-03-25 open Assets:Eventos:Pysul2024 BRL
 2024-03-25 open Income:Eventos:Pysul2024 BRL
-;2024-08-17 open Expenses:Eventos:Pysul2024 BRL
+2024-06-03 open Expenses:Eventos:Pysul2024 BRL
+
+; Python Sudeste 2024
+2024-06-11 open Assets:Eventos:Pyse2024 BRL
+2024-06-11 open Income:Eventos:Pyse2024 BRL
+2024-06-11 open Expenses:Eventos:Pyse2024 BRL
 
 ; 10º Meetup Grupy-RN
 2022-10-06 open Assets:Eventos:10MeetupGrupyRN BRL
@@ -135,7 +142,7 @@ option "operating_currency" "BRL"
 ; PyLadies Fortaleza
 2024-05-14 open Assets:Comunidades:Pyladiesfortaleza BRL
 2024-05-14 open Income:Comunidades:Pyladiesfortaleza BRL
-;2024-05-21 open Expenses:Comunidades:Pyladiesfortaleza BRL
+2024-06-14 open Expenses:Comunidades:Pyladiesfortaleza BRL
 
 ; Transições ==================================================================
 include "eventos-concluídos.beancount"
@@ -192,3 +199,4 @@ include "2024-02.beancount"
 include "2024-03.beancount"
 include "2024-04.beancount"
 include "2024-05.beancount"
+include "2024-06.beancount"
