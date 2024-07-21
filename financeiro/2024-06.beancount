@@ -4,12 +4,12 @@
 2024-06-03 * "" "Ref: Reembolso para Anicely Santos - Envio de documentação para Contadora - PIX - REJEITADO - 03/06 12:49 CPF/CNPJ NAO PERTENCE AO T / DEP"
   comprovante: ""
   Assets:Bancos:BB  152.60 BRL
-  Income:APyB:Ops
+  Expenses:APyB:Ops
 
 2024-06-03 * "" "Ref: Reembolso para Anicely Santos - Envio de documentação para Contadora - PIX - REJEITADO - 03/06 12:50 CPF/CNPJ NÃO PERTENCE AO T / DEP"
   comprovante: ""
   Assets:Bancos:BB  152.60 BRL
-  Income:APyB:Ops
+  Expenses:APyB:Ops
 
 2024-06-03 * "Infraestrutura" "Registro de domínio - PIX - ENVIADO - 03/06 12:35 MARIA FERNANDA SOUZA ANDRA"
   comprovante: "https://drive.google.com/file/d/11pjF72VrE3L3UmzWrKO1xX2GXji8SojW/view?usp=drive_link"
