@@ -51,6 +51,12 @@ option "operating_currency" "BRL"
 2024-01-12 open Expenses:Eventos:Pybr2024 BRL
 2024-06-17 open Income:Eventos:Pybr2024 BRL
 
+
+; Python Cerrado 2024
+2024-08-01 open Assets:Eventos:Pycerrado2024
+2024-08-01 open Income:Eventos:Pycerrado2024
+2024-08-01 open Expenses:Eventos:Pycerrado2024
+
 ; Python Nordeste 2020
 2020-02-20 open Assets:Eventos:Pyne2020 BRL
 2020-02-20 open Income:Eventos:Pyne2020 BRL
@@ -133,10 +139,21 @@ option "operating_currency" "BRL"
 ; Django Girls Parnaíba 2022
 2022-10-07 open Assets:Eventos:DjangoGirlsParnaiba2022 BRL
 2022-10-07 open Income:Eventos:DjangoGirlsParnaiba2022 BRL
+2022-10-07 open Expenses:Eventos:DjangoGirlsParnaiba2022 BRL
+2022-12-31 open Assets:Eventos:DjangoGirlsParnaiba2022 
+2022-12-31 open Income:Eventos:DjangoGirlsParnaiba2022 
+2022-12-31 open Expenses:Eventos:DjangoGirlsParnaiba2022 
 ; Django Girls Parnaíba 2023
 2023-09-20 open Assets:Eventos:DjangoGirlsParnaiba2023 BRL
 2023-09-20 open Income:Eventos:DjangoGirlsParnaiba2023 BRL
 2023-11-13 open Expenses:Eventos:DjangoGirlsParnaiba2023 BRL
+2023-12-31 close Assets:Eventos:DjangoGirlsParnaiba2023 
+2023-12-31 close Income:Eventos:DjangoGirlsParnaiba2023 
+2023-12-31 close Expenses:Eventos:DjangoGirlsParnaiba2023 
+; Django Girls Parnaíba 2024
+2024-08-14 open Assets:Eventos:DjangoGirlsParnaiba2024 BRL
+2024-08-14 open Income:Eventos:DjangoGirlsParnaiba2024 BRL
+2024-08-14 open Expenses:Eventos:DjangoGirlsParnaiba2024 BRL
 
 ; Fundos de Inclusão ==========================================================
 ; Python Brasil 2022
