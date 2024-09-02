@@ -200,14 +200,15 @@
 
 2024-07-23 * "Patrocinio" "Qdrant Solutions GmbH - ORPAG ORIGEM EXTERIOR / DEP"
   comprovante: "https://drive.google.com/file/d/1mAvEf65osJJJCQyacSj32-EqlLJTRg_7/view?usp=drive_link"
-  Assets:Eventos:2MeetupPyDataNatal  554.81 BRL
+  Assets:Bancos:BB 554.81 * 0.1 BRL
+  Assets:Eventos:2MeetupPyDataNatal  554.81 * 0.9 BRL
   Income:Eventos:2MeetupPyDataNatal
 
 2024-07-23 * "Patrocinio" "PSF - ORPAG ORIGEM EXTERIOR / DEP"
   comprovante: "https://drive.google.com/file/d/18TwsKSzBEY5rwZ7OBwhPyxKxWeIhwE02/view?usp=drive_link"
   Assets:Bancos:BB 19444.74 * 0.1 BRL
-  Assets:Eventos:Pyse2024  19444.74 * 0.9  BRL
-  Income:Eventos:Pyse2024
+  Assets:Eventos:Pyne2024  19444.74 * 0.9  BRL
+  Income:Eventos:Pyne2024
 
 2024-07-23 * "Patrocinio" "PSF - ORPAG ORIGEM EXTERIOR / DEP (Essa transação financeira está particionada, pois a PSF depositou o patrocínio da Python Brasil 2023 e Python Sul 2024 juntos totalizando R$ 99.983,55)"
   comprovante: "https://drive.google.com/file/d/1TyQ-GNlay3-TO19FUMrCVN5KefahgSbA/view?usp=drive_link"
@@ -284,7 +285,8 @@
 
 2024-07-30 * "Patrocinio" "PSF - ORPAG ORIGEM EXTERIOR / DEP"
   comprovante: "https://drive.google.com/file/d/1-diNjwon7aeRpj3Uupd2w4gkJj7qaV99/view?usp=drive_link"
-  Assets:Comunidades:Pyladiesfortaleza  1691.22 BRL
+  Assets:Bancos:BB 1691.22 * 0.1 BRL
+  Assets:Comunidades:Pyladiesfortaleza  1691.22 * 0.9 BRL
   Income:Comunidades:Pyladiesfortaleza
 
 2024-07-30 * "Impostos" "COBRAN큐 DE I.O.F."
