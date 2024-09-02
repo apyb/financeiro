@@ -43,6 +43,9 @@ option "operating_currency" "BRL"
 2023-01-31 open Assets:Eventos:Pybr2023 BRL
 2023-01-31 open Expenses:Eventos:Pybr2023 BRL
 2023-05-23 open Income:Eventos:Pybr2023 BRL
+2024-07-23 close Assets:Eventos:Pybr2023
+2024-07-23 close Income:Eventos:Pybr2023
+2024-07-23 close Expenses:Eventos:Pybr2023
 ; Python Brasil 2024
 2024-01-12 open Assets:Eventos:Pybr2024 BRL
 2024-01-12 open Expenses:Eventos:Pybr2024 BRL
@@ -66,6 +69,7 @@ option "operating_currency" "BRL"
 2023-04-10 open Assets:Eventos:Pyne2023 BRL
 2023-06-01 open Income:Eventos:Pyne2023 BRL
 2023-06-14 open Expenses:Eventos:Pyne2023 BRL
+2024-06-04 close Assets:Eventos:Pyne2023
 2024-06-04 close Income:Eventos:Pyne2023
 2024-06-04 close Expenses:Eventos:Pyne2023
 ; Python Nordeste 2024
@@ -77,9 +81,11 @@ option "operating_currency" "BRL"
 2023-07-07 open Assets:Eventos:Pyn2023 BRL
 2023-07-07 open Income:Eventos:Pyn2023 BRL
 2023-08-24 open Expenses:Eventos:Pyn2023 BRL
+2024-02-24 close Income:Eventos:Pyn2023
+2024-02-24 close Expenses:Eventos:Pyn2023
 ; Python Norte 2024
 2024-03-20 open Assets:Eventos:Pyn2024 BRL
-;2024-03-20 open Income:Eventos:Pyn2024 BRL
+2024-07-05 open Income:Eventos:Pyn2024 BRL
 2024-03-20 open Expenses:Eventos:Pyn2024 BRL
 
 ; Python Sul 2020
@@ -113,6 +119,11 @@ option "operating_currency" "BRL"
 2023-08-16 open Assets:Eventos:16MeetupGrupyRN BRL
 2023-08-16 open Income:Eventos:16MeetupGrupyRN BRL
 2023-09-12 open Expenses:Eventos:16MeetupGrupyRN BRL
+
+; 2º Meetup PyData Natal
+2024-07-22 open Assets:Eventos:2MeetupPyDataNatal BRL
+2024-07-22 open Income:Eventos:2MeetupPyDataNatal BRL
+2024-07-22 open Expenses:Eventos:2MeetupPyDataNatal BRL
 
 ; Django Girls Parnaíba 2022
 2022-10-07 open Assets:Eventos:DjangoGirlsParnaiba2022 BRL
@@ -200,3 +211,4 @@ include "2024-03.beancount"
 include "2024-04.beancount"
 include "2024-05.beancount"
 include "2024-06.beancount"
+include "2024-07.beancount"
