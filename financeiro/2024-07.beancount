@@ -200,8 +200,7 @@
 
 2024-07-23 * "Patrocinio" "Qdrant Solutions GmbH - ORPAG ORIGEM EXTERIOR / DEP"
   comprovante: "https://drive.google.com/file/d/1mAvEf65osJJJCQyacSj32-EqlLJTRg_7/view?usp=drive_link"
-  Assets:Bancos:BB 554.81 * 0.1 BRL
-  Assets:Eventos:2MeetupPyDataNatal  554.81 * 0.9 BRL
+  Assets:Eventos:2MeetupPyDataNatal  554.81 BRL
   Income:Eventos:2MeetupPyDataNatal
 
 2024-07-23 * "Patrocinio" "PSF - ORPAG ORIGEM EXTERIOR / DEP"
@@ -285,8 +284,7 @@
 
 2024-07-30 * "Patrocinio" "PSF - ORPAG ORIGEM EXTERIOR / DEP"
   comprovante: "https://drive.google.com/file/d/1-diNjwon7aeRpj3Uupd2w4gkJj7qaV99/view?usp=drive_link"
-  Assets:Bancos:BB 1691.22 * 0.1 BRL
-  Assets:Comunidades:Pyladiesfortaleza  1691.22 * 0.9 BRL
+  Assets:Comunidades:Pyladiesfortaleza  1691.22 BRL
   Income:Comunidades:Pyladiesfortaleza
 
 2024-07-30 * "Impostos" "COBRAN큐 DE I.O.F."
