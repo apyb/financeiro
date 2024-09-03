@@ -206,8 +206,8 @@
 2024-07-23 * "Patrocinio" "PSF - ORPAG ORIGEM EXTERIOR / DEP"
   comprovante: "https://drive.google.com/file/d/18TwsKSzBEY5rwZ7OBwhPyxKxWeIhwE02/view?usp=drive_link"
   Assets:Bancos:BB 19444.74 * 0.1 BRL
-  Assets:Eventos:Pyne2024  19444.74 * 0.9  BRL
-  Income:Eventos:Pyne2024
+  Assets:Eventos:Pyse2024  19444.74 * 0.9  BRL
+  Income:Eventos:Pyse2024
 
 2024-07-23 * "Patrocinio" "PSF - ORPAG ORIGEM EXTERIOR / DEP (Essa transação financeira está particionada, pois a PSF depositou o patrocínio da Python Brasil 2023 e Python Sul 2024 juntos totalizando R$ 99.983,55)"
   comprovante: "https://drive.google.com/file/d/1TyQ-GNlay3-TO19FUMrCVN5KefahgSbA/view?usp=drive_link"
