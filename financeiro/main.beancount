@@ -140,9 +140,9 @@ option "operating_currency" "BRL"
 2022-10-07 open Assets:Eventos:DjangoGirlsParnaiba2022 BRL
 2022-10-07 open Income:Eventos:DjangoGirlsParnaiba2022 BRL
 2022-10-07 open Expenses:Eventos:DjangoGirlsParnaiba2022 BRL
-2022-12-31 open Assets:Eventos:DjangoGirlsParnaiba2022 
-2022-12-31 open Income:Eventos:DjangoGirlsParnaiba2022 
-2022-12-31 open Expenses:Eventos:DjangoGirlsParnaiba2022 
+2022-12-31 close Assets:Eventos:DjangoGirlsParnaiba2022 
+2022-12-31 close Income:Eventos:DjangoGirlsParnaiba2022 
+2022-12-31 close Expenses:Eventos:DjangoGirlsParnaiba2022 
 ; Django Girls Parnaíba 2023
 2023-09-20 open Assets:Eventos:DjangoGirlsParnaiba2023 BRL
 2023-09-20 open Income:Eventos:DjangoGirlsParnaiba2023 BRL
