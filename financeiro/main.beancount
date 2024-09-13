@@ -143,6 +143,9 @@ option "operating_currency" "BRL"
 2023-01-01 close Income:FundoInclusão:Pybr2022
 ; Python Brasil 2023
 2023-01-01 open Assets:FundoInclusão:Pybr2023 BRL
+2024-01-01 close Assets:FundoInclusão:Pybr2023
+; Python Brasil 2024
+2024-01-01 open Assets:FundoInclusão:Pybr2024 BRL
 
 ; Comunidades ==========================================================
 ; PyLadies Brasil
