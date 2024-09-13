@@ -69,7 +69,6 @@ option "operating_currency" "BRL"
 2023-04-10 open Assets:Eventos:Pyne2023 BRL
 2023-06-01 open Income:Eventos:Pyne2023 BRL
 2023-06-14 open Expenses:Eventos:Pyne2023 BRL
-2024-06-04 close Assets:Eventos:Pyne2023
 2024-06-04 close Income:Eventos:Pyne2023
 2024-06-04 close Expenses:Eventos:Pyne2023
 ; Python Nordeste 2024
