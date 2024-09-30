@@ -18,3 +18,12 @@
 2023-04-10 * "Transferência de caixa pyne2022 para pyne2023"
     Assets:Eventos:Pyne2023  6633.13 BRL
     Assets:Eventos:Pyne2022
+
+2024-07-23 * "Fechamento do caixa pybr2023" 
+    Assets:Bancos:BB 34497.00 * 0.5 BRL 
+    Assets:FundoInclusão:Pybr2024 34497.00 * 0.5 BRL 
+    Assets:Eventos:Pybr2023 
+
+2024-01-01 * "Transferência de caixa fundo inclusão pybr2023 para fundo inclusão pybr2024"
+    Assets:FundoInclusão:Pybr2024  9847.87 BRL
+    Assets:FundoInclusão:Pybr2023
