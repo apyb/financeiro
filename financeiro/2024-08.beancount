@@ -72,9 +72,8 @@
 2024-08-09 * "" "PIX - RECEBIDO - 09/08 12:36 18157616875 LUCIANO DE FAZ / DEP" #falta-comprovante
 ; Origem não identificada. Não há nota fiscal emitida nesse valor, nem o pagador está listado nos ingressos vendidos
   comprovante: ""
-  Assets:Bancos:BB * 0.1 BRL
-  Assets:Eventos:  1000.00 * 0.9 BRL
-  Income:Eventos:
+  Assets:Bancos:BB 1000.00 BRL
+  Income:APyB:OrigemDesconhecida BRL
 
 2024-08-09 * "Taxas" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 08/08/2024"
   comprovante: ""
