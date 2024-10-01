@@ -114,11 +114,6 @@ option "operating_currency" "BRL"
 2024-06-11 open Income:Eventos:Pyse2024 BRL
 2024-06-11 open Expenses:Eventos:Pyse2024 BRL
 
-; Python Sudeste 2024
-2024-06-11 open Assets:Eventos:Pyse2024 BRL
-2024-06-11 open Income:Eventos:Pyse2024 BRL
-2024-06-11 open Expenses:Eventos:Pyse2024 BRL
-
 ; 10º Meetup Grupy-RN
 2022-10-06 open Assets:Eventos:10MeetupGrupyRN BRL
 2022-10-06 open Income:Eventos:10MeetupGrupyRN BRL
