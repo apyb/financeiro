@@ -19,7 +19,7 @@ option "operating_currency" "BRL"
 2023-07-28 open Expenses:APyB:IdentidadeVisual BRL
 2021-11-16 open Income:APyB:Anuidades BRL
 2021-09-19 open Income:APyB:Estorno BRL
-2024-09-08 open Income:APyB:OrigemDesconhecida BRL
+2024-08-07 open Income:APyB:OrigemDesconhecida BRL
 
 ; Eventos =====================================================================
 ; Python Brasil 2019
@@ -108,11 +108,6 @@ option "operating_currency" "BRL"
 2024-03-25 open Assets:Eventos:Pysul2024 BRL
 2024-03-25 open Income:Eventos:Pysul2024 BRL
 2024-06-03 open Expenses:Eventos:Pysul2024 BRL
-
-; Python Sudeste 2024
-2024-06-11 open Assets:Eventos:Pyse2024 BRL
-2024-06-11 open Income:Eventos:Pyse2024 BRL
-2024-06-11 open Expenses:Eventos:Pyse2024 BRL
 
 ; Python Sudeste 2024
 2024-06-11 open Assets:Eventos:Pyse2024 BRL
@@ -238,3 +233,4 @@ include "2024-04.beancount"
 include "2024-05.beancount"
 include "2024-06.beancount"
 include "2024-07.beancount"
+include "2024-08.beancount"
