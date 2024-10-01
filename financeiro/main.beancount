@@ -19,7 +19,7 @@ option "operating_currency" "BRL"
 2023-07-28 open Expenses:APyB:IdentidadeVisual BRL
 2021-11-16 open Income:APyB:Anuidades BRL
 2021-09-19 open Income:APyB:Estorno BRL
-2024-09-08 open Income:APyB:OrigemDesconhecida BRL
+2024-08-07 open Income:APyB:OrigemDesconhecida BRL
 
 ; Eventos =====================================================================
 ; Python Brasil 2019
