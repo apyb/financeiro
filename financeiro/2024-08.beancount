@@ -102,8 +102,7 @@
 
 2024-08-14 * "Patrocinio" "TED-CRÉDITO EM CONTA - 341 0190 00865557000195 R G M INFORMAT / DEP"
   comprovante: "https://drive.google.com/file/d/1wl26jjepg9hcKaim6qme0MvDFP_A2UOn/view?usp=drive_link"
-  Assets:Bancos:BB 600.00 * 0.1 BRL
-  Assets:Eventos:DjangoGirlsParnaiba2024  600.00 * 0.9 BRL
+  Assets:Eventos:DjangoGirlsParnaiba2024  600.00 BRL
   Income:Eventos:DjangoGirlsParnaiba2024
 
 2024-08-14 * "Infraestrutura" "AWS, buffer e heroku - PIX - AGENDAMENTO - 14/08 05:30 ANA CECILIA VIEIRA SILVA"
