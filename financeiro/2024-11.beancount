@@ -1,0 +1,146 @@
+;; -*- mode: beancount -*-
+;; extratos/2024-11-bb.ofx
+
+2024-11-04 * "" "STRIPE DÉBITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  67.50 BRL
+  Income:APyB:Anuidades
+
+2024-11-05 * "Materiais gráficos" "PIX - ENVIADO - 05/11 14:53 THAIS DO NASCIMENTO VIANA"
+  comprovante: "https://drive.google.com/file/d/1HZ-Ewqrs_DD-wjKuY9QLeN1EM7ZBSC-2/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -435.00 BRL
+  Expenses:Eventos:Pybr2024
+
+2024-11-05 * "Designer" "PIX - ENVIADO - 05/11 14:59 RAQUEL TEIXEIRA DE SOUZA"
+  comprovante: "https://drive.google.com/file/d/1pVwUFiCu3aTW4GZFS0HHcqGhIrnfTlHo/view?usp=drive_link"
+  Assets:Eventos:Pyn2025  -1000.00 BRL
+  Expenses:Eventos:Pyn2025
+
+2024-11-05 * "Brindes" "PIX - ENVIADO - 05/11 15:01 THAIS DO NASCIMENTO VIANA"
+  comprovante: "https://drive.google.com/file/d/1LP6e8VrAgg-fIGQbgHUszr3gTWrqGe0z/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -323.92 BRL
+  Expenses:Eventos:Pybr2024
+
+2024-11-06 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  121.12 BRL
+  Income:APyB:Anuidades
+
+2024-11-06 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 05/11/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -7.50 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-11-07 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2024-11-11 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.74 BRL
+  Income:APyB:Anuidades
+
+2024-11-12 * "Materiais gráficos" "PIX - ENVIADO - 12/11 18:15 THAIS DO NASCIMENTO VIANA"
+  comprovante: "https://drive.google.com/file/d/1y0VuqULBShGEYcGHOgCFcCXKq9KAFASo/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -1897.40 BRL
+  Expenses:Eventos:Pybr2024
+
+2024-11-12 * "Designer" "PIX - ENVIADO - 12/11 18:19 YASMIM DESIGN"
+  comprovante: "https://drive.google.com/file/d/14DOu2Q5l5zpLn_Y4SY4lpBJcNpJWOzQg/view?usp=drive_link"
+  Assets:Eventos:Pyn2025  -2000.00 BRL
+  Expenses:Eventos:Pyn2025
+
+2024-11-13 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 12/11/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -20.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-11-18 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  304.98 BRL
+  Income:APyB:Anuidades
+
+2024-11-18 * "" "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 18/11/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -122.30 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-11-19 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  122.12 BRL
+  Income:APyB:Anuidades
+
+2024-11-19 * "Reembolso" "PIX - ENVIADO - 19/11 21:16 HANDEL MATEUS CARVALHO SAR"
+  comprovante: "https://drive.google.com/file/d/15MoRLX0j2iSZkYpOn8AzDG11mJIJceGB/view?usp=drive_link"
+  Assets:Eventos:Pyne2024  -126.00 BRL
+  Expenses:Eventos:Pyne2024
+
+2024-11-19 * "Reembolso" "PIX - ENVIADO - 19/11 21:19 MARIA FERNANDA SOUZA ANDRA"
+  comprovante: "https://drive.google.com/file/d/1nyUPZeO8avIP5Uwdr4-8qn9qcezswBVz/view?usp=drive_link"
+  Assets:Bancos:BB  -768.00 BRL
+  Expenses:APyB:Ops
+
+2024-11-19 * "" "PIX - ENVIADO - 19/11 21:23 ATUALE ASSESSORIA CONTABIL"
+  comprovante: "https://drive.google.com/file/d/1Cr2s_LXO3i_Xx15n_ymHB_3Ub5wyGWNQ/view?usp=drive_link"
+  Assets:Bancos:BB  -250.00 BRL
+  Expenses:APyB:Contadora
+
+2024-11-19 * "" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
+  comprovante: "https://drive.google.com/file/d/1glSjA1ZinFJaoA4ZygYdB5u6i-oFeDhe/view?usp=drive_link"
+  Assets:Bancos:BB  -102.13 BRL
+  Expenses:APyB:Impostos
+
+2024-11-19 * "Reembolso" "PIX - ENVIADO - 19/11 21:27 THALITA LANUSSE DE MORAIS"
+  comprovante: "https://drive.google.com/file/d/11RYn_DBQXy68k6AFCYni2W3WjW2L_z7h/view?usp=drive_link"
+  Assets:Eventos:Pycerrado2024  -298.47 BRL
+  Expenses:Eventos:Pycerrado2024
+
+2024-11-21 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  183.18 BRL
+  Income:APyB:Anuidades
+
+2024-11-21 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 19/11/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -14.26 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-11-22 * "Ingressos" "TED-CRÉDITO EM CONTA - 341 5673 28305936000140 MINISTERIO PUB / DEP"
+  comprovante: "https://drive.google.com/file/d/1lEuE9WJk-ZbCgd8TjT5MdW347RV_US41/view?usp=sharing"
+  Assets:Bancos:BB  3500.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024 3500.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-11-22 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2024-11-25 * "Ingressos" "ORDEM BANC 12 SEC TES NAC - 003944600117-71 SUPERINTENDENCIA REGIO / DEP"
+  comprovante: "https://drive.google.com/file/d/17O9l7GjZYhcfxNZU0vnJkl5xsR3kJ7Ax/view?usp=drive_link"
+  Assets:Bancos:BB  3500.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024 3500.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-11-25 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  213.19 BRL
+  Income:APyB:Anuidades
+
+2024-11-26 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2024-11-28 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2024-11-29 * "" "ORDEM BANC 12 SEC TES NAC - 003945020438-97 PAGADORIA DO PESSOAL D / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  605.85 BRL
+  Equity:Investimentos:BB
+
+
