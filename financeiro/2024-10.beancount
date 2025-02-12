@@ -1,0 +1,478 @@
+;; -*- mode: beancount -*-
+;; extratos/2024-10-bb.ofx
+
+2024-10-01 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.10 BRL
+  Income:APyB:Anuidades
+
+2024-10-01 * "Fotografia" "PIX - ENVIADO - 01/10 16:01 ELITON CAMPOS REGO DINELLY"
+  comprovante: "https://drive.google.com/file/d/10kLerxhRCwEoD1fRDRHaa0Fpq4m2BqfJ/view?usp=drive_link"
+  Assets:Eventos:Pyn2024  -250.00 BRL
+  Expenses:Eventos:Pyn2024
+
+2024-10-01 * "Transporte" "PIX - ENVIADO - 01/10 16:03 JOÃO LUCAS CARDOSO DAS CHA"
+  comprovante: "https://drive.google.com/file/d/1QdczyGXj05zYoOsH1YaZhijlnzXVV1ia/view?usp=drive_link"
+  Assets:Eventos:Pyn2024  -14.00 BRL
+  Expenses:Eventos:Pyn2024
+
+2024-10-01 * "Transporte" "PIX - ENVIADO - 01/10 16:07 JOÃO LUCAS CARDOSO DAS CHA"
+  comprovante: "https://drive.google.com/file/d/1SDtNNXMHxkqi0XfB9qls4o62YWGleatk/view?usp=drive_link"
+  Assets:Eventos:Pyn2024  -12.00 BRL
+  Expenses:Eventos:Pyn2024
+
+2024-10-01 * "Transporte" "PIX - ENVIADO - 01/10 16:08 JOÃO LUCAS CARDOSO DAS CHA"
+  comprovante: "https://drive.google.com/file/d/1t9jWxW0aX8i69bGJaEcA0F0mBdWkYaPu/view?usp=drive_link"
+  Assets:Eventos:Pyn2024  -28.00 BRL
+  Expenses:Eventos:Pyn2024
+
+2024-10-01 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 30/09/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -6.15 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-10-02 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 01/10/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -5.47 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-10-03 * "Ingressos" "TED-PAG FORNECEDORES - 041 0835 87124582000104 PROCERGS-CENTR / DEP"
+  comprovante: "https://drive.google.com/file/d/1nq98gUBTE0M9DvqSHQeDyFkMI4PiVTEl/view?usp=sharing"
+  Assets:Bancos:BB 1100.00 * 0.1 BRL
+  Assets:Eventos:Pycerrado2024  1100.00 * 0.9 BRL
+  Expenses:Eventos:Pycerrado2024
+
+2024-10-04 * "" "TED-PAG FORNECEDORES - 745 0001 22121209000146 STRIPE BRASIL / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.55 BRL
+  Income:APyB:Anuidades
+
+2024-10-04 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.10 BRL
+  Income:APyB:Anuidades
+
+2024-10-04 * "Brindes" "PIX - ENVIADO - 04/10 15:39 PRADO COMERCIO E GESTAO LT"
+  comprovante: "https://drive.google.com/file/d/1ZX4r_6KgXk12fscqF38E7RxoOkZZqeVb/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -9347.30 BRL
+  Expenses:Eventos:Pybr2024
+
+2024-10-04 * "Reembolso" "PIX - ENVIADO - 04/10 15:46 MATEUS SANTOS MENDONÇA"
+  comprovante: "https://drive.google.com/file/d/11srhanqymDVPsm3isytYUbSEXJHyPchJ/view?usp=drive_link"
+  Assets:Eventos:Pyn2024  -20.84 BRL
+  Expenses:Eventos:Pyn2024
+
+2024-10-04 * "Transporte" "PIX - ENVIADO - 04/10 15:48 DÂMARIS A CAMPOS"
+  comprovante: "https://drive.google.com/file/d/1nbEpAKCqK-vqOhQl6XajY-R9dqmCrI1e/view?usp=drive_link"
+  Assets:Eventos:Pyn2024  -38.00 BRL
+  Expenses:Eventos:Pyn2024
+
+2024-10-04 * "Transporte" "PIX - ENVIADO - 04/10 15:49 DÂMARIS A CAMPOS"
+  comprovante: "https://drive.google.com/file/d/1Kj6hNItMhgXcm3HRlhrUQanKlvAURKRg/view?usp=drive_link"
+  Assets:Eventos:Pyn2024  -28.00 BRL
+  Expenses:Eventos:Pyn2024
+
+2024-10-04 * "Transporte" "PIX - ENVIADO - 04/10 15:51 JULIANY RODRIGUES RAIOL"
+  comprovante: "https://drive.google.com/file/d/1mq1kHsi_QudnMaPcE4FZyHR9COoeneEg/view?usp=drive_link"
+  Assets:Eventos:Pyn2024  -16.00 BRL
+  Expenses:Eventos:Pyn2024
+
+2024-10-04 * "Transporte" "PIX - ENVIADO - 04/10 15:53 JULIANY RODRIGUES RAIOL"
+  comprovante: "https://drive.google.com/file/d/1bRshUDwgVa207-F_oMOpFfqdqheUFiT8/view?usp=drive_link"
+  Assets:Eventos:Pyn2024  -28.00 BRL
+  Expenses:Eventos:Pyn2024
+
+2024-10-04 * "Transporte" "PIX - ENVIADO - 04/10 16:01 JOÃO LUCAS CARDOSO DAS CHA"
+  comprovante: "https://drive.google.com/file/d/1yBjAjbIOMf85ALhS5S3gVXchZ90gCSoN/view?usp=drive_link"
+  Assets:Eventos:Pyn2024  -30.00 BRL
+  Expenses:Eventos:Pyn2024
+
+2024-10-04 * "Transporte" "PIX - ENVIADO - 04/10 16:14 MATEUS SANTOS MENDONÇA"
+  comprovante: "https://drive.google.com/file/d/1F2HnYLeLLnK_nK06Ep50hIilsdAQU3AC/view?usp=drive_link"
+  Assets:Eventos:Pyn2024  -30.03 BRL
+  Expenses:Eventos:Pyn2024
+
+2024-10-07 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  122.12 BRL
+  Income:APyB:Anuidades
+
+2024-10-07 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 04/10/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -17.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-10-08 * "" "PIX - ENVIADO - 08/10 09:45 CASA DAS PLACAS LTDA" #falta-comprovate ;Solicitação de comprovante feita a Juliana
+  comprovante: ""
+  Assets:Bancos:BB  -400.00 BRL
+  Expenses:APyB:PremioDTJF
+
+;2024-10-09 * "" "ORPAG ORIGEM EXTERIOR / DEP" #falta-comprovante ;Aguardando horário de consulta do banco do Brasil
+;  comprovante: ""
+;  Assets:Eventos:Py  106781.94 BRL
+;  Expenses:Eventos:Py
+
+2024-10-09 * "" "COBRANÇA DE I.O.F."
+  comprovante: ""
+  Assets:Bancos:BB  -405.77 BRL
+  Expenses:APyB:Impostos
+
+2024-10-09 * "" "IMPOSTOS - RFB-DARF CODIGO DE BARRAS"
+  comprovante: ""
+  Assets:Bancos:BB  -17.40 BRL
+  Expenses:APyB:Impostos
+
+2024-10-09 * "" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
+  comprovante: "https://drive.google.com/file/d/1Cul0ZLut5NqqrJgSO_PZati-jKOUq3PC/view?usp=drive_link"
+  Assets:Bancos:BB  -2930.68 BRL
+  Expenses:APyB:Impostos
+
+2024-10-09 * "Infraestrutura" "PIX - ENVIADO - 09/10 12:20 MATEUS SANTOS MENDONÇA"
+  comprovante: "https://drive.google.com/file/d/15PrwkcMC4d_WI5qtAXSfJ7wp4hzfI0mH/view?usp=drive_link"
+  Assets:Eventos:Pyn2024  -50.00 BRL
+  Expenses:Eventos:Pyn2024
+
+2024-10-09 * "" "PIX - ENVIADO - 09/10 12:21 ATUALE ASSESSORIA CONTABIL"
+  comprovante: "https://drive.google.com/file/d/1of4l4YWSbyIL4Gun4U-hdZsUZTf6SbRa/view?usp=drive_link"
+  Assets:Bancos:BB  -250.00 BRL
+  Expenses:APyB:Contadora
+
+2024-10-09 * "Alimentação" "PIX - ENVIADO - 09/10 12:24 MAURICIO DOS SANTOS VEIGA"
+  comprovante: "https://drive.google.com/file/d/1Ik3TC7kf0kH255ePOBUpREQDUG6dr3gS/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -6000.00 BRL
+  Expenses:Eventos:Pybr2024
+
+2024-10-09 * "" "PIX - ENVIADO - 09/10 12:25 ANA CECILIA VIEIRA SILVA"
+  comprovante: "https://drive.google.com/file/d/1TaRohlp3iMkL7nCLw79tq4ZHZ_lw7Iof/view?usp=drive_link"
+  Assets:Bancos:BB  -133.13 BRL
+  Expenses:APyB:Infra
+
+2024-10-09 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 08/10/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -3.96 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-10-10 * "Serviços gráficos" "PIX - ENVIADO - 10/10 16:09 ALYNNE FERREIRA SOUSA"
+  comprovante: "https://drive.google.com/file/d/1S3b0IfbYvKu0LarJ-rfCVnJyHmPiFwiX/view?usp=drive_link"
+  Assets:Comunidades:Pyladiesfortaleza  -265.00 BRL
+  Expenses:Comunidades:Pyladiesfortaleza
+
+2024-10-10 * "Alimentação" "PIX - ENVIADO - 10/10 16:11 ALYNNE FERREIRA SOUSA"
+  comprovante: "https://drive.google.com/file/d/1iKDJUdgOQSHj2EUJoClNuOGiNbQW2EhS/view?usp=drive_link"
+  Assets:Comunidades:Pyladiesfortaleza  -57.67 BRL
+  Expenses:Comunidades:Pyladiesfortaleza
+
+2024-10-10 * "Conectividade" "PIX - ENVIADO - 10/10 16:22 LAMARQUE TECNOLOGIA EM EVE"
+  comprovante: "https://drive.google.com/file/d/1hYbuC2hLXifAo3-N9V1ZSyifmutA5Cw9/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -33500.00 BRL
+  Expenses:Eventos:Pybr2024
+
+2024-10-10 * "Serviços gráficos" "PIX - ENVIADO - 10/10 19:15 ALBANO SERVICOS E COMERCIO"
+  comprovante: "https://drive.google.com/file/d/1jzUtgJKzOiI2286f3kln0pLjWIwfssup/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -3015.00 BRL
+  Expenses:Eventos:Pybr2024
+
+2024-10-10 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 09/10/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -14.78 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-10-11 * "Reembolso" "PIX - ENVIADO - 11/10 17:14 ANICELY MARIA CARLOS DOS S"
+  comprovante: "https://drive.google.com/file/d/1pFta7TfgQMWojrrQUlfZBaw021YG-WYB/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -275.00 BRL
+  Expenses:Eventos:Pybr2024
+
+2024-10-11 * "Fotografia" "PIX - ENVIADO - 11/10 17:16 ROBSON FREIRE PRODUÇÕES"
+  comprovante: "https://drive.google.com/file/d/1iVQmSvPLQCGtCXvHwu4Uc7PS4PYvkeQD/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -1260.00 BRL
+  Expenses:Eventos:Pybr2024
+
+2024-10-11 * "Espaço kids" "PIX - ENVIADO - 11/10 17:17 FABRICIA DE PAULA LACERDA"
+  comprovante: "https://drive.google.com/file/d/1CTa79rPtTHExCO2iTwfLgE31RG6IFnd4/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -3800.00 BRL
+  Expenses:Eventos:Pybr2024
+
+2024-10-11 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 10/10/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -23.62 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-10-14 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  59.78 BRL
+  Income:APyB:Anuidades
+
+2024-10-14 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 11/10/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -22.72 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-10-15 * "Alimentação" "PIX - ENVIADO - 15/10 17:35 JOA BUFFET E GASTRONOMIA L"
+  comprovante: "https://drive.google.com/file/d/15ypnLGj17i3OrdzwnWF7CxpKs-suXcHd/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -35572.50 BRL
+  Expenses:Eventos:Pybr2024
+
+2024-10-15 * "Reembolso" "PIX - ENVIADO - 15/10 17:38 MATHEUS GABRIEL SILVA LOPE"
+  comprovante: "https://drive.google.com/file/d/1h8Y75fx92hvHRlcUxFmCw8qU3TBqFlxn/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -216.00 BRL
+  Expenses:Eventos:Pybr2024
+
+2024-10-15 * "Reembolso" "PIX - ENVIADO - 15/10 17:40 THALITA LANUSSE DE MORAIS"
+  comprovante: "https://drive.google.com/file/d/1t8pOd_ZQtQfPk7KW-oAHUd-SYPHGQgpX/view?usp=drive_link"
+  Assets:Eventos:Pysul2024  -285.29 BRL
+  Expenses:Eventos:Pysul2024
+
+2024-10-15 * "" "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 15/10/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -122.30 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-10-16 * "Patrocinio" "TED-CRÉDITO EM CONTA - 341 0911 27865757000102 GLOBO COMUNICA / DEP"
+  comprovante: "https://drive.google.com/file/d/1Rgp4fbnXiNyVa_v1ZgZ3Lg22UBUwS4EZ/view?usp=drive_link"
+  Assets:Bancos:BB 10000.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  10000.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-16 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 15/10/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -14.95 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-10-17 * "Local" "PIX - ENVIADO - 17/10 00:09 NOVE ORGANIZACAO DE EVENTO"
+  comprovante: "https://drive.google.com/file/d/15L9cueOTDngkgiGVo61FeyZDcgvNaaEP/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -2390.00 BRL
+  Expenses:Eventos:Pybr2024
+
+2024-10-18 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 17/10/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-10-21 * "Patrocinio" "TED-CRÉDITO EM CONTA - 237 3396 46270650000158 EXA SERVICOS D / DEP"
+  comprovante: "https://drive.google.com/file/d/1zPtj3sJDtKB0-iarRuDmuUhDJqt0SDHm/view?usp=drive_link"
+  Assets:Bancos:BB 1000.00 * 0.1 BRL
+  Assets:Eventos:DjangoGirlsParnaiba2024  1000.00 * 0.9 BRL
+  Income:Eventos:DjangoGirlsParnaiba2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 16:32 00010027108805 MAGALI CESC / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 30.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  30.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 16:37 00042338621816 SABRINA TOM / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 50.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  50.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 16:41 00001322934045 MAURICIO TA / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 50.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  50.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 16:47 00005584071706 LEANDRO HER / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 25.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  25.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 17:04 00010951309609 CARLOS MAGN / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 50.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  50.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 17:14 00001078740089 ADRIANO MAR / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 100.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  100.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 18:39 00004079713002 LUCAS BULEG / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 50.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  50.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 18:42 00014751661760 LORRAN DA S / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 30.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  30.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 18:57 00008789778804 LUCIANO GAM / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 80.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  80.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 16:16 36482098843 NILTON FREDERI / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 50.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  50.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 16:17 69874565187 MARCUS LOPES D / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 30.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  30.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 16:22 05498838271 VITÓRIA RODRIG / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 50.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  50.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 16:27 02313026221 RAFAEL CARVALH / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 30.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  30.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 16:36 02664663208 LUCAS DE SOUZA / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 20.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  20.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 16:47 42338621816 SABRINA TOMY D / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 50.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  50.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 16:53 08620273493 ELIS GRACE BAT / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 50.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  50.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 17:07 08517641183 ALFONSO AREIZA / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 25.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  25.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 17:08 03979027007 LUCAS ALVES / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 30.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  30.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 17:08 13562205767 BIANCA ROSA DE / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 30.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  30.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 17:10 05800856788 LUCIANO MARTIN / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 50.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  50.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 17:12 13330245760 PEDRO HENRIQUE / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 50.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  50.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 18:39 08465695318 JOSÉ PEDRO DA / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 50.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  50.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 18:55 25601820848 ERICO ANDREI D / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 30.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  30.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-21 * "Doacao" "PIX - RECEBIDO - 20/10 18:57 02422714994 RAMIRO BATISTA / DEP"
+  comprovante: "https://drive.google.com/file/d/17jwbZ6NNRnbdmdSQE69R37-gHUMrt2lA/view?usp=sharing"
+  Assets:Bancos:BB 30.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  30.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-22 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  59.42 BRL
+  Income:APyB:Anuidades
+
+2024-10-23 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  67.59 BRL
+  Income:APyB:Anuidades
+
+2024-10-23 * "Ingressos" "PIX - RECEBIDO - 23/10 15:00 17688085000145 EVEN3 / DEP" #falta-comprovante ; Solicitado Comprovante a Mateus
+  comprovante: ""
+  Assets:Bancos:BB 577.50 * 0.1 BRL
+  Assets:Eventos:Pyn2024  577.50 * 0.9 BRL
+  Income:Eventos:Pyn2024
+
+2024-10-23 * "Audiovisual" "PIX - ENVIADO - 23/10 12:39 BRAZIL CENARIUM LTDA"
+  comprovante: "https://drive.google.com/file/d/1rU9tYPRI8OV2qg9HwrVk8dj8EzL3xVQl/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -26700.00 BRL
+  Expenses:Eventos:Pybr2024
+
+2024-10-23 * "" "PIX - ENVIADO - 23/10 12:42 BRAZIL CENARIUM LTDA"
+  comprovante: "https://drive.google.com/file/d/18QZTPVk7_5Yh1oIqTiM8aH4IgqvwHvDh/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -17600.00 BRL
+  Expenses:Eventos:Pybr2024
+
+2024-10-23 * "" "PIX - ENVIADO - 23/10 12:44 ANA CECILIA VIEIRA SILVA"
+  comprovante: "https://drive.google.com/file/d/1YN5yeEw5Sd-gm5br5pn-2PA_ApCMU3jr/view?usp=drive_link"
+  Assets:Bancos:BB  -85.10 BRL
+  Expenses:APyB:Infra
+
+2024-10-24 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 23/10/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -21.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-10-25 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP"
+  comprovante: "https://drive.google.com/file/d/1v4K7Ycj8pSnaNr0Jno3jvuWQZ76id6-3/view?usp=drive_link"
+  Assets:Bancos:BB 116430.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  116430.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2024-10-25 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  59.46 BRL
+  Income:APyB:Anuidades
+
+2024-10-28 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  121.16 BRL
+  Income:APyB:Anuidades
+
+2024-10-29 * "Fotografia" "PIX - ENVIADO - 29/10 20:14 ROBSON FREIRE PRODUÇÕES"
+  comprovante: "https://drive.google.com/file/d/1sa12V3Irs7NOyRZu27P1vCBNKKBXpD2Y/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -1260.00 BRL
+  Expenses:Eventos:Pybr2024
+
+2024-10-29 * "Camisas" "PIX - ENVIADO - 29/10 20:16 MARISA SOUSA GABRIEL 03928"
+  comprovante: "https://drive.google.com/file/d/1SNlOIZvdOz-7iZi6y9fDAEu40OCWW5lQ/view?usp=drive_link"
+  Assets:Eventos:DjangoGirlsParnaiba2024  -1600.00 BRL
+  Expenses:Eventos:DjangoGirlsParnaiba2024
+
+2024-10-29 * "Alimentação" "PIX - ENVIADO - 29/10 20:19 THAIS DO NASCIMENTO VIANA"
+  comprovante: "https://drive.google.com/file/d/1oInWRYKQsy_e-tO7X2gui5saerZfIIgX/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -1935.00 BRL
+  Expenses:Eventos:Pybr2024
+
+2024-10-30 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  120.68 BRL
+  Income:APyB:Anuidades
+
+2024-10-30 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 29/10/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -30.00 BRL
+  Expenses:APyB:Taxas:BB
+
+
