@@ -27,8 +27,8 @@
   Assets:Bancos:BB  55.94 BRL
   Income:APyB:Anuidades
 
-2024-12-05 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP" #falta-comprovante
-  comprovante: ""
+2024-12-05 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP"
+  comprovante: "https://drive.google.com/file/d/1qKfGX8GWjWnsfEP7dT-7A-eo7WKo4BB-/view?usp=drive_link"
   Assets:Bancos:BB 20069.80 * 0.1 BRL
   Assets:Eventos:Pycerrado2024  20069.80 * 0.9 BRL
   Income:Eventos:Pycerrado2024
@@ -115,11 +115,11 @@
   Assets:Bancos:BB  60.35 BRL
   Income:APyB:Anuidades
 
-2024-12-27 * "" "TED-PAG FORNECEDORES - 033 4411 02844344000102 FUND AMAZONICA / DEP" #falta-comprovante ;Solicitada informacao a PyNorte
+2024-12-27 * "Patrocinio" "TED-PAG FORNECEDORES - 033 4411 02844344000102 FUND AMAZONICA / DEP" #falta-comprovante ;Aguardando resposta da organizacao
   comprovante: ""
   Assets:Bancos:BB 5495.00 * 0.1 BRL
-  Assets:Eventos:Pyn2025  5495.00 * 0.9 BRL
-  Income:Eventos:Pyn2025
+  Assets:Eventos:7MeetupPyDataManaus  5495.00 * 0.9 BRL
+  Income:Eventos:7MeetupPyDataManaus
 
 2024-12-30 * "" "STRIPE CRÉDITO / DEP"
   comprovante: ""
