@@ -51,6 +51,10 @@ option "operating_currency" "BRL"
 2024-01-12 open Assets:Eventos:Pybr2024 BRL
 2024-01-12 open Expenses:Eventos:Pybr2024 BRL
 2024-06-17 open Income:Eventos:Pybr2024 BRL
+; Python Brasil 2024
+2024-12-10 open Assets:Eventos:Pybr2025 BRL
+2024-12-10 open Expenses:Eventos:Pybr2025 BRL
+2024-12-10 open Income:Eventos:Pybr2025 BRL
 
 
 ; Python Cerrado 2024
