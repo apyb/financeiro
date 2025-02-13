@@ -51,6 +51,10 @@ option "operating_currency" "BRL"
 2024-01-12 open Assets:Eventos:Pybr2024 BRL
 2024-01-12 open Expenses:Eventos:Pybr2024 BRL
 2024-06-17 open Income:Eventos:Pybr2024 BRL
+; Python Brasil 2024
+2024-12-10 open Assets:Eventos:Pybr2025 BRL
+2024-12-10 open Expenses:Eventos:Pybr2025 BRL
+2024-12-10 open Income:Eventos:Pybr2025 BRL
 
 
 ; Python Cerrado 2024
@@ -83,6 +87,10 @@ option "operating_currency" "BRL"
 2024-02-21 open Assets:Eventos:Pyne2024 BRL
 2024-02-21 open Income:Eventos:Pyne2024 BRL
 2024-06-11 open Expenses:Eventos:Pyne2024 BRL
+; Python Nordeste 2025
+2024-12-03 open Assets:Eventos:Pyne2025 BRL
+2024-12-03 open Income:Eventos:Pyne2025 BRL
+2024-12-03 open Expenses:Eventos:Pyne2025 BRL
 
 ; Python Norte 2023
 2023-07-07 open Assets:Eventos:Pyn2023 BRL
@@ -241,3 +249,4 @@ include "2024-08.beancount"
 include "2024-09.beancount"
 include "2024-10.beancount"
 include "2024-11.beancount"
+include "2024-12.beancount"
