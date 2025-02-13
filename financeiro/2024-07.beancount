@@ -130,8 +130,8 @@
   Assets:Eventos:Pyne2024  -840.00 BRL
   Expenses:Eventos:Pyne2024
 
-2024-07-15 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP" #falta-comprovante
-  comprovante: ""
+2024-07-15 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP"
+  comprovante: "https://drive.google.com/file/d/1TaZO2t6zfOtF_Y8fkAQhPsD26SMHxFn-/view?usp=drive_link"
   Assets:Bancos:BB 8670.00 * 0.1 BRL
   Assets:Eventos:Pyse2024  8670.00 * 0.9 BRL
   Income:Eventos:Pyse2024

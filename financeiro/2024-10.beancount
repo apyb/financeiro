@@ -107,10 +107,17 @@
   Assets:Bancos:BB  -400.00 BRL
   Expenses:APyB:PremioDTJF
 
-;2024-10-09 * "" "ORPAG ORIGEM EXTERIOR / DEP" #falta-comprovante ;Aguardando horário de consulta do banco do Brasil
-;  comprovante: ""
-;  Assets:Eventos:Py  106781.94 BRL
-;  Expenses:Eventos:Py
+2024-10-09 * "Patrocinio" "PSF - ORPAG ORIGEM EXTERIOR / DEP (Essa transação financeira está particionada, pois a PSF depositou o patrocínio da Python Brasil 2024 e Python Norte 2024 juntos totalizando R$ 106781.94)"
+  comprovante: "https://docs.google.com/file/d/1r2mYLrsUf0Q1u4Q8Al6xXxajxHPYPuAO/preview"
+  Assets:Bancos:BB 23358.55 * 0.1 BRL
+  Assets:Eventos:Pyn2024  23358.55 * 0.9 BRL
+  Income:Eventos:Pyn2024
+
+2024-10-09 * "Patrocinio" "PSF - ORPAG ORIGEM EXTERIOR / DEP (Essa transação financeira está particionada, pois a PSF depositou o patrocínio da Python Brasil 2024 e Python Norte 2024 juntos totalizando R$ 106781.94)"
+  comprovante: "https://docs.google.com/file/d/1DNgeNUdoqj-KBwZUe0Wxm7hHH2XXgK61/preview"
+  Assets:Bancos:BB 83423.39 * 0.1 BRL
+  Assets:Eventos:Pybr2024  83423.39 * 0.9 BRL
+  Income:Eventos:Pybr2024
 
 2024-10-09 * "" "COBRANÇA DE I.O.F."
   comprovante: ""
