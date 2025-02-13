@@ -163,6 +163,11 @@ option "operating_currency" "BRL"
 2024-08-14 open Income:Eventos:DjangoGirlsParnaiba2024 BRL
 2024-08-14 open Expenses:Eventos:DjangoGirlsParnaiba2024 BRL
 
+; 7º Meetup PyData Manaus
+2024-12-27 open Assets:Eventos:7MeetupPyDataManaus BRL
+2024-12-27 open Income:Eventos:7MeetupPyDataManaus BRL
+2024-12-27open Expenses:Eventos:7MeetupPyDataManaus BRL
+
 ; Fundos de Inclusão ==========================================================
 ; Python Brasil 2022
 2022-09-02 open Assets:FundoInclusão:Pybr2022 BRL
@@ -250,3 +255,4 @@ include "2024-09.beancount"
 include "2024-10.beancount"
 include "2024-11.beancount"
 include "2024-12.beancount"
+include "2025-01.beancount"
