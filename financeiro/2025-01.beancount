@@ -1,0 +1,96 @@
+;; -*- mode: beancount -*-
+;; extratos/2025-01-bb.ofx
+
+2025-01-10 * "Ingressos" "TED-CRÉDITO EM CONTA - 070 0100 00394684000153 GDF/CONTA UNIC / DEP"
+  comprovante: "https://drive.google.com/file/d/1QyTy7v-8qsVt1tdS5SFdmE5-dCZYG6If/view?usp=drive_link"
+  Assets:Bancos:BB  1570.80 * 0.1 BRL
+  Assets:Eventos:Pycerrado2024  1570.80 * 0.9 BRL
+  Income:Eventos:Pycerrado2024
+
+2025-01-15 * "" "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 15/01/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -122.30 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-01-17 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.74 BRL
+  Income:APyB:Anuidades
+
+2025-01-22 * "" "TED-PAG FORNECEDORES - 745 0001 22121209000146 STRIPE BRASIL / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.55 BRL
+  Income:APyB:Anuidades
+
+2025-01-24 * "Reembolso" "Envio da premiação - TED TRANSF.ELETR.DISPONIV - 077 0001 10169015424 JULIANA MARIA DE"
+  comprovante: "https://drive.google.com/file/d/1pV4_3sE9ptCr9bXUokDXTg7u9_fzb7ud/view?usp=drive_link"
+  Assets:Bancos:BB  -487.66 BRL
+  Expenses:APyB:PremioDTJF
+
+2025-01-24 * "" "PIX - ENVIADO - 24/01 15:00 ATUALE ASSESSORIA CONTABIL"
+  comprovante: "https://drive.google.com/file/d/1m5eElU1BkIXvTBZ1tm1sL0844P4FVFEU/view?usp=drive_link"
+  Assets:Bancos:BB  -250.00 BRL
+  Expenses:APyB:Contadora
+
+2025-01-24 * "" "PIX - ENVIADO - 24/01 15:48 ANA CECILIA VIEIRA SILVA"
+  comprovante: "https://drive.google.com/file/d/1fciBpI_EqURNHBUEm6o5BbR2xqFtlLkm/view?usp=drive_link"
+  Assets:Bancos:BB  -144.97 BRL
+  Expenses:APyB:Infra
+
+2025-01-24 * "Reembolso" "PIX - ENVIADO - 24/01 15:52 THALITA LANUSSE DE MORAIS"
+  comprovante: "https://drive.google.com/file/d/1-JPbOdOXvhRdOOH57VpYssypRUDCciiM/view?usp=drive_link"
+  Assets:Eventos:Pycerrado2024  -315.31 BRL
+  Expenses:Eventos:Pycerrado2024
+
+2025-01-24 * "Alimentação" "PIX - ENVIADO - 24/01 16:43 CLAUDIU S 144"
+  comprovante: "https://drive.google.com/file/d/1gavGf9-jKJVV_jagQH9W2qinAzBsjNeL/view?usp=drive_link"
+  Assets:Eventos:7MeetupPyDataManaus  -1300.00 BRL
+  Expenses:Eventos:7MeetupPyDataManaus
+
+
+2025-01-24 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 24/01/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -17.02 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-01-27 * "" "TARIFA RENOVAÇÃO CADASTRO - COBRANÇA REFERENTE 06/01/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -64.80 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-01-30 * "" "RETENÇÃO IOF A RECOLHER"
+  comprovante: ""
+  Assets:Bancos:BB  -0.67 BRL
+  Expenses:APyB:Impostos
+
+2025-01-30 * "" "CÂMBIO"
+  comprovante: ""
+  Assets:Bancos:BB  -176.19 BRL
+  Expenses:APyB:Impostos
+
+2025-01-30 * "" "RETENÇÃO IMPOSTO DE RENDA"
+  comprovante: ""
+  Assets:Bancos:BB  -58.85 BRL
+  Expenses:APyB:Impostos
+
+2025-01-30 * "" "PAGAMENTO DE BOLETO - NUCLEO INF COORD PONTO BR"
+  comprovante: "https://drive.google.com/file/d/174v8Qqn9Ewu3qXik4T6myLx_CbIFtdfy/view?usp=drive_link"
+  Assets:Bancos:BB  -76.00 BRL
+  Expenses:APyB:Infra
+
+2025-01-30 * "Alimentação" "PIX - ENVIADO - 30/01 14:42 JOA BUFFET E GASTRONOMIA L"
+  comprovante: "https://drive.google.com/file/d/1msEqzvJbkgX_xRRbXlLsxY0Uf_EyPqaE/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -340.00 BRL
+  Expenses:Eventos:Pybr2024
+
+2025-01-30 * "" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
+  comprovante: ""
+  Assets:Bancos:BB -1400.70 BRL
+  Expenses:APyB:Impostos
+
+2025-01-30 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 30/01/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -3.36 BRL
+  Expenses:APyB:Taxas:BB
+
+
