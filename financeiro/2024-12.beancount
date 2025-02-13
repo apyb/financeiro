@@ -1,0 +1,129 @@
+;; -*- mode: beancount -*-
+;; extratos/2024-12-bb.ofx
+
+2024-12-02 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2024-12-02 * "Local" "PAGAMENTO DE BOLETO - ASSOCIACAO NOBREGA DE EDUCACAO"
+  comprovante: "https://drive.google.com/file/d/1OVTGsZh8i-SSZcrIe1g2EoMfHzQxnUU9/view?usp=drive_link"
+  Assets:Eventos:Pybr2024  -20624.19 BRL
+  Expenses:Eventos:Pybr2024
+
+2024-12-03 * "Patrocinio" "PIX - RECEBIDO - 03/12 15:42 28052099000194 RETAKE RECU / DEP"
+  comprovante: "https://drive.google.com/file/d/1IN4nFggnVRRXlIaYYu7oebgB7aHa_sS8/view?usp=sharing"
+  Assets:Bancos:BB 7000.00 * 0.1 BRL
+  Assets:Eventos:Pyne2025  7000.00 * 0.9 BRL
+  Income:Eventos:Pyne2025
+
+2024-12-04 * "" "TED-PAG FORNECEDORES - 745 0001 22121209000146 STRIPE BRASIL / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.55 BRL
+  Income:APyB:Anuidades
+
+2024-12-04 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  55.94 BRL
+  Income:APyB:Anuidades
+
+2024-12-05 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP" #falta-comprovante
+  comprovante: ""
+  Assets:Bancos:BB 20069.80 * 0.1 BRL
+  Assets:Eventos:Pycerrado2024  20069.80 * 0.9 BRL
+  Income:Eventos:Pycerrado2024
+
+2024-12-09 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2024-12-10 * "Assessoria jurídica" "Revisão contrato local - PAGAMENTO DE BOLETO - MARSIAJ SOCIEDADE INDIVIDUAL D"
+  comprovante: "https://drive.google.com/file/d/1XAVp-ypiFmTaCzIcvP0UnoVYfiHtzuDJ/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -3000.00 BRL
+  Expenses:Eventos:Pybr2025
+
+2024-12-10 * "Reembolso" "PIX - ENVIADO - 10/12 16:22 THALITA LANUSSE DE MORAIS"
+  comprovante: "https://drive.google.com/file/d/1vCSqTOWUQDU0mZRqozIQJGkvtYcxn8wv/view?usp=drive_link"
+  Assets:Eventos:Pycerrado2024  -331.11 BRL
+  Expenses:Eventos:Pycerrado2024
+
+2024-12-10 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 10/12/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -3.27 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-12-12 * "" "TRANSFERÊNCIA RECEBIDA - 12/12 14:51 FUNDO E M C E TRIBUNAL / XFER"
+  comprovante: ""
+  Assets:Bancos:BB 666.40 BRL
+  Equity:Investimentos:BB
+
+2024-12-13 * "" "PIX - ENVIADO - 13/12 16:31 ANA CECILIA VIEIRA SILVA"
+  comprovante: "https://drive.google.com/file/d/15uGEMRp7EmPjqVs4NH_5zNbZs4fr0wfc/view?usp=drive_link"
+  Assets:Bancos:BB  -1233.01 BRL
+  Expenses:APyB:Infra
+
+2024-12-13 * "" "PIX - ENVIADO - 13/12 16:32 ATUALE ASSESSORIA CONTABIL"
+  comprovante: ""
+  Assets:Bancos:BB  -250.00 BRL
+  Expenses:APyB:Contadora
+
+2024-12-13 * "" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
+  comprovante: ""
+  Assets:Bancos:BB  -467.28 BRL
+  Expenses:APyB:Impostos
+
+2024-12-13 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 13/12/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -12.47 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-12-16 * "" "TED-PAG FORNECEDORES - 745 0001 22121209000146 STRIPE BRASIL / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.55 BRL
+  Income:APyB:Anuidades
+
+2024-12-16 * "" "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 16/12/2024"
+  comprovante: ""
+  Assets:Bancos:BB  -122.30 BRL
+  Expenses:APyB:Taxas:BB
+
+2024-12-18 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.74 BRL
+  Income:APyB:Anuidades
+
+2024-12-23 * "" "STRIPE DÉBITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  73.17 BRL
+  Income:APyB:Anuidades
+
+2024-12-24 * "Ingressos" "ORDEM BANC 12 SEC TES NAC - 012985830001-41 TRIBUNAL REGIONAL DO T / DEP"
+  comprovante: "https://drive.google.com/file/d/1Z35vxVnErkBtcFPsiIrR7jlYJcaRzJl7/view?usp=drive_link"
+  Assets:Bancos:BB 996.05 * 0.1 BRL
+  Assets:Eventos:Pycerrado2024  996.05 * 0.9 BRL
+  Income:Eventos:Pycerrado2024
+
+2024-12-26 * "Patrocinio" "TED-CRÉDITO EM CONTA - 341 0911 27865757000102 GLOBO COMUNICA / DEP"
+  comprovante: "https://drive.google.com/file/d/12uAGtP5_TTPPZPSYUZHJroQshhIE1Es_/view?usp=drive_link"
+  Assets:Bancos:BB 22500.00 * 0.1 BRL
+  Assets:Eventos:Pyne2025  22500.00 * 0.9 BRL
+  Income:Eventos:Pyne2025
+
+2024-12-26 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.35 BRL
+  Income:APyB:Anuidades
+
+2024-12-27 * "" "TED-PAG FORNECEDORES - 033 4411 02844344000102 FUND AMAZONICA / DEP" #falta-comprovante ;Solicitada informacao a PyNorte
+  comprovante: ""
+  Assets:Bancos:BB 5495.00 * 0.1 BRL
+  Assets:Eventos:Pyn2025  5495.00 * 0.9 BRL
+  Income:Eventos:Pyn2025
+
+2024-12-30 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  915.90 BRL
+  Income:APyB:Anuidades
+
+
