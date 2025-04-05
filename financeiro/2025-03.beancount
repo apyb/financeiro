@@ -1,0 +1,81 @@
+;; -*- mode: beancount -*-
+;; extratos/2025-03-bb.ofx
+
+2025-03-05 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.74 BRL
+  Income:APyB:Anuidades
+
+2025-03-10 * "Patrocínio" "PIX - RECEBIDO - 10/03 11:04 19259743000109 VINTA SOFTW / DEP"
+  comprovante: "https://drive.google.com/file/d/1VfOdJvmuZxTSqmja8FaF9S0Db4lv9CHe/view?usp=drive_link"
+  Assets:Bancos:BB  700.00 * 0.1 BRL
+  Assets:Eventos:20MeetupGrupyRN 700.00 * 0.9 BRL
+  Income:Eventos:20MeetupGrupyRN
+
+2025-03-12 * "" "PIX - ENVIADO - 12/03 12:50 ANA CECILIA VIEIRA SILVA"
+  comprovante: "https://drive.google.com/file/d/1vXJ3sWe8rUjlI-4zfv_rlNcdZt6kwSKZ/view?usp=drive_link"
+  Assets:Bancos:BB  -136.97 BRL
+  Expenses:APyB:Infra
+
+2025-03-12 * "Reembolso" "Hospedagem - PIX - ENVIADO - 12/03 13:43 SIMPLES CONSULTORIA"
+  comprovante: "https://drive.google.com/file/d/1m2i2u_bh6uV7mz8e3iUfokJF9lp4XbZK/view?usp=drive_link"
+  Assets:Eventos:Pycerrado2024  -26600.00 BRL
+  Expenses:Eventos:Pycerrado2024
+
+2025-03-12 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 12/03/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -11.35 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-03-13 * "" "TED-PAG FORNECEDORES - 745 0001 22121209000146 STRIPE BRASIL / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.55 BRL
+  Income:APyB:Anuidades
+
+2025-03-14 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.42 BRL
+  Income:APyB:Anuidades
+
+2025-03-17 * "" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
+  comprovante: "https://drive.google.com/file/d/1A0_ANGIJ-lcG7ux-0DEC8i5_HZrbrykI/view?usp=drive_link"
+  Assets:Bancos:BB  -345.96 BRL
+  Expenses:APyB:Impostos
+
+2025-03-17 * "" "PIX - ENVIADO - 17/03 16:40 ATUALE ASSESSORIA CONTABIL"
+  comprovante: "https://drive.google.com/file/d/1t2C3xrFo-sLl26yJpgAMbuSH1eC-uTm-/view?usp=drive_link"
+  Assets:Bancos:BB  -265.00 BRL
+  Expenses:APyB:Contadora
+
+2025-03-17 * "" "PIX - ENVIADO - 17/03 16:43 MARIA FERNANDA SOUZA ANDRA"
+  comprovante: "https://drive.google.com/file/d/1bXYYpBd3-mGAEw8TAp9ASe5UvC1EjCrl/view?usp=drive_link"
+  Assets:Bancos:BB  -255.02 BRL
+  Expenses:APyB:Infra
+
+2025-03-17 * "" "PIX - ENVIADO - 17/03 16:46 P G AUDIOVISUAL" #falta-comprovante
+  comprovante: "" 
+  Assets:Eventos:Pyne2025  -3000.00 BRL
+  Expenses:Eventos:Pyne2025
+
+2025-03-17 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 17/03/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -15.14 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-03-17 * "" "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 17/03/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -128.90 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-03-19 * "Ingressos" "ORDEM BANC 12 SEC TES NAC - 108395080001-31 INSTITUTO FEDERAL EDUC / DEP"
+  comprovante: "https://drive.google.com/file/d/1zUlGnQSbnGmzuo3AR-FPqN1pchgMF9uR/view?usp=drive_link"
+  Assets:Bancos:BB  864.00 * 0.1 BRL
+  Assets:Eventos:Pybr2024  864.00 * 0.9 BRL
+  Income:Eventos:Pybr2024
+
+2025-03-24 * "Ingressos" "ORDEM BANC 12 SEC TES NAC - 107838980001-75 IFPB - REITORIA / DEP"
+  comprovante: "https://docs.google.com/file/d/1pDUCyAeIxyJHHOERYXNYzatdHrTNa5tL/preview"
+  Assets:Eventos:Pycerrado2024 502.42 BRL
+  Income:Eventos:Pycerrado2024
+
+
