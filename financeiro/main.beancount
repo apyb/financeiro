@@ -138,6 +138,10 @@ option "operating_currency" "BRL"
 2023-08-16 open Assets:Eventos:16MeetupGrupyRN BRL
 2023-08-16 open Income:Eventos:16MeetupGrupyRN BRL
 2023-09-12 open Expenses:Eventos:16MeetupGrupyRN BRL
+; 20º Meetup Grupy-RN
+2025-02-18 open Assets:Eventos:20MeetupGrupyRN BRL
+2025-02-18 open Income:Eventos:20MeetupGrupyRN BRL
+2025-02-18 open Expenses:Eventos:20MeetupGrupyRN BRL
 
 ; 2º Meetup PyData Natal
 2024-07-22 open Assets:Eventos:2MeetupPyDataNatal BRL
@@ -256,3 +260,5 @@ include "2024-10.beancount"
 include "2024-11.beancount"
 include "2024-12.beancount"
 include "2025-01.beancount"
+include "2025-02.beancount"
+include "2025-03.beancount"

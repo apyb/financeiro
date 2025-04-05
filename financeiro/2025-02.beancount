@@ -18,13 +18,13 @@
 
 2025-02-12 * "Reembolso" "Banner - PIX - ENVIADO - 12/02 14:39 DIEGO LUCENA DE MEDEIROS"
   comprovante: "https://drive.google.com/file/d/1zfCC-NIzoePMaHc6GW2arNIWcuGt9lQ0/view?usp=drive_link"
-  Assets:Eventos:pydatamanaus7  -220.00 BRL
-  Expenses:Eventos:pydatamanaus7
+  Assets:Eventos:7MeetupPyDataManaus  -220.00 BRL
+  Expenses:Eventos:7MeetupPyDataManaus
 
 2025-02-12 * "Reembolso" "Brindes - PIX - ENVIADO - 12/02 14:43 GIOVANNA SOUZA TEODORO"
   comprovante: "https://drive.google.com/file/d/1zUliFr8o3ulIf4lRtiV-PuOAhLkFGztE/view?usp=drive_link"
-  Assets:Eventos:pydatamanaus7  -3710.90 BRL
-  Expenses:Eventos:pydatamanaus7
+  Assets:Eventos:7MeetupPyDataManaus  -3710.90 BRL
+  Expenses:Eventos:7MeetupPyDataManaus
 
 2025-02-12 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 12/02/2025"
   comprovante: ""
@@ -44,7 +44,7 @@
 2025-02-14 * "" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
   comprovante: ""
   Assets:Bancos:BB  -154.00 BRL
-  Expenses:
+  Expenses:APyB:Impostos
 
 2025-02-14 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 14/02/2025"
   comprovante: ""
@@ -54,21 +54,23 @@
 2025-02-17 * "" "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 17/02/2025"
   comprovante: ""
   Assets:Bancos:BB  -128.90 BRL
-  Expenses:
+  Expenses:APyB:Taxas:BB
 
 2025-02-20 * "" "TED-PAG FORNECEDORES - 745 0001 22121209000146 STRIPE BRASIL / DEP"
   comprovante: ""
   Assets:Bancos:BB  60.55 BRL
   Income:APyB:Anuidades
 
-2025-02-21 * "" "ORDEM BANC 12 SEC TES NAC - 091687040001-42 EMPRESA BRASIL DE COMU / DEP"
-  comprovante: ""
-  Assets:Bancos:BB  3300.00 BRL
-  Expenses:
+2025-02-21 * "Ingressos" "ORDEM BANC 12 SEC TES NAC - 091687040001-42 EMPRESA BRASIL DE COMU / DEP"
+  comprovante: "https://drive.google.com/file/d/1b72q2elyLkX15kRaMwYb25X87IAU9l1C/view?usp=drive_link"
+  Assets:Bancos:BB  3300.00 * 0.1 BRL
+  Assets:Eventos:Pycerrado2024  3300.00 * 0.9 BRL
+  Income:Eventos:Pycerrado2024
 
-2025-02-27 * "" "ORDEM BANCÁRIA - RJ-SEC DE ESTADO DE FA / DEP"
-  comprovante: ""
-  Assets:Bancos:BB  523.60 BRL
-  Expenses:
+2025-02-27 * "Ingressos" "ORDEM BANCÁRIA - RJ-SEC DE ESTADO DE FA / DEP"
+  comprovante: "https://drive.google.com/file/d/1uK0O96TJ4IkSZ2LJmqXTIEdxWMMcmnfo/view?usp=drive_link"
+  Assets:Bancos:BB  523.60 * 0.1 BRL
+  Assets:Eventos:Pycerrado2024  523.60 * 0.9 BRL
+  Income:Eventos:Pycerrado2024
 
 
