@@ -52,8 +52,8 @@
   Assets:Bancos:BB  -255.02 BRL
   Expenses:APyB:Infra
 
-2025-03-17 * "" "PIX - ENVIADO - 17/03 16:46 P G AUDIOVISUAL" #falta-comprovante
-  comprovante: "" 
+2025-03-17 * "Audiovisual" "PIX - ENVIADO - 17/03 16:46 P G AUDIOVISUAL"
+  comprovante: "https://drive.google.com/file/d/14X1QsHiUkCuEy1ttOfWotRPMNWX7HzC0/view?usp=sharing" 
   Assets:Eventos:Pyne2025  -3000.00 BRL
   Expenses:Eventos:Pyne2025
 
