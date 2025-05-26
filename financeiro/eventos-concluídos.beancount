@@ -1,3 +1,5 @@
+;; Esse arquivo só deve ser usado quando houver transferência de valores de uma conta para outra
+
 2022-01-01 * "Transferência de caixa pysul2020 para pysul2022"
     Assets:Eventos:Pysul2022  7308.80 BRL
     Assets:Eventos:Pysul2020
@@ -27,3 +29,44 @@
 2024-01-01 * "Transferência de caixa fundo inclusão pybr2023 para fundo inclusão pybr2024"
     Assets:FundoInclusão:Pybr2024  9847.87 BRL
     Assets:FundoInclusão:Pybr2023
+
+2024-02-22 * "Fechamento do caixa Pyn2023"
+    Assets:Bancos:BB 13070.98 * 0.5 BRL
+    Assets:FundoInclusão:Pybr2024 13070.98 * 0.5 BRL
+    Assets:Eventos:Pyn2023
+
+2024-06-04 * "Fechamento do caixa pyne2023"
+    Assets:Bancos:BB 25629.00 * 0.5 BRL
+    Assets:FundoInclusão:Pybr2024 25629.00 * 0.5 BRL
+    Assets:Eventos:Pyne2023
+
+2025-05-25 * "Fechamento do caixa pybr2022"
+    Assets:Bancos:BB 30248.38 * 0.5 BRL
+    Assets:FundoInclusão:Pybr2024 30248.38 * 0.5 BRL
+    Assets:Eventos:Pybr2022
+
+2025-05-25 * "Fechamento do caixa Pycerrado2024"
+    Assets:Bancos:BB 4106.76 * 0.5 BRL
+    Assets:FundoInclusão:Pybr2024 4106.76 * 0.5 BRL
+    Assets:Eventos:Pycerrado2024
+
+2025-05-25 * "Fechamento do caixa Pyn2024"
+    Assets:Bancos:BB 4593.02 * 0.5 BRL
+    Assets:FundoInclusão:Pybr2024 4593.02 * 0.5 BRL
+    Assets:Eventos:Pyn2024
+
+2025-05-25 * "Fechamento do caixa Pysul2022"
+    Assets:Bancos:BB 1720.09 * 0.5 BRL
+    Assets:FundoInclusão:Pybr2024 1720.09 * 0.5 BRL
+    Assets:Eventos:Pysul2022
+
+2025-05-25 * "Fechamento do caixa Pysul2024"
+    Assets:Bancos:BB 15199.53 * 0.5 BRL
+    Assets:FundoInclusão:Pybr2024 15199.53 * 0.5 BRL
+    Assets:Eventos:Pysul2024
+
+2025-05-25 * "Fechamento do caixa Pyse2024"
+    Assets:Bancos:BB 10031.40 * 0.5 BRL
+    Assets:FundoInclusão:Pybr2024 10031.40 * 0.5 BRL
+    Assets:Eventos:Pyse2024
+    
