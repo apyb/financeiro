@@ -1,0 +1,177 @@
+;; -*- mode: beancount -*-
+;; extratos/2025-04-bb.ofx
+
+2025-04-04 * "Material gráfico" "PIX - ENVIADO - 04/04 15:57 LUGRE DIGITAL"
+  comprovante: "https://drive.google.com/file/d/1fBytoG7hQg7JfRuRZtG7ynbKdC8Lc9qu/view?usp=sharing"
+  Assets:Eventos:Pyne2025  -700.00 BRL
+  Expenses:Eventos:Pyne2025
+
+2025-04-04 * "Reembolso" "Pretalx - PIX - ENVIADO - 04/04 16:19 THALITA LANUSSE DE MORAIS"
+  comprovante: "https://drive.google.com/file/d/1DaVpmO_QJu9yf_uIrgTAJwpXR0lDJFeS/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -292.84 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-04-04 * "Reembolso" "Alimentação - PIX - ENVIADO - 04/04 16:26 ANDERSON SANTOS DE MEDEIRO"
+  comprovante: "https://docs.google.com/file/d/1L3DvyVWgA6Ms0fMiLfd6LkEYDzvVnM4z/preview"
+  Assets:Eventos:20MeetupGrupyRN  -287.66 BRL
+  Expenses:Eventos:20MeetupGrupyRN
+
+2025-04-04 * "Reembolso" "Alimentação - PIX - ENVIADO - 04/04 16:31 ANDERSON SANTOS DE MEDEIRO"
+  comprovante: "https://docs.google.com/file/d/1EGNQINCAPdg9Oer4gkrppWr8lhhtMW3a/preview"
+  Assets:Eventos:20MeetupGrupyRN  -333.89 BRL
+  Expenses:Eventos:20MeetupGrupyRN
+
+2025-04-04 * "Reembolso" "Pretalx - PIX - ENVIADO - 04/04 16:41 THALITA LANUSSE DE MORAIS"
+  comprovante: "https://docs.google.com/file/d/1B0T1oV0H_Wo9gH6N7k1Lz3XYzXbj9KkZ/preview"
+  Assets:Eventos:Pybr2025  -287.57 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-04-04 * "Alimentação" "PIX - ENVIADO - 04/04 16:57 FESTEJAR EVENTOS"
+  comprovante: "https://docs.google.com/file/d/1eWj68HyXaR--TucvFVk3KCMMpre1RwIg/preview"
+  Assets:Eventos:Pyne2025  -9300.00 BRL
+  Expenses:Eventos:Pyne2025
+
+2025-04-04 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 04/04/2025"
+  comprovante: ""
+  Assets:Bancos:BB -28.80 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-04-07 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  59.46 BRL
+  Income:APyB:Anuidades
+
+2025-04-09 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2025-04-14 * "Endereço fiscal" "PIX - ENVIADO - 13/04 21:52 VILLA URBANA"
+  comprovante: "https://docs.google.com/file/d/1pVj773CmoBvi5_3bOZVWS0gPQXovQfjt/preview"
+  Assets:Bancos:BB  -600.00 BRL
+  Expenses:APyB:Infra
+
+2025-04-14 * "Reembolso" "Heroku e AWS - PIX - ENVIADO - 13/04 22:00 ANA CECILIA VIEIRA SILVA"
+  comprovante: "https://docs.google.com/file/d/1mabkHt8H0NsncPS4VbT-PbEymBc5C_lB/preview"
+  Assets:Bancos:BB  -137.16 BRL
+  Expenses:APyB:Infra
+
+2025-04-14 * "Assessoria contábil" "PIX - ENVIADO - 13/04 22:02 ATUALE ASSESSORIA CONTABIL"
+  comprovante: "https://docs.google.com/file/d/15MBeQmpN7xiFAbBuRE7qIdb7tprGQzhA/preview"
+  Assets:Bancos:BB  -539.96 BRL
+  Expenses:APyB:Contadora
+
+2025-04-14 * "Designer" "PIX - ENVIADO - 13/04 22:06 35.571.175 CLARA PERNAMBUC"
+  comprovante: "https://docs.google.com/file/d/1zNNKuFtX5lWcHsparlUzOz7biXCaZFEU/preview"
+  Assets:Eventos:Pyse2025  -3000.00 BRL
+  Expenses:Eventos:Pyse2025
+
+2025-04-14 * "Projeto arquitetônico" "PIX - ENVIADO - 14/04 18:10 LARISSA VICTORINO PEREIRA"
+  comprovante: "https://docs.google.com/file/d/118y3pP6uAzh2WfDB6bzGBQhJaMbW8iXW/preview"
+  Assets:Eventos:Pybr2025  -935.00 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-04-14 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 14/04/2025"
+  comprovante: ""
+  Assets:Bancos:BB -21.88 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-04-15 * "Patrocinio" "Alura TED-PAG FORNECEDORES - 341 0167 11319526000155 VSTP EDUCACAO / DEP"
+  comprovante: "https://drive.google.com/file/d/1YxkTjh9WhiyMUMZiYvqnwmlUmAgICnVG/view?usp=drive_link"
+  Assets:Bancos:BB  500.00 * 0.1 BRL
+  Assets:Eventos:Pyladiesconf2025  500.00 * 0.9 BRL
+  Income:Eventos:Pyladiesconf2025
+
+2025-04-15 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2025-04-15 * "" "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 15/04/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -128.90 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-04-17 * "Patrocinio" "Alura TED-PAG FORNECEDORES - 341 0167 11319526000155 VSTP EDUCACAO / DEP"
+  comprovante: "https://drive.google.com/file/d/1g6IOvSQ060PFxtf8l4FwIk4dM7tZRxj8/view?usp=sharing"
+  Assets:Bancos:BB  2500.00 * 0.1 BRL
+  Assets:Eventos:Pyne2025  2500.00 * 0.9 BRL
+  Income:Eventos:Pyne2025
+
+2025-04-17 * "" "TED-PAG FORNECEDORES - 745 0001 22121209000146 STRIPE BRASIL / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.55 BRL
+  Income:APyB:Anuidades
+
+2025-04-22 * "Patrocínio" "PSF - ORPAG ORIGEM EXTERIOR / DEP"
+  comprovante: "https://drive.google.com/file/d/1P9N-jRVtvqdfSRClGoHxbCdDAd4qPSB9/view?usp=drive_link"
+  Assets:Bancos:BB  14991.21 * 0.1 BRL
+  Assets:Eventos:Pyne2025  14991.21 * 0.9 BRL
+  Income:Eventos:Pyne2025
+
+2025-04-22 * "Patrocinio" "COBRANÇA / DEP"
+  comprovante: "https://drive.google.com/file/d/1W8CArz_8NBc1tWgRVpK3QiA24q7Rg-XL/view?usp=drive_link"
+  Assets:Bancos:BB  2500.00 * 0.1 BRL
+  Assets:Eventos:Pyne2025  2500.00 * 0.9 BRL
+  Income:Eventos:Pyne2025
+
+2025-04-22 * "" "COBRANÇA DE I.O.F."
+  comprovante: ""
+  Assets:Bancos:BB  -56.97 BRL
+  Expenses:APyB:Impostos
+
+2025-04-22 * "" "DÉBITO SERVIÇO COBRANÇA - TAR. AGRUPADAS - OCORRENCIA 17/04/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -4.99 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-04-23 * "Patrocinio" "PSF - ORPAG ORIGEM EXTERIOR / DEP"
+  comprovante: "https://drive.google.com/file/d/1dujmvOPlFReq-gEWsuDA2XJManl6RLFR/view?usp=drive_link"
+  Assets:Bancos:BB  11639.49 * 0.1 BRL
+  Assets:Eventos:Pyladiesconf2025  11639.49 * 0.1 BRL
+  Income:Eventos:Pyladiesconf2025
+
+2025-04-23 * "Patrocinio" "Velozient - ORPAG ORIGEM EXTERIOR / DEP"
+  comprovante: "https://drive.google.com/file/d/1BsxmcmzgQ8cbg-hjNAoAfgKq_OKruXQd/view?usp=drive_link"
+  Assets:Bancos:BB  5679.30 * 0.1 BRL
+  Assets:Eventos:Pyse2025  5679.30 * 0.9 BRL
+  Income:Eventos:Pyse2025
+
+2025-04-23 * "Patrocinio" "PSF - ORPAG ORIGEM EXTERIOR / DEP"
+  comprovante: "https://drive.google.com/file/d/1k_amcinBzbPHpSxNwvoFFGrAIEt4zvxn/view?usp=drive_link"
+  Assets:Bancos:BB  19746.07 * 0.1 BRL
+  Assets:Eventos:Pyse2025  19746.07 * 0.9 BRL
+  Income:Eventos:Pyse2025
+
+2025-04-23 * "" "COBRANÇA DE I.O.F."
+  comprovante: ""
+  Assets:Bancos:BB  -44.23 BRL
+  Expenses:APyB:Impostos
+
+2025-04-23 * "" "COBRANÇA DE I.O.F."
+  comprovante: ""
+  Assets:Bancos:BB  -21.58 BRL
+  Expenses:APyB:Impostos
+
+2025-04-23 * "" "COBRANÇA DE I.O.F."
+  comprovante: ""
+  Assets:Bancos:BB  -75.04 BRL
+  Expenses:APyB:Impostos
+
+2025-04-25 * "Patrocinio" "COBRANÇA / DEP"
+  comprovante: "https://drive.google.com/file/d/1YxkTjh9WhiyMUMZiYvqnwmlUmAgICnVG/view?usp=sharing"
+  Assets:Bancos:BB  500.00 * 0.1 BRL
+  Assets:Eventos:Pyladiesconf2025  500.00 * 0.9 BRL
+  Income:Eventos:Pyladiesconf2025
+
+2025-04-25 * "" "DÉBITO SERVIÇO COBRANÇA - TAR. AGRUPADAS - OCORRENCIA 24/04/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -4.99 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-04-28 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.42 BRL
+  Income:APyB:Anuidades
+
+
