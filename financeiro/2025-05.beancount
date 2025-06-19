@@ -1,0 +1,191 @@
+;; -*- mode: beancount -*-
+;; extratos/2025-05-bb.ofx
+
+2025-05-05 * "Reembolso" "PIX - ENVIADO - 05/05 15:31 ANICELY MARIA CARLOS DOS S"
+  comprovante: "https://docs.google.com/file/d/1aI5OKxhWYnImiM9-HwqgnKYH30huk3wp/preview"
+  Assets:Bancos:BB  -327.34 BRL
+  Expenses:APyB:Ops
+
+2025-05-05 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 05/05/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -3.24 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-05-07 * "Alimentação" "PIX - ENVIADO - 07/05 09:57 BOUTIQUE DA GULA"
+  comprovante: "https://docs.google.com/file/d/1XWPTVzlVejQ6vrhlwULk1jslg3kTzAWK/preview"
+  Assets:Eventos:Pyse2025  -6970.00 BRL
+  Expenses:Eventos:Pyse2025
+
+2025-05-07 * "Local" "PIX - ENVIADO - 07/05 10:04 OCEANIA PARK HOTEL"
+  comprovante: "https://docs.google.com/file/d/1WJHQtqflOvaQOMibw5U7qECr3Xs7mAyl/preview"
+  Assets:Eventos:Pybr2026  -8710.00 BRL
+  Expenses:Eventos:Pybr2026
+
+2025-05-07 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 07/05/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -20.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-05-13 * "" "TED-PAG FORNECEDORES - 745 0001 22121209000146 STRIPE BRASIL / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.23 BRL
+  Income:APyB:Anuidades
+
+2025-05-14 * "Serviço gráfico" "PIX - ENVIADO - 14/05 20:08 ZENITE GRAFICA"
+  comprovante: "https://drive.google.com/file/d/1BHHN2poVILqUYrj-B2XO9rQyHwjJFPLn/view?usp=drive_link"
+  Assets:Eventos:Pyne2025  -1650.00 BRL
+  Expenses:Eventos:Pyne2025
+
+2025-05-14 * "Brinde" "PIX - ENVIADO - 14/05 20:39 VALDENICIO CHAVES DA SILVA"
+  comprovante: "https://docs.google.com/file/d/1j5MAz6nfgR4FKxR683lQQpr-OCDABYyk/preview"
+  Assets:Eventos:Pyladiesconf2025  -300.00 BRL
+  Expenses:Eventos:Pyladiesconf2025
+
+2025-05-14 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 14/05/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -2.97 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-05-15 * "Brinde" "PAGAMENTO DE BOLETO - MERCADO PAGO INST PAG LTDA"
+  comprovante: "https://drive.google.com/file/d/1y8oV5GLWoKoG5CdurqQAsVucZLAIOXjX/view?usp=drive_link"
+  Assets:Eventos:Pyladiesconf2025  -1100.00 BRL
+  Expenses:Eventos:Pyladiesconf2025
+
+2025-05-15 * "Assessoria contábil" "PIX - ENVIADO - 15/05 13:39 ATUALE ASSESSORIA CONTABIL"
+  comprovante: "https://docs.google.com/file/d/10fGZ8lWN_74dRj9eKNiNXds31MridfYr/preview"
+  Assets:Bancos:BB  -815.00 BRL
+  Expenses:APyB:Contadora
+
+2025-05-15 * "" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
+  comprovante: "https://drive.google.com/file/d/10fGZ8lWN_74dRj9eKNiNXds31MridfYr/view?usp=drive_link"
+  Assets:Bancos:BB  -240.00 BRL
+  Expenses:APyB:Impostos
+
+2025-05-15 * "Brinde" "PIX - ENVIADO - 15/05 13:52 DEVANILDO FERREIRA TAVARES"
+  comprovante: "https://docs.google.com/file/d/14ZBRW_E7N0v--DRpXm18rar0h1kZAZUF/preview"
+  Assets:Eventos:Pyse2025  -2898.45 BRL
+  Expenses:Eventos:Pyse2025
+
+2025-05-15 * "Brinde" "PIX - ENVIADO - 15/05 13:57 50.080.490 FILIPE ANDERSON"
+  comprovante: "https://docs.google.com/file/d/15-_R_P4pPOABCjDjgfHpyDwcNErPJhZr/preview"
+  Assets:Eventos:Pyladiesconf2025  -507.00 BRL
+  Expenses:Eventos:Pyladiesconf2025
+
+2025-05-15 * "Audiovisual" "PIX - ENVIADO - 15/05 14:01 MARIA VITORIA DE ARAUJO OL"
+  comprovante: "https://docs.google.com/file/d/1moF07A8uBP64RkbGmfmmvBHe5ON_wYsR/preview"
+  Assets:Eventos:Pyladiesconf2025  -1400.00 BRL
+  Expenses:Eventos:Pyladiesconf2025
+
+2025-05-15 * "" "DébITO SERVIço COBRANça - TAR. AGRUPADAS - OCORRENCIA 15/05/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -1.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-05-15 * "" "TARIFA PACOTE DE SERVIçoS - COBRANça REFERENTE 15/05/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -128.90 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-05-15 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 15/05/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -33.07 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-05-19 * "" "STRIPE CRédITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2025-05-19 * "Endereço fiscal" "PAGAMENTO DE BOLETO - VILLA URBANA STUDIO CRIATIVO L"
+  comprovante: "https://docs.google.com/file/d/1dv0vN-0n5maLAA-ZSyfpWZyQiXm6qlQw/preview"
+  Assets:Bancos:BB  -136.80 BRL
+  Expenses:APyB:Infra
+
+2025-05-19 * "Transporte" "PIX - ENVIADO - 19/05 15:54 GREICE DA HORA SILVA"
+  comprovante: "https://docs.google.com/file/d/1nCtsN4_jKMekGpqCHfuuuDns04XfLyVl/preview"
+  Assets:Eventos:Pyladiesconf2025  -700.00 BRL
+  Expenses:Eventos:Pyladiesconf2025
+
+2025-05-19 * "Transporte" "PIX - ENVIADO - 19/05 15:56 ANA MARIA GOMES DA SILVA"
+  comprovante: "https://docs.google.com/file/d/1gUyFsC7903IXWRMjuxUFT-kZCIgzpx5F/preview"
+  Assets:Eventos:Pyladiesconf2025  -12.27 BRL
+  Expenses:Eventos:Pyladiesconf2025
+
+2025-05-19 * "Reembolso" "Pretalx - PIX - ENVIADO - 19/05 16:15 THALITA LANUSSE DE MORAIS"
+  comprovante: "https://docs.google.com/file/d/194cuOjWsi_emsqbtxfuiMPsnt5XwPvKM/preview"
+  Assets:Eventos:Pybr2025  -282.36 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-05-19 * "Brinde" "PIX - ENVIADO - 19/05 16:25 L T BRITO FILHO  LTDA"
+  comprovante: "https://docs.google.com/file/d/1yxJvZYDuO3xh5C-VKgpuOVHizvl0mjuK/preview"
+  Assets:Eventos:Pyne2025  -2490.00 BRL
+  Expenses:Eventos:Pyne2025
+
+2025-05-19 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 19/05/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -10.72 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-05-21 * "Patrocínio" "ORPAG ORIGEM EXTERIOR / DEP"
+  comprovante: "https://drive.google.com/file/d/1-E9ajwL5TvEhcbMM5KUCo71naBiDpg-G/view?usp=drive_link"
+  Assets:Bancos:BB  19706.22 * 0.1 BRL
+  Assets:Eventos:Caipyra2025  19706.22 * 0.9 BRL
+  Income:Eventos:Caipyra2025
+
+2025-05-21 * "" "COBRANça DE I.O.F."
+  comprovante: ""
+  Assets:Bancos:BB  -74.88 BRL
+  Expenses:APyB:Impostos
+
+2025-05-27 * "" "Transferência da antiga conta de recebimento de assinaturas para o Banco do Brasil 1/3 - TED-CRédITO EM CONTA - 290 0000 09344485000105 ASSOCIACAO PYT / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  10000.00 BRL
+  Assets:Bancos:PagSeguro
+
+2025-05-27 * "Brinde" "PIX - ENVIADO - 27/05 14:10 VALDENICIO CHAVES DA SILVA"
+  comprovante: "https://docs.google.com/file/d/1lMAyLLGi9jnllCjim-x5j-fuX6eBuE8w/preview"
+  Assets:Eventos:Pyladiesconf2025  -75.00 BRL
+  Expenses:Eventos:Pyladiesconf2025
+
+2025-05-27 * "Brinde" "PIX - ENVIADO - 27/05 14:24 EMILLY MARTINS FERREIRA HO"
+  comprovante: "https://docs.google.com/file/d/1o_V7MDUKhqfe-z0oI24MaDZmXvr9hPjR/preview"
+  Assets:Eventos:Pyladiesconf2025  -172.50 BRL
+  Expenses:Eventos:Pyladiesconf2025
+
+2025-05-27 * "Serviço gráfico" "PIX - ENVIADO - 27/05 14:29 BERNARDO NUNES DA SILVA NE"
+  comprovante: "https://drive.google.com/file/d/1yGLx4sWIlQgQl50-G0XuRz1I8tLO_it8/view?usp=drive_link"
+  Assets:Eventos:Pyladiesconf2025  -270.00 BRL
+  Expenses:Eventos:Pyladiesconf2025
+
+2025-05-27 * "Reembolso" "Transporte - PIX - ENVIADO - 27/05 19:59 CAMILA SIGNORINI PERROUD"
+  comprovante: "https://docs.google.com/file/d/1LY2fv47HNp9UxWpjBe82t8vzyOIfs_Hn/preview"
+  Assets:Eventos:Pyse2025  -567.49 BRL
+  Expenses:Eventos:Pyse2025
+
+2025-05-27 * "Serviço gráfico" "PIX - ENVIADO - 27/05 20:02 CITY COPY"
+  comprovante: "https://drive.google.com/file/d/1WQizTCKAt_KWGwq3oNuEmngw24SsaVvO/view?usp=drive_link"
+  Assets:Eventos:Pyse2025  -180.00 BRL
+  Expenses:Eventos:Pyse2025
+
+2025-05-27 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 27/05/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -11.06 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-05-28 * "Brinde" "PIX - ENVIADO - 28/05 15:20 L T BRITO FILHO  LTDA"
+  comprovante: "https://docs.google.com/file/d/1yxJvZYDuO3xh5C-VKgpuOVHizvl0mjuK/preview"
+  Assets:Eventos:Pyne2025  -2490.00 BRL
+  Expenses:Eventos:Pyne2025
+
+2025-05-29 * "" "Transferência da antiga conta de recebimento de assinaturas para o Banco do Brasil 2/3 - TED-CRédITO EM CONTA - 290 0000 09344485000105 ASSOCIACAO PYT / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  10000.00 BRL
+  Assets:Bancos:PagSeguro
+
+2025-05-29 * "Patrocínio" "PIX - RECEBIDO - 29/05 11:26 11055433000160 IDOPTER LAB / DEP"
+  comprovante: "https://drive.google.com/file/d/1JUxmnlU4kXA9wN2Y4YkAERZP90grCxKj/view?usp=drive_link"
+  Assets:Bancos:BB  2000.00 * 0.1 BRL
+  Assets:Eventos:Pyn2025  2000.00 * 0.9 BRL
+  Income:Eventos:Pyn2025
+
+
