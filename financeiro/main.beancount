@@ -8,6 +8,7 @@ option "operating_currency" "BRL"
 ; APyB ========================================================================
 2020-01-02 open Assets:Bancos:BB BRL
 2022-03-02 open Assets:Bancos:PagSeguro BRL
+2025-06-30 close Assets:Bancos:PagSeguro
 2021-03-25 open Equity:Investimentos:BB BRL
 2020-09-09 open Expenses:APyB:Contadora BRL
 2020-01-15 open Expenses:APyB:Taxas:BB BRL
@@ -61,7 +62,15 @@ option "operating_currency" "BRL"
 2024-12-10 open Assets:Eventos:Pybr2025 BRL
 2024-12-10 open Expenses:Eventos:Pybr2025 BRL
 2024-12-10 open Income:Eventos:Pybr2025 BRL
+; Python Brasil 2026
+2025-05-07 open Assets:Eventos:Pybr2026 BRL
+2025-05-07 open Expenses:Eventos:Pybr2026 BRL
+2025-05-07 open Income:Eventos:Pybr2026 BRL
 
+; Caipyra 2025
+2025-05-21 open Assets:Eventos:Caipyra2025 BRL
+2025-05-21 open Income:Eventos:Caipyra2025 BRL
+2025-05-21 open Expenses:Eventos:Caipyra2025 BRL
 
 ; Python Cerrado 2024
 2024-08-01 open Assets:Eventos:Pycerrado2024 BRL
@@ -297,3 +306,4 @@ include "2025-01.beancount"
 include "2025-02.beancount"
 include "2025-03.beancount"
 include "2025-04.beancount"
+include "2025-05.beancount"
