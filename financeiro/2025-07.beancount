@@ -1,0 +1,149 @@
+;; -*- mode: beancount -*-
+;; extratos/2025-07-bb.ofx
+
+2025-07-01 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2025-07-03 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2025-07-03 * "Serviço gráfico" "PIX - ENVIADO - 03/07 14:32 IMPRIME BELEM"
+  comprovante: "https://drive.google.com/file/d/1QEJLpFigmjSxb-MoYFECjXSzCVeoM4Ho/view?usp=drive_link"
+  Assets:Eventos:Pyn2025  -210.00 BRL
+  Expenses:Eventos:Pyn2025
+
+2025-07-03 * "" "PIX - ENVIADO - 03/07 14:33 EXPRESSO MINEIRO LANCHONET"
+  comprovante: "https://drive.google.com/file/d/1nZ0_LLfuBzEZXMICnheUau4A_tYazJgB/view?usp=drive_link"
+  Assets:Eventos:Pyn2025  -4600.00 BRL
+  Expenses:Eventos:Pyn2025
+
+2025-07-03 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 03/07/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-07-07 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2025-07-08 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.61 BRL
+  Income:APyB:Anuidades
+
+;2025-07-10 * "Ingressos" "PIX - RECEBIDO - 10/07 11:18 17688085000145 EVEN3 / DEP" ;nao-identificado
+;  comprovante: ""
+;  Assets:Bancos:BB  10624.40 * 0.1 BRL
+;  Assets:Eventos:  10624.40 * 0.9 BRL
+;  Income:Eventos:
+
+2025-07-14 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.16 BRL
+  Income:APyB:Anuidades
+
+2025-07-14 * "Reembolso" "PIX - ENVIADO - 12/07 11:22 DANILO DE PAULA MARTINS"
+  comprovante: "https://drive.google.com/file/d/1wuD41VniOjW08wRkbvm6f7VZY8rz4ruh/view?usp=drive_link"
+  Assets:Eventos:Caipyra2025  -2028.00 BRL
+  Expenses:Eventos:Caipyra2025
+
+2025-07-14 * "Reembolso" "PIX - ENVIADO - 12/07 11:29 TEODORO BALBINO CALVO"
+  comprovante: "https://drive.google.com/file/d/1NDBKk-6TXMPWGm6vR2eIK5t-xiEbRrtV/view?usp=drive_link"
+  Assets:Eventos:Caipyra2025  -513.62 BRL
+  Expenses:Eventos:Caipyra2025
+
+2025-07-14 * "Designer" "PIX - ENVIADO - 12/07 11:32 YASMIM DESIGN"
+  comprovante: "https://drive.google.com/file/d/1n4JbNG4dVIO1cTp2bE3JeXy1qIs_KniH/view?usp=drive_link"
+  Assets:Eventos:Pyn2025  -3000.00 BRL
+  Expenses:Eventos:Pyn2025
+
+2025-07-14 * "Reembolso" "PIX - ENVIADO - 12/07 11:35 JOSE LUIZ MOQUENCO DE FIGU"
+  comprovante: "https://drive.google.com/file/d/1iOZVQNlCTVa4XxCOsoLhvvicuKVS5bFG/view?usp=drive_link"
+  Assets:Eventos:Caipyra2025  -219.67 BRL
+  Expenses:Eventos:Caipyra2025
+
+2025-07-14 * "Reembolso" "PIX - ENVIADO - 12/07 11:42 JULIANY RODRIGUES RAIOL"
+  comprovante: "https://drive.google.com/file/d/1ZzF-20bFUXadFvjV8L9CxMxK9w30NGcZ/view?usp=drive_link"
+  Assets:Eventos:Pyn2025  -3382.62 BRL
+  Expenses:Eventos:Pyn2025
+
+2025-07-14 * "Camisetas" "PIX - ENVIADO - 12/07 11:44 MALHARIA IDEAL"
+  comprovante: "https://drive.google.com/file/d/1bQxofC6IJb3xt8rVUEdVdb_nwr9cC5jF/view?usp=drive_link"
+  Assets:Eventos:Caipyra2025  -6001.14 BRL
+  Expenses:Eventos:Caipyra2025
+
+2025-07-14 * "Reembolso" "Pretalx - PIX - ENVIADO - 12/07 11:53 THALITA LANUSSE DE MORAIS"
+  comprovante: "https://drive.google.com/file/d/1-VOTcA8sMhGHNvr-RfNqcqZGspliDePV/view?usp=drive_link"
+  Assets:Eventos:Pyse2025  -273.33 BRL
+  Expenses:Eventos:Pyse2025
+
+2025-07-14 * "Assessoria contábil" "PIX - ENVIADO - 12/07 11:57 ATUALE ASSESSORIA CONTABIL"
+  comprovante: "https://drive.google.com/file/d/1fFb-EBh19Pv5GPodz1DYa6y8OBgCydWd/view?usp=drive_link"
+  Assets:Bancos:BB  -265.00 BRL
+  Expenses:APyB:Contadora
+
+2025-07-14 * "" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
+  comprovante: "https://drive.google.com/file/d/1pSqLMgjnH0d2BrvNzCIXSdOvoQ1uqujG/view?usp=drive_link"
+  Assets:Bancos:BB  -289.72 BRL
+  Expenses:APyB:Impostos
+
+2025-07-14 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 14/07/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -52.57 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-07-15 * "Endereço fiscal" "PAGAMENTO DE BOLETO - VILLA URBANA STUDIO CRIATIVO L"
+  comprovante: "https://drive.google.com/file/d/18SoDoltp3RhqHSy9my2U-aKaoS3S_Gm7/view?usp=drive_link"
+  Assets:Bancos:BB  -120.00 BRL
+  Expenses:APyB:Infra
+
+2025-07-15 * "" "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 15/07/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -128.90 BRL
+  Expenses:APyB:Taxas:BB
+
+;2025-07-16 * "Patrocínio" "PIX - RECEBIDO - 16/07 08:53 05506560000136 NUCLEO DE I / DEP" ;nao-identificado
+;  comprovante: ""
+;  Assets:Eventos:  5000.00 BRL
+;  Income:Eventos:
+
+2025-07-16 * "Alimentação" "PIX - ENVIADO - 16/07 07:30 OSIMAR LUIZ DE LIMA"
+  comprovante: "https://drive.google.com/file/d/18UL30aeBl98kOpYWMePMqC8Y7pwPOO1G/view?usp=drive_link"
+  Assets:Eventos:Caipyra2025 -5000.00 BRL
+  Expenses:Eventos:Caipyra2025
+
+2025-07-16 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 16/07/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-07-17 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2025-07-24 * "" "PIX - ENVIADO - 24/07 15:53 OSIMAR LUIZ DE LIMA"
+  comprovante: "https://drive.google.com/file/d/18UL30aeBl98kOpYWMePMqC8Y7pwPOO1G/view?usp=drive_link"
+  Assets:Eventos:Caipyra2025  -2558.50 BRL
+  Expenses:Eventos:Caipyra2025
+
+2025-07-24 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 24/07/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-07-25 * "" "TARIFA RENOVAÇÃO CADASTRO - COBRANÇA REFERENTE 07/07/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -66.20 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-07-31 * "Ingresso" "PIX - RECEBIDO - 31/07 13:22 00090063953234 LUCAS GOMES / DEP"
+  comprovante: "https://drive.google.com/file/d/13Em5f9g5eY3mrK0I8QOKDDCFOiD8YhWA/view?usp=drive_link"
+  Assets:Bancos:BB  350.00 * 0.1 BRL
+  Assets:Eventos:Pybr2025  350.00 * 0.9 BRL
+  Income:Eventos:Pybr2025
