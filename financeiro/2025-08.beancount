@@ -1,0 +1,91 @@
+;; -*- mode: beancount -*-
+;; extratos/2025-08-bb.ofx
+
+2025-08-01 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.61 BRL
+  Income:APyB:Anuidades
+
+2025-08-04 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2025-08-05 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2025-08-08 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  64.99 BRL
+  Income:APyB:Anuidades
+
+2025-08-11 * "Reembolso" "PIX - ENVIADO - 11/08 08:23 JAILSON PEREIRA JANUARIO"
+  comprovante: "https://drive.google.com/file/d/1Mta5TUV5_oL5XlR2I0vFyiWe7k8BlI6p/view?usp=drive_link"
+  Assets:Eventos:Pyn2025  -1700.00 BRL
+  Expenses:Eventos:Pyn2025
+
+2025-08-11 * "Assessoria contábil" "PIX - ENVIADO - 11/08 09:31 ATUALE ASSESSORIA CONTABIL"
+  comprovante: "https://drive.google.com/file/d/11hERVl6uh-CbDJOng3O5CgyKS7npGvvM/view?usp=drive_link"
+  Assets:Bancos:BB  -265.00 BRL
+  Expenses:APyB:Contadora
+
+2025-08-11 * "Reembolso" "Aws e heroku - PIX - ENVIADO - 11/08 09:32 ANA CECILIA VIEIRA SILVA"
+  comprovante: "https://drive.google.com/file/d/1BaevFSAXdtFGeMAhi5QjdQzuC7SADihK/view?usp=drive_link"
+  Assets:Bancos:BB  -229.67 BRL
+  Expenses:APyB:Infra
+
+2025-08-11 * "" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
+  comprovante: ""
+  Assets:Bancos:BB  -234.00 BRL
+  Expenses:APyB:Impostos
+
+2025-08-11 * "" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
+  comprovante: ""
+  Assets:Bancos:BB  -14.00 BRL
+  Expenses:APyB:Impostos
+
+2025-08-11 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 11/08/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -14.89 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-08-12 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP"
+  comprovante: "https://drive.google.com/file/d/14Dy5uae6eUTUq1806zIo8ovuKBzfhCGJ/view?usp=sharing"
+  Assets:Bancos:BB  3365.00 * 0.1 BRL
+  Assests:Eventos:Pycerrado2024 3365.00 * 0.9 BRL
+  Income:Eventos:Pycerrado2024
+
+2025-08-13 * "" "TED-PAG FORNECEDORES - 745 0001 22121209000146 STRIPE BRASIL / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.55 BRL
+  Income:APyB:Anuidades
+
+2025-08-13 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2025-08-15 * "Endereço fiscal" "PAGAMENTO DE BOLETO - VILLA URBANA STUDIO CRIATIVO L"
+  comprovante: "https://drive.google.com/file/d/1u_YgpG-Me7fIHeOh9ND1DWuiI2Ui0Ing/view?usp=drive_link"
+  Assets:Bancos:BB  -120.00 BRL
+  Expenses:APyB:Infra
+
+2025-08-15 * "" "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 15/08/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -128.90 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-08-25 * "" "TED-PAG FORNECEDORES - 745 0001 22121209000146 STRIPE BRASIL / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.55 BRL
+  Income:APyB:Anuidades
+
+2025-08-25 * "Patrocínio" "PIX - RECEBIDO - 25/08 11:00 04632856000130 CREDISIS - / DEP"
+  comprovante: "https://drive.google.com/file/d/1ZE7HgZEbfk0n8ORfeiVKxbxeS4l8qJnj/view?usp=drive_link"
+  Assets:Bancos:BB  1458.00 * 0.1 BRL
+  Assets:Eventos:Pybr2025 1458.00 * 0.9 BRL
+  Income:Eventos:Pybr2025
+
+
