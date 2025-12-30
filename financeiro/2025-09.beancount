@@ -1,0 +1,157 @@
+;; -*- mode: beancount -*-
+;; extratos/2025-09-bb.ofx
+
+2025-09-01 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.61 BRL
+  Income:APyB:Anuidades
+
+2025-09-08 * "" "PIX - ENVIADO - 07/09 16:58 THALITA LANUSSE DE MORAIS"
+  comprovante: "https://drive.google.com/file/d/1iULAL2Mfcmrn4N5sCUp4Ib_I2rkLQP2i/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -277.89 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-09-08 * "Reembolso" "PIX - ENVIADO - 07/09 17:02 MARIA FERNANDA SOUZA ANDRA"
+  comprovante: "https://drive.google.com/file/d/1C5WmTBIGcAdpuyYJm1AuHUhIkXSbYdVj/view?usp=drive_link"
+  Assets:Bancos:BB  -1360.99 BRL
+  Expenses:APyB:Ops
+
+2025-09-08 * "Reembolso" "PIX - ENVIADO - 07/09 17:04 MARIA FERNANDA SOUZA ANDRA"
+  comprovante: "https://drive.google.com/file/d/1C7lRw4uYRYjqMD4tTR99zo3Xh0nPTxBL/view?usp=drive_link"
+  Assets:Bancos:BB  -1264.13 BRL
+  Expenses:APyB:Ops
+
+2025-09-08 * "Reembolso" "PIX - ENVIADO - 07/09 17:07 ANA CECILIA VIEIRA SILVA"
+  comprovante: "https://drive.google.com/file/d/1R9LEj8vToWrgbXU9RjwW2rbQFNIarCcn/view?usp=drive_link"
+  Assets:Bancos:BB  -129.10 BRL
+  Expenses:APyB:Infra
+
+2025-09-08 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 08/09/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -24.02 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-09-10 * "" "TED-PAG FORNECEDORES - 745 0001 22121209000146 STRIPE BRASIL / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  120.65 BRL
+  Income:APyB:Anuidades
+
+2025-09-12 * "" "TED-PAG FORNECEDORES - 745 0001 22121209000146 STRIPE BRASIL / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.55 BRL
+  Income:APyB:Anuidades
+
+2025-09-12 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  175.09 BRL
+  Income:APyB:Anuidades
+
+2025-09-15 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2025-09-15 * "Local" "PAGAMENTO DE BOLETO - ASSOCIACAO NOBREGA DE EDUCACAO E ASSIS"
+  comprovante: "https://drive.google.com/file/d/1Fu-aGIGYCV3pmn53gqSUvzIV2D9DR2aU/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -90900.00 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-09-15 * "Endereço fiscal" "PAGAMENTO DE BOLETO - VILLA URBANA STUDIO CRIATIVO L"
+  comprovante: "https://drive.google.com/file/d/1Cic4Rm6hxQCnOAIz0NLagAWvjfeT6Tjw/view?usp=drive_link"
+  Assets:Bancos:BB  -120.00 BRL
+  Expenses:APyB:Infra
+
+2025-09-15 * "" "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 15/09/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -139.20 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-09-16 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  59.72 BRL
+  Income:APyB:Anuidades
+
+2025-09-17 * "" "TED-PAG FORNECEDORES - 745 0001 22121209000146 STRIPE BRASIL / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  28.10 BRL
+  Income:APyB:Anuidades
+
+2025-09-18 * "Patrocínio" "TED-PAG FORNECEDORES - 745 0001 50598198000125 ELASTIC TECHNO / DEP"
+  comprovante: "https://drive.google.com/file/d/1ag8KMfnlmTLrl9LJWBFaVKJD-PVB5Ley/view?usp=drive_link"
+  Assets:Bancos:BB  40000.00 * 0.1 BRL
+  Assets:Eventos:Pybr2025 40000.00 * 0.9 BRL
+  Income:Eventos:Pybr2025
+
+2025-09-18 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2025-09-19 * "Brindes" "PIX - ENVIADO - 19/09 09:21 NERD STICKERS   PRODUCAO"
+  comprovante: "https://drive.google.com/file/d/1yzstmWvT4MXLP6jd3LBlE4JLXygmwGRf/view?usp=drive_link"
+  Assets:Bancos:BB  -456.00 BRL
+  Expenses:APyB:Ops 
+
+2025-09-19 * "Brindes" "PIX - ENVIADO - 19/09 09:23 CASA DAS PLACAS"
+  comprovante: "https://drive.google.com/file/d/1hKtGCYl0lEyUgQSjh3gXPseV31APJDfM/view?usp=drive_link"
+  Assets:Bancos:BB  -270.00 BRL
+  Expenses:APyB:PremioDTJF
+
+2025-09-19 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 19/09/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -7.18 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-09-22 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.84 BRL
+  Income:APyB:Anuidades
+
+2025-09-23 * "Ingressos" "PIX - RECEBIDO - 23/09 13:47 48496171000180 BEEMON TECN / DEP"
+  comprovante: "https://drive.google.com/file/d/12I65xx-1tCcKHEn5DMNdKUDmc8uqL5ZO/view?usp=drive_link"
+  Assets:Bancos:BB  675.00 * 0.1 BRL
+  Assets:Eventos:Pybr2025 675.00 * 0.9 BRL
+  Income:Eventos:Pybr2025
+
+2025-09-23 * "" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
+  comprovante: ""
+  Assets:Bancos:BB  -54.43 BRL
+  Expenses:APyB:Impostos
+
+2025-09-23 * "Assessoria contábil" "PIX - ENVIADO - 23/09 19:22 ATUALE ASSESSORIA CONTABI"
+  comprovante: "https://drive.google.com/file/d/1lXyF-2bhsNSQIC7VTlPzGMtbn4L_PAtr/view?usp=drive_link"
+  Assets:Bancos:BB  -265.00 BRL
+  Expenses:APyB:Contadora
+
+2025-09-23 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 23/09/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -2.62 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-09-24 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2025-09-26 * "Patrocínio" "PIX - RECEBIDO - 26/09 17:37 43131178000184 SHAPE BRASI / DEP"
+  comprovante: "https://drive.google.com/file/d/18qZDzRhjgl2oXZlPCa-tLnHt0Xi_DMqJ/view?usp=drive_link"
+  Assets:Bancos:BB  12975.00 * 0.1 BRL
+  Assets:Eventos:Pybr2025 12975.00 * 0.9 BRL
+  Income:Eventos:Pybr2025
+
+2025-09-29 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  182.96 BRL
+  Income:APyB:Anuidades
+
+2025-09-29 * "Audiovisual" "PIX - ENVIADO - 29/09 07:33 MAÍRA DE OLIVEIRA NAMORAT"
+  comprovante: "https://drive.google.com/file/d/1jp4r0Ym4SK1G8278FcYz6dfWZwk3L1XB/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -6500.00 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-09-29 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 29/09/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+
