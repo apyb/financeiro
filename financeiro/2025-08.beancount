@@ -54,7 +54,7 @@
 2025-08-12 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP"
   comprovante: "https://drive.google.com/file/d/14Dy5uae6eUTUq1806zIo8ovuKBzfhCGJ/view?usp=sharing"
   Assets:Bancos:BB  3365.00 * 0.1 BRL
-  Assests:Eventos:Pycerrado2024 3365.00 * 0.9 BRL
+  Assets:Eventos:Pycerrado2024 3365.00 * 0.9 BRL
   Income:Eventos:Pycerrado2024
 
 2025-08-13 * "" "TED-PAG FORNECEDORES - 745 0001 22121209000146 STRIPE BRASIL / DEP"

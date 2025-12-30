@@ -76,9 +76,9 @@ option "operating_currency" "BRL"
 2024-08-01 open Assets:Eventos:Pycerrado2024 BRL
 2024-08-01 open Income:Eventos:Pycerrado2024 BRL
 2024-08-01 open Expenses:Eventos:Pycerrado2024 BRL
-2025-05-25 close Assets:Eventos:Pycerrado2024
-2025-05-25 close Income:Eventos:Pycerrado2024
-2025-05-25 close Expenses:Eventos:Pycerrado2024
+2025-12-30 close Assets:Eventos:Pycerrado2024
+2025-12-30 close Income:Eventos:Pycerrado2024
+2025-12-30 close Expenses:Eventos:Pycerrado2024
 
 ; Python Nordeste 2020
 2020-02-20 open Assets:Eventos:Pyne2020 BRL
