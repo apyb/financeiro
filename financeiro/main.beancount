@@ -228,6 +228,8 @@ option "operating_currency" "BRL"
 2024-01-01 close Assets:FundoInclusão:Pybr2023
 ; Python Brasil 2024
 2024-01-01 open Assets:FundoInclusão:Pybr2024 BRL
+2025-10-01 open Expenses:FundoInclusão:Pybr2024 BRL
+2025-10-01 open Income:FundoInclusão:Pybr2024 BRL
 
 ; Comunidades ==========================================================
 ; PyLadies Brasil
@@ -311,3 +313,4 @@ include "2025-06.beancount"
 include "2025-07.beancount"
 include "2025-08.beancount"
 include "2025-09.beancount"
+include "2025-10.beancount"
