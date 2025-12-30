@@ -21,11 +21,11 @@
   Assets:Bancos:BB  1007.46 BRL
   Assets:Bancos:PagSeguro
 
-;2025-06-05 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP" ;nao-identificado
-;  comprovante: ""
-;  Assets:Bancos:BB  12262.10 * 0.1 BRL
-;  Assets:Eventos:  12262.10 * 0.9 BRL
-;  Income:Eventos:
+2025-06-05 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP"
+  comprovante: "https://drive.google.com/file/d/1KlrnFho0yuIk72882n3Feg-8RkesF1NF/view?usp=sharing"
+  Assets:Bancos:BB  12262.10 * 0.1 BRL
+  Assets:Eventos:Pyse2025  12262.10 * 0.9 BRL
+  Income:Eventos:Pyse2025
 
 2025-06-11 * "Patrocínio" "PIX - RECEBIDO - 11/06 08:01 19259743000109 VINTA SOFTW / DEP"
   comprovante: "https://drive.google.com/file/d/1t61vPRZe0EwUG5_8sUrzsFyscg2zTnt4/view?usp=drive_link"
@@ -265,11 +265,11 @@
   Assets:Bancos:BB  -33.46 BRL
   Expenses:APyB:Taxas:BB
 
-;2025-06-26 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP" ;nao-identificado
-;  comprovante: ""
-;  Assets:Bancos:BB  12714.80 * 0.1 BRL
-;  Assets:Eventos:  12714.80 * 0.9 BRL
-;  Income:Eventos:
+2025-06-26 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP"
+  comprovante: "https://drive.google.com/file/d/1ML4oYYGOxIkfOvGQ9awz60qs2WLRG_ho/view?usp=sharing"
+  Assets:Bancos:BB  12714.80 * 0.1 BRL
+  Assets:Eventos:Caipyra2025  12714.80 * 0.9 BRL
+  Income:Eventos:Caipyra2025
 
 2025-06-30 * "Brinde" "PIX - ENVIADO - 30/06 09:06 PAPEL DA AMAZONIA LTDA"
   comprovante: "https://drive.google.com/file/d/1rT68zEKrX8LGkYkTcgSbYsLtDIZuMQPe/view?usp=drive_link"
