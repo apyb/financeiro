@@ -71,6 +71,10 @@ option "operating_currency" "BRL"
 2025-05-21 open Assets:Eventos:Caipyra2025 BRL
 2025-05-21 open Income:Eventos:Caipyra2025 BRL
 2025-05-21 open Expenses:Eventos:Caipyra2025 BRL
+; Caipyra 2026
+2025-10-01 open Assets:Eventos:Caipyra2026 BRL
+2025-10-01 open Income:Eventos:Caipyra2026 BRL
+2025-10-01 open Expenses:Eventos:Caipyra2026 BRL
 
 ; Python Cerrado 2024
 2024-08-01 open Assets:Eventos:Pycerrado2024 BRL
@@ -228,6 +232,10 @@ option "operating_currency" "BRL"
 2024-01-01 close Assets:FundoInclusão:Pybr2023
 ; Python Brasil 2024
 2024-01-01 open Assets:FundoInclusão:Pybr2024 BRL
+; Python Brasil 2025
+2025-01-01 open Assets:FundoInclusão:Pybr2025 BRL
+2025-10-01 open Expenses:FundoInclusão:Pybr2025 BRL
+2025-10-01 open Income:FundoInclusão:Pybr2025 BRL
 
 ; Comunidades ==========================================================
 ; PyLadies Brasil
@@ -311,3 +319,4 @@ include "2025-06.beancount"
 include "2025-07.beancount"
 include "2025-08.beancount"
 include "2025-09.beancount"
+include "2025-10.beancount"
