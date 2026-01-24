@@ -65,7 +65,15 @@
     Assets:FundoInclusão:Pybr2024 10031.40 * 0.5 BRL
     Assets:Eventos:Pyse2024
 
+2025-06-01 * "Transferência de caixa fundo inclusão pybr2024 para fundo inclusão pybr2025"
+    Assets:FundoInclusão:Pybr2025  77342.57 BRL
+    Assets:FundoInclusão:Pybr2024
+
 2025-12-30 * "Fechamento do caixa Pycerrado2024"
     Assets:Bancos:BB 7135.26 * 0.5 BRL
-    Assets:FundoInclusão:Pybr2024 7135.26 * 0.5 BRL
+    Assets:FundoInclusão:Pybr2025 7135.26 * 0.5 BRL
     Assets:Eventos:Pycerrado2024
+
+2025-12-30 * "Transferência de caixa fundo inclusão pybr2025 para fundo inclusão pybr2026"
+    Assets:FundoInclusão:Pybr2026  44657.96 BRL
+    Assets:FundoInclusão:Pybr2025     
