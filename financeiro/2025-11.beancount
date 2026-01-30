@@ -1,0 +1,304 @@
+;; -*- mode: beancount -*-
+;; extratos/2025-11-bb.ofx
+
+2025-11-03 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP"
+  comprovante: "https://drive.google.com/file/d/1N4-UVMhXG7nKsQwFOI9_wH2lmSv6LRbH/view?usp=drive_link"
+  Assets:Bancos:BB  60.00 * 0.1 BRL
+  Assets:Eventos:Caipyra2026 60.00 * 0.9 BRL
+  Income:Eventos:Caipyra2026
+
+2025-11-03 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  122.12 BRL
+  Income:APyB:Anuidades
+
+2025-11-04 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP"
+  comprovante: "https://drive.google.com/file/d/1C1yq4Y39A47aGbaCwhrp9ILk1uH8jYYn/view?usp=drive_link"
+  Assets:Bancos:BB  540.00 * 0.1 BRL
+  Assets:Eventos:Caipyra2026 540.00 * 0.9 BRL
+  Income:Eventos:Caipyra2026
+
+2025-11-04 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP"
+  comprovante: "https://drive.google.com/file/d/1wfH9Pk8o8D1yMumZgNYInmXSJU3bVKBp/view?usp=drive_link"
+  Assets:Bancos:BB  1975.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 1975.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2025-11-04 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP"
+  comprovante: "https://drive.google.com/file/d/11wpZhSEeOs93THi6qjr-5Q0WvKaBUSdD/view?usp=drive_link"
+  Assets:Bancos:BB  467.50 * 0.1 BRL
+  Assets:Eventos:Pybr2026 467.50 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2025-11-04 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP"
+  comprovante: "https://drive.google.com/file/d/1N4-UVMhXG7nKsQwFOI9_wH2lmSv6LRbH/view?usp=drive_link"
+  Assets:Bancos:BB  60.00 * 0.1 BRL
+  Assets:Eventos:Caipyra2026 60.00 * 0.9 BRL
+  Income:Eventos:Caipyra2026
+
+2025-11-04 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP"
+  comprovante: "https://drive.google.com/file/d/1eLgAliUF6n8FLY0yhIfZ6bsDS6AHgBeE/view?usp=drive_link"
+  Assets:Bancos:BB  217.50 * 0.1 BRL
+  Assets:Eventos:Pybr2026 217.50 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2025-11-04 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  30.33 BRL
+  Income:APyB:Anuidades
+
+2025-11-05 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP"
+  comprovante: "https://drive.google.com/file/d/1oLQAjVzVsMCQ2EWL80uMiwnKX4jHVxox/view?usp=drive_link"
+  Assets:Bancos:BB  720.00 * 0.1 BRL
+  Assets:Eventos:Caipyra2026 720.00 * 0.9 BRL
+  Income:Eventos:Caipyra2026
+
+2025-11-05 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  30.22 BRL
+  Income:APyB:Anuidades
+
+2025-11-06 * "" "TED-PAG FORNECEDORES - 745 0001 22121209000146 STRIPE BRASIL / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.55 BRL
+  Income:APyB:Anuidades
+
+2025-11-06 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  111.82 BRL
+  Income:APyB:Anuidades
+
+2025-11-06 * "Reembolso" "PIX - ENVIADO - 06/11 11:47 MARIA ANTÔNIA DE AZEVEDO"
+  comprovante: "https://drive.google.com/file/d/1FehJXeUFvlU-cbLvJhpMaDaqulfQB7kz/view?usp=drive_link"
+  Assets:Eventos:Pybr2026  -36.40 BRL
+  Expenses:Eventos:Pybr2026
+
+2025-11-06 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 06/11/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -1.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-11-07 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP"
+  comprovante: "https://drive.google.com/file/d/1dvwSVaoLelOVAX07aXRok12Si9kk5YS4/view?usp=drive_link"
+  Assets:Bancos:BB  300.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 300.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2025-11-10 * "Patrocínio" "PIX - RECEBIDO - 10/11 14:57 58551185000102 NOVATEC EDI / DEP"
+  comprovante: "https://docs.google.com/file/d/1YbRkI1YssE6dROtXgXjMZ48L9O3IKq1n/preview"
+  Assets:Bancos:BB 1429.52 * 0.1 BRL
+  Assets:Eventos:Pybr2025  1429.52 * 0.9 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-11-10 * "Reembolso" "PIX - ENVIADO - 10/11 11:30 IZABELA CRISTINA NERE ROD"
+  comprovante: "https://drive.google.com/file/d/1wBg-OiuKF-YewnlmEzo1lIT1CEhe4gc2/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -1620.00 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-11-10 * "Reembolso" "PIX - ENVIADO - 10/11 11:33 IZABELA CRISTINA NERE ROD"
+  comprovante: "https://drive.google.com/file/d/1YPUIG_IsAp6z-sMrK6d0uyBhfArUIlhu/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -2697.00 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-11-10 * "Reembolso" "PIX - ENVIADO - 10/11 11:37 IZABELA CRISTINA NERE ROD"
+  comprovante: "https://drive.google.com/file/d/1CS5tZkrFNrUhz98E7KVwqiO_IFDh_jvN/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -3146.50 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-11-10 * "Reembolso" "PIX - ENVIADO - 10/11 11:39 IZABELA CRISTINA NERE ROD"
+  comprovante: "https://drive.google.com/file/d/1gzqV1-Bg22O2d9k23eK0R-Yv03uC3H0u/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -1463.44 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-11-10 * "Reembolso" "PIX - ENVIADO - 10/11 11:45 WENDEL DONIZETTI DE SIQUE"
+  comprovante: "https://drive.google.com/file/d/1TpIhbzURB8DyzgZx4F2uNB9qehEw63t5/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -324.00 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-11-10 * "Reembolso" "PIX - ENVIADO - 10/11 11:47 ANA PAULA DA SILVA MENDES"
+  comprovante: "https://drive.google.com/file/d/1IJJw6DHF7G4MK7ksRRgMZTOhbpRnfe0i/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -324.00 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-11-10 * "Reembolso" "PIX - ENVIADO - 10/11 11:48 LEONARDO TAVARES DE MELLO"
+  comprovante: "https://drive.google.com/file/d/1kq52U3riZWSD9B_iB_0TXvPqL7OpIEBm/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -203.00 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-11-10 * "Reembolso" "PIX - ENVIADO - 10/11 11:50 THAIS RAYANE GOMES DA SIL"
+  comprovante: "https://drive.google.com/file/d/1lTZNZgIH1Jgx9nPd1GGa88wMzqfZJl0O/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -162.00 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-11-10 * "Infraestrutura" "PIX - ENVIADO - 10/11 11:52 MORAIS EVENTOS"
+  comprovante: "https://drive.google.com/file/d/12n8pGbqf30Kq0lxhwbFYzk6FLpthqY5t/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -17920.00 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-11-10 * "Reembolso" "PIX - ENVIADO - 10/11 11:54 BEATRIZ MILZ"
+  comprovante: "https://drive.google.com/file/d/1ELl9VTZfGamdiZa2YELnOda8mlM06MdW/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -378.00 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-11-10 * "Reembolso" "PIX - ENVIADO - 10/11 12:03 GREGORIO TREVIZAN LIXANDR"
+  comprovante: "https://drive.google.com/file/d/1Zy8Zy4fASOx2quYK1Vi5-S1D81wQnC2i/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -162.00 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-11-10 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 10/11/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -63.74 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-11-11 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.61 BRL
+  Income:APyB:Anuidades
+
+2025-11-12 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP"
+  comprovante: "https://drive.google.com/file/d/1kUYcqHn7Zyvo-dEBAowtL_i3V52Jfajx/view?usp=drive_link"
+  Assets:Bancos:BB  300.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 300.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2025-11-14 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP"
+  comprovante: "https://drive.google.com/file/d/1GC6RJ29pR0YL0XJZEcp4sz6JSz-qDwX2/view?usp=drive_link"
+  Assets:Bancos:BB  550.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 550.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2025-11-17 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP"
+  comprovante: "https://drive.google.com/file/d/1GEJCuw-rIFiAmZPW6P6kXINNl_0gRyQZ/view?usp=drive_link"
+  Assets:Bancos:BB  150.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 150.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2025-11-17 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  244.24 BRL
+  Income:APyB:Anuidades
+
+2025-11-17 * "Infraestrutura" "PAGAMENTO DE BOLETO - ANDAIMETAL LOCACAO E COMERCIO"
+  comprovante: "https://drive.google.com/file/d/13ZUDdFfflw2_FQE-k7eRdcTppuhljwZC/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -760.00 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-11-17 * "Domicílio fiscal" "PAGAMENTO DE BOLETO - VILLA URBANA STUDIO CRIATIVO L"
+  comprovante: "https://drive.google.com/file/d/1rr7heDU4lJX3SCLnr6MYw4EvUzMsBhLT/view?usp=drive_link"
+  Assets:Bancos:BB  -120.00 BRL
+  Expenses:APyB:Infra
+
+2025-11-17 * "" "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 17/11/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -139.20 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-11-18 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  121.67 BRL
+  Income:APyB:Anuidades
+
+2025-11-18 * "" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
+  comprovante: "https://drive.google.com/file/d/1heCweDuj48we_quAJ0ASXqvmybeSmFM7/view?usp=drive_link"
+  Assets:Bancos:BB  -1084.64 BRL
+  Expenses:APyB:Impostos
+
+2025-11-19 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  183.18 BRL
+  Income:APyB:Anuidades
+
+2025-11-21 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  183.18 BRL
+  Income:APyB:Anuidades
+
+2025-11-21 * "Reembolso" "PIX - ENVIADO - 21/11 11:22 MATHEUS DA SILVA SANTOS F"
+  comprovante: "https://drive.google.com/file/d/1FKmcQfMXR6aeovSXcwB2zwDkq2_N_qnM/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -150.00 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-11-21 * "Reembolso" "PIX - ENVIADO - 21/11 11:27 JOÃO RAFAEL MARTINS DE OL"
+  comprovante: "https://drive.google.com/file/d/127B8TuOeijZMweAKhhmKORpq35QnlFC4/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -486.00 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-11-21 * "Reembolso" "PIX - ENVIADO - 21/11 11:32 MOISES MAIA GOMES"
+  comprovante: "https://drive.google.com/file/d/1JgCTlNF_7kaz1ip8-pjUkJMeFeROwpJn/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -522.00 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-11-21 * "Reembolso" "PIX - ENVIADO - 21/11 11:35 JULIANA DE FREITAS CAIADO"
+  comprovante: "https://drive.google.com/file/d/1QTlBYunKOgaGCFjz9inWOVGdMedzNkxI/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -324.00 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-11-21 * "Reembolso" "PIX - ENVIADO - 21/11 11:37 RONALD THEODORO NASCIMENT"
+  comprovante: "https://drive.google.com/file/d/1Lvb83Nxqi2IAZ_3j8m2nn_WYSvoAa7_X/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -162.00 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-11-21 * "Reembolso" "PIX - ENVIADO - 21/11 11:43 SILVIO HENRIQUE FLEMING"
+  comprovante: "https://drive.google.com/file/d/1KlygHXPqZ4rlNfG_uKvfdz40BJ1ur3_R/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -324.00 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-11-21 * "Assessoria contábil" "PIX - ENVIADO - 21/11 11:45 ATUALE ASSESSORIA CONTABI"
+  comprovante: "https://drive.google.com/file/d/1ucyrQB2XBBbGiWGI2vM7bfIlzjGKVvNx/view?usp=drive_link"
+  Assets:Bancos:BB  -265.00 BRL
+  Expenses:APyB:Contadora
+
+2025-11-21 * "Reembolso" "PIX - ENVIADO - 21/11 11:47 OTAVIO MORAIS DE ALMEIDA"
+  comprovante: "https://drive.google.com/file/d/17KH6o6oh5SpISsu_UOrzNSb-pHhGBImh/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -243.00 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-11-21 * "Reembolso" "PIX - ENVIADO - 21/11 11:52 ANA DULCE PADOVAN TORRES"
+  comprovante: "https://drive.google.com/file/d/1NgQi18JNH_W55tH_jBYaR5n4fST0rvkU/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -2196.00 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-11-21 * "" "TARIFA PIX ENVIADO - TAR. AGRUPADAS - OCORRENCIA 21/11/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -34.47 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-11-24 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  244.24 BRL
+  Income:APyB:Anuidades
+
+2025-11-25 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP"
+  comprovante: "https://drive.google.com/file/d/1ln_aw2sykxkUGHZ7ZcMj96Q8JxcAdwSK/view?usp=drive_link"
+  Assets:Bancos:BB  150.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 150.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2025-11-25 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP"
+  comprovante: "https://drive.google.com/file/d/1ZNgVhH5bc-2c07WlaDkEEn_2DwPXKEBD/view?usp=drive_link"
+  Assets:Bancos:BB  255.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 255.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2025-11-25 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  366.36 BRL
+  Income:APyB:Anuidades
+
+2025-11-26 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  182.28 BRL
+  Income:APyB:Anuidades
+
+2025-11-27 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP"
+  comprovante: "https://drive.google.com/file/d/1aNJJ4mMw-aO4j4nzkKa65y42-C1LVkNQ/view?usp=drive_link"
+  Assets:Bancos:BB  340.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 340.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2025-11-27 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  305.30 BRL
+  Income:APyB:Anuidades
+
+
