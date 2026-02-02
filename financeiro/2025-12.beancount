@@ -1,0 +1,97 @@
+;; -*- mode: beancount -*-
+;; extratos/2025-12-bb.ofx
+
+2025-12-01 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  976.51 BRL
+  Income:APyB:Anuidades
+
+2025-12-02 * "Ingressos" "TED-PAG FORNECEDORES - 376 0001 15913672000165 EVENTBRITE BRA / DEP"
+  comprovante: "https://drive.google.com/file/d/1hpZsBqokxGoIo2ysTI6SXHiVD3-cODn9/view?usp=drive_link"
+  Assets:Bancos:BB  400.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 400.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2025-12-08 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  56.13 BRL
+  Income:APyB:Anuidades
+
+2025-12-15 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.61 BRL
+  Income:APyB:Anuidades
+
+2025-12-15 * "Limpeza" "PAGAMENTO DE BOLETO - VIKINGS SISTEMAS DE LIMPEZA LTDA"
+  comprovante: "https://drive.google.com/file/d/1xm2gCycHHd0hMHBspXILLqXAC6yQfMtZ/view?usp=sharing"
+  Assets:Eventos:Pybr2025  -4251.18 BRL
+  Income:Eventos:Pybr2025
+
+2025-12-15 * "" "TARIFA PACOTE DE SERVIÇOS - COBRANÇA REFERENTE 15/12/2025"
+  comprovante: ""
+  Assets:Bancos:BB  -139.20 BRL
+  Expenses:APyB:Taxas:BB
+
+2025-12-16 * "" "TED-PAG FORNECEDORES - 745 0001 22121209000146 STRIPE BRASIL / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.10 BRL
+  Income:APyB:Anuidades
+
+2025-12-19 * "Domicílio fiscal" "PAGAMENTO DE BOLETO - VILLA URBANA STUDIO CRIATIVO L"
+  comprovante: "https://drive.google.com/file/d/1plgGZxHXx7NNoii22zKpeF71hjW_QY9c/view?usp=drive_link"
+  Assets:Bancos:BB  -142.50 BRL
+  Expenses:APyB:Infra
+
+2025-12-19 * "Assessoria contábil" "PIX - ENVIADO - 19/12 17:59 ATUALE ASSESSORIA CONTABI"
+  comprovante: "https://drive.google.com/file/d/1YzDo7BE08HipIXCB4Q9VTV_HcxEVBOvE/view?usp=drive_link"
+  Assets:Bancos:BB  -265.00 BRL
+  Expenses:APyB:Infra
+
+2025-12-19 * "" "IMPOSTOS - PREF MUN CAXIAS DO SUL"
+  comprovante: ""
+  Assets:Bancos:BB  -194.55 BRL
+  Expenses:APyB:Impostos
+
+2025-12-19 * "Designer" "PIX - ENVIADO - 19/12 18:43 ANA CAROLINA TERHORST"
+  comprovante: "https://drive.google.com/file/d/1wBsgffsm08qPfUUuHO2fjZs9TymYLvDK/view?usp=drive_link"
+  Assets:Eventos:Pybr2026  -1120.00 BRL
+  Expenses:Eventos:Pybr2026
+
+2025-12-22 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2025-12-22 * "Patrocínio" "PIX - RECEBIDO - 20/12 14:19 28363530000113 ALVARO FERN / DEP"
+  comprovante: "https://docs.google.com/file/d/1WAIqYx5x8OD81dbd1z1J1FYquGmI-ZfW/preview"
+  Assets:Bancos:BB  30000.00 * 0.1 BRL
+  Assets:Eventos:Pybr2025 30000.00 * 0.9 BRL
+  Income:Eventos:Pybr2025
+
+2025-12-22 * "Reembolso" "TED TRANSF.ELETR.DISPONIV - 260 0001 22986074863 JOAO VICTOR GONCA"
+  comprovante: "https://drive.google.com/file/d/1U17A2n4sikF_EjSdcK10thhMS2vh0igP/view?usp=drive_link"
+  Assets:Eventos:Pybr2025  -324.00 BRL
+  Expenses:Eventos:Pybr2025
+
+2025-12-23 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2025-12-26 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  60.61 BRL
+  Income:APyB:Anuidades
+
+2025-12-30 * "" "STRIPE CRÉDITO / DEP"
+  comprovante: ""
+  Assets:Bancos:BB  671.66 BRL
+  Income:APyB:Anuidades
+
+2025-12-30 * "Patrocínio" "PIX - RECEBIDO - 30/12 02:01 23399607000191 CERC SA / DEP"
+  comprovante: "https://docs.google.com/file/d/1oOO20YoyWGUxYF290g_wbFt5aXf_yxk2/preview"
+  Assets:Bancos:BB  25000.00 * 0.1 BRL
+  Assets:Eventos:Pybr2025 25000.00 * 0.9 BRL
+  Income:Eventos:Pybr2025
+
+
