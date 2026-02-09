@@ -16,7 +16,7 @@ $ poetry run fava financeiro/main.beancount
 
 ### Como adicionar um novo extrato mensal (apenas BB)?
 - [ ] Salve o arquivo do extrato no formato `.ofx` na pasta `extratos/`. Use o formato `<ano>-<mês>-bb.ofx` como nome do arquivo (exemplo: `extratos/2022-08-bb.ofx`).
-- [ ] Criei um novo arquivo `.beancount` a partir do extrato com o comando abaixo (exemplo: `2022-08-bb.ofx -> 2022-08.beancount`:
+- [ ] Crie um novo arquivo `.beancount` a partir do extrato com o comando abaixo (exemplo: `2022-08-bb.ofx -> 2022-08.beancount`:
   ```
   $ poetry run bean-extract config.py extratos/2022-08-bb.ofx > financeiro/2022-08.beancount
   ```
