@@ -1,0 +1,101 @@
+;; -*- mode: beancount -*-
+;; extratos/2026-01-bb.ofx
+
+2026-01-02 * "Reembolso" "AWS - Pix - Enviado / 02/01 16:46 ANA CECILIA VIEIRA SILVA"
+  comprovante: "https://drive.google.com/file/d/1aHGAlX_w0spfpQXdsJgdoHhzJGKyYUBm/view?usp=drive_link"
+  Assets:Bancos:BB  -66.82 BRL
+  Expenses:APyB:Ops
+
+2026-01-02 * "Tarifa Pix Enviado / Tar. agrupadas - ocorrencia 02/01/2026"
+  comprovante: ""
+  Assets:Bancos:BB  -1.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-01-05 * "Stripe Crédito"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2026-01-09 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/1ykpBEy9vc3IiFG3THgnLgR-IK95rqM7p/view?usp=drive_link"
+  Assets:Bancos:BB  80.00 * 0.1 BRL
+  Assets:Eventos:Caipyra2026 80 * 0.9 BRL
+  Income:Eventos:Caipyra2026
+
+2026-01-14 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/1uVlY5UsHCqcEZ7PRHn_bs_KT8GnEnOXO/view?usp=drive_link"
+  Assets:Bancos:BB  750.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 750 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-01-15 * "Tarifa Pacote de Serviços / Cobrança referente 15/01/2026"
+  comprovante: ""
+  Assets:Bancos:BB  -139.20 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-01-16 * "Domicílio fiscal" "Pagamento de Boleto / VILLA URBANA STUDIO CRIATIVO L"
+  comprovante: "https://drive.google.com/file/d/1J3HMbmcz9AeygwR-DC5m4b-961EasMDu/view?usp=drive_link"
+  Assets:Bancos:BB  -138.75 BRL
+  Expenses:APyB:Infra
+
+2026-01-16 * "Pix - Enviado / 16/01 14:25 ANA CECILIA VIEIRA SILVA"
+  comprovante: "https://drive.google.com/file/d/17IFAw-TgzG2Mj1Ckj1bu-Z0yEhtbeK4u/view?usp=drive_link"
+  Assets:Bancos:BB  -129.94 BRL
+  Expenses:APyB:Ops
+
+2026-01-16 * "Pagamento de Impostos / RFB-DARF CODIGO DE BARRAS"
+  comprovante: "https://drive.google.com/file/d/10F7yjBwsu2eiGrqxD-9wzhs-5fVhEBa6/view?usp=drive_link"
+  Assets:Bancos:BB  -243.00 BRL
+  Expenses:APyB:Impostos
+
+2026-01-16 * "Pix - Enviado / 16/01 14:31 ATUALE ASSESSORIA CONTABI"
+  comprovante: "https://drive.google.com/file/d/1nXNDvcTuSgxggRbuoLSYwLUQoQ5zs2ho/view?usp=drive_link"
+  Assets:Bancos:BB  -265.00 BRL
+  Expenses:APyB:Contadora
+
+2026-01-16 * "Pagamento de Impostos / PREF MUN CAXIAS DO SUL"
+  comprovante: "https://drive.google.com/file/d/1ZuaJcKQ8Pz0TWaSqKMjez6GhlNDiL_Sj/view?usp=drive_link"
+  Assets:Bancos:BB  -1257.42 BRL
+  Expenses:APyB:Impostos
+
+2026-01-16 * "Pagamento de Impostos / PREF MUN CAXIAS DO SUL"
+  comprovante: "https://drive.google.com/file/d/1ZuaJcKQ8Pz0TWaSqKMjez6GhlNDiL_Sj/view?usp=drive_link"
+  Assets:Bancos:BB  -113.70 BRL
+  Expenses:APyB:Impostos
+
+2026-01-16 * "Tarifa Pix Enviado / Tar. agrupadas - ocorrencia 16/01/2026"
+  comprovante: ""
+  Assets:Bancos:BB  -3.90 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-01-19 * "Stripe Crédito"
+  comprovante: ""
+  Assets:Bancos:BB  59.71 BRL
+  Income:APyB:Anuidades
+
+2026-01-22 * "TED-Pag Fornecedores / 745 0001 22121209000146 STRIPE BRASIL"
+  comprovante: ""
+  Assets:Bancos:BB  60.55 BRL
+  Income:APyB:Anuidades
+
+2026-01-26 * "Tarifa Renovação Cadastro / Cobrança referente 05/01/2026"
+  comprovante: ""
+  Assets:Bancos:BB  -66.20 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-01-27 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/1jWcZNluNPDr8u_1KMIMn_wMeISkPstWN/view?usp=drive_link"
+  Assets:Bancos:BB  300.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 300 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-01-28 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/1bU7dDTCxJs5Fl08h4h8lJoH9sR7qnCw7/view?usp=drive_link"
+  Assets:Bancos:BB  300.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 300 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-01-28 * "Pix - Recebido / 28/01 09:19 10878448000166 PAYPAL DO B"
+  comprovante: "https://drive.google.com/file/d/1QSFJL9Vvl8ESsBKi2KaPSNqCGkLFlQJj/view?usp=drive_link"
+  Assets:Bancos:BB  25239.15 BRL
+  Income:APyB:OrigemDesconhecida
