@@ -62,6 +62,9 @@ option "operating_currency" "BRL"
 2024-12-10 open Assets:Eventos:Pybr2025 BRL
 2024-12-10 open Expenses:Eventos:Pybr2025 BRL
 2024-12-10 open Income:Eventos:Pybr2025 BRL
+2025-12-30 close Assets:Eventos:Pybr2025 
+2025-12-30 close Expenses:Eventos:Pybr2025 
+2025-12-30 close Income:Eventos:Pybr2025 
 ; Python Brasil 2026
 2025-05-07 open Assets:Eventos:Pybr2026 BRL
 2025-05-07 open Expenses:Eventos:Pybr2026 BRL
@@ -71,6 +74,9 @@ option "operating_currency" "BRL"
 2025-05-21 open Assets:Eventos:Caipyra2025 BRL
 2025-05-21 open Income:Eventos:Caipyra2025 BRL
 2025-05-21 open Expenses:Eventos:Caipyra2025 BRL
+2025-12-30 close Assets:Eventos:Caipyra2025 
+2025-12-30 close Income:Eventos:Caipyra2025 
+2025-12-30 close Expenses:Eventos:Caipyra2025 
 ; Caipyra 2026
 2025-10-01 open Assets:Eventos:Caipyra2026 BRL
 2025-10-01 open Income:Eventos:Caipyra2026 BRL
@@ -116,6 +122,9 @@ option "operating_currency" "BRL"
 2024-12-03 open Assets:Eventos:Pyne2025 BRL
 2024-12-03 open Income:Eventos:Pyne2025 BRL
 2024-12-03 open Expenses:Eventos:Pyne2025 BRL
+2025-12-30 close Assets:Eventos:Pyne2025 
+2025-12-30 close Income:Eventos:Pyne2025 
+2025-12-30 close Expenses:Eventos:Pyne2025 
 
 ; Python Norte 2023
 2023-07-07 open Assets:Eventos:Pyn2023 BRL
@@ -135,6 +144,9 @@ option "operating_currency" "BRL"
 2024-05-11 open Assets:Eventos:Pyn2025 BRL
 2024-05-11 open Income:Eventos:Pyn2025 BRL
 2024-05-11 open Expenses:Eventos:Pyn2025 BRL
+2025-12-30 close Assets:Eventos:Pyn2025
+2025-12-30 close Income:Eventos:Pyn2025 
+2025-12-30 close Expenses:Eventos:Pyn2025 
 
 ; Python Sul 2020
 2020-03-05 open Assets:Eventos:Pysul2020 BRL
@@ -167,6 +179,9 @@ option "operating_currency" "BRL"
 2025-04-14 open Assets:Eventos:Pyse2025 BRL
 2025-04-14 open Income:Eventos:Pyse2025 BRL
 2025-04-14 open Expenses:Eventos:Pyse2025 BRL
+2025-12-30 close Assets:Eventos:Pyse2025 
+2025-12-30 close Income:Eventos:Pyse2025 
+2025-12-30 close Expenses:Eventos:Pyse2025 
 
 ; 10º Meetup Grupy-RN
 2022-10-06 open Assets:Eventos:10MeetupGrupyRN BRL
@@ -218,6 +233,9 @@ option "operating_currency" "BRL"
 2025-04-15 open Assets:Eventos:Pyladiesconf2025 BRL
 2025-04-15 open Income:Eventos:Pyladiesconf2025 BRL
 2025-04-15 open Expenses:Eventos:Pyladiesconf2025 BRL
+2025-12-30 close Assets:Eventos:Pyladiesconf2025 
+2025-12-30 close Income:Eventos:Pyladiesconf2025 
+2025-12-30 close Expenses:Eventos:Pyladiesconf2025 
 
 ; Fundos de Inclusão ==========================================================
 ; Python Brasil 2022
@@ -233,9 +251,16 @@ option "operating_currency" "BRL"
 ; Python Brasil 2024
 2024-01-01 open Assets:FundoInclusão:Pybr2024 BRL
 ; Python Brasil 2025
-2025-01-01 open Assets:FundoInclusão:Pybr2025 BRL
-2025-10-01 open Expenses:FundoInclusão:Pybr2025 BRL
-2025-10-01 open Income:FundoInclusão:Pybr2025 BRL
+2025-06-01 open Assets:FundoInclusão:Pybr2025 BRL
+2025-06-01 open Expenses:FundoInclusão:Pybr2025 BRL
+2025-06-01 open Income:FundoInclusão:Pybr2025 BRL
+2025-12-30 close Assets:FundoInclusão:Pybr2025 
+2025-12-30 close Expenses:FundoInclusão:Pybr2025 
+2025-12-30 close Income:FundoInclusão:Pybr2025 
+; Python Brasil 2026
+2025-12-30 open Assets:FundoInclusão:Pybr2026 BRL
+2025-12-30 open Expenses:FundoInclusão:Pybr2026 BRL
+2025-12-30 open Income:FundoInclusão:Pybr2026 BRL
 
 ; Comunidades ==========================================================
 ; PyLadies Brasil
