@@ -1,0 +1,181 @@
+;; -*- mode: beancount -*-
+;; extratos/2026-02-bb.ofx
+
+2026-02-02 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/17_CkyJczFZc8M13QPDCEzkf4bDElELuc/view?usp=drive_link"
+  Assets:Bancos:BB  300.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 300.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-02-02 * "Anuidades" "Stripe Crédito"
+  comprovante: ""
+  Assets:Bancos:BB  60.61 BRL
+  Income:APyB:Anuidades
+
+2026-02-03 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/1eQ3uH_Sk45lRHM9GCYTaLwcv1d-2-bpP/view?usp=drive_link"
+  Assets:Bancos:BB  300.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 300.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-02-03 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/16tdZAp3m7kX3YrXOIeIhNfN4HzQrzkWn/view?usp=drive_link"
+  Assets:Bancos:BB  900.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 900.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-02-03 * "Anuidades" "Stripe Crédito"
+  comprovante: ""
+  Assets:Bancos:BB  60.16 BRL
+  Income:APyB:Anuidades
+
+2026-02-04 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/1CpJmsyen5TaZ3eFMAesZkDUOQQd10jTx/view?usp=drive_link"
+  Assets:Bancos:BB  800.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 800.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-02-05 * "Domicílio fiscal" "Pagamento de Boleto / VILLA URBANA STUDIO CRIATIVO L"
+  comprovante: "https://drive.google.com/file/d/1ziI7W7PXEFMf5h27FUvnYetFyDFQqGfQ/view?usp=drive_link"
+  Assets:Bancos:BB  -125.00 BRL
+  Expenses:APyB:Infra
+
+2026-02-05 * "Local do Evento 2/2" "Pagamento de Boleto / RB HOTELARIA LTDA"
+  comprovante: "https://drive.google.com/file/d/19dyLUObvJdSeQWd9_cbFA3r4W4wGS6nq/view?usp=drive_link"
+  Assets:Eventos:Pybr2026  -32161.67 BRL
+  Expenses:Eventos:Pybr2026
+
+2026-02-06 * "Patrocínio" "Pix - Recebido / 06/02 09:19 10878448000166 PAYPAL DO B"
+  comprovante: "https://drive.google.com/file/d/1_K3sCFAhZYDJJ8mwYSobYTb9Xw9nBb2O/view?usp=drive_link"
+  Assets:Bancos:BB 4650.41 * 0.1 BRL
+  Assets:Eventos:Pyn2026 4650.41 * 0.9 BRL
+  Income:Eventos:Pyn2026
+
+2026-02-09 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/17GAUPjek1VvFW5f_k7LkvIEmM7f1GkkM/view?usp=drive_link"
+  Assets:Bancos:BB  600.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 600.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-02-09 * "Anuidades" "Stripe Crédito"
+  comprovante: ""
+  Assets:Bancos:BB  60.61 BRL
+  Income:APyB:Anuidades
+
+2026-02-10 * "Anuidades" "Stripe Crédito"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2026-02-11 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/1OQvfzFexKLcIbvmHBK4Agrj1DYleru2Y/view?usp=drive_link"
+  Assets:Bancos:BB 300.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 300.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-02-11 * "Designer" "Pix - Enviado / 11/02 09:35 44.498.887 MAIRLEY DA TRI"
+  comprovante: "https://drive.google.com/file/d/1SvphotUQwDCm3p8Y5g2u-hXDBSG05wOm/view?usp=drive_link"
+  Assets:Eventos:Pyn2026  -2555.00 BRL
+  Expenses:Eventos:Pyn2026
+
+2026-02-11 * "Escritório de Contabilidade" "Pix - Enviado / 11/02 18:24 ATUALE ASSESSORIA CONTABI"
+  comprovante: "https://drive.google.com/file/d/13prtWv4x5dtPlcuOmaSJm4ZDkoJ5o1dH/view?usp=drive_link"
+  Assets:Bancos:BB  -285.00 BRL
+  Expenses:APyB:Contadora
+
+2026-02-11 * "Tarifa" "Tarifa Pix Enviado / Tar. agrupadas - ocorrencia 11/02/2026"
+  comprovante: ""
+  Assets:Bancos:BB  -12.82 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-02-13 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/1dcGnOUB0lRcMXjMiBs___PSYw97VDyoK/view?usp=drive_link"
+  Assets:Bancos:BB 300.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 300.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-02-13 * "Taxa Cartório" "Pix - Enviado / 13/02 17:54 ATUALE ASSESSORIA CONTABI"
+  comprovante: "https://drive.google.com/file/d/1QiD0G170hZ1eHp4rppAqMwMt-BXAkKPb/view?usp=drive_link"
+  Assets:Bancos:BB  -272.74 BRL
+  Expenses:APyB:Contadora
+
+2026-02-13 * "Tarifa" "Tarifa Pix Enviado / Tar. agrupadas - ocorrencia 13/02/2026"
+  comprovante: ""
+  Assets:Bancos:BB  -2.70 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-02-18 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/17xJS4E0c_s-aImzmThIelQ_y3y3mDPjE/view?usp=drive_link"
+  Assets:Bancos:BB 450.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 450.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-02-18 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/1QcmzrNcyjM-LHq4KQlXwRYhJWlsvQnAX/view?usp=drive_link"
+  Assets:Bancos:BB 300.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 300.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-02-18 * "Impostos" "Pagamento de Impostos / DARF        - 09.344.485/0001-05 -5440"
+  comprovante: "https://drive.google.com/file/d/1o3sXJiPrXes_jxVbJn7ixnO6J5DLPK6Y/view?usp=drive_link"
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Impostos
+
+2026-02-18 * "Impostos" "Pagamento de Impostos / DARF        - 09.344.485/0001-05 -5440"
+  comprovante: "https://drive.google.com/file/d/1KXHfhebevQdc4Z_pGDmID0PN8-d-CYNb/view?usp=drive_link"
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Impostos
+
+2026-02-18 * "Impostos" "Pix - Enviado / 16/02 17:36 RECEITA FEDERAL"
+  comprovante: "https://drive.google.com/file/d/1fkswPaH6sv1KTkc_nn60y_tP8rKovr-U/view?usp=drive_link"
+  Assets:Bancos:BB  -766.04 BRL
+  Expenses:APyB:Impostos
+
+2026-02-18 * "Impostos" "Pix - Enviado / 16/02 17:41 RECEITA FEDERAL"
+  comprovante: "https://drive.google.com/file/d/1leUOu098W2_cjNOBVv07f2GqS_UYdBKD/view?usp=drive_link"
+  Assets:Bancos:BB  -268.68 BRL
+  Expenses:APyB:Impostos
+
+2026-02-18 * "Tarifa" "Tarifa Pacote de Serviços / Cobrança referente 18/02/2026"
+  comprovante: ""
+  Assets:Bancos:BB  -139.20 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-02-20 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/1SIPPy4zYaTe7V2DpIBsXBbOdjb5zegvd/view?usp=drive_link"
+  Assets:Bancos:BB 300.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 300.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-02-23 * "Anuidades" "TED-Pag Fornecedores / 745 0001 22121209000146 STRIPE BRASIL"
+  comprovante: ""
+  Assets:Bancos:BB  60.55 BRL
+  Income:APyB:Anuidades
+
+2026-02-24 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/1o0xdGt8EQwV0fP4b1OgWfNkUTGAl7Uel/view?usp=drive_link"
+  Assets:Bancos:BB 300.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 300.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-02-24 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/1pjTzFjX8MoJyJfiBywD_nwMYmyfRudKR/view?usp=drive_link"
+  Assets:Bancos:BB 300.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 300.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-02-25 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/1HI5gfjhxg0HHSVBLQmWi9PXMDVI1EuOg/view?usp=drive_link"
+  Assets:Bancos:BB 150.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 150.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-02-26 * "Anuidades" "TED-Pag Fornecedores / 745 0001 22121209000146 STRIPE BRASIL"
+  comprovante: ""
+  Assets:Bancos:BB  60.55 BRL
+  Income:APyB:Anuidades
+
+2026-02-27 * "Patrocínio" "Transferência recebida / 27/02 17:01 SIG SOFTWARE & CONSULTOR"
+  comprovante: "https://drive.google.com/file/d/1j4sxAqvhKq_h8IxuhE770d7HSTMQ-7d-/view?usp=drive_link"
+  Assets:Eventos:Pydatanatal202601 250.00 BRL
+  Income:Eventos:Pydatanatal202601
