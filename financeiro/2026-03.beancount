@@ -1,0 +1,208 @@
+;; -*- mode: beancount -*-
+;; extratos/2026-03-bb.ofx
+
+2026-03-02 * "Ingressos" "Ordem Banc 12 Sec Tes Nac / 003944600117-71 SUPERINTENDENCIA REGIO"
+  comprovante: "https://drive.google.com/file/d/1-I0zH9g_jnq4tmLP24w5RvF9BgCqXzPe/view?usp=drive_link"
+  Assets:Bancos:BB  4500.00 * 0.1 BRL
+  Assets:Eventos:Pybr2025 4500.00 * 0.9 BRL
+  Income:Eventos:Pybr2025
+
+2026-03-02 * "Anuidades" "Stripe Crédito"
+  comprovante: ""
+  Assets:Bancos:BB  180.48 BRL
+  Income:APyB:Anuidades
+
+2026-03-03 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/1_urMZTvAicTxKxbv3ViisoBxM4AVaOY9/view?usp=drive_link"
+  Assets:Bancos:BB 80.00 * 0.1 BRL
+  Assets:Eventos:Caipyra2026 80.00 * 0.9 BRL
+  Income:Eventos:Caipyra2026
+
+2026-03-03 * "Escritório de Contabilidade" "Pix - Enviado / 03/03 14:01 ATUALE ASSESSORIA CONTABI"
+  comprovante: "https://drive.google.com/file/d/1nSghAdkdVbw8ta6SOBwSKp_5YQYQTnFV/view?usp=drive_link"
+  Assets:Bancos:BB  -285.00 BRL
+  Expenses:APyB:Contadora
+
+2026-03-03 * "Tarifa" "Tarifa Pix Enviado / Tar. agrupadas - ocorrencia 03/03/2026"
+  comprovante: ""
+  Assets:Bancos:BB  -2.82 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-03-05 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/1vO3ebYZra6ihgw8CrPZNChEYxzzfRGmF/view?usp=drive_link"
+  Assets:Bancos:BB 450.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 450.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-03-06 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/1wgl3bgY3jO1GZW7ivoJmCX9tIR0B4OFR/view?usp=drive_link"
+  Assets:Bancos:BB 16.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 16.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-03-09 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/1RUOnn_4S_p3_6fO24tddGHtQpcwDIzBc/view?usp=drive_link"
+  Assets:Bancos:BB 300.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 300.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-03-09 * "Anuidades" "Stripe Crédito"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2026-03-09 * "Impostos" "Pix - Enviado / 09/03 16:44 RECEITA FEDERAL"
+  comprovante: "https://drive.google.com/file/d/162XI5IyOLVrHa6kGQ4cCmFKMM6eBbmnu/view?usp=drive_link"
+  Assets:Bancos:BB  -2142.66 BRL
+  Expenses:APyB:Impostos
+
+2026-03-09 * "Impostos" "Pagamento de Impostos / PREF MUN CAXIAS DO SUL"
+  comprovante: "https://drive.google.com/file/d/1lMpBWm0UFNcRQLhiuzUqVqC8Tk7sUVeX/view?usp=drive_link"
+  Assets:Bancos:BB  -190.00 BRL
+  Expenses:APyB:Impostos
+
+2026-03-09 * "Reembolso" "Pix - Enviado / 09/03 17:23 ANA CECILIA VIEIRA SILVA"
+  comprovante: "https://drive.google.com/file/d/1Y-UrR-yVfk_xYG9JiTWfOMWmx9jf03Lb/view?usp=drive_link"
+  Assets:Bancos:BB  -114.79 BRL
+  Expenses:APyB:Ops
+
+2026-03-09 * "Reembolso" "Pix - Enviado / 09/03 17:40 Marcelo Miky Mine"
+  comprovante: "https://drive.google.com/file/d/1jqd-n_ptxiE4FogBgPPUv92fdPC8ozxr/view?usp=drive_link"
+  Assets:Bancos:BB  -223.78 BRL
+  Expenses:APyB:Ops
+
+2026-03-09 * "Domicílio Fiscal" "Pagamento de Boleto / VILLA URBANA STUDIO CRIATIVO L"
+  comprovante: "https://drive.google.com/file/d/1twncgh0Mp4LvVuLViXPRikS25hUBsbC2/view?usp=drive_link"
+  Assets:Bancos:BB  -125.00 BRL
+  Expenses:APyB:Infra
+
+2026-03-09 * "Tarifa" "Tarifa Pix Enviado / Tar. agrupadas - ocorrencia 09/03/2026"
+  comprovante: ""
+  Assets:Bancos:BB  -3.34 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-03-10 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/1R1mf8JYawpHtjhCPj-c6dXJ1jwp6h92R/view?usp=drive_link"
+  Assets:Bancos:BB  300.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 300.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-03-11 * "Anuidades" "Stripe Crédito"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2026-03-13 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/1h5T8-kCFa_of0QXM0aAS8NhXfXfm8VyL/view?usp=drive_link"
+  Assets:Bancos:BB  150.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 150.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-03-16 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/1DwlzQ_8pwZtBo3Y8Pekf08X-tHjYEBCr/view?usp=drive_link"
+  Assets:Bancos:BB  160.00 * 0.1 BRL
+  Assets:Eventos:Caipyra2026 160.00 * 0.9 BRL
+  Income:Eventos:Caipyra2026
+
+2026-03-16 * "Anuidades" "TED-Pag Fornecedores / 745 0001 22121209000146 STRIPE BRASIL"
+  comprovante: ""
+  Assets:Bancos:BB  60.10 BRL
+  Income:APyB:Anuidades
+
+2026-03-16 * "Tarifa" "Tarifa Pacote de Serviços / Cobrança referente 16/03/2026"
+  comprovante: ""
+  Assets:Bancos:BB  -139.20 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-03-17 * "Impostos" "Pix - Enviado / 17/03 18:36 RECEITA FEDERAL"
+  comprovante: "https://drive.google.com/file/d/1Kp73MVYNccKL8KfEDsKgxEIWAVkgP606/view?usp=drive_link"
+  Assets:Bancos:BB  -528.02 BRL
+  Expenses:APyB:Impostos
+
+2026-03-17 * "Impostos" "Pix - Enviado / 17/03 18:37 RECEITA FEDERAL"
+  comprovante: "https://drive.google.com/file/d/1c8utP4RHMw1TldEQSzC4soFSQm_3IIPV/view?usp=drive_link"
+  Assets:Bancos:BB  -171.76 BRL
+  Expenses:APyB:Impostos
+
+2026-03-19 * "Designer" "Pix - Enviado / 19/03 09:19 Ana Paula Nascimento Cava"
+  comprovante: "https://drive.google.com/file/d/1-hGKlWMFNM48SJzoi-q4pPF1ShvC81QD/view?usp=drive_link"
+  Assets:Eventos:Caipyra2026  -1100.00 BRL
+  Expenses:Eventos:Caipyra2026
+
+2026-03-19 * "Reembolso" "Pix - Enviado / 19/03 20:02 ISIS GOMES DE OLIVEIRA"
+  comprovante: "https://drive.google.com/file/d/1jRlBV2wsd1axze5kT1lNmiqXypQcIlav/view?usp=drive_link"
+  Assets:Eventos:Pydatanatal202601  -191.90 BRL
+  Expenses:Eventos:Pydatanatal202601
+
+2026-03-19 * "Tarifa" "Tarifa Pix Enviado / Tar. agrupadas - ocorrencia 19/03/2026"
+  comprovante: ""
+  Assets:Bancos:BB  -11.89 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-03-20 * "Ingressos" "TED-Pag Fornecedores / 376 0001 15913672000165 EVENTBRITE BRA"
+  comprovante: "https://drive.google.com/file/d/11FNvL2SzYAfQRnY0xuaB6HaYjEthCEam/view?usp=drive_link"
+  Assets:Bancos:BB  200.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 200.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-03-20 * "Impostos" "Pix - Enviado / 20/03 09:38 RECEITA FEDERAL"
+  comprovante: "https://drive.google.com/file/d/1dOktWLqh0uQyDNeiqZiHm7tRwSqVhbjM/view?usp=drive_link"
+  Assets:Bancos:BB  -600.00 BRL
+  Expenses:APyB:Impostos
+
+2026-03-26 * "Anuidades" "Stripe Crédito"
+  comprovante: ""
+  Assets:Bancos:BB  59.71 BRL
+  Income:APyB:Anuidades
+
+2026-03-27 * "Patrocínio" "ORPAG ORIGEM EXTERIOR"
+  comprovante: "https://drive.google.com/file/d/1xXvm4SuVBdzF_2qMq469sx3MUf1FZOlg/view?usp=drive_link"
+  Assets:Bancos:BB 26.03 * 0.1 BRL
+  Assets:Eventos:Pybr2026 26.03 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-03-27 * "Patrocínio" "ORPAG ORIGEM EXTERIOR"
+  comprovante: "https://drive.google.com/file/d/1xXvm4SuVBdzF_2qMq469sx3MUf1FZOlg/view?usp=drive_link"
+  Assets:Bancos:BB 10377.45 * 0.1 BRL
+  Assets:Eventos:Pybr2026 10377.45 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-03-27 * "Tarifa" "Cobrança de I.O.F."
+  comprovante: "https://drive.google.com/file/d/1xXvm4SuVBdzF_2qMq469sx3MUf1FZOlg/view?usp=drive_link"
+  Assets:Eventos:Pybr2026 -0.10 BRL
+  Expenses:Eventos:Pybr2026
+
+2026-03-27 * "Tarifa" "Cobrança de I.O.F."
+  comprovante: "https://drive.google.com/file/d/1xXvm4SuVBdzF_2qMq469sx3MUf1FZOlg/view?usp=drive_link"
+  Assets:Eventos:Pybr2026 -39.43 BRL
+  Expenses:Eventos:Pybr2026
+
+2026-03-30 * "Patrocínio" "Pix - Recebido / 30/03 09:25 54095386000191 ROBBIN PAGA"
+  comprovante: "https://drive.google.com/file/d/1VwyUpV4gr9clBqs5cLE-D3dYU4jW1bLC/view?usp=drive_link"
+  Assets:Bancos:BB  5000.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 5000.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-03-30 * "Patrocínio" "Pix - Recebido / 30/03 15:42 53571739000110 NEKT DATA L"
+  comprovante: "https://drive.google.com/file/d/1FX4oWB9QRjwrNND5BXAdq6-57-kZ_k0T/view?usp=drive_link"
+  Assets:Bancos:BB  10000.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 10000.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-03-31 * "Ingressos" "Ordem Banc 12 Sec Tes Nac / 005302790001-15 SENADO FEDERAL"
+  comprovante: "https://drive.google.com/file/d/1xfyi2fSm-HRYcQakfGwlINd4tWilewFi/view?usp=drive_link"
+  Assets:Bancos:BB  1222.43 * 0.1 BRL
+  Assets:Eventos:Pybr2025 1222.43 * 0.9 BRL
+  Income:Eventos:Pybr2025
+
+2026-03-31 * "Patrocínio" "Pix - Recebido / 31/03 15:39 08945294000136 INTECELERI"
+  comprovante: "https://drive.google.com/file/d/1SyvVHc2YOkW6JgmpjiRYqrt7UHSB6Wiu/view?usp=drive_link"
+  Assets:Bancos:BB  3500.00 * 0.1 BRL
+  Assets:Eventos:Pyn2026 3500.00 * 0.9 BRL
+  Income:Eventos:Pyn2026
+
+2026-03-31 * "Patrocínio" "Pix - Recebido / 31/03 21:13 28363530000113 ALVARO FERN"
+  comprovante: "https://drive.google.com/file/d/1xBLR-PWLLUzVscKFOLRvsgih2L4LjxzL/view?usp=drive_link"
+  Assets:Bancos:BB  9000.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026 9000.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
