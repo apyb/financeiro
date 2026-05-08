@@ -1,0 +1,453 @@
+OFXHEADER:100
+DATA:OFXSGML
+VERSION:102
+SECURITY:NONE
+ENCODING:UTF-8
+CHARSET:NONE
+COMPRESSION:NONE
+OLDFILEUID:NONE
+NEWFILEUID:NONE
+
+
+<OFX>
+  <SIGNONMSGSRSV1>
+   <SONRS>
+    <STATUS>
+      <CODE>0</CODE>
+      <SEVERITY>INFO</SEVERITY>
+    </STATUS>
+    <DTSERVER>20260504194909[-3:BRT]</DTSERVER>
+    <LANGUAGE>POR</LANGUAGE>
+    <FI>
+     <ORG>Banco do Brasil</ORG>
+     <FID>1</FID>
+    </FI>
+   </SONRS>
+  </SIGNONMSGSRSV1>
+  <BANKMSGSRSV1>
+    <STMTTRNRS>
+      <TRNUID>1</TRNUID>
+        <STATUS>
+        <CODE>0</CODE>
+        <SEVERITY>INFO</SEVERITY>
+       </STATUS>
+      <STMTRS>
+        <CURDEF>BRL</CURDEF>
+        <BANKACCTFROM>
+          <BANKID>1</BANKID>
+          <BRANCHID>89</BRANCHID>
+          <ACCTID>78126</ACCTID>
+          <ACCTTYPE>CHECKING</ACCTTYPE>
+        </BANKACCTFROM>
+        <BANKTRANLIST>
+            <DTSTART>20260228000000[-3:BRT]</DTSTART>
+            <DTEND>20260504194909[-3:BRT]</DTEND>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260128000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>92453.18</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo Anterior</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260202000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>300.00</TRNAMT>
+              <FITID>34.014.987</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>376 0001 15913672000165 EVENTBRITE BRA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260202000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>60.61</TRNAMT>
+              <FITID>110.330.100.000.624</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260202000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>92813.79</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260203000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>300.00</TRNAMT>
+              <FITID>33.747.334</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>376 0001 15913672000165 EVENTBRITE BRA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260203000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>900.00</TRNAMT>
+              <FITID>33.747.339</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>376 0001 15913672000165 EVENTBRITE BRA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260203000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>60.16</TRNAMT>
+              <FITID>110.340.100.000.666</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260203000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>94073.95</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260204000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>800.00</TRNAMT>
+              <FITID>33.489.369</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>376 0001 15913672000165 EVENTBRITE BRA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260204000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>94873.95</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260205000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-125.00</TRNAMT>
+              <FITID>20.501</FITID>
+              <NAME>Pagamento de Boleto</NAME>
+              <MEMO>VILLA URBANA STUDIO CRIATIVO L</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260205000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-32161.67</TRNAMT>
+              <FITID>20.502</FITID>
+              <NAME>Pagamento de Boleto</NAME>
+              <MEMO>RB HOTELARIA LTDA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260205000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>62587.28</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260206000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>4650.41</TRNAMT>
+              <FITID>60.919.224.344.991</FITID>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>06/02 09:19 10878448000166 PAYPAL DO B</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260206000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>67237.69</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260209000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>600.00</TRNAMT>
+              <FITID>33.917.905</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>376 0001 15913672000165 EVENTBRITE BRA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260209000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>60.61</TRNAMT>
+              <FITID>110.400.100.000.342</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260209000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>67898.30</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260210000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>61.06</TRNAMT>
+              <FITID>110.410.100.000.614</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260210000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>67959.36</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260211000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>300.00</TRNAMT>
+              <FITID>33.792.978</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>376 0001 15913672000165 EVENTBRITE BRA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260211000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-2555.00</TRNAMT>
+              <FITID>21.101</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>11/02 09:35 44.498.887 MAIRLEY DA TRI</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260211000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-285.00</TRNAMT>
+              <FITID>21.102</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>11/02 18:24 ATUALE ASSESSORIA CONTABI</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260211000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-12.82</TRNAMT>
+              <FITID>860.421.100.205.767</FITID>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 11/02/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260211000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>65406.54</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260213000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>300.00</TRNAMT>
+              <FITID>33.806.771</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>376 0001 15913672000165 EVENTBRITE BRA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260213000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-272.74</TRNAMT>
+              <FITID>21.301</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>13/02 17:54 ATUALE ASSESSORIA CONTABI</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260213000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-2.70</TRNAMT>
+              <FITID>880.441.200.012.530</FITID>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 13/02/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260213000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>65431.10</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260218000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>450.00</TRNAMT>
+              <FITID>34.476.915</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>376 0001 15913672000165 EVENTBRITE BRA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260218000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>300.00</TRNAMT>
+              <FITID>34.476.925</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>376 0001 15913672000165 EVENTBRITE BRA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260218000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-10.00</TRNAMT>
+              <FITID>21.801</FITID>
+              <NAME>Pagamento de Impostos</NAME>
+              <MEMO>DARF        - 09.344.485/0001-05 -5440</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260218000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-10.00</TRNAMT>
+              <FITID>21.802</FITID>
+              <NAME>Pagamento de Impostos</NAME>
+              <MEMO>DARF        - 09.344.485/0001-05 -5440</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260218000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-766.04</TRNAMT>
+              <FITID>21.803</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>16/02 17:36 RECEITA FEDERAL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260218000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-268.68</TRNAMT>
+              <FITID>21.804</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>16/02 17:41 RECEITA FEDERAL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260218000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-139.20</TRNAMT>
+              <FITID>860.491.100.683.827</FITID>
+              <NAME>Tarifa Pacote de Serviços</NAME>
+              <MEMO>Cobrança referente 18/02/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260218000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>64987.18</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260220000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>300.00</TRNAMT>
+              <FITID>33.916.327</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>376 0001 15913672000165 EVENTBRITE BRA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260220000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>65287.18</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260223000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>60.55</TRNAMT>
+              <FITID>100.183.867</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>745 0001 22121209000146 STRIPE BRASIL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260223000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>65347.73</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260224000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>300.00</TRNAMT>
+              <FITID>33.571.165</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>376 0001 15913672000165 EVENTBRITE BRA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260224000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>300.00</TRNAMT>
+              <FITID>33.571.178</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>376 0001 15913672000165 EVENTBRITE BRA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260224000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>65947.73</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260225000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>150.00</TRNAMT>
+              <FITID>33.640.287</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>376 0001 15913672000165 EVENTBRITE BRA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260225000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>66097.73</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260226000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>60.55</TRNAMT>
+              <FITID>100.189.737</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>745 0001 22121209000146 STRIPE BRASIL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260226000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>66158.28</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260227000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>250.00</TRNAMT>
+              <FITID>552.870.000.035.805</FITID>
+              <NAME>Transferência recebida</NAME>
+              <MEMO>27/02 17:01 SIG SOFTWARE & CONSULTOR</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260227000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>66408.28</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+      </BANKTRANLIST>
+      <LEDGERBAL>
+        <BALAMT>66408.28</BALAMT>
+        <DTASOF>20260228000000[-3:BRT]</DTASOF>
+      </LEDGERBAL>
+    </STMTRS>
+    </STMTTRNRS>
+  </BANKMSGSRSV1>
+</OFX>

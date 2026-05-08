@@ -147,6 +147,10 @@ option "operating_currency" "BRL"
 2025-12-30 close Assets:Eventos:Pyn2025
 2025-12-30 close Income:Eventos:Pyn2025 
 2025-12-30 close Expenses:Eventos:Pyn2025 
+; Python Norte 2026
+2025-10-01 open Assets:Eventos:Pyn2026 BRL
+2025-10-01 open Income:Eventos:Pyn2026 BRL
+2025-10-01 open Expenses:Eventos:Pyn2026 BRL
 
 ; Python Sul 2020
 2020-03-05 open Assets:Eventos:Pysul2020 BRL
@@ -236,6 +240,11 @@ option "operating_currency" "BRL"
 2025-12-30 close Assets:Eventos:Pyladiesconf2025 
 2025-12-30 close Income:Eventos:Pyladiesconf2025 
 2025-12-30 close Expenses:Eventos:Pyladiesconf2025 
+
+; Meetup PyData Natal 2026
+2026-02-27 open Assets:Eventos:Pydatanatal202601 BRL
+2026-02-27 open Income:Eventos:Pydatanatal202601 BRL
+2026-02-27 open Expenses:Eventos:Pydatanatal202601 BRL
 
 ; Fundos de Inclusão ==========================================================
 ; Python Brasil 2022
@@ -348,3 +357,4 @@ include "2025-10.beancount"
 include "2025-11.beancount"
 include "2025-12.beancount"
 include "2026-01.beancount"
+include "2026-02.beancount"
