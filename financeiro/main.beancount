@@ -62,9 +62,6 @@ option "operating_currency" "BRL"
 2024-12-10 open Assets:Eventos:Pybr2025 BRL
 2024-12-10 open Expenses:Eventos:Pybr2025 BRL
 2024-12-10 open Income:Eventos:Pybr2025 BRL
-2026-03-31 close Assets:Eventos:Pybr2025
-2026-03-31 close Expenses:Eventos:Pybr2025
-2026-03-31 close Income:Eventos:Pybr2025
 ; Python Brasil 2026
 2025-05-07 open Assets:Eventos:Pybr2026 BRL
 2025-05-07 open Expenses:Eventos:Pybr2026 BRL
