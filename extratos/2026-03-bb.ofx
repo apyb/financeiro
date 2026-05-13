@@ -1,0 +1,485 @@
+OFXHEADER:100
+DATA:OFXSGML
+VERSION:102
+SECURITY:NONE
+ENCODING:UTF-8
+CHARSET:NONE
+COMPRESSION:NONE
+OLDFILEUID:NONE
+NEWFILEUID:NONE
+
+
+<OFX>
+  <SIGNONMSGSRSV1>
+   <SONRS>
+    <STATUS>
+      <CODE>0</CODE>
+      <SEVERITY>INFO</SEVERITY>
+    </STATUS>
+    <DTSERVER>20260508120110[-3:BRT]</DTSERVER>
+    <LANGUAGE>POR</LANGUAGE>
+    <FI>
+     <ORG>Banco do Brasil</ORG>
+     <FID>1</FID>
+    </FI>
+   </SONRS>
+  </SIGNONMSGSRSV1>
+  <BANKMSGSRSV1>
+    <STMTTRNRS>
+      <TRNUID>1</TRNUID>
+        <STATUS>
+        <CODE>0</CODE>
+        <SEVERITY>INFO</SEVERITY>
+       </STATUS>
+      <STMTRS>
+        <CURDEF>BRL</CURDEF>
+        <BANKACCTFROM>
+          <BANKID>1</BANKID>
+          <BRANCHID>89</BRANCHID>
+          <ACCTID>78126</ACCTID>
+          <ACCTTYPE>CHECKING</ACCTTYPE>
+        </BANKACCTFROM>
+        <BANKTRANLIST>
+            <DTSTART>20260331000000[-3:BRT]</DTSTART>
+            <DTEND>20260508120110[-3:BRT]</DTEND>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260227000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>66408.28</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo Anterior</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260302000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>4500.00</TRNAMT>
+              <FITID>789.214.000.000</FITID>
+              <NAME>Ordem Banc 12 Sec Tes Nac</NAME>
+              <MEMO>003944600117-71 SUPERINTENDENCIA REGIO</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260302000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>180.48</TRNAMT>
+              <FITID>110.610.100.000.582</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260302000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>71088.76</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260303000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>80.00</TRNAMT>
+              <FITID>33.561.317</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>376 0001 15913672000165 EVENTBRITE BRA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260303000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-285.00</TRNAMT>
+              <FITID>30.301</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>03/03 14:01 ATUALE ASSESSORIA CONTABI</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260303000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-2.82</TRNAMT>
+              <FITID>890.621.200.007.386</FITID>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 03/03/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260303000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>70880.94</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260305000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>450.00</TRNAMT>
+              <FITID>33.814.790</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>376 0001 15913672000165 EVENTBRITE BRA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260305000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>71330.94</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260306000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>16.00</TRNAMT>
+              <FITID>34.230.509</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>376 0001 15913672000165 EVENTBRITE BRA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260306000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>71346.94</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260309000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>300.00</TRNAMT>
+              <FITID>33.810.902</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>376 0001 15913672000165 EVENTBRITE BRA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260309000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>61.06</TRNAMT>
+              <FITID>110.680.100.000.350</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260309000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-2142.66</TRNAMT>
+              <FITID>30.901</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>09/03 16:44 RECEITA FEDERAL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260309000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-190.00</TRNAMT>
+              <FITID>30.902</FITID>
+              <NAME>Pagamento de Impostos</NAME>
+              <MEMO>PREF MUN CAXIAS DO SUL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260309000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-114.79</TRNAMT>
+              <FITID>30.903</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>09/03 17:23 ANA CECILIA VIEIRA SILVA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260309000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-223.78</TRNAMT>
+              <FITID>30.904</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>09/03 17:40 Marcelo Miky Mine</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260309000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-125.00</TRNAMT>
+              <FITID>30.905</FITID>
+              <NAME>Pagamento de Boleto</NAME>
+              <MEMO>VILLA URBANA STUDIO CRIATIVO L</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260309000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-3.34</TRNAMT>
+              <FITID>850.681.200.013.532</FITID>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 09/03/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260309000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>68908.43</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260310000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>300.00</TRNAMT>
+              <FITID>33.717.873</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>376 0001 15913672000165 EVENTBRITE BRA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260310000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>69208.43</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260311000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>61.06</TRNAMT>
+              <FITID>110.700.100.000.623</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260311000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>69269.49</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260313000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>150.00</TRNAMT>
+              <FITID>33.706.625</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>376 0001 15913672000165 EVENTBRITE BRA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260313000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>69419.49</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260316000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>160.00</TRNAMT>
+              <FITID>34.330.123</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>376 0001 15913672000165 EVENTBRITE BRA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260316000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>60.10</TRNAMT>
+              <FITID>100.223.464</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>745 0001 22121209000146 STRIPE BRASIL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260316000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-139.20</TRNAMT>
+              <FITID>830.751.100.601.371</FITID>
+              <NAME>Tarifa Pacote de Serviços</NAME>
+              <MEMO>Cobrança referente 16/03/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260316000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>69500.39</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260317000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-528.02</TRNAMT>
+              <FITID>31.701</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>17/03 18:36 RECEITA FEDERAL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260317000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-171.76</TRNAMT>
+              <FITID>31.702</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>17/03 18:37 RECEITA FEDERAL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260317000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>68800.61</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260319000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-1100.00</TRNAMT>
+              <FITID>31.901</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>19/03 09:19 Ana Paula Nascimento Cava</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260319000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-191.90</TRNAMT>
+              <FITID>31.902</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>19/03 20:02 ISIS GOMES DE OLIVEIRA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260319000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-11.89</TRNAMT>
+              <FITID>890.781.200.011.266</FITID>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 19/03/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260319000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>67496.82</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260320000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>200.00</TRNAMT>
+              <FITID>33.839.040</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>376 0001 15913672000165 EVENTBRITE BRA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260320000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-600.00</TRNAMT>
+              <FITID>32.001</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>20/03 09:38 RECEITA FEDERAL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260320000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>67096.82</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260326000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>59.71</TRNAMT>
+              <FITID>110.850.100.000.597</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260326000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>67156.53</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260327000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>26.03</TRNAMT>
+              <FITID>59.879.022</FITID>
+              <NAME>ORPAG ORIGEM EXTERIOR</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260327000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>10377.45</TRNAMT>
+              <FITID>59.879.047</FITID>
+              <NAME>ORPAG ORIGEM EXTERIOR</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260327000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-0.10</TRNAMT>
+              <FITID>59.879.022</FITID>
+              <NAME>Cobrança de I.O.F.</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260327000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-39.43</TRNAMT>
+              <FITID>59.879.047</FITID>
+              <NAME>Cobrança de I.O.F.</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260327000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>77520.48</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260330000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>5000.00</TRNAMT>
+              <FITID>300.925.324.149.251</FITID>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>30/03 09:25 54095386000191 ROBBIN PAGA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260330000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>10000.00</TRNAMT>
+              <FITID>301.542.005.548.521</FITID>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>30/03 15:42 53571739000110 NEKT DATA L</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260330000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>92520.48</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260331000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>1222.43</TRNAMT>
+              <FITID>1.365.713.000.000</FITID>
+              <NAME>Ordem Banc 12 Sec Tes Nac</NAME>
+              <MEMO>005302790001-15 SENADO FEDERAL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260331000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>3500.00</TRNAMT>
+              <FITID>311.539.089.460.301</FITID>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>31/03 15:39 08945294000136 INTECELERI</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260331000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>9000.00</TRNAMT>
+              <FITID>312.113.300.753.101</FITID>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>31/03 21:13 28363530000113 ALVARO FERN</MEMO>
+            </STMTTRN>
+      </BANKTRANLIST>
+      <LEDGERBAL>
+        <BALAMT>106242.91</BALAMT>
+        <DTASOF>20260331000000[-3:BRT]</DTASOF>
+      </LEDGERBAL>
+    </STMTRS>
+    </STMTTRNRS>
+  </BANKMSGSRSV1>
+</OFX>
