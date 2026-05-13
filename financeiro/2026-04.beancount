@@ -1,0 +1,120 @@
+;; -*- mode: beancount -*-
+;; extratos/2026-04-bb.ofx
+
+2026-04-01 * "Anuidades" "TED-Pag Fornecedores / 745 0001 22121209000146 STRIPE BRASIL"
+  comprovante: ""
+  Assets:Bancos:BB  60.10 BRL
+  Income:APyB:Anuidades
+
+2026-04-06 * "Domicílio Fiscal" "Pagamento de Boleto / VILLA URBANA STUDIO CRIATIVO L"
+  comprovante: "https://drive.google.com/file/d/1M07NK9bgsl00M4bi-XPKaby2_LfqfpJ_/view?usp=drive_link"
+  Assets:Bancos:BB  -125.00 BRL
+  Expenses:APyB:Infra
+
+2026-04-09 * "Assessoria Contábil" "Pix - Enviado / 09/04 09:54 ATUALE ASSESSORIA CONTABI"
+  comprovante: "https://drive.google.com/file/d/1DwZjqYwud74svHufosDVSnRgB6A8Qtdt/view?usp=drive_link"
+  Assets:Bancos:BB  -285.00 BRL
+  Expenses:APyB:Contadora
+
+2026-04-09 * "Assessoria Jurídica" "Pix - Enviado / 09/04 22:07 HENRIQUE SCHAVARSKI CONSU"
+  comprovante: "https://drive.google.com/file/d/1sMEOKJmJP3zAiAu7Wd1Jl5Qm_t3YVuve/view?usp=drive_link"
+  Assets:Eventos:Pybr2026  -2500.00 BRL
+  Expenses:Eventos:Pybr2026
+
+2026-04-09 * "Tarifa" "Tarifa Pix Enviado / Tar. agrupadas - ocorrencia 09/04/2026"
+  comprovante: ""
+  Assets:Bancos:BB  -12.82 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-04-10 * "Anuidades" "Stripe Crédito"
+  comprovante: ""
+  Assets:Bancos:BB  60.61 BRL
+  Income:APyB:Anuidades
+
+2026-04-10 * "Reembolso" "AWS - Pix - Enviado / 10/04 09:51 Marcelo Miky Mine"
+  comprovante: "https://drive.google.com/file/d/1stJAWjhMxyfizbR4qr4MhnBNYAdHMwqU/view?usp=drive_link"
+  Assets:Bancos:BB  -160.78 BRL
+  Expenses:APyB:Ops
+
+2026-04-10 * "Reembolso" "Fly.io - Pix - Enviado / 10/04 09:53 Marcelo Miky Mine"
+  comprovante: "https://drive.google.com/file/d/1rEMfz0LzUip6xPXD5Bzf4hMc38gefJDF/view?usp=drive_link"
+  Assets:Bancos:BB  -30.33 BRL
+  Expenses:APyB:Ops
+
+2026-04-10 * "Reembolso" "Fly.io - Pix - Enviado / 10/04 12:07 Marcelo Miky Mine"
+  comprovante: "https://drive.google.com/file/d/1c6Up6H_OhBT0-EGj40UJdkCfTVd5NQJu/view?usp=drive_link"
+  Assets:Bancos:BB  -89.59 BRL
+  Expenses:APyB:Ops
+
+2026-04-10 * "Tarifa" "Tarifa Pix Enviado / Tar. agrupadas - ocorrencia 10/04/2026"
+  comprovante: ""
+  Assets:Bancos:BB  -3.59 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-04-13 * "Anuidades" "Stripe Crédito"
+  comprovante: ""
+  Assets:Bancos:BB  60.61 BRL
+  Income:APyB:Anuidades
+
+2026-04-15 * "Anuidades" "TED-Pag Fornecedores / 745 0001 22121209000146 STRIPE BRASIL"
+  comprovante: ""
+  Assets:Bancos:BB  60.55 BRL
+  Income:APyB:Anuidades
+
+2026-04-15 * "Anuidades" "Stripe Crédito"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2026-04-15 * "Impostos" "Pagamento de Impostos / PREF MUN CAXIAS DO SUL"
+  comprovante: "https://drive.google.com/file/d/1PNdhJyaceiGNBg-eKQiHyzWD3BmefzzV/view?usp=drive_link"
+  Assets:Bancos:BB  -1366.96 BRL
+  Expenses:APyB:Impostos
+
+2026-04-15 * "Tarifa" "Tarifa Pacote de Serviços / Cobrança referente 15/04/2026"
+  comprovante: ""
+  Assets:Bancos:BB  -139.20 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-04-17 * "Anuidades" "Stripe Crédito"
+  comprovante: ""
+  Assets:Bancos:BB  64.22 BRL
+  Income:APyB:Anuidades
+
+2026-04-22 * "Ingressos" "Stripe Crédito"
+  comprovante: "https://drive.google.com/file/d/1dUjdQXHSsuQrexk3vcWUgB4rDUgfnaSG/view?usp=drive_link"
+  Assets:Bancos:BB  2.49 * 0.1 BRL
+  Assets:Eventos:Pybr2026 2.49 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-04-22 * "Infraestrutura" "Domínio Plone - Pix - Enviado / 22/04 16:35 NIC. BR"
+  comprovante: "https://drive.google.com/file/d/1eTx5DuN1EG7BBLlEqKFhmV7PU0cFI4UT/view?usp=drive_link"
+  Assets:Bancos:BB  -112.00 BRL
+  Expenses:APyB:Infra
+
+2026-04-22 * "Infraestrutura" "Domínio Django - Pix - Enviado / 22/04 16:36 NIC. BR"
+  comprovante: "https://drive.google.com/file/d/19G8A0xSmXp02AJlCf79cAp7lfroPC2Lr/view?usp=drive_link"
+  Assets:Bancos:BB  -112.00 BRL
+  Expenses:APyB:Infra
+
+2026-04-24 * "Ingressos" "Stripe Crédito"
+  comprovante: "https://drive.google.com/file/d/1l_abS_dqD9g2JhfX4nix-V6DQ1suO7qi/view?usp=drive_link"
+  Assets:Bancos:BB  81.18 * 0.1 BRL
+  Assets:Eventos:Caipyra2026 81.18 * 0.9 BRL
+  Income:Eventos:Caipyra2026
+
+2026-04-27 * "Infraestrutura" "Reembolso Plone - Pix - Recebido / 27/04 11:51 00047134666115 JOAO HENRIQ"
+  comprovante: "https://drive.google.com/file/d/1TgiPxbgXO21DUu_A6Q-g7HpMm2tLbdkX/view?usp=drive_link"
+  Assets:Bancos:BB  112.00 BRL
+  Income:APyB:Estorno
+
+2026-04-28 * "Anuidades" "Stripe Crédito"
+  comprovante: ""
+  Assets:Bancos:BB  61.06 BRL
+  Income:APyB:Anuidades
+
+2026-04-29 * "Ingressos" "Stripe Crédito"
+  comprovante: "https://drive.google.com/file/d/1qsOwkeayQr4TCgkK-HOppLjZIA1dZ9nh/view?usp=drive_link"
+  Assets:Bancos:BB  139.33 * 0.1 BRL
+  Assets:Eventos:Pybr2026 139.33 * 0.9 BRL
+  Income:Eventos:Pybr2026
