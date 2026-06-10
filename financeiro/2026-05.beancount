@@ -1,0 +1,110 @@
+;; -*- mode: beancount -*-
+;; extratos/2026-05-bb.ofx
+
+2026-05-04 * "Patrocínio" "ORPAG ORIGEM EXTERIOR"
+  comprovante: "https://drive.google.com/file/d/1kbNRW2dSNM01K6XTAsaXFviaPdk0BnJt/view?usp=drive_link"
+  Assets:Bancos:BB  4784.07 * 0.1 BRL
+  Assets:Eventos:Pybr2026 4784.07 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-05-04 * "Patrocínio" "Pix - Recebido / 03/05 20:04 08789778804 LUCIANO GAMA D"
+  comprovante: "https://drive.google.com/file/d/1o6aNrYzbJBOd0NDkNOpwfGRggW_pwguh/view?usp=drive_link"
+  Assets:Bancos:BB  5000.00 * 0.1 BRL
+  Assets:Eventos:Pybr2025 5000.00 * 0.9 BRL
+  Income:Eventos:Pybr2025
+
+2026-05-04 * "Tarifa" "Cobrança de I.O.F."
+  Assets:Eventos:Pybr2026  -18.18 BRL
+  Expenses:Eventos:Pybr2026
+
+2026-05-08 * "Domicílio Fiscal" "Pagamento de Boleto / VILLA URBANA STUDIO CRIATIVO L"
+  comprovante: "https://drive.google.com/file/d/1-dyVv2bg4_tIjcrd6iLmVN9dDjJ85ZgM/view?usp=drive_link"
+  Assets:Bancos:BB  -125.00 BRL
+  Expenses:APyB:Infra
+
+2026-05-08 * "Assessoria Contábil" "Pix - Enviado / 08/05 17:19 ATUALE ASSESSORIA CONTABI"
+  comprovante: "https://drive.google.com/file/d/1OLIjbengqNKkEG3E5Z23gFDofyUrfhpi/view?usp=drive_link"
+  Assets:Bancos:BB  -285.00 BRL
+  Expenses:APyB:Contadora
+
+2026-05-08 * "Designer" "Pix - Enviado / 08/05 17:31 44.498.887 MAIRLEY DA TRI"
+  comprovante: "https://drive.google.com/file/d/1W3RKMLLTOTpu94hWp-OvwROekrIpoQqV/view?usp=drive_link"
+  Assets:Eventos:Pyn2026 -2555.00 BRL
+  Expenses:Eventos:Pybr2026
+
+2026-05-08 * "Tarifa" "Tarifa Pix Enviado / Tar. agrupadas - ocorrencia 08/05/2026"
+  Assets:Bancos:BB -12.82 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-05-12 * "Impostos" "Pagamento de Impostos / PREF MUN CAXIAS DO SUL"
+  comprovante: "https://drive.google.com/file/d/1l41pl65kc_fFrObkf6CxorOCy7hZPk7g/view?usp=drive_link"
+  Assets:Bancos:BB  -8.82 BRL
+  Expenses:APyB:Impostos
+
+2026-05-12 * "Reemmbolso" "AWS - Pix - Enviado / 12/05 16:06 Marcelo Miky Mine"
+  comprovante: "https://drive.google.com/file/d/18BCbv_z2XlM8YpF1FkDJ_qGsWfucbqw1/view?usp=drive_link"
+  Assets:Bancos:BB  -135.85 BRL
+  Expenses:APyB:Ops
+
+2026-05-12 * "Tarifa" "Tarifa Pix Enviado / Tar. agrupadas - ocorrencia 12/05/2026"
+  Assets:Bancos:BB  -1.34 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-05-15 * "Tarifa" "Tarifa Pacote de Serviços / Cobrança referente 15/05/2026"
+  Assets:Bancos:BB  -159.20 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-05-19 * "Patrocínio" "ORPAG ORIGEM EXTERIOR"
+  comprovante: "https://drive.google.com/file/d/17A2NhBO0EztmxGUc8JYV6FxPA3MRJ6Jr/view?usp=drive_link"
+  Assets:Bancos:BB  24979.85 * 0.1 BRL
+  Assets:Eventos:Pybr2025 24979.85 * 0.9 BRL
+  Income:Eventos:Pybr2025
+
+2026-05-19 * "Cobrança de I.O.F."
+  Assets:Eventos:Pybr2025  -94.92 BRL
+  Expenses:Eventos:Pybr2025
+
+2026-05-20 * "Patrocínio" "Pix - Recebido / 20/05 15:02 19259743000109 VINTA SOFTW"
+  comprovante: "https://drive.google.com/file/d/1eZOXHolS9K1tQKJy6akLiwj1y_bXd0wh/view?usp=drive_link"
+  Assets:Bancos:BB  5000.00 * 0.1 BRL
+  Assets:Eventos:Pyne2026 5000.00 * 0.9 BRL
+  Income:Eventos:Pyne2026
+
+2026-05-25 * "Gráfica" "Pix - Enviado / 25/05 09:39 ART POINT GRAFICA SAO CAR"
+  comprovante: "https://drive.google.com/file/d/155t4jCeWbwGs-wnh5HYN1gPqbHtb5UWe/view?usp=drive_link"
+  Assets:Eventos:Caipyra2026 -890.00 BRL
+  Expenses:Eventos:Caipyra2026
+
+2026-05-26 * "Patrocínio" "Pix - Recebido / 26/05 07:15 05506560000136 NUCLEO DE I"
+  comprovante: "https://drive.google.com/file/d/1DuG6acjuTutBrtxdeuFVKueZXzRp1Qev/view?usp=drive_link"
+  Assets:Bancos:BB  5000.00 * 0.1 BRL
+  Assets:Eventos:Caipyra2026 5000.00 * 0.9 BRL
+  Income:Eventos:Caipyra2026
+
+2026-05-31 * "Anuidades" "Anuidades recebidas na Stripe em Maio"
+  comprovante: ""
+  Assets:Bancos:BB  588.32 BRL
+  Income:APyB:Anuidades
+
+2026-05-31 * "Ingressos" "Ingressos Caipyra2026 recebidos na Stripe em Maio"
+  comprovante: ""
+  Assets:Bancos:BB  979.29 * 0.1 BRL
+  Assets:Eventos:Caipyra2026  979.29 * 0.9 BRL
+  Income:Eventos:Caipyra2026
+
+2026-05-31 * "Ingressos" "Ingressos Pybr2026 recebidos na Stripe em Maio"
+  comprovante: ""
+  Assets:Bancos:BB  3009.24 * 0.1 BRL
+  Assets:Eventos:Pybr2026  3009.24 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-05-31 * "Ingressos" "Ingressos Pyse2026 recebidos na Stripe em Maio"
+  comprovante: ""
+  Assets:Bancos:BB  1543.31 * 0.1 BRL
+  Assets:Eventos:Pyse2026  1543.31 * 0.9 BRL
+  Income:Eventos:Pyse2026
+
+2026-05-31 * "Tarifa" "Tarifas Stripe de Maio"
+  comprovante: ""
+  Assets:Bancos:BB  -8.43 BRL
+  Expenses:APyB:Taxas:Stripe
