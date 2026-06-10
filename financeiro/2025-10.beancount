@@ -394,7 +394,7 @@
   comprovante: "https://drive.google.com/file/d/1Z8mejlFQ_JsnwIlUPqT57FEs8IXZMpFA/view?usp=drive_link"
   Assets:Bancos:BB  1080.00 * 0.1 BRL
   Assets:Eventos:Caipyra2026 1080.00 * 0.9 BRL
-  Expenses:Eventos:Caipyra2026
+  Income:Eventos:Caipyra2026
 
 2025-10-28 * "" "STRIPE CR텏ITO / DEP"
   comprovante: ""
@@ -420,7 +420,7 @@
   comprovante: "https://drive.google.com/file/d/1HiMCCVa6aqP0PcUyJ9lqvcvhtQfkd62c/view?usp=drive_link"
   Assets:Bancos:BB  120.00 * 0.1 BRL
   Assets:Eventos:Caipyra2026 120.00 * 0.9 BRL
-  Expenses:Eventos:Caipyra2026
+  Income:Eventos:Caipyra2026
 
 2025-10-30 * "" "STRIPE CR텏ITO / DEP"
   comprovante: ""
@@ -431,7 +431,7 @@
   comprovante: "https://drive.google.com/file/d/1CSdg_48cZ_d8TrKt2DKfnF8GFHh3cMQk/view?usp=drive_link"
   Assets:Bancos:BB  60.00 * 0.1 BRL
   Assets:Eventos:Caipyra2026 60.00 * 0.9 BRL
-  Expenses:Eventos:Caipyra2026
+  Income:Eventos:Caipyra2026
 
 2025-10-31 * "" "STRIPE CR텏ITO / DEP"
   comprovante: ""
