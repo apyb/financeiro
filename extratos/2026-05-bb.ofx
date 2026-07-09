@@ -1,0 +1,478 @@
+
+OFXHEADER:100
+DATA:OFXSGML
+VERSION:102
+SECURITY:NONE
+ENCODING:UTF-8
+CHARSET:NONE
+COMPRESSION:NONE
+OLDFILEUID:NONE
+NEWFILEUID:NONE
+
+
+<OFX>
+  <SIGNONMSGSRSV1>
+   <SONRS>
+    <STATUS>
+      <CODE>0</CODE>
+      <SEVERITY>INFO</SEVERITY>
+    </STATUS>
+    <DTSERVER>20260610122124[-3:BRT]</DTSERVER>
+    <LANGUAGE>POR</LANGUAGE>
+    <FI>
+     <ORG>Banco do Brasil</ORG>
+     <FID>1</FID>
+    </FI>
+   </SONRS>
+  </SIGNONMSGSRSV1>
+  <BANKMSGSRSV1>
+    <STMTTRNRS>
+      <TRNUID>1</TRNUID>
+        <STATUS>
+        <CODE>0</CODE>
+        <SEVERITY>INFO</SEVERITY>
+       </STATUS>
+      <STMTRS>
+        <CURDEF>BRL</CURDEF>
+        <BANKACCTFROM>
+          <BANKID>1</BANKID>
+          <BRANCHID>89</BRANCHID>
+          <ACCTID>78126</ACCTID>
+          <ACCTTYPE>CHECKING</ACCTTYPE>
+        </BANKACCTFROM>
+        <BANKTRANLIST>
+            <DTSTART>20260531000000[-3:BRT]</DTSTART>
+            <DTEND>20260610122124[-3:BRT]</DTEND>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260429000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>102068.85</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo Anterior</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260504000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>4784.07</TRNAMT>
+              <FITID>60.013.626</FITID>
+              <NAME>ORPAG ORIGEM EXTERIOR</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260504000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>116.55</TRNAMT>
+              <FITID>100.303.121</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>745 0001 22121209000146 STRIPE BRASIL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260504000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>5000.00</TRNAMT>
+              <FITID>32.004.337.472.901</FITID>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>03/05 20:04 08789778804 LUCIANO GAMA D</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260504000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>82.56</TRNAMT>
+              <FITID>111.240.100.000.444</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260504000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-18.18</TRNAMT>
+              <FITID>60.013.626</FITID>
+              <NAME>Cobrança de I.O.F.</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260504000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>112033.85</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260505000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>116.55</TRNAMT>
+              <FITID>100.305.863</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>745 0001 22121209000146 STRIPE BRASIL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260505000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>112150.40</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260506000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>115.71</TRNAMT>
+              <FITID>100.308.492</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>745 0001 22121209000146 STRIPE BRASIL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260506000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>540.52</TRNAMT>
+              <FITID>111.260.100.000.570</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260506000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>112806.63</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260507000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>115.71</TRNAMT>
+              <FITID>100.311.923</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>745 0001 22121209000146 STRIPE BRASIL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260507000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>112922.34</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260508000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>143.62</TRNAMT>
+              <FITID>111.280.200.000.224</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260508000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-125.00</TRNAMT>
+              <FITID>50.801</FITID>
+              <NAME>Pagamento de Boleto</NAME>
+              <MEMO>VILLA URBANA STUDIO CRIATIVO L</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260508000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-285.00</TRNAMT>
+              <FITID>50.802</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>08/05 17:19 ATUALE ASSESSORIA CONTABI</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260508000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-2555.00</TRNAMT>
+              <FITID>50.803</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>08/05 17:31 44.498.887 MAIRLEY DA TRI</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260508000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-12.82</TRNAMT>
+              <FITID>851.281.200.013.663</FITID>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 08/05/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260508000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>110088.14</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260511000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>881.34</TRNAMT>
+              <FITID>111.310.300.000.105</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260511000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>110969.48</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260512000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>160.45</TRNAMT>
+              <FITID>111.320.200.000.211</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260512000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-8.82</TRNAMT>
+              <FITID>51.201</FITID>
+              <NAME>Pagamento de Impostos</NAME>
+              <MEMO>PREF MUN CAXIAS DO SUL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260512000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-135.85</TRNAMT>
+              <FITID>51.202</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>12/05 16:06 Marcelo Miky Mine</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260512000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-1.34</TRNAMT>
+              <FITID>891.321.200.014.344</FITID>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 12/05/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260512000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>110983.92</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260513000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>236.27</TRNAMT>
+              <FITID>111.330.200.000.296</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260513000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>111220.19</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260515000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-159.20</TRNAMT>
+              <FITID>841.351.100.473.567</FITID>
+              <NAME>Tarifa Pacote de Serviços</NAME>
+              <MEMO>Cobrança referente 15/05/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260515000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>111060.99</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260518000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>299.64</TRNAMT>
+              <FITID>111.380.200.000.218</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260518000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>111360.63</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260519000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>24979.85</TRNAMT>
+              <FITID>60.064.459</FITID>
+              <NAME>ORPAG ORIGEM EXTERIOR</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260519000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>60.22</TRNAMT>
+              <FITID>111.390.100.000.991</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260519000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-94.92</TRNAMT>
+              <FITID>60.064.459</FITID>
+              <NAME>Cobrança de I.O.F.</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260519000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>136305.78</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260520000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>5000.00</TRNAMT>
+              <FITID>201.502.124.576.381</FITID>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>20/05 15:02 19259743000109 VINTA SOFTW</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260520000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>141305.78</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260521000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>74.50</TRNAMT>
+              <FITID>111.410.100.000.590</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260521000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>141380.28</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260522000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>74.50</TRNAMT>
+              <FITID>111.420.100.000.556</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260522000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>141454.78</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260525000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>1645.73</TRNAMT>
+              <FITID>111.450.100.000.326</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20260525000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-890.00</TRNAMT>
+              <FITID>52.501</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>25/05 09:39 ART POINT GRAFICA SAO CAR</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260525000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>142210.51</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260526000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>798.07</TRNAMT>
+              <FITID>111.460.100.000.873</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260526000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>5000.00</TRNAMT>
+              <FITID>260.715.022.523.552</FITID>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>26/05 07:15 05506560000136 NUCLEO DE I</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260526000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>148008.58</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260528000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>498.09</TRNAMT>
+              <FITID>111.480.100.000.657</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260528000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>148506.67</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260529000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>151.70</TRNAMT>
+              <FITID>111.490.100.000.565</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260529000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>148658.37</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+      </BANKTRANLIST>
+      <LEDGERBAL>
+        <BALAMT>148658.37</BALAMT>
+        <DTASOF>20260531000000[-3:BRT]</DTASOF>
+      </LEDGERBAL>
+    </STMTRS>
+    </STMTTRNRS>
+  </BANKMSGSRSV1>
+</OFX>
