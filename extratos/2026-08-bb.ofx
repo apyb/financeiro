@@ -1,0 +1,685 @@
+OFXHEADER:100
+DATA:OFXSGML
+VERSION:102
+SECURITY:NONE
+ENCODING:UTF-8
+CHARSET:NONE
+COMPRESSION:NONE
+OLDFILEUID:NONE
+NEWFILEUID:NONE
+
+
+<OFX>
+  <SIGNONMSGSRSV1>
+   <SONRS>
+    <STATUS>
+      <CODE>0</CODE>
+      <SEVERITY>INFO</SEVERITY>
+    </STATUS>
+    <DTSERVER>20260905152214[-3:BRT]</DTSERVER>
+    <LANGUAGE>POR</LANGUAGE>
+    <FI>
+     <ORG>Banco do Brasil</ORG>
+     <FID>1</FID>
+    </FI>
+   </SONRS>
+  </SIGNONMSGSRSV1>
+  <BANKMSGSRSV1>
+    <STMTTRNRS>
+      <TRNUID>1</TRNUID>
+        <STATUS>
+        <CODE>0</CODE>
+        <SEVERITY>INFO</SEVERITY>
+       </STATUS>
+      <STMTRS>
+        <CURDEF>BRL</CURDEF>
+        <BANKACCTFROM>
+          <BANKID>1</BANKID>
+          <BRANCHID>89</BRANCHID>
+          <ACCTID>78126</ACCTID>
+          <ACCTTYPE>CHECKING</ACCTTYPE>
+        </BANKACCTFROM>
+        <BANKTRANLIST>
+            <DTSTART>20260831000000[-3:BRT]</DTSTART>
+            <DTEND>20260905152214[-3:BRT]</DTEND>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260731000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>157158.77</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo Anterior</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260803000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>2617.51</TRNAMT>
+              <FITID>112.150.100.000.432</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260803000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>703.00</TRNAMT>
+              <FITID>80.301</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>03/08 16:07 FORTAL COPOS PRODUTOS PER</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260803000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>2100.00</TRNAMT>
+              <FITID>80.302</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>03/08 16:09 64.429.148 JOSENILDO MOUR</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260803000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>983.54</TRNAMT>
+              <FITID>80.303</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>03/08 18:24 CRACHAS.COM SERVICOS E CO</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260803000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>1.94</TRNAMT>
+              <FITID>882.151.100.165.652</FITID>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 31/07/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260803000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>16.95</TRNAMT>
+              <FITID>882.151.100.165.653</FITID>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 03/08/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260803000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>155970.85</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260804000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>115.67</TRNAMT>
+              <FITID>112.160.100.000.712</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260804000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>1049.60</TRNAMT>
+              <FITID>80.401</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>04/08 13:55 GRAFICA DIGITAL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260804000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>262.50</TRNAMT>
+              <FITID>80.402</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>04/08 16:25 F J BRITO RODRIGUES LTDA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260804000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>12.59</TRNAMT>
+              <FITID>892.161.200.007.166</FITID>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 04/08/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260804000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>154761.83</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260805000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>1586.74</TRNAMT>
+              <FITID>112.170.100.000.577</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260805000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>1500.00</TRNAMT>
+              <FITID>80.501</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>05/08 09:09 LUCA MARQUES DA SILVA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260805000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>1114.51</TRNAMT>
+              <FITID>80.502</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>05/08 19:55 Bárbara Barroso Issa Card</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260805000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>125.00</TRNAMT>
+              <FITID>80.503</FITID>
+              <NAME>Pagamento de Boleto</NAME>
+              <MEMO>VILLA URBANA STUDIO CRIATIVO L</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260805000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>20.00</TRNAMT>
+              <FITID>892.171.200.776.791</FITID>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 05/08/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260805000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>153589.06</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260806000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>840.56</TRNAMT>
+              <FITID>112.180.100.000.600</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260806000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>154429.62</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260807000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>1286.88</TRNAMT>
+              <FITID>112.190.100.000.670</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260807000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>155716.50</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260810000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>2109.72</TRNAMT>
+              <FITID>156.001</FITID>
+              <NAME>Stripe Débito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260810000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>2262.30</TRNAMT>
+              <FITID>112.220.100.000.324</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260810000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>285.00</TRNAMT>
+              <FITID>81.001</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>10/08 09:26 ATUALE ASSESSORIA CONTABI</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260810000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>1002.89</TRNAMT>
+              <FITID>81.002</FITID>
+              <NAME>Pagamento de Impostos</NAME>
+              <MEMO>PREF MUN CAXIAS DO SUL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260810000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>244.95</TRNAMT>
+              <FITID>81.003</FITID>
+              <NAME>Pagamento de Impostos</NAME>
+              <MEMO>PREF MUN CAXIAS DO SUL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260810000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>2.82</TRNAMT>
+              <FITID>832.221.203.255.054</FITID>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 10/08/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260810000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>158552.86</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260812000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>430.65</TRNAMT>
+              <FITID>112.240.100.000.458</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260812000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>246.17</TRNAMT>
+              <FITID>81.201</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>12/08 07:55 ALYNNE FERREIRA SOUSA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260812000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>114.94</TRNAMT>
+              <FITID>81.202</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>12/08 07:59 ALYNNE FERREIRA SOUSA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260812000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>40.00</TRNAMT>
+              <FITID>81.203</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>12/08 16:52 F J BRITO RODRIGUES LTDA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260812000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>5500.00</TRNAMT>
+              <FITID>81.204</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>12/08 16:55 DICUMER.COMIDA REGIONAL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260812000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>14.56</TRNAMT>
+              <FITID>832.241.100.229.469</FITID>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 12/08/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260812000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>153067.84</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260813000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>521.40</TRNAMT>
+              <FITID>112.250.100.000.543</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260813000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>153589.24</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260814000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>38.48</TRNAMT>
+              <FITID>112.260.100.000.889</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260814000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>2150.00</TRNAMT>
+              <FITID>81.401</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>14/08 10:32 LUCA MARQUES DA SILVA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260814000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>10.00</TRNAMT>
+              <FITID>892.261.200.008.978</FITID>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 14/08/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260814000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>151467.72</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260817000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>2072.97</TRNAMT>
+              <FITID>112.290.100.000.333</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260817000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>40000.00</TRNAMT>
+              <FITID>171.733.288.702.051</FITID>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>17/08 17:33 36588217000101 Wise Brasil</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260817000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>450.00</TRNAMT>
+              <FITID>81.701</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>17/08 17:08 JOAO PAULO DA SILVA CARVA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260817000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>71.98</TRNAMT>
+              <FITID>81.702</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>17/08 17:37 Luis Gustavo Mota Miranda</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260817000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>159.20</TRNAMT>
+              <FITID>832.291.100.583.262</FITID>
+              <NAME>Tarifa Pacote de Serviços</NAME>
+              <MEMO>Cobrança referente 17/08/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260817000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>5.45</TRNAMT>
+              <FITID>862.291.200.010.115</FITID>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 17/08/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260817000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>192854.06</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260818000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>410.69</TRNAMT>
+              <FITID>112.300.100.000.675</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260818000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>193264.75</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260819000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>287.99</TRNAMT>
+              <FITID>112.310.100.000.529</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260819000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>114.46</TRNAMT>
+              <FITID>81.901</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>19/08 14:51 Bruno Jeronimo Pereira</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260819000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>62.44</TRNAMT>
+              <FITID>81.902</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>19/08 14:54 Bruno Jeronimo Pereira</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260819000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>2.13</TRNAMT>
+              <FITID>892.311.200.010.551</FITID>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 19/08/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260819000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>193373.71</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260820000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>1406.60</TRNAMT>
+              <FITID>112.320.100.000.569</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260820000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>194780.31</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260821000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>313.67</TRNAMT>
+              <FITID>112.330.100.000.583</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260821000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>525.60</TRNAMT>
+              <FITID>82.101</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>21/08 14:49 ALYNNE FERREIRA SOUSA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260821000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>5.20</TRNAMT>
+              <FITID>892.331.200.009.400</FITID>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 21/08/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260821000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>194563.18</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260824000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>721.51</TRNAMT>
+              <FITID>112.360.100.000.237</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260824000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>195284.69</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260826000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>144.80</TRNAMT>
+              <FITID>112.380.100.000.562</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260826000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>110.00</TRNAMT>
+              <FITID>82.601</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>26/08 09:46 Maria Isabelle Mosca de A</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260826000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>1.08</TRNAMT>
+              <FITID>892.381.200.008.806</FITID>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 26/08/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260826000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>195318.41</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260827000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>479.15</TRNAMT>
+              <FITID>112.390.100.000.547</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260827000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>195797.56</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260828000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>116.55</TRNAMT>
+              <FITID>100.493.609</FITID>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>745 0001 22121209000146 STRIPE BRASIL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260828000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>546.97</TRNAMT>
+              <FITID>112.400.100.000.464</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260828000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>196461.08</TRNAMT>
+              <FITID></FITID>
+              <NAME>Saldo do dia</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260831000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>399.65</TRNAMT>
+              <FITID>156.001</FITID>
+              <NAME>Stripe Débito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260831000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>3175.95</TRNAMT>
+              <FITID>112.430.100.000.325</FITID>
+              <NAME>Stripe Crédito</NAME>
+              <MEMO> </MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260831000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>1530.00</TRNAMT>
+              <FITID>83.101</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>31/08 15:32 STEPHANIE SOUTO MARCONDES</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260831000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>1610.61</TRNAMT>
+              <FITID>83.102</FITID>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>31/08 15:36 TALITA DE SOUZA ROSSARI</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20260831000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>20.00</TRNAMT>
+              <FITID>862.431.200.015.243</FITID>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 31/08/2026</MEMO>
+            </STMTTRN>
+      </BANKTRANLIST>
+      <LEDGERBAL>
+        <BALAMT>196876.07</BALAMT>
+        <DTASOF>20260831000000[-3:BRT]</DTASOF>
+      </LEDGERBAL>
+    </STMTRS>
+    </STMTTRNRS>
+  </BANKMSGSRSV1>
+</OFX>
