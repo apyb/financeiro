@@ -67,6 +67,10 @@ option "operating_currency" "BRL"
 2025-05-07 open Assets:Eventos:Pybr2026 BRL
 2025-05-07 open Expenses:Eventos:Pybr2026 BRL
 2025-05-07 open Income:Eventos:Pybr2026 BRL
+; Python Brasil 2027
+2026-09-01 open Assets:Eventos:Pybr2027 BRL
+2026-09-01 open Expenses:Eventos:Pybr2027 BRL
+2026-09-01 open Income:Eventos:Pybr2027 BRL
 
 ; Caipyra 2025
 2025-05-21 open Assets:Eventos:Caipyra2025 BRL
@@ -370,3 +374,4 @@ include "2026-05.beancount"
 include "2026-06.beancount"
 include "2026-07.beancount"
 include "2026-08.beancount"
+include "2026-09.beancount"
