@@ -1,0 +1,194 @@
+;; -*- mode: beancount -*-
+;; extratos/2026-09-bb.ofx
+
+2026-09-01 * "Reembolso" "Pix - Enviado / 01/09 11:26 Marcelo Miky Mine"
+  comprovante: "https://drive.google.com/file/d/1pK2UKCMw75Ykuo_mqMguWyDHeq9o21OZ/view?usp=drive_link"
+  Assets:Bancos:BB  -143.09 BRL
+  Expenses:APyB:Ops
+
+2026-09-01 * "Reembolso" "Pix - Enviado / 01/09 11:35 Fernando Masanori Ashikag"
+  comprovante: "https://drive.google.com/file/d/186zKHN2ByEmMsMnmtLF6uBXx3jcXZWLH/view?usp=drive_link"
+  Assets:Eventos:Pybr2026  -742.85 BRL
+  Expenses:Eventos:Pybr2026
+
+2026-09-01 * "Tarifa" "Tarifa Pix Enviado / Tar. agrupadas - ocorrencia 01/09/2026"
+  Assets:Bancos:BB  -8.76 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-09-02 * "Reembolso" "Pix - Enviado / 02/09 15:10 RYLLARI RAIANNE MARQUES D"
+  comprovante: "https://drive.google.com/file/d/1IgmvIL7z_LUonzaa-OdnTqRR5s7GUiCG/view?usp=drive_link"
+  Assets:Eventos:Pyne2026  -1048.21 BRL
+  Expenses:Eventos:Pyne2026
+
+2026-09-02 * "Reembolso" "Pix - Enviado / 02/09 15:13 Lorena Santos Pereira"
+  comprovante: "https://drive.google.com/file/d/1qLSWOT6o-_QdvCnrK9J7D1peVrHe-Cno/view?usp=drive_link"
+  Assets:Eventos:Pyne2026  -2639.32 BRL
+  Expenses:Eventos:Pyne2026
+
+2026-09-02 * "Reembolso" "Pix - Enviado / 02/09 15:23 Fernando Masanori Ashikag"
+  comprovante: "https://drive.google.com/file/d/1LKuA40mKeRtdk0f78V7dbP-Xh-lJ_6H5/view?usp=drive_link"
+  Assets:Eventos:Pybr2026  -1023.40 BRL
+  Expenses:Eventos:Pybr2026
+
+2026-09-02 * "Reembolso" "Pix - Enviado / 02/09 16:05 Lidiane de Souza Monteiro"
+  comprovante: "https://drive.google.com/file/d/16LLh5M2SRBfQtIKX0mTaSRMR76EnvDZK/view?usp=drive_link"
+  Assets:Eventos:Pyne2026  -1477.04 BRL
+  Expenses:Eventos:Pyne2026
+
+2026-09-02 * "Tarifa" "Tarifa Pix Enviado / Tar. agrupadas - ocorrencia 02/09/2026"
+  Assets:Bancos:BB  -40.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-09-03 * "Reembolso" "Pix - Enviado / 03/09 11:29 Marcelo Miky Mine"
+  comprovante: "https://drive.google.com/file/d/1Cr7W6AJhMudSXg6G5FmSxpZRKE9uiyhF/view?usp=drive_link"
+  Assets:Bancos:BB  -144.07 BRL
+  Expenses:APyB:Ops
+
+2026-09-03 * "Tarifa" "Tarifa Pix Enviado / Tar. agrupadas - ocorrencia 03/09/2026"
+  Assets:Bancos:BB  -1.42 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-09-08 * "Infra" "Pix - Enviado / 08/09 09:23 SANTO EVENTO"
+  comprovante: "https://drive.google.com/file/d/1Wmdr5NY6ZTJ7uS9DAM2HwsIu1W1GXUom/view?usp=drive_link"
+  Assets:Eventos:Pybr2026  -50000.00 BRL
+  Expenses:Eventos:Pybr2026
+
+2026-09-08 * "Tarifa" "Tarifa Pix Enviado / Tar. agrupadas - ocorrencia 08/09/2026"
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-09-10 * "Fotografia" "Pagamento de Boleto / EDUARDO MACHADO DE FRANCESCHI"
+  comprovante: "https://drive.google.com/file/d/1QYMviNJZf6VOuOCtpmlxAjcvCbYJFfbr/view?usp=drive_link"
+  Assets:Eventos:Pybr2026  -5135.00 BRL
+  Expenses:Eventos:Pybr2026
+
+2026-09-11 * "Impostos" "Pagamento de Impostos / PREF MUN CAXIAS DO SUL"
+  comprovante: "https://drive.google.com/file/d/19aRjRluuP3_Ch3agAzDmAfP9-ARtsMoF/view?usp=drive_link"
+  Assets:Bancos:BB  -959.14 BRL
+  Expenses:APyB:Impostos
+
+2026-09-11 * "Assessoria Contábil" "Pix - Enviado / 11/09 14:19 ATUALE ASSESSORIA CONTABI"
+  comprovante: "https://drive.google.com/file/d/1PierzQx4t_PcDPLceoh6jJi294e8omIb/view?usp=drive_link"
+  Assets:Bancos:BB  -285.00 BRL
+  Expenses:APyB:Contadora
+
+2026-09-11 * "Tarifa" "Tarifa Pix Enviado / Tar. agrupadas - ocorrencia 11/09/2026"
+  Assets:Bancos:BB  -2.82 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-09-14 * "Patrocínio" "Pix - Recebido / 14/09 10:48 36588217000101 WISE BRASIL"
+  comprovante: "https://drive.google.com/file/d/1NDJmJLasq9z8hIj_icR6UTZsrYLKbwCh/view?usp=drive_link"
+  Assets:Bancos:BB  8207.70 * 0.1 BRL
+  Assets:Eventos:Pybr2026  8207.70 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-09-15 * "Domicílio Fiscal" "Pagamento de Boleto / VILLA URBANA STUDIO CRIATIVO L"
+  comprovante: "https://drive.google.com/file/d/1DwiAMBvFendPbS-qFAf6KxhxosetT42K/view?usp=drive_link"
+  Assets:Bancos:BB  -125.00 BRL
+  Expenses:APyB:Infra
+
+2026-09-15 * "Designer" "Pix - Enviado / 15/09 16:05 GILMARA BARROS COSTA"
+  comprovante: "https://drive.google.com/file/d/1hM5SNmkXBumVOL0kQySdFtQ8Rx1UUs_x/view?usp=drive_link"
+  Assets:Eventos:Pybr2026  -750.00 BRL
+  Expenses:Eventos:Pybr2026
+
+2026-09-15 * "Tarifa" "Tarifa Pacote de Serviços / Cobrança referente 15/09/2026"
+  Assets:Bancos:BB  -159.20 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-09-15 * "Tarifa" "Tarifa Pix Enviado / Tar. agrupadas - ocorrencia 15/09/2026"
+  Assets:Bancos:BB  -7.42 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-09-16 * "Patrocínio" "TED-Crédito em Conta / 341 0911 27865757000102 GLOBO COMUNICA"
+  comprovante: "https://drive.google.com/file/d/1-Djq-KDVB2IjMypqgFYIN238yj0ju8Ly/view?usp=drive_link"
+  Assets:Bancos:BB  3000.00 * 0.1 BRL
+  Assets:Eventos:Pyne2026  3000.00 * 0.9 BRL
+  Income:Eventos:Pyne2026
+
+2026-09-16 * "Placas DTJF" "Pix - Enviado / 16/09 14:03 ARTTE INOX COMERCIO DE PL"
+  comprovante: "https://drive.google.com/file/d/1SBlrZAY4eH9EjVdValRZfAlv7CkhVHad/view?usp=drive_link"
+  Assets:Bancos:BB  -392.17 BRL
+  Expenses:APyB:Ops
+
+2026-09-18 * "Tirantes" "Pix - Enviado / 18/09 14:12 BAH COPOS E BRINDES COMER"
+  comprovante: "https://drive.google.com/file/d/1hvJGCZBOcQ0kARjXpTNBxQmb40MxMaSs/view?usp=drive_link"
+  Assets:Eventos:Pybr2026  -1765.00 BRL
+  Expenses:Eventos:Pybr2026
+
+2026-09-21 * "Tarifa" "Tarifa Pix Enviado / Tar. agrupadas - ocorrencia 18/09/2026"
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-09-23 * "Reembolso" "Pix - Enviado / 23/09 16:29 Lorena Santos Pereira"
+  comprovante: "https://drive.google.com/file/d/1tv1MjOeb7sEl3HsuukddcGePZFtloUV-/view?usp=drive_link"
+  Assets:Eventos:Pyne2026  -1390.08 BRL
+  Expenses:Eventos:Pyne2026
+
+2026-09-23 * "Tarifa" "Tarifa Pix Enviado / Tar. agrupadas - ocorrencia 23/09/2026"
+  Assets:Bancos:BB  -10.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-09-29 * "Patrocínio" "TED-Pag Fornecedores / 745 0001 50598198000125 ELASTIC TECHNO"
+  comprovante: "https://drive.google.com/file/d/1MqHQ1oVl0sDBzxXHYvOsLihCeVFfpDBo/view?usp=drive_link"
+  Assets:Bancos:BB  36000.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026  36000.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-09-29 * "Patrocínio" "Pix - Recebido / 29/09 03:56 05506560000136 NUCLEO DE I"
+  comprovante: "https://drive.google.com/file/d/1bvS3Buh0yLFYVi82xNHxmnwqO390T7wj/view?usp=drive_link"
+  Assets:Bancos:BB  57200.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026  57200.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-09-29 * "Seguro" "Pagamento de Boleto / PORTO S COMP DE S GERAIS"
+  comprovante: "https://drive.google.com/file/d/1ckA6XbSyCtkX4wTrMRNSG6x5VXBjvopo/view?usp=drive_link"
+  Assets:Eventos:Pybr2026  -983.29 BRL
+  Expenses:Eventos:Pybr2026
+
+2026-09-29 * "Sacolas" "Pix - Enviado / 29/09 09:44 BOSS BRINDES LTDA"
+  comprovante: "https://drive.google.com/file/d/1KEi948HzuBzXshs5z6mqSHsuseJadNm3/view?usp=drive_link"
+  Assets:Eventos:Pybr2026  -4000.00 BRL
+  Expenses:Eventos:Pybr2026
+
+2026-09-29 * "Designer" "Pix - Enviado / 29/09 19:14 YASMIM DESIGN"
+  comprovante: "https://drive.google.com/file/d/1gmYb3QkatL2eEc9s5GQAZw2-Gp0RXu8r/view?usp=drive_link"
+  Assets:Eventos:Pybr2027  -4000.00 BRL
+  Expenses:Eventos:Pybr2027
+
+2026-09-29 * "Tarifa" "Tarifa Pix Enviado / Tar. agrupadas - ocorrencia 29/09/2026"
+  Assets:Bancos:BB  -20.00 BRL
+  Expenses:APyB:Taxas:BB
+
+2026-09-30 * "Meias" "Pix - Enviado / 30/09 15:15 BOCCO SOCKS INDUSTRIA E C"
+  comprovante: "https://drive.google.com/file/d/1vxDWWCYeF0kxxPZ1qGlB_6vR87KgvfkK/view?usp=drive_link"
+  Assets:Comunidades:Pyladiesbr  -691.50 BRL
+  Expenses:Comunidades:Pyladiesbr
+
+2026-09-30 * "Anuidades" "Anuidades recebidas na Stripe em Setembro"
+  comprovante: ""
+  Assets:Bancos:BB  2019.54 BRL
+  Income:APyB:Anuidades
+
+2026-09-30 * "Ingressos" "Ingressos Pyne2026 recebidos na Stripe em Setembro"
+  comprovante: ""
+  Assets:Bancos:BB  3880.33 * 0.1 BRL
+  Assets:Eventos:Pyne2026  3880.33 * 0.9 BRL
+  Income:Eventos:Pyne2026
+
+2026-09-30 * "Ingressos" "Ingressos Pybr2026 recebidos na Stripe em Setembro"
+  comprovante: ""
+  Assets:Bancos:BB  8118.40 * 0.1 BRL
+  Assets:Eventos:Pybr2026  8118.40 * 0.9 BRL
+  Income:Eventos:Pybr2026
+
+2026-09-30 * "Tarifa" "Tarifas Stripe de Setembro"
+  comprovante: ""
+  Assets:Bancos:BB  -11.76 BRL
+  Expenses:APyB:Taxas:Stripe
+
+2026-09-30 * "Ingressos" "Ingressos Pybr2026 recebidos no PayPal em Setembro"
+  comprovante: ""
+  Assets:Bancos:BB  3838.04 * 0.1 BRL
+  Assets:Eventos:Pybr2026  3838.04 * 0.9 BRL
+  Income:Eventos:Pybr2026
