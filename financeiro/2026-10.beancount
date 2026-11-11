@@ -105,10 +105,11 @@
   Assets:Eventos:Pybr2026  -15437.40 BRL
   Expenses:Eventos:Pybr2026
 
-2026-10-15 * "Origem desconhecida" "Cobrança"
-  comprovante: ""
-  Assets:Bancos:BB  600.00 BRL
-  Income:APyB:OrigemDesconhecida
+2026-10-15 * "Ingressos" "Nota de Empenho CIESC"
+  comprovante: "https://drive.google.com/file/d/1J35r8rFVagbFFoWdJNv00UGgK0YxirIL/view?usp=drive_link"
+  Assets:Bancos:BB  600.00 * 0.1 BRL
+  Assets:Eventos:Pybr2026  600.00 * 0.9 BRL
+  Income:Eventos:Pybr2026
 
 2026-10-15 * "Domicílio Fiscal" "Pagamento de Boleto / VILLA URBANA STUDIO CRIATIVO L"
   comprovante: "https://drive.google.com/file/d/1DwiAMBvFendPbS-qFAf6KxhxosetT42K/view?usp=drive_link"
