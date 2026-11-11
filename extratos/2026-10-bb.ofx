@@ -1,0 +1,750 @@
+OFXHEADER:100
+DATA:OFXSGML
+VERSION:102
+SECURITY:NONE
+ENCODING:USASCII
+CHARSET:1252
+COMPRESSION:NONE
+OLDFILEUID:NONE
+NEWFILEUID:NONE
+
+
+<OFX>
+  <SIGNONMSGSRSV1>
+   <SONRS>
+    <STATUS>
+      <CODE>0</CODE>
+      <SEVERITY>INFO</SEVERITY>
+    </STATUS>
+    <DTSERVER>20261110155802[-3:BRT]</DTSERVER>
+    <LANGUAGE>POR</LANGUAGE>
+    <FI>
+     <ORG>Banco do Brasil</ORG>
+     <FID>1</FID>
+    </FI>
+   </SONRS>
+  </SIGNONMSGSRSV1>
+  <BANKMSGSRSV1>
+    <STMTTRNRS>
+      <TRNUID>1</TRNUID>
+        <STATUS>
+        <CODE>0</CODE>
+        <SEVERITY>INFO</SEVERITY>
+       </STATUS>
+      <STMTRS>
+        <CURDEF>BRL</CURDEF>
+        <BANKACCTFROM>
+          <BANKID>1</BANKID>
+          <BRANCHID>89-2</BRANCHID>
+          <ACCTID>78126-6</ACCTID>
+          <ACCTTYPE>CHECKING</ACCTTYPE>
+        </BANKACCTFROM>
+        <BANKTRANLIST>
+            <DTSTART>20260930000000[-3:BRT]</DTSTART>
+            <DTEND>20261031000000[-3:BRT]</DTEND>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261001000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>1012.09</TRNAMT>
+              <FITID>2026100101012090</FITID>
+              <CHECKNUM>112740100000369</CHECKNUM>
+              <NAME>Stripe Crédito</NAME>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261001000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-6.84</TRNAMT>
+              <FITID>2026100116840</FITID>
+              <CHECKNUM>892741200009955</CHECKNUM>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 30/09/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261002000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>948.94</TRNAMT>
+              <FITID>202610020948940</FITID>
+              <CHECKNUM>112750100000609</CHECKNUM>
+              <NAME>Stripe Crédito</NAME>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261005000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>49.61</TRNAMT>
+              <FITID>20261005049610</FITID>
+              <CHECKNUM>156002</CHECKNUM>
+              <NAME>Stripe Débito</NAME>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261005000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>10000.00</TRNAMT>
+              <FITID>20261005010000000</FITID>
+              <CHECKNUM>50205563091401</CHECKNUM>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>05/10 02:05 53571739000110 NEKT DATA L</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261005000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>1128.95</TRNAMT>
+              <FITID>2026100501128950</FITID>
+              <CHECKNUM>112780100000317</CHECKNUM>
+              <NAME>Stripe Crédito</NAME>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261006000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>297.12</TRNAMT>
+              <FITID>202610060297120</FITID>
+              <CHECKNUM>112790100000633</CHECKNUM>
+              <NAME>Stripe Crédito</NAME>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261006000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-14687.00</TRNAMT>
+              <FITID>20261006114687000</FITID>
+              <CHECKNUM>100601</CHECKNUM>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>06/10 16:35 COMERCIAL MALLET LTDA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261007000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-267.00</TRNAMT>
+              <FITID>202610071267000</FITID>
+              <CHECKNUM>100701</CHECKNUM>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>07/10 18:00 COMERCIAL MALLET LTDA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261008000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>1173.63</TRNAMT>
+              <FITID>2026100801173630</FITID>
+              <CHECKNUM>75419</CHECKNUM>
+              <NAME>Recebimentos Diversos</NAME>
+              <MEMO>20.986.786/0001-75 APOIA SERVICOS DE P</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261008000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>661.20</TRNAMT>
+              <FITID>202610080661200</FITID>
+              <CHECKNUM>75420</CHECKNUM>
+              <NAME>Recebimentos Diversos</NAME>
+              <MEMO>20.986.786/0001-75 APOIA SERVICOS DE P</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261008000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>815.28</TRNAMT>
+              <FITID>202610080815280</FITID>
+              <CHECKNUM>112810100000520</CHECKNUM>
+              <NAME>Stripe Crédito</NAME>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261008000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>5662.83</TRNAMT>
+              <FITID>2026100805662830</FITID>
+              <CHECKNUM>112810100000520</CHECKNUM>
+              <NAME>Apoia Servicos Credito</NAME>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261008000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-3388.00</TRNAMT>
+              <FITID>2026100813388000</FITID>
+              <CHECKNUM>100801</CHECKNUM>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>08/10 10:34 NV SERVICOS</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261009000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-1.00</TRNAMT>
+              <FITID>2026100911000</FITID>
+              <CHECKNUM>2066095017019</CHECKNUM>
+              <NAME>Débito Serviço Cobrança</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 09/10/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261009000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-10.00</TRNAMT>
+              <FITID>20261009110000</FITID>
+              <CHECKNUM>892821200007912</CHECKNUM>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 08/10/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261013000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>114.82</TRNAMT>
+              <FITID>202610130114820</FITID>
+              <CHECKNUM>112860200000226</CHECKNUM>
+              <NAME>Stripe Crédito</NAME>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261013000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>9000.00</TRNAMT>
+              <FITID>2026101309000000</FITID>
+              <CHECKNUM>130745263396961</CHECKNUM>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>13/10 07:45 28363530000113 ALVARO FERN</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261013000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>5000.00</TRNAMT>
+              <FITID>2026101305000000</FITID>
+              <CHECKNUM>130802157090871</CHECKNUM>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>13/10 08:02 19259743000109 VINTA SOFTW</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261013000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>252.84</TRNAMT>
+              <FITID>202610130252840</FITID>
+              <CHECKNUM>130810536490531</CHECKNUM>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>13/10 08:10 10878448000166 PAYPAL DO B</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261013000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>14.62</TRNAMT>
+              <FITID>20261013014620</FITID>
+              <CHECKNUM>131643267158522</CHECKNUM>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>13/10 16:43 20986786000175 APOIA SERVI</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261013000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-285.00</TRNAMT>
+              <FITID>202610131285000</FITID>
+              <CHECKNUM>101301</CHECKNUM>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>13/10 10:27 ATUALE ASSESSORIA CONTABI</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261013000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-688.25</TRNAMT>
+              <FITID>202610131688250</FITID>
+              <CHECKNUM>101302</CHECKNUM>
+              <NAME>Pagamento de Impostos</NAME>
+              <MEMO>PREF MUN CAXIAS DO SUL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261013000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-1233.30</TRNAMT>
+              <FITID>2026101311233300</FITID>
+              <CHECKNUM>101303</CHECKNUM>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>13/10 16:14 BOKITOS DOCES & SALGADOS</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261013000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-139.59</TRNAMT>
+              <FITID>202610131139590</FITID>
+              <CHECKNUM>101304</CHECKNUM>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>13/10 16:44 Marcelo Miky Mine</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261013000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-14.20</TRNAMT>
+              <FITID>20261013114200</FITID>
+              <CHECKNUM>812861200018206</CHECKNUM>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 13/10/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261014000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>2095.01</TRNAMT>
+              <FITID>2026101402095010</FITID>
+              <CHECKNUM>112870100000705</CHECKNUM>
+              <NAME>Stripe Crédito</NAME>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261014000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-12300.00</TRNAMT>
+              <FITID>20261014112300000</FITID>
+              <CHECKNUM>101401</CHECKNUM>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>14/10 17:15 VERONICA MARIA SCHMITT</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261014000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-40871.67</TRNAMT>
+              <FITID>20261014140871670</FITID>
+              <CHECKNUM>101402</CHECKNUM>
+              <NAME>Pagamento de Boleto</NAME>
+              <MEMO>RB HOTELARIA LTDA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261014000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-15437.40</TRNAMT>
+              <FITID>20261014115437400</FITID>
+              <CHECKNUM>101403</CHECKNUM>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>14/10 18:18 BOUQUET GARNI BUFFET E EV</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261015000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>1073.56</TRNAMT>
+              <FITID>2026101501073560</FITID>
+              <CHECKNUM>112880100000540</CHECKNUM>
+              <NAME>Stripe Crédito</NAME>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261015000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>600.00</TRNAMT>
+              <FITID>202610150600000</FITID>
+              <CHECKNUM>112881000000350</CHECKNUM>
+              <NAME>Cobrança</NAME>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261015000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-125.00</TRNAMT>
+              <FITID>202610151125000</FITID>
+              <CHECKNUM>101501</CHECKNUM>
+              <NAME>Pagamento de Boleto</NAME>
+              <MEMO>VILLA URBANA STUDIO CRIATIVO L</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261015000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-623.00</TRNAMT>
+              <FITID>202610151623000</FITID>
+              <CHECKNUM>101502</CHECKNUM>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>15/10 10:49 COMERCIAL MALLET LTDA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261015000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-1530.00</TRNAMT>
+              <FITID>2026101511530000</FITID>
+              <CHECKNUM>101503</CHECKNUM>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>15/10 11:57 STEPHANIE SOUTO MARCONDES</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261015000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-4.99</TRNAMT>
+              <FITID>2026101514990</FITID>
+              <CHECKNUM>2066095017019</CHECKNUM>
+              <NAME>Débito Serviço Cobrança</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 14/10/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261015000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-159.20</TRNAMT>
+              <FITID>202610151159200</FITID>
+              <CHECKNUM>822881100445456</CHECKNUM>
+              <NAME>Tarifa Pacote de Serviços</NAME>
+              <MEMO>Cobrança referente 15/10/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261016000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>600.00</TRNAMT>
+              <FITID>202610160600000</FITID>
+              <CHECKNUM>190755</CHECKNUM>
+              <NAME>Recebimentos Diversos</NAME>
+              <MEMO>03.774.688/0001-55 SERVICO NACIONAL DE</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261016000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>58.42</TRNAMT>
+              <FITID>20261016058420</FITID>
+              <CHECKNUM>100573407</CHECKNUM>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>745 0001 22121209000146 STRIPE BRASIL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261016000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>1679.53</TRNAMT>
+              <FITID>2026101601679530</FITID>
+              <CHECKNUM>112890100000470</CHECKNUM>
+              <NAME>Stripe Crédito</NAME>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261016000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>220.00</TRNAMT>
+              <FITID>202610160220000</FITID>
+              <CHECKNUM>161159098804441</CHECKNUM>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>16/10 11:59 34006497000177 ASTRO INSTI</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261016000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>50.00</TRNAMT>
+              <FITID>20261016050000</FITID>
+              <CHECKNUM>161208095450351</CHECKNUM>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>16/10 12:08 30242520880 MARCELO MIKY M</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261016000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>50.00</TRNAMT>
+              <FITID>202610160500002</FITID>
+              <CHECKNUM>161217140847951</CHECKNUM>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>16/10 12:17 80530818515 Geisa Santos d</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261016000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>10.00</TRNAMT>
+              <FITID>20261016010000</FITID>
+              <CHECKNUM>161218250089461</CHECKNUM>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>16/10 12:18 01242274650 Denis Fernande</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261016000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>10.00</TRNAMT>
+              <FITID>202610160100002</FITID>
+              <CHECKNUM>161346428858402</CHECKNUM>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>16/10 13:46 00001787464016 GUILHERME K</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261016000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>70.00</TRNAMT>
+              <FITID>20261016070000</FITID>
+              <CHECKNUM>161546442511341</CHECKNUM>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>16/10 15:46 13217837797 Bárbara Barros</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261016000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>189.00</TRNAMT>
+              <FITID>202610160189000</FITID>
+              <CHECKNUM>161558458424001</CHECKNUM>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>16/10 15:58 05934563351 FRANCISCO PHIL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261016000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>10.00</TRNAMT>
+              <FITID>202610160100003</FITID>
+              <CHECKNUM>161559525026441</CHECKNUM>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>16/10 15:59 07625455343 Ana Paula Silv</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261016000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>70.00</TRNAMT>
+              <FITID>202610160700002</FITID>
+              <CHECKNUM>161600203612151</CHECKNUM>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>16/10 16:00 40258500875 Giedry Fernand</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261016000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>70.00</TRNAMT>
+              <FITID>202610160700003</FITID>
+              <CHECKNUM>161600545663761</CHECKNUM>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>16/10 16:00 07451208303 JOAO PAULO DA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261016000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>10.00</TRNAMT>
+              <FITID>202610160100004</FITID>
+              <CHECKNUM>161611171726712</CHECKNUM>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>16/10 16:11 00040258500875 GIEDRY FERN</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261016000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>75.00</TRNAMT>
+              <FITID>20261016075000</FITID>
+              <CHECKNUM>161636465001501</CHECKNUM>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>16/10 16:36 07271497927 Tiago Berwange</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261016000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-10.00</TRNAMT>
+              <FITID>20261016110000</FITID>
+              <CHECKNUM>872891200014559</CHECKNUM>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 15/10/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261019000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>3842.32</TRNAMT>
+              <FITID>2026101903842320</FITID>
+              <CHECKNUM>112920100000320</CHECKNUM>
+              <NAME>Stripe Crédito</NAME>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261019000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>70.00</TRNAMT>
+              <FITID>20261019070000</FITID>
+              <CHECKNUM>171120536089871</CHECKNUM>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>17/10 11:20 01242274650 Denis Fernande</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261019000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>110.00</TRNAMT>
+              <FITID>202610190110000</FITID>
+              <CHECKNUM>171743030706372</CHECKNUM>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>17/10 17:43 00034093081808 GABRIEL CON</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261019000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>158.42</TRNAMT>
+              <FITID>202610190158420</FITID>
+              <CHECKNUM>190816178216921</CHECKNUM>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>19/10 08:16 10878448000166 PAYPAL DO B</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261019000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>70.00</TRNAMT>
+              <FITID>202610190700002</FITID>
+              <CHECKNUM>191942334895041</CHECKNUM>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>19/10 19:42 41997008890 JULIANA FERREI</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261020000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>254.64</TRNAMT>
+              <FITID>202610200254640</FITID>
+              <CHECKNUM>112930100001028</CHECKNUM>
+              <NAME>Stripe Crédito</NAME>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261021000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>162.17</TRNAMT>
+              <FITID>202610210162170</FITID>
+              <CHECKNUM>100579251</CHECKNUM>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>745 0001 22121209000146 STRIPE BRASIL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261021000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>4189.35</TRNAMT>
+              <FITID>2026102104189350</FITID>
+              <CHECKNUM>112940100000490</CHECKNUM>
+              <NAME>Stripe Crédito</NAME>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261021000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-59500.00</TRNAMT>
+              <FITID>20261021159500000</FITID>
+              <CHECKNUM>102101</CHECKNUM>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>21/10 16:20 SANTO EVENTO</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261021000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-8135.00</TRNAMT>
+              <FITID>2026102118135000</FITID>
+              <CHECKNUM>102102</CHECKNUM>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>21/10 16:23 EDUARDO MACHADO DE FRANCE</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261021000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-810.00</TRNAMT>
+              <FITID>202610211810000</FITID>
+              <CHECKNUM>102103</CHECKNUM>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>21/10 16:26 GILMARA BARROS COSTA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261021000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-28.01</TRNAMT>
+              <FITID>20261021128010</FITID>
+              <CHECKNUM>892941200014094</CHECKNUM>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 21/10/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261022000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>112.34</TRNAMT>
+              <FITID>202610220112340</FITID>
+              <CHECKNUM>100580613</CHECKNUM>
+              <NAME>TED-Pag Fornecedores</NAME>
+              <MEMO>745 0001 22121209000146 STRIPE BRASIL</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261022000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>1606.54</TRNAMT>
+              <FITID>2026102201606540</FITID>
+              <CHECKNUM>112950100000461</CHECKNUM>
+              <NAME>Stripe Crédito</NAME>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261023000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>203.48</TRNAMT>
+              <FITID>202610230203480</FITID>
+              <CHECKNUM>156002</CHECKNUM>
+              <NAME>Stripe Débito</NAME>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261023000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>143.45</TRNAMT>
+              <FITID>202610230143450</FITID>
+              <CHECKNUM>112960100000535</CHECKNUM>
+              <NAME>Stripe Crédito</NAME>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261023000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>850.00</TRNAMT>
+              <FITID>202610230850000</FITID>
+              <CHECKNUM>231230168931692</CHECKNUM>
+              <NAME>Pix - Recebido</NAME>
+              <MEMO>23/10 12:30 00010027108805 MAGALI CESC</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261023000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-3790.00</TRNAMT>
+              <FITID>2026102313790000</FITID>
+              <CHECKNUM>102301</CHECKNUM>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>23/10 15:01 Talita de Souza Rossari</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261023000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-10.00</TRNAMT>
+              <FITID>20261023110000</FITID>
+              <CHECKNUM>842961200010805</CHECKNUM>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 23/10/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261026000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>3381.55</TRNAMT>
+              <FITID>2026102603381550</FITID>
+              <CHECKNUM>112990100000313</CHECKNUM>
+              <NAME>Stripe Crédito</NAME>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261027000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>1030.13</TRNAMT>
+              <FITID>2026102701030130</FITID>
+              <CHECKNUM>113000100001125</CHECKNUM>
+              <NAME>Stripe Crédito</NAME>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261027000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-7312.07</TRNAMT>
+              <FITID>2026102717312070</FITID>
+              <CHECKNUM>102701</CHECKNUM>
+              <NAME>Pix - Enviado</NAME>
+              <MEMO>27/10 12:50 Talita de Souza Rossari</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>DEBIT</TRNTYPE>
+              <DTPOSTED>20261027000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>-10.00</TRNAMT>
+              <FITID>20261027110000</FITID>
+              <CHECKNUM>893001200008827</CHECKNUM>
+              <NAME>Tarifa Pix Enviado</NAME>
+              <MEMO>Tar. agrupadas - ocorrencia 27/10/2026</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261028000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>1777.15</TRNAMT>
+              <FITID>2026102801777150</FITID>
+              <CHECKNUM>113010100000514</CHECKNUM>
+              <NAME>Stripe Crédito</NAME>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261029000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>5000.00</TRNAMT>
+              <FITID>2026102905000000</FITID>
+              <CHECKNUM>100589130</CHECKNUM>
+              <NAME>TED-Crédito em Conta</NAME>
+              <MEMO>341 9699 23399329000172 AFYA PARTICIPA</MEMO>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261029000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>874.89</TRNAMT>
+              <FITID>202610290874890</FITID>
+              <CHECKNUM>113020100000694</CHECKNUM>
+              <NAME>Stripe Crédito</NAME>
+            </STMTTRN>
+            <STMTTRN>
+              <TRNTYPE>CREDIT</TRNTYPE>
+              <DTPOSTED>20261030000000[-3:BRT]</DTPOSTED>
+              <TRNAMT>461.12</TRNAMT>
+              <FITID>202610300461120</FITID>
+              <CHECKNUM>113030100000598</CHECKNUM>
+              <NAME>Stripe Crédito</NAME>
+            </STMTTRN>
+      </BANKTRANLIST>
+      <LEDGERBAL>
+        <BALAMT>137158.02</BALAMT>
+        <DTASOF>20261031000000[-3:BRT]</DTASOF>
+      </LEDGERBAL>
+    </STMTRS>
+    </STMTTRNRS>
+  </BANKMSGSRSV1>
+</OFX>
