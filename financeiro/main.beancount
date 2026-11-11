@@ -91,6 +91,10 @@ option "operating_currency" "BRL"
 2025-12-30 close Assets:Eventos:Pycerrado2024
 2025-12-30 close Income:Eventos:Pycerrado2024
 2025-12-30 close Expenses:Eventos:Pycerrado2024
+; Python Cerrado 2026
+2026-10-01 open Assets:Eventos:Pycerrado2026 BRL
+2026-10-01 open Income:Eventos:Pycerrado2026 BRL
+2026-10-01 open Expenses:Eventos:Pycerrado2026 BRL
 
 ; Python Nordeste 2020
 2020-02-20 open Assets:Eventos:Pyne2020 BRL
@@ -375,3 +379,4 @@ include "2026-06.beancount"
 include "2026-07.beancount"
 include "2026-08.beancount"
 include "2026-09.beancount"
+include "2026-10.beancount"
